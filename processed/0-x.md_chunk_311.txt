@@ -1,0 +1,8 @@
+This release lays the groundwork for wider community nodes support. It also includes some bug fixes.
+
+### New features
+
+* Community nodes are now enabled based on npm availability on the host system. This allows n8n to introduce community nodes to the Desktop edition in a future release.
+* Improved in-app guidance on mapping data.
+
+### Bug fixes

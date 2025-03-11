@@ -1,0 +1,14 @@
+Use this trigger:
+
+* To test your workflow before you add an automatic trigger of some kind.
+* When you don't want the workflow to run automatically.
+
+## Common issues
+
+Here are some common errors and issues with the Manual Trigger node and steps to resolve or troubleshoot them.
+
+<!-- vale off -->
+### Only one 'Manual Trigger' node is allowed in a workflow
+<!-- vale on -->
+
+This error displays if you try to add a Manual Trigger node to a workflow which already includes a Manual Trigger node.

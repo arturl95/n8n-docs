@@ -1,0 +1,6 @@
+* **Chat Messages**: available in **Insert Messages** mode. Define the chat messages to insert into the memory, including:
+	* **Type Name or ID**: Set the message type. Select one of:
+		* **AI**: Use this for messages from the AI.
+		* **System**: Add a message containing instructions for the AI.
+		* **User**: Use this for messages from the user. This message type is sometimes called the 'human' message in other AI tools and guides.
+	* **Message**: Enter the message contents.

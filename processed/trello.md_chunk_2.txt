@@ -1,0 +1,8 @@
+## Using API key
+
+To configure this credential, you'll need a [Trello](https://trello.com/){:target=_blank .external-link} account and:
+
+- An **API Key**
+- An **API Token**
+
+To generate both the API Key and API Token, create a Trello Power-Up:

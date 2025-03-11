@@ -1,0 +1,8 @@
+* Core: fix execution status filters.
+* Core: user update endpoint should only allow updating email, firstName, and lastName.
+* Discord Node: fix wrong error message being displayed.
+* Discourse Node: fix issue with credential test not working.
+* Editor: apply correct IRunExecutionData to finished workflow.
+* Editor: fix an issue with zoom and canvas nodes connections.
+* Editor: fix unexpected date rendering on front-end.
+* Editor: remove `crashed` status from filter.

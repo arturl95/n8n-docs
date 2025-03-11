@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Kitemaker](https://www.kitemaker.co/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API access token
+
+## Related resources
+
+Refer to [Kitemaker's API documentation](https://kitemakerhq.github.io/rest-docs/){:target=_blank .external-link} for more information about the service.
+
+## Using API access token
+
+To configure this credential, you'll need:

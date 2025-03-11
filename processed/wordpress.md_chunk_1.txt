@@ -1,0 +1,15 @@
+## Prerequisites
+
+- Create a [WordPress](https://wordpress.com/){:target=_blank .external-link} account or deploy WordPress on a server.
+
+## Supported authentication methods
+
+- Basic auth
+
+## Related resources
+
+Refer to [WordPress's API documentation](https://developer.wordpress.com/docs/api/){:target=_blank .external-link} for more information about the service.
+
+## Using basic auth
+
+To configure this credential, you'll need:

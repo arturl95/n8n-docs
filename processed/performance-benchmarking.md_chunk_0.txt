@@ -1,0 +1,11 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+description: n8n performance and resource consumption benchmarking.
+contentType: explanation
+---
+
+# Performance and benchmarking
+
+n8n can handle up to 220 workflow executions per second on a single instance, with the ability to scale up further by adding more instances.
+
+This document outlines n8n's performance benchmarking. It describes the factors that affect performance, and includes two example benchmarks.

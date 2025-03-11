@@ -1,0 +1,4 @@
+Use these settings for your app:
+
+- Copy the **OAuth Callback URL** from n8n and add it as a **Callback URL**.
+- Copy the **AppId**, **ClientId**, and **ClientSecret** and enter these in the corresponding fields in n8n.

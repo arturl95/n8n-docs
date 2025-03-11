@@ -1,0 +1,12 @@
+- [MailerLite](/integrations/builtin/app-nodes/n8n-nodes-base.mailerlite/)
+- [MailerLite Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.mailerlitetrigger/)
+
+## Prerequisites
+
+Create a [MailerLite](https://www.mailerlite.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

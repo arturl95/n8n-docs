@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a user account on an instance of [QuestDB](https://questdb.io/){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- Database connection
+
+## Related resources
+
+Refer to [QuestDB's documentation](https://questdb.io/docs){:target=_blank .external-link} for more information about the service.
+
+## Using database connection
+
+To configure this credential, you'll need:

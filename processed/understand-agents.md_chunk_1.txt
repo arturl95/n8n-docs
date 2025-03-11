@@ -1,0 +1,3 @@
+# What's an agent in AI?
+
+One way to think of an agent is as a [chain](/advanced-ai/examples/understand-chains/) that knows how to make decisions. Where a chain follows a predetermined sequence of calls to different AI components, an agent uses a language model to determine which actions to take.

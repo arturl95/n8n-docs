@@ -1,0 +1,2 @@
+- Select **Dropdown List** > **Add Field Option** to add multiple options. By default, the dropdown is single-choice. To make it multiple-choice, turn on **Multiple Choice**. 
+- **Required Field**: Turn on to require users to complete this field on the form.

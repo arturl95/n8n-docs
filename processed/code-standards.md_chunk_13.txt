@@ -1,0 +1,4 @@
+It's not necessary to always clone all the data. For example, if a node changes the binary data but not the JSON data, you can create a new item that reuses the reference to the JSON item.
+
+
+### Use the built in request library

@@ -1,0 +1,4 @@
+### How does the Assistant work?
+
+The underlying logic of the assistant is build with the advanced AI capabilities of n8n. It uses a combination of different agents, specialized in different areas of n8n, RAG to gather knowledge from the docs and the community forum, and custom prompts, memory and context.
+<!-- vale from-microsoft.HeadingPunctuation = YES -->

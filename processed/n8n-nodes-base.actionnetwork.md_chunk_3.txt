@@ -1,0 +1,34 @@
+## Operations
+
+* Attendance
+    * Create
+    * Get
+    * Get All
+* Event
+    * Create
+    * Get
+    * Get All
+* Person
+    * Create
+    * Get
+    * Get All
+    * Update
+* Person Tag
+    * Add
+    * Remove
+* Petition
+    * Create
+    * Get
+    * Get All
+    * Update
+* Signature
+    * Create
+    * Get
+    * Get All
+    * Update
+* Tag
+    * Create
+    * Get
+    * Get All
+
+## Templates and examples

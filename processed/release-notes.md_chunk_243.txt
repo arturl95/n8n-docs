@@ -1,0 +1,12 @@
+#### OpenAI node overhaul
+
+This release includes a new version of the [OpenAI node](/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/), adding more operations, including support for working with assistants.
+
+</div>
+
+Other highlights:
+
+* Support for AI events in [log streaming](/log-streaming/).
+* Added support for workflow tags in the [public API](/api/).
+
+### Contributors

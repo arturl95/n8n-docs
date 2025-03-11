@@ -1,0 +1,3 @@
+/// note | Custom app development
+Shopify provides templates for creating new apps. The instructions below only cover the elements necessary to set up your n8n credential. Refer to Shopify's [Build dev docs](https://shopify.dev/docs/apps/build){:target=_blank .external-link} for more information on building apps and working with app templates.
+///

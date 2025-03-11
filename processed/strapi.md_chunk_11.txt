@@ -1,0 +1,5 @@
+Refer to [Endpoints](https://docs.strapi.io/dev-docs/api/rest#endpoints){:target=_blank .external-link} for more information on the permission options.
+
+### Create a user account
+
+Now that you have an appropriate role, create an end-user account and assign the role to it:

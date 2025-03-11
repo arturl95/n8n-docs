@@ -1,0 +1,3 @@
+* **Text**: If you want the answer to show text, enter up to 200 characters of text here.
+* **URL**: Enter a URL that will be opened by the user's client. Refer to the **url** parameter instructions at the Telegram Bot API [answerCallbackQuery](https://core.telegram.org/bots/api#answercallbackquery){:target=_blank .external-link} documentation for more information.
+<!-- vale on -->

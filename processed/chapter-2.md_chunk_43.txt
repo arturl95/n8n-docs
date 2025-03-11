@@ -1,0 +1,8 @@
+### Binary Exercise 2
+
+For our second binary exercise, let's convert some JSON data to binary:
+
+1. Make an HTTP request to the Poetry DB API `https://poetrydb.org/random/1`.
+2. Convert the returned data from JSON to binary using the **Convert to File node**.
+3. Write the new binary file data to the machine where n8n is running using the **Read/Write Files From Disk node**.
+4. To check that it worked out, use the **Read/Write Files From Disk node** to read the generated binary file.

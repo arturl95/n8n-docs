@@ -1,0 +1,26 @@
+```typescript
+{
+	displayName: 'Metadata',
+	name: 'metadataUi',
+	placeholder: 'Add Metadata',
+	type: 'fixedCollection',
+	default: '',
+	typeOptions: {
+		multipleValues: true,
+	},
+	description: '',
+	options: [
+		{
+			name: 'metadataValues',
+			displayName: 'Metadata',
+			values: [
+				{
+					displayName: 'Name',
+					name: 'name',
+					type: 'string',
+					default: 'Name of the metadata key to add.',
+				},
+				{
+					displayName: 'Value',
+					name: 'value',
+					type: 'string',

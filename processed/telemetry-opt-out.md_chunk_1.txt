@@ -1,0 +1,9 @@
+## Collected data
+
+Refer to [Privacy | Data collection in self-hosted n8n](/privacy-security/privacy/#data-collection-in-self-hosted-n8n) for details on the data n8n collects.
+
+## How collection works
+
+Your n8n instance sends most data to n8n as the events that generate it occur. Workflow execution counts and an instance pulse are sent periodically (every 6 hours). These data types mostly fall into n8n telemetry collection.
+
+## Opting out of data collection

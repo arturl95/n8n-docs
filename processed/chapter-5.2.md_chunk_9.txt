@@ -1,0 +1,2 @@
+1. Use the [**If node**](/integrations/builtin/core-nodes/n8n-nodes-base.if/) to filter to only display orders from the region `Americas`.
+2. Use the [**Convert to File**](/integrations/builtin/core-nodes/n8n-nodes-base.converttofile/) to transform the incoming data from JSON to binary format. Convert each item to a separate file. (Bonus points if you can figure out how to name each report based on the orderID!)

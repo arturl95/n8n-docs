@@ -1,0 +1,11 @@
+### Processing Large Volumes
+
+When analyzing large amounts of text, consider splitting the input into smaller chunks to optimize processing time and resource usage.
+
+### Iterative Refinement
+
+For complex sentiment analysis tasks, you may need to iteratively refine the system prompt and categories to achieve the desired results.
+
+## Example Usage
+
+### Basic Sentiment Analysis

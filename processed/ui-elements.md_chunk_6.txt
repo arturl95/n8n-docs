@@ -1,0 +1,25 @@
+String field with more than one row:
+
+```typescript
+{
+	displayName: 'Description',
+	name: 'description',
+	type: 'string',
+	required: true,
+	typeOptions: {
+		rows: 4,
+	},
+	default: '',
+	description: 'Description',
+	displayOptions: { // the resources and operations to display this element with
+		show: {
+			resource: [
+				// comma-separated list of resource names
+			],
+			operation: [
+				// comma-separated list of operation names
+			]
+		}
+	},
+}
+```

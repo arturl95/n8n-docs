@@ -1,0 +1,4 @@
+6. Select **Create App**. The **Apps** page opens, displaying the app you just created.
+7. Select the app you just created to view its details.
+8. Select **Show key** next to **API Key**.
+9. Copy the **API Key** and enter it in your n8n credential.

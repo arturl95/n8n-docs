@@ -1,0 +1,3 @@
+- [AI Transform](/integrations/builtin/core-nodes/n8n-nodes-base.aitransform/): Improved usability  
+- [Anthropic Chat Model Node](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatanthropic/): Added Haiku 3.5 support  
+- [Convert to File](/integrations/builtin/core-nodes/n8n-nodes-base.converttofile/): Added delimiter option for writing to CSV

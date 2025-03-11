@@ -1,0 +1,3 @@
+- An **Access Key**
+
+Refer to the [Sysdig Agent Access Keys documentation](https://docs.sysdig.com/en/docs/administration/agent_access_key/){:target=_blank .external-link} for instructions on obtaining the Access Key from the application.

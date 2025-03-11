@@ -1,0 +1,3 @@
+- Zendesk: Removed the `Authorization URL` and `Access Token URL` fields from the OAuth2 credentials. The node now uses the subdomain passed by a user to connect to Zendesk.
+- Bug fixes
+- CoinGecko: Fixed an issue to process multiple input items correctly

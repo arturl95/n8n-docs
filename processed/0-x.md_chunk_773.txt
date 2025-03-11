@@ -1,0 +1,1 @@
+- For custom nodes, you can now set custom documentation URLs

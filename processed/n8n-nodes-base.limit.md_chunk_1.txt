@@ -1,0 +1,12 @@
+### Max Items
+
+Enter the maximum number of items that n8n should keep. If the input data contains more than this value, n8n removes the items.
+
+### Keep
+
+If the node has to remove items, select where it keeps the input items from:
+
+* **First Items**: Keeps the **Max Items** number of items from the beginning of the input data.
+* **Last Items**: Keeps the **Max Items** number of items from the end of the input data.
+
+## Templates and examples

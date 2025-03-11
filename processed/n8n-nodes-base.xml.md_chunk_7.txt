@@ -1,0 +1,3 @@
+- **Merge Attributes**: Set whether to merge attributes and child elements as properties of the parent (turned on) or key attributes off a child attribute object (turned off). This option is ignored if **Ignore Attribute** is turned on.
+- **Normalize**: Set whether to trim whitespaces inside the text nodes (turned on) or not to trim them (turned off).
+- **Normalize Tags**: Set whether to normalize all tag names to lowercase (turned on) or keep tag names as-is (turned off).

@@ -1,0 +1,29 @@
+"combinator": "and"
+			},
+			"options": {}
+		},
+		"id": "cea39877-6183-4ea0-9400-e80523636912",
+		"name": "If",
+		"type": "n8n-nodes-base.if",
+		"typeVersion": 2,
+		"position": [
+			1280,
+			360
+		]
+		},
+		{
+		"parameters": {
+			"amount": 1,
+			"unit": "minutes"
+		},
+		"id": "5aa860b7-c73c-4df0-ad63-215850166f13",
+		"name": "Wait",
+		"type": "n8n-nodes-base.wait",
+		"typeVersion": 1.1,
+		"position": [
+			1480,
+			260
+		],
+		"webhookId": "be78732e-787d-463e-9210-2c7e8239761e"
+		},
+		{

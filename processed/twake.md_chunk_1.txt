@@ -1,0 +1,16 @@
+## Prerequisites
+
+Create a [Twake](https://twake.app/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Cloud API key
+- Server API key
+
+## Related resources
+
+Refer to [Twake's documentation](https://doc.twake.app/developers-api/api-reference){:target=_blank .external-link} for more information about the service.
+
+## Using Cloud API key
+
+To configure this credential, you'll need:

@@ -1,0 +1,16 @@
+"authentication": "headerAuth",
+          "url": "https://internal.users.n8n.cloud/webhook/custom-erp",
+          "options": {
+            "splitIntoItems": true
+          },
+          "headerParametersUi": {
+            "parameter": [
+              {
+                "name": "unique_id",
+                "value": "recLhLYQbzNSFtHNq"
+              }
+            ]
+          }
+        },
+        "name": "HTTP Request",
+        "type": "n8n-nodes-base.httpRequest",

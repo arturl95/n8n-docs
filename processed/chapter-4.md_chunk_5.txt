@@ -1,0 +1,5 @@
+## Catching erroring workflows
+
+To catch failed workflows, create a separate [**Error Workflow**](/flow-logic/error-handling/error-workflows/) with the [**Error Trigger node**](/integrations/builtin/core-nodes/n8n-nodes-base.errortrigger/). This workflow will only execute if the main workflow execution fails.
+
+Use additional nodes in your **Error Workflow** that make sense, like sending notifications about the failed workflow and its errors using email or Slack.

@@ -1,0 +1,7 @@
+When using **Redirect to URL**, fill in the **URL** field with the page you want to redirect to when users complete the form.
+
+### Forms with branches
+
+The n8n Form node executes and displays its associated form page whenever it receives data from a previous node. When building forms with n8n, to avoid confusion, it's important to understand how forms behave when branching occurs.
+
+#### Workflows with mutually exclusive branches

@@ -1,0 +1,15 @@
+On this page, you'll find a list of operations the LinkedIn node supports and links to more resources.
+
+/// note | Credentials
+Refer to [LinkedIn credentials](/integrations/builtin/credentials/linkedIn/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Post
+    * Create
+
+## Parameters
+
+* **Post As**: choose whether to post as a **Person** or **Organization**.
+* **Person Name or ID** and **Organization URN**: enter an identifier for the person or organization.

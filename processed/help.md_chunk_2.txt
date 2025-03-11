@@ -1,0 +1,11 @@
+1. Open the left-side panel.
+2. Select **Help**.
+3. Select **About n8n**.
+4. The **About n8n** modal opens to display your current information.
+5. Select **Copy debug information** to copy your information.
+6. n8n recommends pasting this information into your forum post or support email.
+
+/// note | Don't see **Copy debug**?
+The **Copy debug** option is available beginning in n8n version 1.49.0.
+
+If you're using an earlier version of n8n, n8n recommends manually providing this information:

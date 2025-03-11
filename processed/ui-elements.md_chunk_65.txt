@@ -1,0 +1,15 @@
+```ts
+if (operation === 'select' && items.length > 1 && !node.executeOnce) {
+    // Expects two parameters: NodeExecutionData and an array of hints
+	return new NodeExecutionOutput(
+		[returnData],
+		[
+			{
+				message: `This node ran ${items.length} times, once for each input item. To run for the first item only, enable <b>Execute once</b> in the node settings.`,
+				location: 'outputPane',
+			},
+		],
+	);
+}
+return [returnData];
+```

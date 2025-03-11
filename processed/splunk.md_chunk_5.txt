@@ -1,0 +1,1 @@
+- **Allow Self-Signed Certificates**: If turned on, n8n will connect even if SSL validation fails.

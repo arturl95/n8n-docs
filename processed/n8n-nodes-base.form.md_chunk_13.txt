@@ -1,0 +1,27 @@
+"values": [
+				{
+					"option": "option 1"
+				},
+				{
+					"option": "option 2"
+				}
+			]
+		},
+		"multiselect": true // setting to true allows multi-select
+	},
+	{
+		"fieldLabel": "Email",
+		"fieldType": "email",
+		"placeholder": "me@mail.con"
+	},
+	{
+		"fieldLabel": "File",
+		"fieldType": "file",
+		"multipleFiles": true, // setting to true allows multiple files selection
+		"acceptFileTypes": ".jpg, .png" // allowed file types
+	},
+	{
+		"fieldLabel": "Number",
+		"fieldType": "number"
+	},
+	{

@@ -1,0 +1,8 @@
+* Core: ensure executions list is properly filtered for all users.
+* Core: fix `$items().length` in Execute Once mode.
+* Core: mark binary data to be deleted when pruning executions.
+* Core: OAuth2 scope saved to database fix.
+* Editor: fix slots rendering of NodeCreator's NoResults component.
+* Editor: JSON view values can be mapped like keys.
+* AWS SNS Node: fix a pagination issue.
+* Google Sheets Node: fix exception if no matching rows are found.

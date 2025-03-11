@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: tutorial
+---
+
+# Workflow 3: Monitoring workflow errors
+
+Last but not least, let's help Nathan know if there are any errors running the workflow.
+
+To accomplish this task, create an Error workflow that monitors the main workflow:
+
+1. Create a new workflow.
+2. Add an **Error Trigger node** (and execute it as a test).
+3. Connect a **Discord node** to the **Error Trigger node** and configure these fields:<br/>

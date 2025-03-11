@@ -1,0 +1,7 @@
+* Core: account for the enabled state in the first pinned trigger in a workflow.
+* Core: fix pinned trigger execution.
+* CLI: handle unparseable strings during JSON key migration.
+* CLI: fix the excessive instantiation type error for flattened executions.
+* CLI: initiate the nodes directory to ensure `npm install` succeeds.
+* CLI: ensure tsc build errors also cause Turbeorepo builds to fail.
+* Nextcloud node: fix an issue with credential verification.

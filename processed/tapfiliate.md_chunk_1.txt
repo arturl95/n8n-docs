@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Tapfiliate](https://tapfiliate.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Tapfiliate's API documentation](https://tapfiliate.com/docs/rest/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

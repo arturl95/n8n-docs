@@ -1,0 +1,1 @@
+4. In the workflow you want to monitor, open the [Workflow Settings](/workflows/settings/) and select the new Error Workflow you just created. Note that this workflow needs to run automatically to trigger the error workflow.

@@ -1,0 +1,11 @@
+## Operations
+
+The available operations depend on your API version. To see the operations list, create your credentials, including selecting your API version. Then return to the node, select the resource you want to use, and n8n displays the available operations for your API version. 
+
+* Alert
+* Case
+* Log
+* Observable
+* Task
+
+## Templates and examples

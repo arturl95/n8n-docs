@@ -1,0 +1,2 @@
+3. Use the [**Gmail node**](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) (or another email node) to send the files using email to an address you have access to. Note that you need to add an attachment with the data property.
+4. Use the [**Discord node**](/integrations/builtin/app-nodes/n8n-nodes-base.discord/) to send a message in the n8n Discord channel `#course-level-two`. In the node, configure the following parameters:

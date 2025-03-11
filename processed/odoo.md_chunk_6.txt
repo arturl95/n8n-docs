@@ -1,0 +1,6 @@
+To set up the credential with a password:
+
+1. Enter your Odoo server or site URL as the **Site URL**.
+2. Enter your **Username** as it's displayed on your **Change password** screen in Odoo.
+3. To use a password, enter your user password in the **Password or API key** field.
+4. Enter your Odoo **Database name**, also known as the instance name.

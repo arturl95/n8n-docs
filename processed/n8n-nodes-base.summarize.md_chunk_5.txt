@@ -1,0 +1,8 @@
+### Output Format
+
+Select the format for your output format. This option is recommended if you're using **Fields to Split By**
+
+* **Each Split in a Separate Item**: Use this option to generate a separate output item for each split out field.
+* **All Splits in a Single Item**: Use this option to generate a single item that lists the split out fields.
+
+## Ignore items without valid fields to group by

@@ -1,0 +1,2 @@
+### Beta Feature Removal
+The Ask AI beta feature for the HTTP Request node has been removed from this version

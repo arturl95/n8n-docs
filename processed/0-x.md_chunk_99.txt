@@ -1,0 +1,10 @@
+### Node enhancements
+
+* Cal Trigger Node: update to support v2 webhooks.
+* HTTP Request Node: move from binary buffer to binary streaming.
+* Mattermost Node: add self signed certificate support.
+* Microsoft SQL Node: add support for self signed certificates.
+* Mindee Node: add support for v4 API.
+* Slack Node: move from binary buffer to binary streaming.
+
+### Bug fixes

@@ -1,0 +1,13 @@
+- [Mautic](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/)
+- [Mautic Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.mautictrigger/)
+
+## Supported authentication methods
+
+- Basic auth
+- OAuth2
+
+## Related resources
+
+Refer to [Mautic's API documentation](https://developer.mautic.org/#rest-api){:target=_blank .external-link} for more information about the service.
+
+## Using basic auth

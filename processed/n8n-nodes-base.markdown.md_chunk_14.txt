@@ -1,0 +1,2 @@
+| **Tables Header ID** | Whether to add an ID to table header tags (enabled) or not (disabled). | Disabled |
+| **Tables Support** | Whether to support tables (enabled) or not (disabled). | Disabled |

@@ -1,0 +1,21 @@
+```bash
+export DB_TYPE=postgresdb
+export DB_POSTGRESDB_DATABASE=n8n
+export DB_POSTGRESDB_HOST=postgresdb
+export DB_POSTGRESDB_PORT=5432
+export DB_POSTGRESDB_USER=n8n
+export DB_POSTGRESDB_PASSWORD=n8n
+export DB_POSTGRESDB_SCHEMA=n8n
+
+# optional:
+export DB_POSTGRESDB_SSL_CA=$(pwd)/ca.crt
+export DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED=false
+
+n8n start
+```
+
+### Required permissions
+
+n8n needs to create and modify the schemas of the tables it uses.
+
+Recommended permissions:

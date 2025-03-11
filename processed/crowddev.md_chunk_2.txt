@@ -1,0 +1,9 @@
+- API key
+
+## Related resources
+
+Refer to [crowd.dev's documentation](https://docs.crowd.dev/docs){:target=_blank .external-link} for more information about the service, and their [API documentation](https://api.crowd.dev/api-reference){:target=_blank .external-link} for working with the API.
+
+## Using API key
+
+To configure this credential, you'll need:

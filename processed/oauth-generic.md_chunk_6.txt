@@ -1,0 +1,12 @@
+<figure markdown="span">
+	![The project dropdown in the Google Cloud top navigation](/_images/integrations/builtin/credentials/google/google-cloud-project-dropdown.png)
+	<figcaption>Check the project dropdown in the Google Cloud top navigation</figcaption>
+	</figure>
+
+### Enable APIs
+
+With your project created, enable the APIs you'll need access to:
+
+--8<-- "_snippets/integrations/builtin/credentials/google/enable-apis.md"
+
+### Configure your OAuth consent screen

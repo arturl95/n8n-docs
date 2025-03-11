@@ -1,0 +1,7 @@
+#### Trial feature: AI support in the Code node
+
+This release introduces limited support for using AI to generate code in the Code node. Initially this feature is only available on Cloud, and will gradually be rolled out, starting with about 20% of users.
+
+Learn how to use the feature, including guidance on writing prompts, in [Generate code with ChatGPT](/code/ai-code/).
+
+</div>

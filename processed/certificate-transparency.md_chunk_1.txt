@@ -1,0 +1,5 @@
+Use this object to receive updates about newly issued certificates for any domains that you have subscribed for certificate alerts or phishing alerts. Refer to [Facebook Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/) for more information on the trigger itself.
+
+/// note | Credentials
+You can find authentication information for this node [here](/integrations/builtin/credentials/facebookapp/).
+///

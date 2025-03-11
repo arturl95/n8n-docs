@@ -1,0 +1,6 @@
+2. Enter the remote bind address you're connecting to as the **SSH Host**.
+    3. **SSH Port**: Enter the local port number for the SSH tunnel.
+    4. **SSH Postgres Port**: Enter the remote end of the tunnel, the port number the database server is using.
+    5. **SSH User**: Enter the username to log in as.
+    6. If you selected **Password** for SSH Authenticate with, add the user's **SSH Password**.
+    7. If you selected **Private Key** for **SSH Authenticate with**:

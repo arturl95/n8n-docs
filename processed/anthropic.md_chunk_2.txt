@@ -1,0 +1,5 @@
+## Using API key
+
+To configure this credential, you'll need an [Anthropic Console account](https://console.anthropic.com){:target=_blank .external-link} with access to Claude.
+
+Then:

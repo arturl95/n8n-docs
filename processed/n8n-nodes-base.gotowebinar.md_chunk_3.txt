@@ -1,0 +1,32 @@
+## Operations
+
+* Attendee
+    * Get
+    * Get All
+    * Get Details
+* Co-Organizer
+    * Create
+    * Delete
+    * Get All
+    * Re-invite
+* Panelist
+    * Create
+    * Delete
+    * Get All
+    * Re-invite
+* Registrant
+    * Create
+    * Delete
+    * Get
+    * Get All
+* Session
+    * Get
+    * Get All
+    * Get Details
+* Webinar
+    * Create
+    * Get
+    * Get All
+    * Update
+
+## Templates and examples

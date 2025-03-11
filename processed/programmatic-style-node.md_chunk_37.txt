@@ -1,0 +1,1 @@
+* Make sure you understand key concepts: [item linking](/data/data-mapping/data-item-linking/item-linking-concepts/) and [data structures](/data/data-structure/).

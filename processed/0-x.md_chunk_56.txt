@@ -1,0 +1,7 @@
+* Core: Fix paired item returning wrong data.
+* Core: Make getExecutionId available on all nodes types.
+* Editor: Fix memory leak in Node Detail View by correctly unsubscribing from event buses.
+* Editor: Fix moving canvas on middle click preventing lasso selection.
+* Editor: Settings sidebar should disconnect from push when navigating away.
+* Google Sheets Trigger Node: Return actual error message.
+* HTTP Request Node: Fix `itemIndex` in HTTP Request errors.

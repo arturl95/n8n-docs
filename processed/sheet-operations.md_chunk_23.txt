@@ -1,0 +1,1 @@
+- **Tab Color**: Enter the color as hex code or use the color picker to set the color of the tab in the UI.

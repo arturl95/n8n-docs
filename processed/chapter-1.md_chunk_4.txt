@@ -1,0 +1,23 @@
+```javascript
+var turtles = [
+	{
+		name: 'Michelangelo',
+		color: 'orange',
+	},
+	{
+		name: 'Donatello',
+		color: 'purple',
+	},
+	{
+		name: 'Raphael',
+		color: 'red',
+	},
+	{
+		name: 'Leonardo',
+		color: 'blue',
+	}
+];
+```
+
+You can access the properties of an object using dot notation with the syntax `object.property`. For example, `turtles[1].color` gets the color of the second turtle.
+///

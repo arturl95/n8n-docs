@@ -1,0 +1,4 @@
+1. Copy the **Webhook URL** from n8n and enter it as the **Callback URL** in your Meta App.
+    1. Enter the **Access Token** you copied above as the **Verify token**.
+    1. Select **Verify and save**. (This step fails if you don't have your n8n trigger listening.)
+    1. Some webhook subscriptions, like **User**, prompt you to subscribe to individual events. Subscribe to the events you're interested in.

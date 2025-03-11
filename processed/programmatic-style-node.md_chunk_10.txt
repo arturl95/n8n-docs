@@ -1,0 +1,15 @@
+/// note | Class names and file names
+Make sure the class name and the file name match. For example, given a class `FriendGrid`, the filename must be `FriendGrid.node.ts`.
+///
+```typescript
+export class FriendGrid implements INodeType {
+	description: INodeTypeDescription = {
+		// Basic node details will go here
+		properties: [
+			// Resources and operations will go here
+		],
+	};
+	// The execute method will go here
+	async execute(this: IExecuteFunctions): Promise<INodeExecutionData[][]> {
+	}
+}

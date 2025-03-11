@@ -1,0 +1,7 @@
+### New nodes
+
+* [AWS DynamoDB](/integrations/builtin/app-nodes/n8n-nodes-base.awsdynamodb/)
+* [Elasticsearch](/integrations/builtin/app-nodes/n8n-nodes-base.elasticsearch/)
+* [ServiceNow](/integrations/builtin/app-nodes/n8n-nodes-base.servicenow/)
+
+### Enhanced nodes

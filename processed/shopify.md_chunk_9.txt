@@ -1,0 +1,9 @@
+## Using OAuth2
+
+To configure this credential, you'll need a [Shopify partner](https://www.shopify.com/partners){:target=_blank .external-link} account and:
+
+- A **Client ID**: Generated when you create a custom app.
+- A **Client Secret**: Generated when you create a custom app.
+- Your **Shop Subdomain**
+
+To set up the credential, you'll need to create and install a custom app:

@@ -1,0 +1,10 @@
+### Get Time Between Dates options
+
+The Get Time Between Dates operation includes the **Include Input Fields** option as well as an **Output as ISO String** option. If you leave this option off, each unit you selected will return its own time difference calculation, for example:
+
+    timeDifference
+    years : 1
+    months : 3
+    days : 13
+
+If you turn on the **Output as ISO String** option, the node formats the output as a single ISO duration string, for example: `P1Y3M13D`.

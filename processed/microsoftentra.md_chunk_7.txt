@@ -1,0 +1,5 @@
+Refer to [Register an application with the Microsoft Identity Platform](https://learn.microsoft.com/en-us/graph/auth-register-app-v2){:target=_blank .external-link} for more information.
+
+### Generate a client secret
+
+With your application created, generate a client secret for it:

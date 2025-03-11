@@ -1,0 +1,23 @@
+#### Step 3.3: Add node details
+
+All programmatic nodes need some basic parameters, such as their display name and icon. Add the following to the `description`:
+
+```typescript
+displayName: 'FriendGrid',
+name: 'friendGrid',
+icon: 'file:friendGrid.svg',
+group: ['transform'],
+version: 1,
+description: 'Consume SendGrid API',
+defaults: {
+	name: 'FriendGrid',
+},
+inputs: ['main'],
+outputs: ['main'],
+credentials: [
+	{
+		name: 'friendGridApi',
+		required: true,
+	},
+],
+```

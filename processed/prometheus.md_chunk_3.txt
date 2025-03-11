@@ -1,0 +1,7 @@
+# HELP n8n_scaling_mode_queue_jobs_completed Total number of jobs completed across all workers in scaling mode since instance start.
+# TYPE n8n_scaling_mode_queue_jobs_completed counter
+n8n_scaling_mode_queue_jobs_completed 0
+
+# HELP n8n_scaling_mode_queue_jobs_failed Total number of jobs failed across all workers in scaling mode since instance start.
+# TYPE n8n_scaling_mode_queue_jobs_failed counter
+n8n_scaling_mode_queue_jobs_failed 0

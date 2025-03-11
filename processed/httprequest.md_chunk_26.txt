@@ -1,0 +1,6 @@
+- The Certificate Authority **CA** bundle
+- The **Certificate** (CRT): May also appear as a Public Key, depending on who your issuing CA was and how they format the cert
+- The **Private Key** (KEY)
+- _Optional:_ If the **Private Key** is encrypted, enter a **Passphrase** for the private key.
+
+If your SSL certificate is in a single file (such as a `.pfx` file), you'll need to open the file to copy details from it to paste into the appropriate fields:

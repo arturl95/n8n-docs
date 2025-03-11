@@ -1,0 +1,4 @@
+- An **API Key**
+- Your **Qdrant URL**
+
+To set it up:

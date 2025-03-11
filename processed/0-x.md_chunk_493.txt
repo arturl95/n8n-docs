@@ -1,0 +1,7 @@
+### Core Functionality
+
+- Added new external hook when active workflows finished initializing.
+- Fixed a bug preventing the personalisation survey from showing up.
+- Improved telemetry.
+
+### Bug fixes

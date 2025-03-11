@@ -1,0 +1,6 @@
+## Step four: Add an agent
+
+An agent takes an input, such as a user query, then uses a collection of tools to respond. In n8n the AI Agent node is a root node: a node whose behavior you can configure using sub-nodes.
+
+??? Details "Cluster nodes: root and sub-nodes"
+	--8<-- "_snippets/integrations/builtin/cluster-nodes/cluster-nodes-summary.md"

@@ -1,0 +1,6 @@
+* Editor: correct an i18n string.
+* Editor: resolve slow loading times for node types, node creators, and push connections in the settings view.
+* Nodes: update descriptions in the Merge node
+* Nodes: ensure the card ID property displays for completed checklists in the Trello node.
+* Nodes: fix authentication for the new verions of WeKan.
+* Nodes: ensure form names list correctly in the Wufoo Trigger node.

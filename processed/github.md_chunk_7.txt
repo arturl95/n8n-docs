@@ -1,0 +1,5 @@
+8. Select **Scopes** for your token. For most of the n8n GitHub nodes, add the `repo` scope.
+    - A token without assigned scopes can only access public information.
+    - Refer to 
+9. Select **Generate token**.
+10. Copy the token.

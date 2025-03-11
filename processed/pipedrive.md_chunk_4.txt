@@ -1,0 +1,11 @@
+## Using OAuth2
+
+To configure this credential, you'll need a [Pipedrive developer sandbox account](https://developers.pipedrive.com/){:target=_blank .external-link} and:
+
+- A **Client ID**
+- A **Client Secret**
+
+To get both, you'll need to register a new app:
+
+1. Select your profile name in the upper right corner.
+2. Find the company name of your sandbox account and select **Developer Hub**.

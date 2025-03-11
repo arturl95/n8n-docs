@@ -1,0 +1,14 @@
+* Name the parameter **Trigger on**.
+* Don't include a tooltip.
+
+#### Subtitles
+
+Set subtitles based on the values of the main parameters. For example:
+
+```js
+subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',
+```
+
+#### IDs
+
+When performing an operation on a specific record, such as "update a task comment" you need a way to specify which record you want to change.

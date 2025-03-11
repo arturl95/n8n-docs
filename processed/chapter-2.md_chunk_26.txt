@@ -1,0 +1,28 @@
+"typeVersion": 2,
+		"position": [
+			1080,
+			360
+		]
+		},
+		{
+		"parameters": {
+			"conditions": {
+			"options": {
+				"caseSensitive": true,
+				"leftValue": "",
+				"typeValidation": "strict"
+			},
+			"conditions": [
+				{
+				"id": "7c82823a-e603-4166-8866-493f643ba354",
+				"leftValue": "={{ $json['new-date'] }}",
+				"rightValue": "1960-01-01T00:00:00",
+				"operator": {
+					"type": "dateTime",
+					"operation": "after"
+				}
+				}
+			],
+			"combinator": "and"
+			},
+			"options": {}

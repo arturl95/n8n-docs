@@ -1,0 +1,8 @@
+Enter these parameters:
+
+- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
+- **Resource**: Select **File**.
+- **Operation**: Select **Delete a File**.
+- **File**: Enter the ID of the file to use for this operation or select the file name from the dropdown.
+
+Refer to [Delete file | OpenAI](https://platform.openai.com/docs/api-reference/files/delete){:target=_blank .external-link} documentation for more information.

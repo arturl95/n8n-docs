@@ -1,0 +1,3 @@
+```
+5. Close the expressions editor, then close the **Customer Messenger** node by clicking outside the node or selecting **Back to canvas**.
+6. Select **Test Workflow**. n8n runs the workflow.

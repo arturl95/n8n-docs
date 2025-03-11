@@ -1,0 +1,16 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Summarize
+description: Documentation for the Summarize node in n8n, a workflow automation platform. Includes guidance on usage, and links to examples.
+priority: high
+---
+
+# Summarize
+
+Use the Summarize node to aggregate items together, in a manner similar to Excel pivot tables.
+
+## Node parameters
+
+### Fields to Summarize
+
+Use these fields to define how you want to summarize your input data.

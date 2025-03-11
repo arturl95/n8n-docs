@@ -1,0 +1,11 @@
+## Prerequisites
+
+Create a [Fortinet FortiGate](https://www.fortinet.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API access token
+
+## Related resources
+
+Refer to [Fortinet FortiGate's API documentation](https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/940602/using-apis){:target=_blank .external-link} for more information about the service.

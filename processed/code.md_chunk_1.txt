@@ -1,0 +1,1 @@
+The [Code](/integrations/builtin/core-nodes/n8n-nodes-base.code/) node gives you access to the incoming data and you can manipulate it. With this node you can create any function you want using JavaScript code.

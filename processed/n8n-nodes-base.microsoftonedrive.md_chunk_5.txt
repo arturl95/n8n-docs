@@ -1,0 +1,3 @@
+## Find the folder ID
+
+To perform operations on folders, you need to supply the ID. You can find this:

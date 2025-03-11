@@ -1,0 +1,14 @@
+- [Zendesk](/integrations/builtin/app-nodes/n8n-nodes-base.zendesk/)
+- [Zendesk Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.zendesktrigger/)
+
+## Prerequisites
+
+- Create a [Zendesk](https://zendesk.com/){:target=_blank .external-link} account.
+- For API token authentication, enable token access to the API in Admin Center under **Apps and integrations > APIs > Zendesk APIs**.
+
+## Supported authentication methods
+
+- API token
+- OAuth2
+
+## Related resources

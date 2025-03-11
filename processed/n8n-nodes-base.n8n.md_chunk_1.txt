@@ -1,0 +1,5 @@
+Refer to the [n8n REST API documentation](/api/) for more information on using the n8n API. Refer to [API endpoint reference](/api/api-reference/) for working with the API endpoints directly.
+
+/// note | Credentials
+You can find authentication information for this node in the [API authentication](/api/authentication/) documentation.
+///

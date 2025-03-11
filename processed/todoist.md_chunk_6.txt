@@ -1,0 +1,1 @@
+Refer to the Todoist [Authorization Guide](https://developer.todoist.com/guides/#authorization){:target=_blank .external-link} for more information.

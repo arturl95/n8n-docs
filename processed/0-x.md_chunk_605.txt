@@ -1,0 +1,10 @@
+### Core Functionality
+- Fixed an issue for large internal values.
+
+### Contributors
+
+[Ed Linklater](https://github.com/edlinklater), [Rodrigo Correia](https://github.com/rodrigoscdc)
+
+## n8n@0.131.0
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.130.0...n8n@0.131.0) for this version.<br />
+**Release date:** 2021-07-24

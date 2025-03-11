@@ -1,0 +1,11 @@
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [HaloPSA's API documentation](https://halopsa.com/apidoc/info){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

@@ -1,0 +1,2 @@
+* **Options** > **Add Field**: use this to add more optional settings, including:
+	* **Disable Dot Notation**: when disabled, you can't reference child fields (in the format `parent.child`).

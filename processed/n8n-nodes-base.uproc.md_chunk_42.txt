@@ -1,0 +1,7 @@
+- Generates shareable URIs to use on social networks and email using a content URI and a text
+- Get data from the existing table in an HTML page or a PDF file
+- Discover client and server technologies used in a domain
+- Discover client and server technologies used in web pages
+- Analyze URL's health status about SSL, broken links, conflictive HTTP links with SSL, and more
+- Get website visits and rank of any domain
+- Get a domain's WHOIS data by fields

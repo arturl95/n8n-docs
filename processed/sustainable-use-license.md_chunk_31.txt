@@ -1,0 +1,5 @@
+We coined the term ['fair-code'](https://faircode.io/) as a way of describing our licensing model, and the model of other companies who are source-available, but restrict commercial use of their source code.
+
+### What is fair-code, and how does the Sustainable Use License relate to it?
+
+Fair-code isn't a software license. It describes a software model where software:

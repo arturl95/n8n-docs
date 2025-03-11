@@ -1,0 +1,17 @@
+/// note | Credentials
+Refer to [AWS Transcribe credentials](/integrations/builtin/credentials/aws/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+**Transcription Job**
+
+- Create a transcription job
+- Delete a transcription job
+- Get a transcription job
+- Get all transcriptions job
+
+## Templates and examples
+
+<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
+[[ templatesWidget(page.title, 'aws-transcribe') ]]

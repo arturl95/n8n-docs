@@ -1,0 +1,14 @@
+/// note | Static IP addresses with AKS
+[Read this tutorial](https://learn.microsoft.com/en-us/azure/aks/static-ip){:target="_blank" .external-link} for more details on how to use a static IP address with AKS.
+///
+## Delete resources
+
+Remove the resources created by the manifests with the following command:
+
+```shell
+kubectl delete -f .
+```
+
+## Next steps
+
+--8<-- "_snippets/self-hosting/installation/server-setups-next-steps.md"

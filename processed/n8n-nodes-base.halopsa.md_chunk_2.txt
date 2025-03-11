@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [HaloPSA credentials](/integrations/builtin/credentials/halopsa/) for guidance on setting up authentication. 
+///
+
+## Operations

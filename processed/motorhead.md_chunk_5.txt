@@ -1,0 +1,1 @@
+Refer to [Generate an API key](https://docs.getmetal.io/guides/misc-get-keys){:target=_blank .external-link} for more information.

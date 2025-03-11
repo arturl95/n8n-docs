@@ -1,0 +1,10 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: howto
+---
+
+# White labelling
+
+--8<-- "_snippets/embed-license.md"
+
+White labelling n8n means customizing the frontend styling and assets to match your brand identity. The process involves changing two packages in n8n's source code [github.com/n8n-io/n8n](https://github.com/n8n-io/n8n){:target=_blank .external-link}:

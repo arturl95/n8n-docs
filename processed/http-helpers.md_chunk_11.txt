@@ -1,0 +1,5 @@
+- Accepts `url`. Doesn't accept `uri`.
+- `encoding: null` now must be `encoding: arrayBuffer`.
+- `rejectUnauthorized: false` is now `skipSslCertificateValidation: true`
+- Use `body` according to `content-type` headers to clarify the payload.
+- `resolveWithFullResponse` is now `returnFullResponse` and has similar behavior

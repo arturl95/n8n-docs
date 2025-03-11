@@ -1,0 +1,7 @@
+To configure this credential, you'll need:
+
+- A **Client ID**: Generated when you create an app.
+- A **Client Secret**: Generated when you create an app.
+- An **Environment**: Select whether this credential should access your **Production** or **Sandbox** environment. 
+
+To generate your **Client ID** and **Client Secret**, [create an app](https://developer.intuit.com/app/developer/qbo/docs/get-started/start-developing-your-app#create-an-app){:target=_blank .external-link}.

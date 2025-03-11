@@ -1,0 +1,7 @@
+<figure><img src="/_images/courses/level-one/chapter-five/l1-c5-5-5-code-node.png" alt="Code node output" style="width:100%"><figcaption align = "center"><i>Code node output</i></figcaption></figure>
+
+/// note | Using Python in code nodes
+You can also use Python in the Code node. To learn more about this, refer to the [Code node](/code/code-node/) documentation.
+///
+
+## What's next?

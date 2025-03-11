@@ -1,0 +1,15 @@
+* Retrieve your own organization's details
+    * Retrieve the details of an organization with which you are connected
+* Recipient
+    * Create a new Onfleet recipient
+    * Get a specific Onfleet recipient
+    * Update an Onfleet recipient
+* Task
+    * Create a new Onfleet task
+    * Clone an Onfleet task
+    * Force-complete a started Onfleet task
+    * Delete an Onfleet task
+    * Get all Onfleet tasks
+    * Get a specific Onfleet task
+    * Update an Onfleet task
+* Team

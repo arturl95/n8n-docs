@@ -1,0 +1,8 @@
+### Bug fixes
+
+* [AWS SQS:](/integrations/builtin/app-nodes/n8n-nodes-base.awssqs/) Fixed an issue with API version and casing
+* [IMAP:](/integrations/builtin/core-nodes/n8n-nodes-base.emailimap/) Fixed re-connection issue
+* [Keap:](/integrations/builtin/app-nodes/n8n-nodes-base.keap/) Fixed an issue with the Opt In Reason parameter
+* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Fixed an issue with loading custom fields
+
+### Contributors

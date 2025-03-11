@@ -1,0 +1,8 @@
+- New nodes
+- Compression
+- Enhanced nodes
+- GitHub: Added Invite operation to the User resource
+- EmailReadImap: Increased the authentication timeout
+- Mautic: Added Custom Fields option to the Create and Update operations of the Contact resource. Also, the Mautic OAuth credentials have been updated. Now you don't have to enter the Authorization URL and the Access Token URL
+- Nextcloud: Added User resource
+- Slack: Added Get Permalink and Delete operations to the Message resource

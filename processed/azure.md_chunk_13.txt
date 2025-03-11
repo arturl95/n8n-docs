@@ -1,0 +1,9 @@
+The manifests define the following:
+
+- Send the environment variables defined to each application pod
+- Define the container image to use
+- Set resource consumption limits with the `resources` object
+- The `volumes` defined earlier and `volumeMounts` to define the path in the container to mount volumes.
+- Scaling and restart policies. The example manifests define one instance of each pod. You should change this to meet your needs.
+
+## Services

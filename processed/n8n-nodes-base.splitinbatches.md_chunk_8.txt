@@ -1,0 +1,3 @@
+### Get the current running index of the node
+
+To get the current running index of the node, use the following expression: `{{$node["Loop Over Items"].context["currentRunIndex"];}}`.

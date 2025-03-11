@@ -1,0 +1,10 @@
+#### Dates and timestamps
+
+n8n uses [ISO timestamp strings](https://en.wikipedia.org/wiki/ISO_8601){:target=_blank class=.external-link} for dates and times. Make sure that any date or timestamp field you add supports all ISO 8601 formats.
+
+#### JSON
+
+You should support two ways of specifying the content of a text input that expects JSON:
+
+* Typing JSON directly into the text input: you need to parse the resulting string into a JSON object.
+* Using an expression that returns JSON.

@@ -1,0 +1,12 @@
+## Supported authentication methods
+
+- API user account: Requires a user account with appropriate content permissions.
+- API token: Requires an admin account.
+
+## Related resources
+
+Refer to [Strapi's documentation](https://docs.strapi.io/dev-docs/api/rest){:target=_blank .external-link} for more information about the service.
+
+## Using API user account
+
+To configure this credential, you'll need:

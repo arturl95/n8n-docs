@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Copper credentials](/integrations/builtin/credentials/copper/) for guidance on setting up authentication. 
+///
+
+## Operations

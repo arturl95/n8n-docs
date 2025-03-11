@@ -1,0 +1,11 @@
+/// warning | Property Input in dot notation
+If you want to reference nested values in the **Merge node** parameters `Input 1 Field` and `Input 2 Field`, you need to enter the property key in dot-notation format (as text, not as an expression).
+///
+
+/// note
+You can also find the **Merge node** under the alias Join. This might be more intuitive if you're familiar with SQL joins.
+///
+
+### Merge Exercise
+
+Build a workflow that merges data from the Customer Datastore node and Code node.

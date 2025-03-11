@@ -1,0 +1,10 @@
+Refer to [Node options](#node-options) for optional configuration options.
+
+### Transparent parameters
+
+* **Property Name**: Enter the name of the binary property that stores the image data.
+* **Color**: Set the color to make transparent. You can either enter a hex or select the color swatch to open a color picker.
+
+Refer to [Node options](#node-options) for optional configuration options.
+
+## Node options

@@ -1,0 +1,9 @@
+Refer to [Node options](#node-options) for optional configuration options.
+
+### Crop parameters
+
+* **Property Name**: Enter the name of the binary property that stores the image data.
+* **Width**: Enter the width you'd like to crop to.
+* **Height**: Enter the height you'd like to crop to.
+* **Position X**: Enter the x axis position (horizontal) to start the crop from.
+* **Position Y**: Enter the y axis position (vertical) to start the crop from.

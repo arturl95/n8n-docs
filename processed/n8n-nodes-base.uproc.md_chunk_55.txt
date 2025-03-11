@@ -1,0 +1,15 @@
+- Check if a UPC exists
+- Check if a UPC has a valid format
+- Get ASIN by EAN
+- Get a book by author's surname
+- Get all publications by category
+- Get book data by an editor's name
+- Get book or publication data by 10 or 13 digits ISBN code
+- Get book data by title
+- Get books by author's surname
+- Get all books by category
+- Get all books by editor
+- Get all books by title
+- Get EAN code by ASIN code
+- Get product data on a UPC on Amazon Marketplace
+- Get ISBN10 code by ISBN13 code

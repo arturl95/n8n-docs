@@ -1,0 +1,3 @@
+* [CrateDB:](/integrations/builtin/app-nodes/n8n-nodes-base.cratedb/) Added the Mode option that allows you to execute queries as transactions
+* [Nextcloud:](/integrations/builtin/app-nodes/n8n-nodes-base.nextcloud/) Added Delete, Get, Get All, and Update operation to the User resource
+* [Postgres:](/integrations/builtin/app-nodes/n8n-nodes-base.postgres/) Added the Mode option that allows you to execute queries as transactions

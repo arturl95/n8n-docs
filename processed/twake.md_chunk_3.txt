@@ -1,0 +1,7 @@
+To configure this credential, you'll need:
+
+- A **Host URL**: The URL of your Twake self-hosted instance.
+- A **Public ID**: Generated when you create an app.
+- A **Private API Key**: Generated when you create an app.
+
+To generate your **Public ID** and **Private API Key**, [create a Twake application](https://doc.twake.app/developers-api/get-started/create-your-first-application){:target=_blank .external-link}:

@@ -1,0 +1,11 @@
+#### Simple options
+
+When you select **Simple** as the **Type**, you have the option to **Disable Dot Notation**. By default, n8n enables dot notation to reference child fields in the format `parent.child`. Use this option to disable dot notation (turned on) or to continue using dot (turned off).
+
+### Random
+
+Creates a random order in the list.
+
+### Code
+
+Input custom JavaScript code to perform the sort operation. This is a good option if a simple sort won't meet your needs.

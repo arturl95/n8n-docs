@@ -1,0 +1,9 @@
+The following options are available:
+
+* ID
+* URL
+* List: allows users to select or search from a prepopulated list. This option requires more coding, as you must populate the list, and handle searching if you choose to support it.
+
+You can choose which types to include.
+
+Example:

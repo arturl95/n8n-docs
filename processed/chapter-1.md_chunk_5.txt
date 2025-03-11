@@ -1,0 +1,5 @@
+Data sent from one node to another is sent as an array of JSON objects. The elements in this collection are called items.
+
+<figure><img src="/_images/courses/level-two/chapter-one/explanation_items.png" alt="" style="width:100%"><figcaption align = "center"><i>Items</i></figcaption></figure>
+
+An n8n node performs its action on each item of incoming data.

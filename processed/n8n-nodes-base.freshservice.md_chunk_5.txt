@@ -1,0 +1,22 @@
+* Update a department
+* Location
+    * Create a location
+    * Delete a location
+    * Retrieve a location
+    * Retrieve all locations
+    * Update a location
+* Problem
+    * Create a problem
+    * Delete a problem
+    * Retrieve a problem
+    * Retrieve all problems
+    * Update a problem
+* Product
+    * Create a product
+    * Delete a product
+    * Retrieve a product
+    * Retrieve all products
+    * Update a product
+* Release
+    * Create a release
+    * Delete a release

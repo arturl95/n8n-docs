@@ -1,0 +1,11 @@
+/// info | Feature availability
+Available only on [Cloud plans](/manage-cloud/overview/).
+///
+
+## Node parameters
+
+### Instructions
+
+Enter your prompt for the AI and click the **Generate code** button to automatically populate the **Transformation Code**. For example, you can specify how you want to process or categorize your data. Refer to [Writing good prompts](/code/ai-code/#writing-good-prompts) for more information. 
+
+The prompt should be in plain English and under 500 characters.

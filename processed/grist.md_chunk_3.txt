@@ -1,0 +1,1 @@
+- Self-Hosted: If selected, provide your Grist **Self-Hosted URL**. This should be the full URL.

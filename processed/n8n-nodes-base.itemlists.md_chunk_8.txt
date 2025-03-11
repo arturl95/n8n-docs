@@ -1,0 +1,1 @@
+* **Include Binary**: include binary data (files) from the input in the new output.

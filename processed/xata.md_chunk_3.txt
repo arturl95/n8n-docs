@@ -1,0 +1,3 @@
+- `{workspace-display-name}`: The workspace display name is an optional identifier you can include in your Database Endpoint. The API ignores it, but including it can make it easier to figure out which workspace this database is in if you're saving multiple credentials.
+    - `{workspace-id}`: The unique ID of the workspace, 6 alphanumeric characters.
+    - `{region}`: The hosting region for the database. This value must match the database region configuration.

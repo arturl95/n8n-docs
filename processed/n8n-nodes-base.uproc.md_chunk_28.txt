@@ -1,0 +1,10 @@
+- Get multiple country names by currency ISO code
+- Get multiple countries by ISO code
+- Get multiple country names by initial name
+- Get country name by currency ISO code
+- Get country name by IP address
+- Get country name by its ISO code
+- Get country by a prefix
+- Get country name by phone number, with worldwide coverage
+- Get Aplha2 code by a country prefix or a name
+- Get decimal coordinates (degrees, minutes, and seconds) by latitude and longitude

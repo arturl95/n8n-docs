@@ -1,0 +1,7 @@
+1. Open the [Spotify developer dashboard](https://developer.spotify.com/dashboard){:target=_blank .external-link}.
+2. Select **Create an app**.
+3. Enter an **App name**, like `n8n integration`.
+4. Enter an **App description**.
+5. Copy the **OAuth Redirect URL** from n8n and enter it as the **Redirect URI** in your Spotify app.
+6. Check the box to agree to the Spotify Terms of Service and Branding Guidelines.
+7. Select **Create**. The **App overview** page opens.

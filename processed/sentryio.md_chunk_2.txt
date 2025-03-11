@@ -1,0 +1,9 @@
+## Using API token
+
+To configure this credential, you'll need:
+
+- An API **Token**: Generate a [**User Auth Token**](https://sentry.io/settings/account/api/auth-tokens/){:target=_blank .external-link} in **Account > Settings > User Auth Tokens**. Refer to [User Auth Tokens](https://docs.sentry.io/account/auth-tokens/#user-auth-tokens){:target=_blank .external-link} for more information.
+
+## Using OAuth
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"

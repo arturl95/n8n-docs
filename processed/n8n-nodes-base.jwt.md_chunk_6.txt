@@ -1,0 +1,11 @@
+### Subject
+
+The **Subject** or `sub` claim identifies the principal that's the subject of the JWT.
+
+Refer to ["sub" (Subject) Claim](https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.2){:target=_blank .external-link} for more information.
+
+## Node options
+
+### Decode node options
+
+The **Return Additional Info** toggle controls how much information the node returns.

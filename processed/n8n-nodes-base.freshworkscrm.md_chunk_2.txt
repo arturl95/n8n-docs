@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Freshworks CRM credentials](/integrations/builtin/credentials/freshworkscrm/) for guidance on setting up authentication. 
+///
+
+## Operations

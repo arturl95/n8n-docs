@@ -1,0 +1,1 @@
+The **Discarded** tab contains the 15 items with a `last_updated` column value equal to or earlier than the previous latest date (`2024-10-17T17:11:38.493Z`). Even though it's new, this table includes the entry for "Harry Nilsson" because its `last_updated` value isn't later than the previous maximum value:

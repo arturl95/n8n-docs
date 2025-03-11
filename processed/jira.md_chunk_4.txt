@@ -1,0 +1,7 @@
+1. Log in to your Atlassian profile > **Security > API tokens** page, or jump straight there using this [link](https://id.atlassian.com/manage-profile/security/api-tokens){:target=_blank .external-link}.
+2. Select **Create API Token**.
+3. Enter a good **Label** for your token, like `n8n integration`.
+4. Select **Create**.
+5. Copy the API token.
+6. In n8n, enter the **Email** address associated with your Jira account.
+7. Paste the API token you copied as your **API Token**.

@@ -1,0 +1,7 @@
+Refer to the [Gmail API Method: users.messages.list](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/list){:target=_blank .external-link} documentation for more information.
+
+## Mark as Read
+
+Use this operation to mark a message as read.
+
+Enter these parameters:

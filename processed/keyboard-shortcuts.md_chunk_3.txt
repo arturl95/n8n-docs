@@ -1,0 +1,7 @@
+### Nodes on the canvas
+
+- **Ctrl** + **a**: select all nodes
+- **Ctrl** + **v**: paste nodes
+- **Shift** + **s**: add sticky note
+
+### With one or more nodes selected in canvas

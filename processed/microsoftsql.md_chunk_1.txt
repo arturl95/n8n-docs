@@ -1,0 +1,9 @@
+## Prerequisites
+
+Create a user account on a [Microsoft SQL server](https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server){:target=_blank .external-link} database.
+
+## Supported authentication methods
+
+- SQL database connection
+
+## Related resources

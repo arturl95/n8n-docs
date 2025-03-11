@@ -1,0 +1,16 @@
+And the following new operations for strings:
+
+* Not Ends With
+* Regex Not Match
+* Not Starts With
+* Is Not Empty
+
+Additionally, Regex is now labelled Regex Match.
+
+#### New node: Redis Trigger
+
+Added a Redis Trigger node, so you can now start workflows based on a Redis event.
+
+* [Redis Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.redistrigger/) Added a Redis Trigger node.
+
+### Core functionality

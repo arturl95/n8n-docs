@@ -1,0 +1,3 @@
+* [Jira Software:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Added check for credentials validity.
+* [Microsoft OneDrive:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftonedrive/) Added functionality to create folder hierarchy automatically upon subfolder creation.
+* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added All Users option to Get All operation of Activity resource.

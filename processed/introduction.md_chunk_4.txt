@@ -1,0 +1,1 @@
+[:octicons-arrow-right-24: Let AI specify tool parameters with `$fromAI()`](/advanced-ai/examples/using-the-fromai-function/)

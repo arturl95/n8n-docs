@@ -1,0 +1,12 @@
+### New nodes
+
+* [Grist](/integrations/builtin/app-nodes/n8n-nodes-base.grist/)
+* [SeaTable](/integrations/builtin/app-nodes/n8n-nodes-base.seatable/)
+* [SeaTable Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.seatabletrigger/)
+* [urlscan.io](/integrations/builtin/app-nodes/n8n-nodes-base.urlscanio/)
+
+### Core Functionality
+- Performance improvements in Editor UI
+- Improved error reporting
+
+### Contributors

@@ -1,0 +1,12 @@
+## Prerequisites
+
+- Create a [Cockpit](https://getcockpit.com/){:target=_blank .external-link} account.
+- Set up a [self-hosted instance of Cockpit](https://getcockpit.com/documentation/core/quickstart/installation){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- API access token
+
+## Related resources
+
+Refer to [Cockpit's API documentation](https://getcockpit.com/documentation/core/api/introduction){:target=_blank .external-link} for more information about the service.

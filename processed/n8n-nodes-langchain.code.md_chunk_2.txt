@@ -1,0 +1,7 @@
+## Node parameters
+
+### Add Code
+
+Add your custom code. Choose either **Execute** or **Supply Data** mode. You can only use one mode.
+
+Unlike the [Code node](/integrations/builtin/core-nodes/n8n-nodes-base.code/), the LangChain Code node doesn't support Python.

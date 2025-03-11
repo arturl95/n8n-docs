@@ -1,0 +1,13 @@
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### LoneScale node
+
+Integrate n8n with [LoneScale](https://www.lonescale.com/){:target=_blank .external-link}, a buying intents data platform.
+
+[LoneScale node documentation](/integrations/builtin/app-nodes/n8n-nodes-base.lonescale/).
+
+</div>
+
+### Contributors

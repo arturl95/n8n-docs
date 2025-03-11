@@ -1,0 +1,8 @@
+#### Using the API
+
+The frontend API used by the Editor UI can also be called to achieve the same result. The API endpoint is in the format: `https://<n8n-domain>/rest/credentials`.
+
+For example, to create the credentials in the Editor UI example above, the request would be:
+```
+POST https://<n8n-domain>/rest/credentials
+```

@@ -1,0 +1,2 @@
+- **eu-api.jotform.com**: Select this if you're using JotForm [EU Safe Forms](https://www.jotform.com/eu-safe-forms/){:target=_blank .external-link}.
+    - **hipaa-api.jotform.com**: Select this if you're using JotForm [HIPAA forms](https://www.jotform.com/hipaa/){:target=_blank .external-link}.

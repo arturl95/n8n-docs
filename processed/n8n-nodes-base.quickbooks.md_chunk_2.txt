@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [QuickBooks credentials](/integrations/builtin/credentials/quickbooks/) for guidance on setting up authentication. 
+///
+
+## Operations

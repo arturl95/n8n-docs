@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: howto
+---
+
+# Queue mode
+
+You can run n8n in different modes depending on your needs. The queue mode provides the best scalability.
+
+/// note | Binary data storage
+n8n doesn't support queue mode with binary data storage. If your workflows need to persist binary data, you can't use queue mode.
+///
+
+## How it works

@@ -1,0 +1,7 @@
+## Node parameters
+
+* **Session Key**: Enter the key to use to store the memory in the workflow data.
+* **Table Name**: Enter the name of the table to store the chat history in. The system will create the table if doesn't exist.
+* **Context Window Length**: Enter the number of previous interactions to consider for context.
+
+## Related resources

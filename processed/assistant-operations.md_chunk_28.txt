@@ -1,0 +1,1 @@
+- **Remove All Custom Tools (Functions)**: Turn on to remove all custom tools (functions) from the assistant.

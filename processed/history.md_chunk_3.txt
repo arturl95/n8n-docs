@@ -1,0 +1,10 @@
+Workflow history is previous versions of the workflow: for example, a version with a different node, or different parameters set.
+///
+
+
+## View workflow history
+
+To view a workflow's history:
+
+1. Open the workflow.
+1. Select **Workflow history** <span class="inline-image">![Workflow history icon](/_images/common-icons/workflow-history.png){.off-glb}</span>. n8n opens a menu showing the saved workflow versions, and a canvas with a preview of the selected version.

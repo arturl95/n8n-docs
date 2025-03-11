@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Onfleet credentials](/integrations/builtin/credentials/onfleet/) for guidance on setting up authentication. 
+///
+
+## Operations

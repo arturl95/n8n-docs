@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create an [Automizy](https://automizy.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources
+
+Refer to [Automizy's API documentation](https://developers.automizy.com/automizyrestapi/){:target=_blank .external-link} for more information about the service.
+
+## Using API token
+
+To configure this credential, you'll need:

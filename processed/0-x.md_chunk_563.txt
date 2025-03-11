@@ -1,0 +1,9 @@
+### Bug fixes
+
+* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Fixed 'Ignore response code' flag.
+* [Rundeck:](/integrations/builtin/app-nodes/n8n-nodes-base.rundeck/) Fixed issue with async loading of credentials.
+* [SeaTable:](/integrations/builtin/app-nodes/n8n-nodes-base.seatable/) Fixed issue when entering a Baser URI with a trailing slash.
+
+### Contributors
+
+[Günther](https://github.com/erbg), [Tom Klingenberg](https://github.com/ktomk)

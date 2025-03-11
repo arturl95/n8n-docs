@@ -1,0 +1,7 @@
+<!-- vale off -->
+| **id** | **name**  | **job** | **last_updated**         |
+|--------|-----------|---------|--------------------------|
+| 9      | Tom Hanks | Actor   | 2024-10-17T13:58:31.493Z |
+<!-- vale on -->
+
+The **Discarded** tab contains the items processed by the previous execution:

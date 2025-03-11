@@ -1,0 +1,8 @@
+Refer to [Integration permissions](https://developers.notion.com/docs/authorization#integration-permissions){:target=_blank .external-link} for more information.
+
+## Using OAuth2
+
+To configure this credential, you'll need:
+
+- A **Client ID**: Generated once you configure a public integration.
+- A **Client Secret**: Generated once you configure a public integration.

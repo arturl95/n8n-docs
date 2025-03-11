@@ -1,0 +1,11 @@
+/// note | Integration type
+Not sure which integration type to use? Refer to [Internal vs. public integrations](#internal-vs-public-integrations) below for more information.
+///
+
+## Related resources
+
+Refer to [Notion's API documentation](https://developers.notion.com/reference/intro){:target=_blank .external-link} for more information about the service.
+
+## Using API integration token
+
+To configure this credential, you'll need:

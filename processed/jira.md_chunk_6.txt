@@ -1,0 +1,7 @@
+Refer to [Manage API tokens for your Atlassian account](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/){:target=_blank .external-link} for more information.
+
+/// note | New tokens
+New tokens may take up to a minute before they work. If your credential verification fails the first time, wait a minute before retrying.
+///
+
+## Using SW Server account

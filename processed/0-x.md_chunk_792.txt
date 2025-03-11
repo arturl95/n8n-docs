@@ -1,0 +1,7 @@
+- Enhanced nodes
+- Postgres: Added Schema parameter for the Update operation
+- Bug Fixes
+- Jira: Fixed a bug with the Issue Type field
+- Pipedrive Trigger: Fixed issues with the credentials
+- Changed the bcrypt library to `bcrypt.js` to make it compatible with Windows
+- The OAuth callback URLs are now generated in the backend

@@ -1,0 +1,4 @@
+* [Google Sheets:](/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/) Fixed an issue with the Lookup operation for returning empty rows
+* [Orbit:](/integrations/builtin/app-nodes/n8n-nodes-base.orbit/) Fixed issues with the Post resource
+* [Redis:](/integrations/builtin/app-nodes/n8n-nodes-base.redis/) Fixed an issue with the node not returning an error
+* [Xero:](/integrations/builtin/app-nodes/n8n-nodes-base.xero/) Fixed an issue with the Create operation for the Contact resource

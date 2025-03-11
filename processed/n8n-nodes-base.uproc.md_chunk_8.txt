@@ -1,0 +1,7 @@
+- Get three first web references of an email published on the internet
+- Allows you to fix the email domain of those misspelled emails
+- Fix the international prefix of a phone based on the ISO code of a country
+- Get GDPR compliant emails list by domain for your Email Marketing campaigns in Europe
+- Discover if mobile exist using real-time HLR query
+- Get personal email by social network profile
+- Get portability data about a landline or mobile number, only for Spain

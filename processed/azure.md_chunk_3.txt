@@ -1,0 +1,7 @@
+## Create a cluster
+
+From the Kubernetes services page, select **Create** > **Create a Kubernetes cluster**.
+
+You can select any of the configuration options that suit your needs, then select **Create** when done.
+
+## Set Kubectl context

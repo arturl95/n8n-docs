@@ -1,0 +1,7 @@
+- OpenWeatherMap: Added Language parameter
+- Pipedrive: Added additional parameters to the Get All operation for the Note resource
+- Salesforce: Added Flow resource
+- Spreadsheet File: Added Range option for the Read from file operation
+- Bug Fixes
+- ClickUp Trigger: Fixed issue with creating credentials
+- Pipedrive Trigger: Fixed issue with adding multiple webhooks to Pipedrive

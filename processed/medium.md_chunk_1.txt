@@ -1,0 +1,13 @@
+/// warning | Medium API no longer supported
+Medium has stopped supporting the Medium API. These credentials still appear within n8n, but you can't configure new integrations using them.
+///
+
+## Prerequisites
+
+- Create an account on [Medium](https://www.medium.com/){:target=_blank .external-link}.
+- For OAuth2, request access to credentials by emailing [yourfriends@medium.com](mailto:yourfriends@medium.com).
+
+## Supported authentication methods
+
+- API access token
+- OAuth2

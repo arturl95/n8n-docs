@@ -1,0 +1,9 @@
+- Database connection
+
+## Related resources
+
+Refer to [MySQL's documentation](https://dev.mysql.com/doc/refman/8.3/en/){:target=_blank .external-link} for more information about the service.
+
+## Using database connection
+
+To configure this credential, you'll need:

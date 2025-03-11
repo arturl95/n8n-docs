@@ -1,0 +1,7 @@
+Refer to GitLab's [Create a personal access token documentation](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#create-a-personal-access-token){:target=_blank .external-link} for more information.
+
+## Using OAuth2
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
+
+If you're [self-hosting](/hosting/) n8n, you'll need a [GitLab](https://gitlab.com/){:target=_blank .external-link} account. Then create a new GitLab application:

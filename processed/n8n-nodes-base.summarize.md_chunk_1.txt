@@ -1,0 +1,6 @@
+* **Aggregation**: Select the aggregation method to use on a given field. Options include:
+	* **Append**: Append 
+		* If you select this option, decide whether you want to **Include Empty Values** or not.
+	* **Average**: Calculate the numeric average of your input data.
+	* **Concatenate**: Combine together values in your input data.
+		* If you select this option, decide whether you want to **Include Empty Values** or not.

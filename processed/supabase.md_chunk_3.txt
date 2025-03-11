@@ -1,0 +1,2 @@
+1. In your Supabase account, go to the **Dashboard** and create or select a project for which you want to create an API key.
+2. Go to [**Project Settings > API**](https://supabase.com/dashboard/project/_/settings/api){:target=_blank .external-link} to see the API Settings for your project.

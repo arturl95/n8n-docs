@@ -1,0 +1,5 @@
+Whenever you make changes you need to rebuild and restart n8n. While developing you can use `npm run dev` to automatically rebuild and restart n8n anytime you make code changes. 
+
+## Theme colors
+
+To customize theme colors open [packages/design-system](https://github.com/n8n-io/n8n/tree/master/packages/design-system){:target=_blank .external-link} and start with:

@@ -1,0 +1,1 @@
+* **Type of Data**: Select **Binary** or **JSON**.

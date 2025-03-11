@@ -1,0 +1,9 @@
+/// note | Auth reference
+Refer to the [Webhook node | Authentication documentation](/integrations/builtin/core-nodes/n8n-nodes-base.webhook/#authentication) for more information on each auth type.
+///
+
+#### HTTP Method
+
+Select the HTTP method the webhook should use. Refer to the [Webhook node | HTTP Method documentation](/integrations/builtin/core-nodes/n8n-nodes-base.webhook/#http-method) for more information.
+
+#### Response Code

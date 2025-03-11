@@ -1,0 +1,5 @@
+[PR #6577](https://github.com/n8n-io/n8n/pull/6577){:target=_blank .external link}
+
+### Removed N8N_USE_DEPRECATED_REQUEST_LIB
+
+The legacy `request` library has been deprecated for some time now. As of n8n 1.0, the ability to fall back to it in the HTTP Request node by setting the `N8N_USE_DEPRECATED_REQUEST_LIB` environment variable has been fully removed. The HTTP Request node will now always use the new `HttpRequest` interface.

@@ -1,0 +1,13 @@
+- API key
+
+## Related resources
+
+Refer to the **Browse APIs** section of the [NASA Open APIs](https://api.nasa.gov/){:target=_blank .external-link} for more information about the service.
+
+## Using an API key
+
+To configure this credential, you'll need:
+
+- An **API Key**
+
+To generate an API key:

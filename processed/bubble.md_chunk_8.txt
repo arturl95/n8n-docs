@@ -1,0 +1,1 @@
+Refer to Bubble's [Creating and managing apps](https://manual.bubble.io/help-guides/getting-started/creating-and-managing-apps){:target=_blank .external-link} documentation for more information.

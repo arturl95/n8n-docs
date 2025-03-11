@@ -1,0 +1,11 @@
+## Prerequisites
+
+Create an account on a [Matrix](https://matrix.org/){:target=_blank .external-link} server. Refer to [Creating an account](https://matrix.org/docs/chat_basics/matrix-for-im/#creating-a-matrix-account){:target=_blank .external-link} for more information.
+
+## Supported authentication methods
+
+- API access token
+
+## Related resources
+
+Refer to the [Matrix Specification](https://spec.matrix.org/latest/){:target=_blank .external-link} for more information about the service.

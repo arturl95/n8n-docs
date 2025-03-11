@@ -1,0 +1,13 @@
+- New nodes
+- CircleCI
+- Microsoft SQL
+- Zoom
+- Enhanced nodes
+- Postmark Trigger
+- Salesforce
+- It's now possible to set default values for credentials that get prefilled, and the user can't change.
+
+
+## n8n@0.72.0
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.71.0...n8n@0.72.0) for this version.<br />
+**Release date:** 2020-07-02

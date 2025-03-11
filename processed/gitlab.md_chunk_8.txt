@@ -1,0 +1,2 @@
+6. Select the desired **Scopes**. For the [GitLab](/integrations/builtin/app-nodes/n8n-nodes-base.gitlab/) node, use the `api` scope to easily grant access for all the node's functionality. Or refer to [Personal access token scopes](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#personal-access-token-scopes){:target=_blank .external-link} to select scopes for the functions you want to use.
+6. Select **Save application**.

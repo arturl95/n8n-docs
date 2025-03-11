@@ -1,0 +1,13 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+description: Understand the n8n database structure
+contentType: explanation
+---
+
+# Database structure
+
+This page describes the purpose of each table in the n8n database.
+
+## Database and query technology
+
+By default, n8n uses SQLite as the database. If you are using another database the structure will be similar, but the data-types may be different depending on the database.

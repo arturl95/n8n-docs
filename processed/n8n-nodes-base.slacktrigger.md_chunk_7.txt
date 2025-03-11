@@ -1,0 +1,3 @@
+* **Channel to Watch**: Select the channel your node should watch for the selected **Events**. This parameter only appears if you don't turn on **Watch Whole Workspace**. You can select a channel:
+    * **From list**: The node uses your credential to look up a list of channels in the workspace so you can select the channel you want.
+    * **By ID**: Enter the ID of a channel you want to watch. Slack displays the channel ID at the bottom of the channel details with a one-click copy button.

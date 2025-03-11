@@ -1,0 +1,6 @@
+### Core Functionality
+- Performance improvement for loading of historical executions (> 3mil) when using Postgres.
+- Fixed error handling for unending workflows and display of "unknown" workflow status.
+- Fixed format of Workflow ID when downloading from UI Editor to enable compatibility with importing from CLI.
+
+### Bug fixes

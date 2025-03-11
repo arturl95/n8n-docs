@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [GitHub credentials](/integrations/builtin/credentials/github/) for guidance on setting up authentication. 
+///
+
+## Operations

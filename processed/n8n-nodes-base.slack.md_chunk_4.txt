@@ -1,0 +1,13 @@
+* **Leave** a channel.
+    * **Member**: List the members of a channel.
+    * **Open** or resume a direct message or multi-person direct message.
+    * **Rename** a channel.
+    * **Replies**: Get a thread of messages posted to a channel.
+    * **Sets purpose** of a channel.
+    * **Sets topic** of a channel.
+    * **Unarchive** a channel.
+* **File**
+    * **Get** a file.
+    * **Get Many**: Get and filter team files.
+    * **Upload**: Create or upload an existing file.
+* **Message**

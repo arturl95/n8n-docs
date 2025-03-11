@@ -1,0 +1,11 @@
+## Supported authentication methods
+
+- Database connection
+
+## Related resources
+
+Refer to [FileMaker's Data API Guide](https://help.claris.com/en/data-api-guide/content/index.html){:target=_blank .external-link} for more information about the service.
+
+## Using database connection
+
+To configure this credential:

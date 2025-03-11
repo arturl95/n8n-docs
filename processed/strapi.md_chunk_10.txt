@@ -1,0 +1,11 @@
+For either option, once you open the role:
+
+1. Go to the **Permissions** section.
+2. Open the section for the relevant collection type.
+3. Select the permissions for the collection type that the role should have. Options include:
+    - `create` (POST)
+    - `find` and `findone` (GET)
+    - `update` (PUT)
+    - `delete` (DELETE)
+4. Repeat for all relevant collection types.
+5. Save the role.

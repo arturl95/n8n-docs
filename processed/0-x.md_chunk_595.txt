@@ -1,0 +1,5 @@
+### Core Functionality
+- Integrated [Nodelinter](/integrations/creating-nodes/test/node-linter/) in n8n.
+- Fix to add a trailing slash (`/`) to all webhook URLs for proper functionality.
+
+### Bug fixes

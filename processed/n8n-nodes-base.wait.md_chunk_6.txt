@@ -1,0 +1,8 @@
+#### Authentication
+
+Select if and how incoming resume-webhook-requests to `$execution.resumeUrl` should be authenticated. Options include:
+
+* **Basic Auth**: Use basic authentication. Select or enter a new **Credential for Basic Auth** to use.
+* **Header Auth**: Use header authentication. Select or enter a new **Credential for Header Auth** to use.
+* **JWT Auth**: Use JWT authentication. Select or enter a new **Credential for JWT Auth** to use.
+* **None**: Don't use authentication.

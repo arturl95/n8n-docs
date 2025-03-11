@@ -1,0 +1,11 @@
+} 
+				}
+			]
+			return urls;
+			```
+	2. Add a **Loop Over Items node** connected to the **Code node**.
+		- Set **Batch Size** to `1`.
+	3. The **Loop Over Items node** automatically adds a node called "Replace Me". Replace that node with an **RSS Read node**.
+		- Set the **URL** to use the url from the Code Node: `{{ $json.url }}`.
+	
+	The workflow for this exercise looks like this:

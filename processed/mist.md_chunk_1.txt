@@ -1,0 +1,9 @@
+## Prerequisites
+
+Create a [Mist](https://www.mist.com/){:target=_blank .external-link} account and organization. Refer to [Create a Mist account and Organization](https://www.mist.com/documentation/create-mist-org/){:target=_blank .external-link} for detailed instructions.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources

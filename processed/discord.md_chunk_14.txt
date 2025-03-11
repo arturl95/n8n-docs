@@ -1,0 +1,4 @@
+- [Fetching your credentials](https://discord.com/developers/docs/quick-start/getting-started#fetching-your-credentials){:target=_blank .external-link} for getting your app's credentials into your local developer environment.
+- [Handling interactivity](https://discord.com/developers/docs/quick-start/getting-started#step-3-handling-interactivity){:target=_blank .external-link} for information on setting up public endpoints for interactive `/slash` commands.
+
+## Using OAuth2

@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [HubSpot credentials](/integrations/builtin/credentials/hubspot/) for guidance on setting up authentication. 
+///
+
+## Operations

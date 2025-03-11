@@ -1,0 +1,13 @@
+Configure this operation with this parameter:
+
+* **Workflow Object**: Enter a valid JSON object with the new workflow's details. The object requires these fields:
+	* `name`
+	* `nodes`
+	* `connections`
+	* `settings`
+
+Refer to the [n8n API | Create a workflow documentation](/api/api-reference/#tag/Workflow/paths/~1workflows/post) for more information.
+
+## Get many workflows
+
+Configure this operation with these parameters:

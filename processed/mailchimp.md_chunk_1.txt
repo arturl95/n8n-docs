@@ -1,0 +1,15 @@
+- [Mailchimp](/integrations/builtin/app-nodes/n8n-nodes-base.mailchimp/)
+- [Mailchimp Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.mailchimptrigger/)
+
+## Prerequisites
+
+Create a [Mailchimp](https://www.mailchimp.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+- OAuth2
+
+Refer to [Selecting an authentication method](#selecting-an-authentication-method) for guidance on which method to use.
+
+## Related resources

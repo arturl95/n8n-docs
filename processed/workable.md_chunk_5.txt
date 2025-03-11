@@ -1,0 +1,3 @@
+Refer to [Supported API scopes](https://help.workable.com/hc/en-us/articles/115015785428-Generating-revoking-access-tokens-for-Workable-s-API#SupportedAPIscopes){:target=_blank .external-link} for more information on scopes.
+    ///
+    <!-- vale on -->

@@ -1,0 +1,15 @@
+#### Overhauled built-in variables
+
+n8n's [built-in methods and variables](/code/) have been overhauled, introducing new variables, and providing greater consistency in behavior and naming.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Redesigned main navigation
+
+We've redesigned the main navigation (the left hand menu) to create a simpler user experience.
+
+</div>
+
+#### Other new features

@@ -1,0 +1,3 @@
+## Embeddings, retrievers, text splitters, and document loaders
+
+Vector databases require other tools to function:

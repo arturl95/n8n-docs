@@ -1,0 +1,8 @@
+1. Enter your Dynamics **Domain**.
+2. Select the Dynamics data center **Region** you're within.
+
+Refer to the [Microsoft Datacenter regions documentation](https://learn.microsoft.com/en-us/power-platform/admin/new-datacenter-regions){:target=_blank .external-link} for more information on the region options and corresponding URLs.
+
+#### Microsoft (general)
+
+The general Microsoft OAuth2 also requires you to provide a space-separated list of **Scope**s for this credential.

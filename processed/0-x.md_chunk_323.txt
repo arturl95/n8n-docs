@@ -1,0 +1,8 @@
+This release fixes a bug that was preventing new nodes from reliably displaying in all browsers.
+
+## n8n@0.187.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.186.1...n8n@0.187.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2022-07-20
+
+This release includes several major new features, including:

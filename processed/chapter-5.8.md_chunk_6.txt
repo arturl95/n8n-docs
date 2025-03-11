@@ -1,0 +1,5 @@
+## Workflow Settings
+
+You can customize your workflows and executions, or overwrite some of the global default settings in [**Workflow Settings**](/workflows/settings/).
+
+Access these settings by selecting the three dots in the upper right corner of the Editor UI, then select **Settings**.

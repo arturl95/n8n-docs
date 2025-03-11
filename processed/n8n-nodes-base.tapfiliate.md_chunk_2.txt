@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Tapfiliate credentials](/integrations/builtin/credentials/tapfiliate/) for guidance on setting up authentication. 
+///
+
+## Operations

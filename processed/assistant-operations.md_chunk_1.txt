@@ -1,0 +1,9 @@
+# OpenAI Assistant operations
+
+Use this operation to create, delete, list, message, or update an assistant in OpenAI. Refer to [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-base.openai/) for more information on the OpenAI node itself.
+
+## Create an Assistant
+
+Use this operation to create a new assistant.
+
+Enter these parameters:

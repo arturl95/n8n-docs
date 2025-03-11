@@ -1,0 +1,3 @@
+1. Add another Postbin node, to handle the **false** output path from the If node:
+    1. Hover over the Postbin node, then select **Node context menu** <span class="inline-image">![Node context menu icon](/_images/common-icons/node-context-menu.png){.off-glb}</span> > **Duplicate node** to duplicate the first Postbin node.
+    2. Drag the **false** connector from the If node to the left side of the new Postbin node.

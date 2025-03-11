@@ -1,0 +1,7 @@
+### Node enhancements
+
+* JIRA node: support binary streaming for very large binary files.
+* OpenAI node: add support for ChatGPT.
+* Telegram node: add parse mode option to Send Document operation.
+
+### Bug fixes

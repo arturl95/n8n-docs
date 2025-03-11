@@ -1,0 +1,2 @@
+* [Slack:](/integrations/builtin/app-nodes/n8n-nodes-base.slack/) Increase the Slack default query limit from 5 to 100 in order to reduce number of requests.
+* [Twitter:](/integrations/builtin/app-nodes/n8n-nodes-base.twitter/) Added Tweet Mode additional field to the Search operation of Tweet resource.

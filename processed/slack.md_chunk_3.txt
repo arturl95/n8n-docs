@@ -1,0 +1,11 @@
+## Related resources
+
+Refer to [Slack's API documentation](https://api.slack.com/apis){:target=_blank .external-link} for more information about the service.
+
+## Using API access token
+
+To configure this credential, you'll need a [Slack](https://slack.com/){:target=_blank .external-link} account and:
+
+- An **Access Token**
+
+To generate an access token, create a Slack app:

@@ -1,0 +1,18 @@
+```
+icon: 'file:exampleNodeIcon.svg'
+```
+To provide different icons for light and dark modes, use an object with `light` and `dark` properties. For example:
+```
+icon: { 
+  light: 'file:exampleNodeIcon.svg', 
+  dark: 'file:exampleNodeIcon.dark.svg' 
+}
+```
+
+--8<-- "_snippets/integrations/creating-nodes/node-icons.md"
+
+## `group`
+
+_Array of strings_ | _Required_
+
+Tells n8n how the node behaves when the workflow runs. Options are:

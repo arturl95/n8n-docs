@@ -1,0 +1,26 @@
+"name": "Code",
+			"type": "n8n-nodes-base.code",
+			"typeVersion": 2,
+			"position": [
+				1180,
+				500
+			]
+			},
+			{
+			"parameters": {
+				"conditions": {
+				"string": [
+					{
+					"value1": "={{ $json.dataPrivacyLevel }}",
+					"value2": "={{ $('Execute Workflow Trigger').item.json.visibility  }}"
+					}
+				]
+				}
+			},
+			"id": "eb479841-8099-4537-b89b-4b9867446688",
+			"name": "Filter",
+			"type": "n8n-nodes-base.filter",
+			"typeVersion": 1,
+			"position": [
+				1380,
+				500

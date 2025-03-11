@@ -1,0 +1,14 @@
+### Column Names
+
+The following options specify the names of the columns to store the vectors and corresponding information in:
+
+* **ID Column Name**
+* **Vector Column Name**
+* **Content Column Name**
+* **Metadata Column Name**
+
+### Metadata Filter
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/vector-store-metadata-filter.md"
+
+## Templates and examples

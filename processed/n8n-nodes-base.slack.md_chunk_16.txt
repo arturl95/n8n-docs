@@ -1,0 +1,4 @@
+| Channel | Unarchive | [conversations.unarchive](https://api.slack.com/methods/conversations.unarchive){:target=blank .external-link} |
+| File | Get | [files.info](https://api.slack.com/methods/files.info){:target=blank .external-link} |
+| File | Get Many | [files.list](https://api.slack.com/methods/files.list){:target=blank .external-link} |
+| File | Upload | [files.upload](https://api.slack.com/methods/files.upload){:target=blank .external-link} |

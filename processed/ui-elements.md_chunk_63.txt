@@ -1,0 +1,10 @@
+location: 'outputPane',
+			// Choose from: always, beforeExecution, afterExecution. The default is 'always'
+			whenToDisplay: 'beforeExecution',
+			// Optional. An expression. If it resolves to true, n8n displays the message. Defaults to true.
+			displayCondition: '={{ $parameter["operation"] === "select" && $input.all().length > 1 }}'
+		}
+	]
+	...
+}
+```

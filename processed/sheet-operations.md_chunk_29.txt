@@ -1,0 +1,4 @@
+- **Credential to connect with**: Create or select an existing [Google Sheets credentials](/integrations/builtin/credentials/google/).
+- **Resource**: Select **Sheet Within Document**.
+- **Operation**: Select **Delete Rows or Columns**.
+- **Document**: Choose a spreadsheet that contains the sheet you want to delete rows or columns from.

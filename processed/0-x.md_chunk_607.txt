@@ -1,0 +1,4 @@
+### Enhanced nodes
+
+* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added Lead resource. Added Search operation to Organization resource.
+* [Taiga Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.taigatrigger/) Added Resource and Operations filters.

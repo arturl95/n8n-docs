@@ -1,0 +1,1 @@
+* If the number isn't equal, or you create completely new items, n8n can't automatically link items.

@@ -1,0 +1,7 @@
+Refer to the [Method: spreadsheets.batchUpdate | Google Sheets](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets/batchUpdate){:target=_blank .external-link} API documentation for more information.
+
+## Get Row(s)
+
+Use this operation to read one or more rows from a sheet. 
+
+Enter these parameters:

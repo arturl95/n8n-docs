@@ -1,0 +1,3 @@
+* **CC**: Enter one or more email addresses for carbon copy recipients. Separate multiple email addresses with a comma, for example `jay@gatsby.com, jon@smith.com`.
+* **Sender Name**: Enter the name you want displayed in your recipients' email as the sender.
+* **Reply to Sender Only**: Choose whether to reply all (turned off) or reply to the sender only (turned on).

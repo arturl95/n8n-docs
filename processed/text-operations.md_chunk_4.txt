@@ -1,0 +1,2 @@
+- **Messages**: Enter a **Text** prompt and assign a **Role** that the model will use to generate responses. Refer to [Prompt engineering | OpenAI](https://platform.openai.com/docs/guides/prompt-engineering){:target=_blank .external-link} for more information on how to write a better prompt by using these roles. Choose from one of these roles: 
+    - **User**: Sends a message as a user and gets a response from the model.

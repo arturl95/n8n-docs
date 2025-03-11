@@ -1,0 +1,1 @@
+* **Top P**: Use this option to set the probability the completion should use. Use a lower value to ignore less probable options.

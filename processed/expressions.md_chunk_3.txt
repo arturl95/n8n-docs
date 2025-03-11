@@ -1,0 +1,10 @@
+/// note | No Python support
+Expressions must use JavaScript.
+///
+/// note | Data in n8n
+When writing expressions, it's helpful to understand data structure and behavior in n8n. Refer to [Data](/data/) for more information on working with data in your workflows.
+///
+## Writing expressions
+
+
+To use an expression to set a parameter value:

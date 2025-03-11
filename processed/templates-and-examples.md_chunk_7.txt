@@ -1,0 +1,6 @@
+## Removing duplicates from the current input
+
+1. Add a Remove Duplicates node to the canvas and connect it to the Split Out node. Choose **Remove items repeated within current input** as the **Action** to start.
+2. Open the Remove Duplicates node and ensure that the **Operation** is set to **Remove Items Repeated Within Current Input**.
+3. Choose **All fields** in the **Compare** field.
+4. Select **Test step** to run the Remove Duplicates node, removing duplicated data in the current input.

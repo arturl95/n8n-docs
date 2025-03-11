@@ -1,0 +1,6 @@
+* **File Name**: Enter the file name for the generated output file.
+* **Compression**: Choose whether to compress and reduce the file's output size.
+* **Header Row**: Turn on if the first row of the file contains header names.
+* **Sheet Name**: Enter the Sheet Name to create in the spreadsheet.
+
+### Move Base64 String to File

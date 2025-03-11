@@ -1,0 +1,1 @@
+* Create a new role to include the permissions and assign the user to that role. Refer to [Creating a new role](https://docs.strapi.io/user-docs/users-roles-permissions/configuring-end-users-roles#creating-a-new-role){:target=_blank .external-link} for more information.

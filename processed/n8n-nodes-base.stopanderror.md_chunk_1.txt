@@ -1,0 +1,14 @@
+## Operations
+
+* Error Message
+* Error Object
+
+## Node parameters
+
+Both operations include one node parameter, the **Error Type**. Use this parameter to select the type of error to throw. Choose between the two operations: **Error Message** and **Error Object**.
+
+The other parameters depend on which operation you select.
+
+### Error Message parameters
+
+The Error Message Error Type adds one parameter, the **Error Message** field. Enter the message you'd like to throw.

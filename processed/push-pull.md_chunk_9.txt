@@ -1,0 +1,3 @@
+To prevent the issue described above, you should immediately push your changes to a workflow once you finish working on it. Then it's safe to pull.
+
+To avoid losing data:

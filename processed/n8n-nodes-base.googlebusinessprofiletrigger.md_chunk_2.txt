@@ -1,0 +1,11 @@
+///  note  | Credentials
+You can find authentication information for this node [here](/integrations/builtin/credentials/google/).
+///
+
+## Events
+
+* Review Added
+
+## Related resources
+
+n8n provides an app node for Google Business Profile. You can find the node docs [here](/integrations/builtin/app-nodes/n8n-nodes-base.googlebusinessprofile/).

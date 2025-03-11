@@ -1,0 +1,7 @@
+1. Open the Todoist [App Management Console](https://developer.todoist.com/appconsole.html){:target=_blank .external-link}.
+2. Select **Create a new app**.
+3. Enter an **App name** for your app, like `n8n integration`.
+4. Select **Create app**.
+5. Copy the n8n **OAuth Redirect URL** and enter it as the **OAuth redirect URL** in Todoist.
+6. Copy the **Client ID** from Todoist and enter it in your n8n credential.
+7. Copy the **Client Secret** from Todoist and enter it in your n8n credential.

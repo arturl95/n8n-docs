@@ -1,0 +1,11 @@
+* `nodes/ExampleNode`
+* `nodes/HTTPBin`
+* `credentials/ExampleCredentials.credentials.ts`
+* `credentials/HttpBinApi.credentials.ts`
+
+Now create the following directories and files:
+
+`nodes/NasaPics`  
+`nodes/NasaPics/NasaPics.node.json`  
+`nodes/NasaPics/NasaPics.node.ts`  
+`credentials/NasaPicsApi.credentials.ts`

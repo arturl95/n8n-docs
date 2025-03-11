@@ -1,0 +1,3 @@
+* [Bitbucket Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.bitbuckettrigger/) Added check for credentials validity. Removed deprecated User and Team resources, and added the Workspace resource.
+* [GitHub:](/integrations/builtin/app-nodes/n8n-nodes-base.github/) Added check for API credentials validity.
+* [Home Assistant:](/integrations/builtin/app-nodes/n8n-nodes-base.homeassistant/) Added check for credentials validity.

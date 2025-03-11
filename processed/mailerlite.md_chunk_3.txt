@@ -1,0 +1,1 @@
+Enable the **Classic API** toggle if the API key is for a MailerLite Classic account instead of the newer MailerLite experience.

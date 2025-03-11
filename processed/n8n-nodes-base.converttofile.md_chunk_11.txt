@@ -1,0 +1,10 @@
+### Convert to JSON
+
+Choose the best output **Mode** for your needs from these options:
+
+* **All Items to One File**: Send all input items to a single file.
+* **Each Item to Separate File**: Create a file for every input item.
+
+#### Convert to JSON options
+
+You can also configure this operation with these **Options**:

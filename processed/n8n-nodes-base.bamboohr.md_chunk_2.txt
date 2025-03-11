@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [BambooHR credentials](/integrations/builtin/credentials/bamboohr/) for guidance on setting up authentication. 
+///
+
+## Operations

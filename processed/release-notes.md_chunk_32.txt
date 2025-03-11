@@ -1,0 +1,8 @@
+## n8n@1.71.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@1.70.2...n8n@1.71.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2024-12-04
+
+This release contains node updates, performance improvements, and bug fixes.
+
+<div class="n8n-new-features" markdown>

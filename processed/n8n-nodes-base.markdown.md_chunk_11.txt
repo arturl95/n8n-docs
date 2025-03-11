@@ -1,0 +1,3 @@
+| **Raw Header ID** | Whether to remove spaces, `'`, and `"` from header IDs, including prefixes, replacing them with `-` (enabled) or not (disabled). | Disabled |
+| **Raw Prefix Header ID** | Whether to prevent n8n from modifying header prefixes (enabled) or not (disabled) | Disabled |
+| **Simple Line Breaks** | Whether to create line breaks without a double space at the end of a line (enabled) or not (disabled). | Disabled |

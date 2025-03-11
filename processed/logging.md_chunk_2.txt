@@ -1,0 +1,3 @@
+| Setting in the configuration file | Using environment variables | Description |
+|-----------------------------------|-----------------------------|-------------|
+| n8n.log.level | N8N_LOG_LEVEL | The log output level. The available options are (from lowest to highest level) are error, warn, info, and debug. The default value is `info`. You can learn more about these options [here](#log-levels). |

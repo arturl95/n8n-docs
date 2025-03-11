@@ -1,0 +1,11 @@
+### New features
+
+* Core: reimplement blocking workflow updates on interim changes.
+* Editor: block the UI in node details view when the workflow is listening for an event.
+* Performance improvements
+
+### Node enhancements
+
+Venafi TLS Protect Cloud node: make issuing template depend on application.
+
+### Bug fixes

@@ -1,0 +1,7 @@
+### Bug fixes
+
+* [Jira:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Fixed an issue with loading issue types with classic project type
+* [RabbitMQ Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.rabbitmqtrigger/) Fixed an issue with the node reusing the same item
+* [SendGrid:](/integrations/builtin/app-nodes/n8n-nodes-base.sendgrid/) Fixed an issue with the dynamic field generation
+
+### Contributors

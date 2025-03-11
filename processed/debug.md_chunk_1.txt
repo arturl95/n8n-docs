@@ -1,0 +1,5 @@
+You can load data from a previous execution into your current workflow. This is useful for debugging data from failed production executions: you can see a failed execution, make changes to your workflow to fix it, then re-run it with the previous execution data.
+
+## Load data
+
+To load data from a previous execution:

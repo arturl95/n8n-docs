@@ -1,0 +1,6 @@
+## Events
+
+- Triggered every time a balance account is credited
+- Triggered every time a balance account is credited or debited
+- Triggered every time a transfer's list of active cases is updated
+- Triggered every time a transfer's status is updated

@@ -1,0 +1,17 @@
+/// note | Credentials
+Refer to [Iterable credentials](/integrations/builtin/credentials/iterable/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Event
+    * Record the actions a user perform
+* User
+    * Create/Update a user
+    * Delete a user
+    * Get a user
+* User List
+    * Add user to list
+    * Remove a user from a list
+
+## Templates and examples

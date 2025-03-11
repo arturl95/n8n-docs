@@ -1,0 +1,5 @@
+1. In your workflow, select **Executions**.	
+2. Select **Filters**.
+3. Enter your filters. You can filter by:
+	* **Status**: choose from **Failed**, **Running**, **Success**, or **Waiting**.
+	* **Execution start**: see executions that started in the given time.

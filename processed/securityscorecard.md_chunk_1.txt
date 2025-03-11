@@ -1,0 +1,9 @@
+## Prerequisites
+
+Create a [SecurityScorecard](https://securityscorecard.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

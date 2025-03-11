@@ -1,0 +1,7 @@
+Run the following command to start a Redis instance:
+
+```
+docker run --name some-redis -p 6379:6379  -d redis
+```
+
+By default, Redis runs on `localhost` on port `6379` with no password. Based on your Redis configuration, set the following configurations for the main n8n process. These will allow n8n to interact with Redis.

@@ -1,0 +1,7 @@
+<!-- vale from-microsoft.FirstPerson = NO -->
+### Who can use the Assistant?
+<!-- vale from-microsoft.FirstPerson = YES -->
+
+Any user on a Cloud plan can use the assistant.
+
+### How does the Assistant work?

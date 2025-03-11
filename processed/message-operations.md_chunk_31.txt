@@ -1,0 +1,5 @@
+Refer to the [Gmail API Method: users.messages.send](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/send){:target=_blank .external-link} documentation for more information.
+
+## Send a message and wait for approval
+
+Use this operation to send a message and wait for approval from the recipient before continuing the workflow execution.

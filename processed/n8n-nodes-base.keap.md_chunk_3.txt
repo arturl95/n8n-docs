@@ -1,0 +1,21 @@
+* Company
+    * Create a company
+    * Retrieve all companies
+* Contact
+    * Create/update a contact
+    * Delete an contact
+    * Retrieve an contact
+    * Retrieve all contacts
+* Contact Note
+    * Create a note
+    * Delete a note
+    * Get a notes
+    * Retrieve all notes
+    * Update a note
+* Contact Tag
+    * Add a list of tags to a contact
+    * Delete a contact's tag
+    * Retrieve all contact's tags
+* Ecommerce Order
+    * Create an ecommerce order
+    * Get an ecommerce order

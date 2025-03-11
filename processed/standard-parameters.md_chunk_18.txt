@@ -1,0 +1,5 @@
+### Additional fields objects
+
+These objects define optional parameters. n8n displays them under **Additional Fields** in the GUI. Users can choose which parameters to set.
+
+The objects must include:

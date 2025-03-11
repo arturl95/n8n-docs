@@ -1,0 +1,4 @@
+8. In n8n, copy the **OAuth Redirect URL**.
+9. In Asana, select **Add redirect URL** and enter the URL you copied from n8n.
+7. Copy the **Client ID** from Asana and enter it in your n8n credential.
+8. Copy the **Client Secret** from Asana and enter it in your n8n credential.

@@ -1,0 +1,16 @@
+## Prerequisites
+
+You must use the authentication method required by the app or service you want to query.
+
+## Supported authentication methods
+
+- Basic auth
+- Header auth
+- JWT auth
+- None
+
+--8<-- "_snippets/integrations/builtin/credentials/generic-auth/basic-auth.md"
+
+--8<-- "_snippets/integrations/builtin/credentials/generic-auth/header-auth.md"
+
+## Using JWT auth

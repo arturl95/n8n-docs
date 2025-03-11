@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Generate an API key from your profile in the [dashboard](https://hunter.io/api-keys){:target=_blank .external-link}. Refer to the [Hunter API Authentication documentation](https://hunter.io/api-documentation/v2#authentication){:target=_blank .external-link} for more information.

@@ -1,0 +1,14 @@
+## Supported authentication methods
+
+- API token (recommended)
+- User auth token
+
+    /// note | User auth token deprecation
+    NocoDB deprecated user auth tokens in v0.205.1. Use [API tokens](#using-api-token) instead.
+    ///
+
+## Related resources
+
+Refer to [NocoDB's API documentation](https://data-apis-v2.nocodb.com/){:target=_blank .external-link} for more information about the service.
+
+## Using API token

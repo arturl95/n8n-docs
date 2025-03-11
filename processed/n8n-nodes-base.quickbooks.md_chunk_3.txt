@@ -1,0 +1,42 @@
+* Bill
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* Customer
+    * Create
+    * Get
+    * Get All
+    * Update
+* Employee
+    * Create
+    * Get
+    * Get All
+    * Update
+* Estimate
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Send
+    * Update
+* Invoice
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Send
+    * Update
+    * Void
+* Item
+    * Get
+    * Get All
+* Payment
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Send
+    * Update
+    * Void

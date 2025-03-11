@@ -1,0 +1,2 @@
+- **Output Randomness (Top P)**: Adjust the Top P setting to control the diversity of the assistant's responses. For example, `0.5` means half of all likelihood-weighted options are considered. We recommend altering this or **Output Randomness (Temperature)** but not both. Defaults to `1.0`. 
+- **Fail if Assistant Already Exists**: If enabled, the operation will fail if an assistant with the same name already exists.

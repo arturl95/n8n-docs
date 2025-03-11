@@ -1,0 +1,4 @@
+| Deal Product | Get all products in a deal |  **Products: Read Only** or <br> **Products: Full Access** | `products:read` or <br> `products:full` |
+| File | Download <br> Get data of a file | Refer to note below | Refer to note below |
+| File | Create <br> Delete | Refer to note below | Refer to note below |
+| Lead | Get data of a lead <br> Get data of all leads | **Leads: Read only** or <br> **Leads: Full access** | `leads:read` or <br> `leads:full` |

@@ -1,0 +1,4 @@
+- **Fields**: Specify the fields to return. By default, returns a set of commonly used fields predefined by Google. Use "*" to return all fields. You can find out more in [Google Calendar's documentation on working with partial resources](https://developers.google.com/calendar/api/guides/performance#partial).
+<!-- vale Vale.Spelling = NO -->
+- **iCalUID**: Specifies an event ID (in the iCalendar format) to include in the response.
+<!-- vale Vale.Spelling = YES -->

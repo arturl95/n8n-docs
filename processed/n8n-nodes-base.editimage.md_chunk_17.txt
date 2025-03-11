@@ -1,0 +1,3 @@
+* **Only if Larger**: Resize the image only if it's larger than the width and height you entered. The image maintains its aspect ratio.
+	* **Only if Smaller**: Resize the image only if it's smaller than the width and height you entered. The image maintains its aspect ratio.
+	* **Percent**: Resize the image using the width and height as percentages of the original image.

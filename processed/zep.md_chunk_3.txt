@@ -1,0 +1,12 @@
+## Using API key
+
+To configure this credential, you'll need a [Zep server](https://www.getzep.com/){:target=_blank .external-link} with at least one project and:
+
+- An **API URL**
+- An **API Key**
+
+Setup depends on whether you're using Zep Cloud or self-hosted Zep Open Source.
+
+### Zep Cloud setup
+
+Follow these instructions if you're using [Zep Cloud](https://app.getzep.com){:target=_blank .external-link}:

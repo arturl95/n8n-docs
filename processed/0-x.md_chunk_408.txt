@@ -1,0 +1,7 @@
+</div>
+
+### Enhancements
+
+**editor**: you can now drag and drop nodes from the nodes panel onto the canvas.
+
+### Node enhancements

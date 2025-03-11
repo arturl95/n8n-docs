@@ -1,0 +1,12 @@
+## Related resources
+
+Refer to [Dropbox's Developer documentation](https://www.dropbox.com/developers/documentation){:target=_blank .external-link} for more information about the service.
+
+## Using access token
+
+To configure this credential, you'll need a [Dropbox](https://www.dropbox.com/developers){:target=_blank .external-link} developer account and:
+
+- An **Access Token**: Generated once you create a Dropbox app.
+- An **App Access Type**
+
+To set up the credential, create a Dropbox app:

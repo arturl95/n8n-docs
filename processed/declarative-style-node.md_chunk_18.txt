@@ -1,0 +1,3 @@
+In a declarative-style node, the operations object includes `routing` (within the `options` array). This sets up the details of the API call.
+
+Add the following to the `properties` array, after the `resource` object:

@@ -1,0 +1,4 @@
+- **Show Completion Screen**: Shows users a final screen to confirm that they submitted the form.
+	- Fill in **Completion Title** to set the `h1` title on the form.
+	- n8n displays the **Completion Message** as a subtitle below the main `h1` title on the form. Use `\n` or `<br>` to add a line break. 
+	- Select **Add option** and fill in **Completion Page Title** to set the page's title in the browser tab.

@@ -1,0 +1,4 @@
+* [Clockify:](/integrations/builtin/app-nodes/n8n-nodes-base.clockify/) Added Task resource.
+* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Added dropdown selection for Properties and Properties with History filters for Get All Deals operations.
+* [Mautic:](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/) Added Campaign Contact resource.
+* [MongoDB:](/integrations/builtin/app-nodes/n8n-nodes-base.mongodb/) Added ability to query documents by '_id'.

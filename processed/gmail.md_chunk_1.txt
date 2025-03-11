@@ -1,0 +1,16 @@
+To follow these instructions, you must first:
+
+1. [Enable 2-step Verification](#enable-2-step-verification) on your Gmail account.
+2. [Generate an app password](#generate-an-app-password).
+
+### Enable 2-step Verification
+
+--8<-- "_snippets/integrations/builtin/credentials/email/gmail-two-step-verification.md"
+
+### Generate an app password
+
+--8<-- "_snippets/integrations/builtin/credentials/email/gmail-app-password.md"
+
+## Set up the credential
+
+To set up the Send Email credential to use Gmail:

@@ -1,0 +1,6 @@
+- **Credential to connect with**: Create or select an existing [Google Calendar credentials](/integrations/builtin/credentials/google/).
+- **Resource**: Select **Event**.
+- **Operation**: Select **Update**.
+- **Calendar**: Choose a calendar you want to add an event to. Select **From list** to choose the title from the dropdown list or **By ID** to enter a calendar ID.
+- **Event ID**: The ID of the event to update.
+<!-- vale from-write-good.TooWordy = NO -->

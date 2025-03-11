@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [ClickUp credentials](/integrations/builtin/credentials/clickup/) for guidance on setting up authentication. 
+///
+
+## Operations

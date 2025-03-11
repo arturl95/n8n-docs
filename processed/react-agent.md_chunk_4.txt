@@ -1,0 +1,6 @@
+## Node options
+
+Use the options to create a message to send to the agent at the start of the conversation. The message type depends on the model you're using:
+
+* **Chat models**: These models have the concept of three components interacting (AI, system, and human). They can receive system messages and human messages (prompts).
+* **Instruct models**: These models don't have the concept of separate AI, system, and human components. They receive one body of text, the instruct message.

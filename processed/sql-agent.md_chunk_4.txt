@@ -1,0 +1,2 @@
+* **Postgres**: Select this option to use a Postgres database.
+    * Also select the **Credential for Postgres**.

@@ -1,0 +1,12 @@
+routing: {
+              request: {
+                method: 'GET',
+                url: '/planetary/apod'
+              }
+            }
+          }
+        ]
+      }
+    ]
+}
+```

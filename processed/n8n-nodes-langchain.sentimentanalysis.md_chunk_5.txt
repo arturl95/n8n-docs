@@ -1,0 +1,11 @@
+## Usage Notes
+
+### Model Temperature Setting
+
+It's strongly advised to set the temperature of the connected language model to 0 or a value close to 0. This helps ensure that the results are as deterministic as possible, providing more consistent and reliable sentiment analysis across multiple runs.
+
+### Language Considerations
+
+The node's performance may vary depending on the language of the input text.
+
+For best results, ensure your chosen language model supports the input language.

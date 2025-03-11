@@ -1,0 +1,14 @@
+## Prerequisites
+
+Create a [Storyblok](https://www.storyblok.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Content API key: For read-only access
+- Management API key: For full CRUD operations
+
+/// note | Content API support
+n8n supports Content API v1 only.
+///
+
+## Related resources

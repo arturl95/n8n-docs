@@ -1,0 +1,10 @@
+* Editor: Fixes event bus test.
+* Editor: Hide data pinning discoverability tooltip in execution view.
+* Editor: Mapping tooltip dismiss.
+* Editor: Recover from unsaved finished execution.
+* Editor: Setting NDV session ID.
+* First/last being extended on proxy objects.
+* Handle memory issues gracefully.
+* PayPal Trigger Node: Omit verification in sandbox environment.
+* Report app startup and database migration errors to Sentry.
+* Run every database migration inside a transaction.

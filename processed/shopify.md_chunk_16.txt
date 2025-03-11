@@ -1,0 +1,9 @@
+## Common issues
+
+Here are some common issues setting up the Shopify credential and steps to resolve or troubleshoot them.
+
+### Enable custom app development
+
+If you don't see the option to **Create a custom app**, no one's enabled custom app development for your store.
+
+To enable custom app development, you must log in either as a store owner or as a user with the **Enable app development** permission:

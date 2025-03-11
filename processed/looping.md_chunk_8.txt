@@ -1,0 +1,3 @@
+* [CrateDB](/integrations/builtin/app-nodes/n8n-nodes-base.cratedb/) executes once for `insert` and `update`.
+* [Code](/integrations/builtin/core-nodes/n8n-nodes-base.code/) node in **Run Once for All Items** mode: processes all the items based on the entered code snippet.
+* [Execute Workflow](/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflow/) node in **Run Once for All Items** mode.

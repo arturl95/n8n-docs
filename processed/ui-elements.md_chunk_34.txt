@@ -1,0 +1,27 @@
+},
+		{
+			displayName: 'URL',
+			name: 'url',
+			type: 'string',
+			hint: 'Enter a URL',
+			validation: [
+				{
+					type: 'regex',
+					properties: {
+						regex: '^http',
+						errorMessage: 'Invalid URL',
+					},
+				},
+			],
+			placeholder: 'https://example.com/card/12example/',
+			// How to get the ID from the URL
+			extractValue: {
+				type: 'regex',
+				regex: 'example.com/card/([0-9]*.*)/',
+			},
+		},
+		{
+			displayName: 'List',
+			name: 'list',
+			type: 'list',
+			typeOptions: {

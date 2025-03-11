@@ -1,0 +1,14 @@
+name: 'Resource Two',
+                        value: 'resourceTwo'
+                    }
+                ],
+                default: 'resourceOne'
+            },
+            {
+                displayName: 'Operation',
+                name: 'operation',
+                type: 'options',
+                // Only show these operations for Resource One
+                displayOptions: {
+                    show: {
+                        resource: [

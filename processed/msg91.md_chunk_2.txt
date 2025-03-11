@@ -1,0 +1,7 @@
+To configure this credential, you'll need:
+
+- An **Authentication Key**: To get your Authentication Key, go to the user menu and select **Authkey**. Refer to MSG91's [Where can I find my authentication key? documentation](https://msg91.com/help/where-can-i-find-my-authentication-key){:target=_blank .external-link} for more information.
+
+## IP Security
+
+MSG91 enables [IP Security](https://msg91.com/help/what-do-you-mean-by-api-security){:target=_blank .external-link} by default for authkeys.

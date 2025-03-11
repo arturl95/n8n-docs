@@ -1,0 +1,5 @@
+## Related resources
+
+Refer to [Splitting with conditionals](/flow-logic/splitting/) for more information on using conditionals to create complex logic in n8n.
+
+--8<-- "_snippets/integrations/builtin/core-nodes/data-types.md"

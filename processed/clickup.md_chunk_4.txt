@@ -1,0 +1,7 @@
+Refer to [ClickUp's Personal Token documentation](https://clickup.com/api/developer-portal/authentication#personal-token){:target=_blank .external-link} for more information.
+
+## Using OAuth2
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
+
+If you're [self-hosting](/hosting/) n8n, you'll need to create an OAuth app:

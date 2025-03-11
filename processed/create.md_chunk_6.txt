@@ -1,0 +1,11 @@
+If it's your first time building a workflow, you may want to use the [quickstart guides](/try-it-out/) to quickly try out n8n features.
+
+## Run workflows manually
+
+You may need to run your workflow manually when building and testing, or if your workflow doesn't have a trigger node. 
+
+To run manually, select **Test Workflow**.
+
+## Run workflows automatically
+
+All new workflows are inactive by default.

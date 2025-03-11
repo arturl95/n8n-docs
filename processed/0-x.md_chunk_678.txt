@@ -1,0 +1,7 @@
+### New nodes
+
+* [Mailcheck](/integrations/builtin/app-nodes/n8n-nodes-base.mailcheck/)
+* [n8n Trigger](/integrations/builtin/core-nodes/n8n-nodes-base.n8nTrigger/)
+* [Workflow Trigger](/integrations/builtin/core-nodes/n8n-nodes-base.workflowtrigger/)
+
+### Enhanced nodes

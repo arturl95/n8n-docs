@@ -1,0 +1,4 @@
+- **Credential to connect with**: Create or select an existing [Google Sheets credentials](/integrations/builtin/credentials/google/).
+- **Resource**: Select **Sheet Within Document**.
+- **Operation**: Select **Append or Update Row**.
+- **Document**: Choose a spreadsheet that contains the sheet you want to append or update row(s) to.

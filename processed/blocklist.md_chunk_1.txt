@@ -1,0 +1,5 @@
+<!-- vale off -->
+
+If you are a community node creator whose node is on the blocklist, and you believe this is a mistake, contact [hello@n8n.io](mailto: hello@n8n.io).
+
+<!-- vale on -->

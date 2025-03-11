@@ -1,0 +1,3 @@
+## Step four: Add the NASA node and set up credentials
+
+The [NASA node](/integrations/builtin/app-nodes/n8n-nodes-base.nasa/) allows you to interact with NASA's [public APIs](https://api.nasa.gov/){:target=_blank .external-link}. The API gives you data to work with in this tutorial.

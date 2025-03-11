@@ -1,0 +1,3 @@
+Drag and drop insertion on cursor position from schema view is now also enabled for code, SQL and Html fields in nodes. 
+
+Customers with an enterprise license can now rate, tag and highlight execution data in the executions view. To use highlighting, add an [Execution Data Node](/integrations/builtin/core-nodes/n8n-nodes-base.executiondata/) (or Code node) to the workflow to set [custom executions data](/workflows/executions/custom-executions-data/).

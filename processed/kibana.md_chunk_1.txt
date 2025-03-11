@@ -1,0 +1,10 @@
+## Prerequisites
+
+- Create an [Elasticsearch](https://www.elastic.co/){:target=_blank .external-link} account.
+- If you're creating a new account to test with, load some sample data into Kibana. Refer to the [Kibana quick start](https://www.elastic.co/guide/en/kibana/current/get-started.html){:target=_blank .external-link} for more information.
+
+## Supported authentication methods
+
+- Basic auth
+
+## Related resources

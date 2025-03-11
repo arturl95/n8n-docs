@@ -1,0 +1,2 @@
+* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added Document resource with Upload operation.
+* [WooCommerce:](/integrations/builtin/app-nodes/n8n-nodes-base.woocommerce/) Added Customer resource.

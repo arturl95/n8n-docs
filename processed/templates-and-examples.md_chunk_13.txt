@@ -1,0 +1,6 @@
+## Keep items where the value is new
+
+1. Open the Remove Duplicates node and set the **Operation** to **Remove Items Processed in Previous Executions**.
+2. Set the **Keep Items Where** parameter to **Value Is New**.
+3. Set the **Value to Dedupe On** parameter to `{{ $json.name }}`.
+4. On the canvas, select **Test workflow** to run the workflow. Open the Remove Duplicates node to examine the results.

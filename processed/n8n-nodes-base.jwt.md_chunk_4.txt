@@ -1,0 +1,11 @@
+Refer to ["exp" (Expiration Time) Claim](https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.4){:target=_blank .external-link} for more information.
+
+### Issuer
+
+The **Issuer** or `iss` claim identifies the principal that issued the JWT.
+
+Refer to ["iss" (Issuer) Claim](https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.1){:target=_blank .external-link} for more information.
+
+### JWT ID
+
+The **JWT ID** or `jti` claim provides a unique identifier for the JWT.

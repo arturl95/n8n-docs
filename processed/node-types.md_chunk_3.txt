@@ -1,0 +1,5 @@
+To make sure that the data is secure, it gets saved to the database encrypted. n8n uses a random personal encryption key, which it automatically generates on the first run of n8n and then saved under `~/.n8n/config`.
+
+To learn more about creating, managing, and sharing credentials, refer to [Manage credentials](/credentials/).
+
+## Community nodes

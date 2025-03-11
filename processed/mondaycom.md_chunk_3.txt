@@ -1,0 +1,10 @@
+Refer to [monday.com API Authentication](https://developer.monday.com/api-reference/docs/authentication){:target=_blank .external-link} for more information.
+
+## Using OAuth2
+
+To configure this credential, you'll need a [monday.com](https://monday.com/){:target=_blank .external-link} account and:
+
+- A **Client ID**
+- A **Client Secret**
+
+To generate both these fields, register a new monday.com application:

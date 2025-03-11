@@ -1,0 +1,1 @@
+Refer to [Personal Access Tokens](https://docs.rocket.chat/use-rocket.chat/user-guides/user-panel/account#personal-access-tokens){:target=_blank .external-link} for more information.

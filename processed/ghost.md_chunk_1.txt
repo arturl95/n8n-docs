@@ -1,0 +1,12 @@
+## Prerequisites
+
+Create a [Ghost](https://ghost.org/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Admin API key
+- Content API key
+
+The keys are generated following the same steps, but the authorization flows and key format are different, so n8n stores the credentials separately. The Content API uses an API key; the Admin API uses an API key to generate a token for authentication.
+
+## Related resources

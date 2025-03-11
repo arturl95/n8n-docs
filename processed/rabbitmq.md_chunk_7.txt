@@ -1,0 +1,9 @@
+## guest user issues
+
+If you use the `guest` user for the credential and you try to access a remote host, you may see a connection error. The RabbitMQ logs show an error like this:
+
+    [error] <0.918.0> PLAIN login refused: user 'guest' can only connect via localhost
+
+This happens because RabbitMQ prohibits the default `guest` user from connecting from remote hosts. It can only connect over the `localhost`.
+
+To resolve this error, you can:

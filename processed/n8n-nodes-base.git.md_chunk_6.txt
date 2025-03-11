@@ -1,0 +1,12 @@
+Refer to the sections below for more details on the parameters and options for each operation.
+
+## Add
+
+Configure this operation with these parameters:
+
+* **Repository Path**: Enter the local path of the git repository.
+* **Paths to Add**: Enter a comma-separated list of paths of files or folders to add in this field. You can use absolute paths or relative paths from the **Repository Path**.
+
+<!--Vale doesn't like "Config"-->
+<!-- vale off -->
+## Add Config

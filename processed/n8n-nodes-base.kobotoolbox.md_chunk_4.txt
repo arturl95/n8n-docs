@@ -1,0 +1,4 @@
+* In the main section of the **Parameters** panel:
+    * **Start** controls the index offset to start the query from (to use the API pagination logic).
+    * **Limit** sets the maximum number of records to return. Note that the API always has a limit of 30,000 returned records, whatever value you provide.
+* In the **Query Options** section, you can activate the following parameters:

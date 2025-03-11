@@ -1,0 +1,1 @@
+- **Number of Rows to Delete** or **Number of Columns to delete**: Enter the number of rows or columns to delete.

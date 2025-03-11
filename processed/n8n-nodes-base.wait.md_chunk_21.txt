@@ -1,0 +1,9 @@
+#### Respond When
+
+Set when to respond to the form submission. Choose from:
+
+* **Form Is Submitted**: Respond as soon as this node receives the form submission.
+* **Workflow Finishes**: Respond when the last node of this workflow finishes.
+* **Using 'Respond to Webhook' Node**: Respond when the [Respond to Webhook](/integrations/builtin/core-nodes/n8n-nodes-base.respondtowebhook/) node executes.
+
+#### Limit Wait Time

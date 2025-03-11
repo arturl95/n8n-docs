@@ -1,0 +1,3 @@
+* **Base Tree**: Often referred to as subordinateSubtree or just "subordinates," selecting this option will search the subordinates of the **Base DN** entry but not the **Base DN** entry itself.
+    * **Single Level**: Often referred to as "one," selecting this option will search only the immediate children of the **Base DN** entry.
+    * **Whole Subtree**: Often referred to as "sub," selecting this option will search the **Base DN** entry and all its subordinates to any depth.

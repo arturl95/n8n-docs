@@ -1,0 +1,18 @@
+## Prerequisites
+
+Create a [Reddit](https://reddit.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Reddit's developer documentation](https://support.reddithelp.com/hc/en-us/articles/14945211791892-Developer-Platform-Accessing-Reddit-Data){:target=_blank .external-link} for more information about the service.
+
+## Using OAuth2
+
+To configure this credential, you'll need:
+
+- A **Client ID**
+- A **Client Secret**

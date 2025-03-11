@@ -1,0 +1,21 @@
+/// note | Credentials
+Refer to [PagerDuty credentials](/integrations/builtin/credentials/pagerduty/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Incident
+    * Create an incident
+    * Get an incident
+    * Get all incidents
+    * Update an incident
+* Incident Note
+    * Create an incident note
+    * Get all incident's notes
+* Log Entry
+    * Get a log entry
+    * Get all log entries
+* User
+    * Get a user
+
+## Templates and examples

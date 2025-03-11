@@ -1,0 +1,9 @@
+The [connections flow](https://n8n.io/workflows/2465-building-your-first-whatsapp-chatbot/) in this case would look like this: AI agent (tools connector) -> Vector Store Question Answer Tool (Vector Store connector) -> In-Memory Vector store.
+
+## Node parameters
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/vector-store-mode.md"
+
+<!-- vale from-write-good.Weasel = NO -->
+### Get Many parameters
+<!-- vale from-write-good.Weasel = YES -->

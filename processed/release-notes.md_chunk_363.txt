@@ -1,0 +1,7 @@
+## n8n@1.0.4
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@1.0.3...n8n@1.0.4){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-07-19
+
+
+This is a bug fix release.

@@ -1,0 +1,19 @@
+## Canvas
+
+### Move the canvas
+
+ - **Ctrl** + **Left Mouse Button** + drag: move node view
+ - **Ctrl** + **Middle mouse button** + drag: move node view
+ - **Space** + drag: move node view
+ - **Middle mouse button** + drag: move node view
+ - Two fingers on a touch screen: move node view
+
+### Canvas zoom
+
+- **+** or **=**: zoom in
+- **-** or **_**: zoom out
+- **0**: reset zoom level
+- **1**: zoom to fit workflow
+- **Ctrl** + **Mouse wheel**: zoom in/out
+
+### Nodes on the canvas

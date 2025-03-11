@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Zulip credentials](/integrations/builtin/credentials/zulip/) for guidance on setting up authentication. 
+///
+
+## Operations

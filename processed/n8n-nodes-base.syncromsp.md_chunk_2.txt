@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [SyncroMSP credentials](/integrations/builtin/credentials/syncromsp/) for guidance on setting up authentication. 
+///
+
+## Operations

@@ -1,0 +1,5 @@
+## Using API key
+
+To configure this credential, you'll need:
+
+- An **OTX Key**: Once you have an AlienVault account, the **OTX Key** displays in your **Settings**.

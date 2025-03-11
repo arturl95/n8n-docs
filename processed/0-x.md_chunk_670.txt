@@ -1,0 +1,2 @@
+* [Microsoft Outlook:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftoutlook/) Added Is Read and Move option to the Message resource
+* [Postgres:](/integrations/builtin/app-nodes/n8n-nodes-base.postgres/) Added query parameters. The Execute Query operation returns the result from all queries executed instead of just one of the results.

@@ -1,0 +1,4 @@
+| `$("<node-name>").isExecuted` | Check whether a node has already executed. | :white_check_mark: |
+	| `$itemIndex` | The index of an item in a list of items. | :x: |
+	| `$nodeVersion` | Get the version of the current node. | :white_check_mark: |
+	| `$prevNode.name` | The name of the node that the current input came from. When using the Merge node, note that `$prevNode` always uses the first input connector. | :white_check_mark: |

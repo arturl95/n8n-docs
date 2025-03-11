@@ -1,0 +1,4 @@
+* [Postgres node](/integrations/builtin/app-nodes/n8n-nodes-base.postgres/): improve handling of large numbers.
+* [Redis node](/integrations/builtin/app-nodes/n8n-nodes-base.redis/): add push and pop operations.
+* [Rename node](/integrations/builtin/core-nodes/n8n-nodes-base.renamekeys/): add regex replace.
+* [Spreadsheet file node](/integrations/builtin/core-nodes/n8n-nodes-base.spreadsheetfile/): allow skipping headers when writing spreadsheets.

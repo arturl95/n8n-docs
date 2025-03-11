@@ -1,0 +1,5 @@
+Here's an [example workflow](https://n8n.io/workflows/1747-joining-different-datasets/) showing different types of merging: appending data sets, keeping only new items, and keeping only existing items. The [Merge node](/integrations/builtin/core-nodes/n8n-nodes-base.merge/) documentation contains details on each of the merge operations.
+
+[[ workflowDemo("https://api.n8n.io/workflows/templates/1747") ]]
+
+## Merge data from different nodes

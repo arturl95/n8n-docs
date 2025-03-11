@@ -1,0 +1,24 @@
+* Update a journal entry
+* Note
+    * Create a note
+    * Delete a note
+    * Retrieve a note
+    * Retrieve all notes
+    * Update a note
+* Reminder
+    * Create a reminder
+    * Delete a reminder
+    * Retrieve a reminder
+    * Retrieve all reminders
+    * Update a reminder
+* Tag
+    * Create a tag
+    * Delete a tag
+    * Retrieve a tag
+    * Retrieve all tags
+    * Update a tag
+* Task
+    * Create a task
+    * Delete a task
+    * Retrieve a task
+    * Retrieve all tasks

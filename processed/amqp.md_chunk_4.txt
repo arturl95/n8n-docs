@@ -1,0 +1,9 @@
+To configure this credential, you'll need:
+
+- A **Hostname**: Enter the hostname of your AMQP message broker.
+- A **Port**: Enter the port number the connection should use.
+- A **User**: Enter the name of the user to establish the connection as.
+    - For example, the default username in ActiveMQ is `admin`.
+- A **Password**: Enter the user's password.
+    - For example, the default password in ActiveMQ is `admin`.
+- _Optional:_ **Transport Type**: Enter either `tcp` or `tls`.

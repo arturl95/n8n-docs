@@ -1,0 +1,4 @@
+- **Locale**: Enter the locale of the spreadsheet. This affects formatting details such as functions, dates, and currency. Use one of the following formats:
+    - `en` (639-1)
+    - `fil` (639-2 if no 639-1 format exists)
+    - `en_US` (combination of ISO language and country).

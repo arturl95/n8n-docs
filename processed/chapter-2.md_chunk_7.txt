@@ -1,0 +1,8 @@
+### XML Exercise
+
+In the [final exercise of Chapter 1](/courses/level-two/chapter-1/#exercise_2), you used an **HTTP Request node** to make a request to the Quotable API. In this exercise, we'll return to that same API but we'll convert the output to XML:
+
+1. Add an **HTTP Request node** that makes the same request to the Quotable API at `https://api.quotable.io/quotes`.
+2. Use the XML node to convert the JSON output to XML.
+
+??? note "Show me the solution"

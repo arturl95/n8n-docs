@@ -1,0 +1,8 @@
+## Using API access token
+
+To configure this credential, you'll need a [GitLab](https://gitlab.com/){:target=_blank .external-link} account and:
+
+- The URL of your **GitLab Server**
+- An **Access Token**
+
+To set up the credential:

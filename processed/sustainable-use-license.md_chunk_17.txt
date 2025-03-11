@@ -1,0 +1,8 @@
+1. By using plain English, and keeping it as short as possible.
+2. By promoting [fair-code](https://faircode.io/) with the goal of making it a well-known umbrella term to describe software models like ours.
+
+Our goals when we created the Sustainable Use License were:
+
+1. To be as permissive as possible.
+2. Safeguarding our ability to build a business.
+3. Being as clear as possible what use was permitted or not.

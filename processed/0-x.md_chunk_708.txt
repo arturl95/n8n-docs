@@ -1,0 +1,8 @@
+- New nodes
+- DeepL
+- Enhanced nodes
+- TheHive: Added Mark as Read and Mark as Unread operations and added Ignore SSL Issues parameter to the credentials
+- Bug fixes
+- AWS SES: Fixed an issue to map CC addresses correctly
+- Salesforce: Fixed an issue with custom object for Get All operations and fixed an issue with the first name field for the Create and Update operations for the Lead resource
+- Strava: Fixed an issue with the access tokens not getting refreshed

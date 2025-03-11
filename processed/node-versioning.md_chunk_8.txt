@@ -1,0 +1,5 @@
+Full versioning summary:
+
+- The base node file should extend `NodeVersionedType` instead of `INodeType`.
+- The base node file should contain a description including the `defaultVersion` (usually the latest), other basic node metadata such as name, and a list of versions. It shouldn't contain any node functionality.
+- n8n recommends using `v1`, `v2`, and so on, for version folder names.

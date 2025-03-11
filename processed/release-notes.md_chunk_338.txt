@@ -1,0 +1,11 @@
+#### External secrets storage for credentials
+
+Enterprise-tier accounts can now use external secrets vaults to manage credentials in n8n. This allows you to store credential information securely outside your n8n instance. n8n supports Infisical and HashiCorp Vault.
+
+Refer to [External secrets](/external-secrets/) for guidance on enabling and using this feature.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Two-factor authentication

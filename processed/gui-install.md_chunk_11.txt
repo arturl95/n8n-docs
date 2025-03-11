@@ -1,0 +1,1 @@
+To do this, uninstall the community node, then reinstall it, targeting a specific node version. Follow the [Installation](#install-a-community-node) instructions for more guidance.

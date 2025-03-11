@@ -1,0 +1,10 @@
+## Prerequisites
+
+Create a [Mindee](https://mindee.com){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Invoice API key: For use with the [Invoice OCR API](https://www.mindee.com/product/invoice-ocr-api){:target=_blank .external-link}
+- Receipt API key: For use with the [Receipt OCR API](https://www.mindee.com/product/receipt-ocr-api-copy){:target=_blank .external-link}
+
+## Related resources

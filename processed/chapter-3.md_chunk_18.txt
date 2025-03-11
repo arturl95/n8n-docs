@@ -1,0 +1,41 @@
+"main": [
+			[
+			{
+				"node": "Customer Datastore (n8n training)",
+				"type": "main",
+				"index": 0
+			},
+			{
+				"node": "Code",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		},
+		"Customer Datastore (n8n training)": {
+		"main": [
+			[
+			{
+				"node": "Merge",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		},
+		"Code": {
+		"main": [
+			[
+			{
+				"node": "Merge",
+				"type": "main",
+				"index": 1
+			}
+			]
+		]
+		}
+	},
+	"pinData": {}
+	}
+	```

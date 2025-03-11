@@ -1,0 +1,2 @@
+1. If you're already a paying customer, [contact them](https://actionnetwork.org/contact) to request partner access. Partner access includes API key access.
+2. If you're a developer, [request a developer account](https://actionnetwork.org/developers){:target=_blank .external-link}. Once your account request is granted, you'll have API key access.

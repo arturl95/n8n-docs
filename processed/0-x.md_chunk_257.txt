@@ -1,0 +1,7 @@
+* Core, Editor: prevent overlap between running and pinning data.
+* Core: expression evaluation of processes now respects `N8N_BLOCK_ENV_ACCESS_IN_NODE`.
+* Editor: ensure the Axios base URL still works when hosted in a subfolder.
+* Editor: fixes for horizontal scrollbar rendering.
+* Editor: ensure the menu closes promptly when loading a credentials page.
+* Editor: menu UI fixes.
+* Box node: fix an issue that was causing the Create Folder operation to show extra items.

@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Affinity credentials](/integrations/builtin/credentials/affinity/) for guidance on setting up authentication.
+///	
+
+## Operations

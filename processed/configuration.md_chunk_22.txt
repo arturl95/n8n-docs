@@ -1,0 +1,9 @@
+| `executionsList.openDialog` | Called when someone selects an execution from existing Workflow Executions. |
+| `expressionEdit.itemSelected` |  |
+| `expressionEdit.dialogVisibleChanged` |  |
+| `nodeCreateList.filteredNodeTypesComputed` |  |
+| `nodeCreateList.nodeFilterChanged` | Called when someone makes any changes to the node panel filter. |
+| `nodeCreateList.selectedTypeChanged` |  |
+| `nodeCreateList.mounted` |  |
+| `nodeCreateList.destroyed` |  |
+| `nodeSettings.credentialSelected` |  |

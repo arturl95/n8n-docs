@@ -1,0 +1,7 @@
+#### Step 3.6: Add optional fields
+
+Most APIs, including the SendGrid API that you're using in this example, have optional fields you can use to refine your query.
+
+To avoid overwhelming users, n8n displays these under **Additional Fields** in the UI.
+
+For this tutorial, you'll add two additional fields, to allow users to enter the contact's first name and last name. Add the following to the properties array:

@@ -1,0 +1,5 @@
+# Telegram node Callback operations
+
+Use these operations to respond to callback queries sent from the in-line keyboard or in-line queries. Refer to [Telegram](/integrations/builtin/app-nodes/n8n-nodes-base.telegram/) for more information on the Telegram node itself.
+
+## Answer Query

@@ -1,0 +1,8 @@
+| Flag | Description |
+|-------------|-------|
+| --help | Help prompt. |
+| --all | Exports all workflows/credentials. |
+| --backup | Sets --all --pretty --separate for backups. You can optionally set --output. |
+| --id | The ID of the workflow to export. |
+| --output | Outputs file name or directory if using separate files. |
+| --pretty | Formats the output in an easier to read fashion. |

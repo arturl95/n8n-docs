@@ -1,0 +1,6 @@
+* **Recurrence Rule**: Enter a rule to define the repeat pattern of the event (RRULE). Generate rules using the [iCalendar.org RRULE Tool](https://icalendar.org/rrule-tool.html){:target=_blank .external-link}.
+* **Organizer**: Enter the organizer's **Name** and **Email**.
+* **Sequence**: If you're sending an update for an event with the same universally unique ID (UID), enter the revision sequence number.
+* **Status**: Set the status of the event. Choose from:
+	* **Confirmed**
+	* **Cancelled**

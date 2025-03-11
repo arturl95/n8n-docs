@@ -1,0 +1,23 @@
+/// note | Credentials
+Refer to [Ghost credentials](/integrations/builtin/credentials/ghost/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+### Admin API
+
+* **Post**
+    * Create a post
+    * Delete a post
+    * Get a post
+    * Get all posts
+    * Update a post
+
+
+### Content API
+
+* **Post**
+    * Get a post
+    * Get all posts
+
+## Templates and examples

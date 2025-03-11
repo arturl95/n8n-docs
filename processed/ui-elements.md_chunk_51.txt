@@ -1,0 +1,12 @@
+multiKeyMatch?: boolean;
+	// Whether to support automatic mapping
+	// If false, n8n hides the mapping mode selector field and sets mappingMode to defineBelow
+	supportAutoMap?: boolean;
+	// Custom labels for the matching columns selector
+	matchingFieldsLabels?: {
+		title?: string;
+		description?: string;
+		hint?: string;
+	};
+}
+```

@@ -1,0 +1,11 @@
+- [Facebook Graph API](/integrations/builtin/app-nodes/n8n-nodes-base.facebookgraphapi/)
+
+/// note | Facebook Trigger credentials
+If you want to create credentials for the [Facebook Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/) node, follow the instructions mentioned in the [Facebook App credentials](/integrations/builtin/credentials/facebookapp/) documentation.
+///
+
+## Supported authentication methods
+
+- App access token
+
+## Related resources

@@ -1,0 +1,16 @@
+## Supported authentication methods
+
+- API access token
+
+## Related resources
+
+Refer to [Mattermost's API documentation](https://api.mattermost.com/){:target=_blank .external-link} for more information about the service.
+
+## Using API access token
+
+To configure this credential, you'll need a [Mattermost](https://www.mattermost.com/){:target=_blank .external-link} account and:
+
+- A personal **Access Token**
+- Your Mattermost **Base URL**.
+
+To set it up:

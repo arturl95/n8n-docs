@@ -1,0 +1,12 @@
+- [Webex by Cisco](/integrations/builtin/app-nodes/n8n-nodes-base.ciscowebex/)
+- [Webex by Cisco Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.ciscowebextrigger/)
+
+## Prerequisites
+
+Create a [Webex by Cisco](https://www.webex.com/) account (this should automatically get you [developer account access](https://developer.webex.com){:target=_blank .external-link}).
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources

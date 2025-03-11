@@ -1,0 +1,27 @@
+"id": "3cce249a-0eab-42e2-90e3-dbdf3684e012",
+		"name": "Loop Over Items",
+		"type": "n8n-nodes-base.splitInBatches",
+		"typeVersion": 3,
+		"position": [
+			900,
+			460
+		]
+		},
+		{
+		"parameters": {
+			"url": "={{ $json.url }}",
+			"options": {}
+		},
+		"id": "50e1c1dc-9a5d-42d3-b7c0-accc31636aa6",
+		"name": "RSS Read",
+		"type": "n8n-nodes-base.rssFeedRead",
+		"typeVersion": 1,
+		"position": [
+			1120,
+			460
+		]
+		}
+	],
+	"connections": {
+		"When clicking \"Test workflow\"": {
+		"main": [

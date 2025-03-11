@@ -1,0 +1,11 @@
+=== "Expressions (JavaScript)"
+
+	```js
+	{{DateTime.fromFormat("23-06-2019", "dd-MM-yyyy")}}
+	```
+
+=== "Code node (JavaScript)"
+
+	```js
+	let newFormat = DateTime.fromFormat("23-06-2019", "dd-MM-yyyy")
+	```

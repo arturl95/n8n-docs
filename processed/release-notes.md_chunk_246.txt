@@ -1,0 +1,5 @@
+<div class="n8n-new-features" markdown>
+
+#### New nodes: Azure OpenAI chat model and embeddings
+
+This release adds two new nodes to work with [Azure OpenAI](https://azure.microsoft.com/en-gb/products/ai-services/openai-service/){:target=_blank .external-link} in your advanced AI workflows:

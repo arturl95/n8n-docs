@@ -1,0 +1,3 @@
+#### Limit Wait Time
+
+Set whether the workflow will automatically resume execution after a specific limit type (turned on) or not (turned off).

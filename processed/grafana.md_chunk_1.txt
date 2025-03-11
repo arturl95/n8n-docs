@@ -1,0 +1,15 @@
+## Prerequisites
+
+- Create a [Grafana](https://grafana.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Grafana's API documentation](https://grafana.com/docs/grafana/latest/developers/http_api/){:target=_blank .external-link} for more information about authenticating with the service.
+
+## Using API key
+
+To configure this credential, you'll need:

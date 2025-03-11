@@ -1,0 +1,9 @@
+### At Specified Time
+
+Wait until a specific date and time to continue. Use the date and time picker to set the **Date and Time**.
+
+Refer to [Time-based operations](#time-based-operations) for more detail on the timezone used.
+
+### On Webhook Call
+
+This parameter enables your workflows to resume when the Wait node receives an HTTP call.

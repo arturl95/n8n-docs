@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [GitLab credentials](/integrations/builtin/credentials/gitlab/) for guidance on setting up authentication. 
+///
+
+## Operations

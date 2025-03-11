@@ -1,0 +1,16 @@
+Refer to the more detailed sections below for more detailed instructions.
+
+### After Time Interval
+
+Wait for a certain amount of time.
+
+This parameter includes two more fields:
+
+* **Wait Amount**: Enter the amount of time to wait.
+* **Wait Unit**: Select the unit of measure for the **Wait Amount**. Choose from:
+	* **Seconds**
+	* **Minutes**
+	* **Hours**
+	* **Days**
+
+Refer to [Time-based operations](#time-based-operations) for more detail on how these intervals work and the timezone used.

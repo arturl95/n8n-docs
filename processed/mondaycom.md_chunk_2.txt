@@ -1,0 +1,12 @@
+## Using API token
+
+To configure this credential, you'll need a [monday.com](https://monday.com/){:target=_blank .external-link} account and:
+
+- An API **Token V2**
+
+To get your token:
+
+1. In your monday.com account, select your profile picture in the top right corner.
+2. Select **Developers**. The Developer Center opens in a new tab.
+3. In the Developer Center, select **My Access Tokens > Show**.
+4. Copy your personal token and enter it in your n8n credential as the **Token V2**.

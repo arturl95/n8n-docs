@@ -1,0 +1,17 @@
+### Node enhancements
+
+[NocoDB node](/integrations/builtin/app-nodes/n8n-nodes-base.nocodb/): add support for v0.90.0+
+
+### Bug fixes
+
+* Editor: fix a label cut off.
+* Fix an issue with saving workflows when tags are disabled.
+* Ensure support for community nodes on Windows.
+
+### Contributors
+
+
+[mertmit](https://github.com/mertmit){:target=_blank .external-link}  
+[Nicholas Penree](https://github.com/drudge){:target=_blank .external-link}
+
+## n8n@0.188.0

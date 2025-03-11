@@ -1,0 +1,1 @@
+* Editor: support mapping keys with drag and drop. Any field with the hint **Enter the field name as text** should now support mapping a data key using drag and drop. Node builders can enable this in their own nodes. Refer to [Creating nodes | UI elements](/integrations/creating-nodes/build/reference/ui-elements#support-drag-and-drop-for-data-keys) for more information.

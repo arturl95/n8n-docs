@@ -1,0 +1,12 @@
+</div>
+
+### Node updates
+Enhanced nodes:
+
+- [Calendly Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.calendlytrigger/)
+- [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/)
+- [n8n Form Trigger](/integrations/builtin/core-nodes/n8n-nodes-base.formtrigger/)
+- [Shopify](/integrations/builtin/app-nodes/n8n-nodes-base.shopify/)
+
+### API update
+Our [public REST API](/api/) now supports additional operations:

@@ -1,0 +1,3 @@
+| `$execution.customData` | Set and get custom execution data. Refer to [Custom executions data](/workflows/executions/custom-executions-data/) for more information. | :white_check_mark: | 
+	| `$execution.id` | The unique ID of the current workflow execution. | :white_check_mark: |
+	| `$execution.mode` | Whether the execution was triggered automatically, or by manually running the workflow. Possible values are `test` and `production`. | :white_check_mark: |

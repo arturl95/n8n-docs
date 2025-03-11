@@ -1,0 +1,9 @@
+### New features
+
+* Add workflow and credential sharing access e2e tests.
+* Editor: add correct credential owner contact details for readonly credentials.
+* Editor: add most important native properties and methods to autocomplete.
+* Editor: update to personalization survey v4.
+* Update telemetry API endpoints.
+
+### Node enhancements

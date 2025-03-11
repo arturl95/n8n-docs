@@ -1,0 +1,9 @@
+# Advanced AI examples and concepts
+
+This section provides explanations of important AI concepts, and workflow templates that highlight those concepts, with explanations and configuration guides. The examples cover common use cases and highlight different features of advanced AI in n8n.
+
+<div class="grid cards" markdown>
+
+-   __Agents and chains__
+
+	Learn about agents and chains in AI, including exploring key differences using the example workflow.

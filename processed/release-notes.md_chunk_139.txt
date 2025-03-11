@@ -1,0 +1,14 @@
+- Create, read, and delete for variables
+- Filtering workflows by project
+- Transferring workflows
+
+Find the details in the [API reference](/api/api-reference/).
+
+### Contributors
+
+[feelgood-interface](https://github.com/feelgood-interface){:target=_blank .external-link}  
+[Oz Weiss](https://github.com/thewizarodofoz){:target=_blank .external-link}
+
+For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
+
+## n8n@1.52.2

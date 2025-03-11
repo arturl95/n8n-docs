@@ -1,0 +1,8 @@
+#### Added Azure Key Vault support
+
+This release adds [Azure Key Vault](/external-secrets/) to the list of external secret stores. We already support AWS secrets, Infisical and HashiCorp Vault and are working on Google Secrets Manager. External secret stores are available under an enterprise license.
+
+</div>
+
+### Node updates
+Enhanced nodes:

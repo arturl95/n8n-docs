@@ -1,0 +1,8 @@
+But don't panic. In this lesson, you'll learn how you can troubleshoot errors so you can get your workflow up and running as soon as possible.
+
+
+## Checking failed workflows
+
+n8n tracks executions of your workflows.
+
+When one of your workflows fails, you can check the Executions log to see what went wrong. The Executions log shows you a list of the latest execution time, status, mode, and running time of your saved workflows.

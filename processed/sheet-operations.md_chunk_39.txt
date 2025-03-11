@@ -1,0 +1,4 @@
+- **Data Location on Sheet**: Use this option to specify a data range. By default, n8n will detect the range automatically until the last row in the sheet. 
+- **Output Formatting**: Use this option to choose how n8n formats the data returned by Google Sheets.
+  - **General Formatting**: 
+    - **Values (unformatted)** (default): n8n removes currency signs and other special formatting. Data type remains as number.

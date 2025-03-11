@@ -1,0 +1,11 @@
+### Bug fixes
+
+* Restore support for `window` in expressions.
+* Fix to the `user-management:reset` command.
+* Resolve crashes in queue mode.
+* Correct delete button hover spacing.
+* Resolve a bug causing stuck loading states.
+* [EmailReadImap node](/integrations/builtin/core-nodes/n8n-nodes-base.emailimap/){:target=_blank}: improve error handling.
+* [HubSpot node](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/){:target=_blank}: fix contact loading.
+
+### Contributors

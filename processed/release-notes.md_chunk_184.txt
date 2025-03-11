@@ -1,0 +1,3 @@
+<div class="n8n-new-features" markdown>
+
+#### New feature: Projects

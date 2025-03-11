@@ -1,0 +1,7 @@
+## Using OAuth2
+
+To configure this credential, you'll need:
+
+- A **Client ID**: Generated when you create a new OAuth client.
+- A **Client Secret**: Generated when you create a new OAuth client.
+- Your **Subdomain**: Your Zendesk subdomain is the portion of the URL between `https://` and `.zendesk.com`. For example, if the Zendesk URL is `https://n8n-example.zendesk.com/agent/dashboard`, the subdomain is `n8n-example`.

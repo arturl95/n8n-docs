@@ -1,0 +1,6 @@
+Queue metrics are only available for the `main` instance in single-main mode.
+
+```
+# HELP n8n_scaling_mode_queue_jobs_active Current number of jobs being processed across all workers in scaling mode.
+# TYPE n8n_scaling_mode_queue_jobs_active gauge
+n8n_scaling_mode_queue_jobs_active 0

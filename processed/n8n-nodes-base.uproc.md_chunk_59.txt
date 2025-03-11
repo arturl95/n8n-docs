@@ -1,0 +1,9 @@
+- Checks if the length of a list is greater than or equal to a certain amount
+- Check if the length of a list is lower than a certain amount
+- Check if the list contains a specific item
+- Check if the list ends with a specific element
+- Check if a list is sorted in ascending order
+- Check if the list starts with a specific element
+- Checks if the smallest element in a list matches the provided element
+- Check if a string contains only numbers
+- Check if a string contains a character

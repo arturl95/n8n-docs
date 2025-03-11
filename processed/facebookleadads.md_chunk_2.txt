@@ -1,0 +1,8 @@
+View [example workflows and related content](https://n8n.io/integrations/facebook-lead-ads-trigger/){:target=_blank .external-link} on n8n's website.
+
+## Using OAuth2
+
+To configure this credential, you'll need a [Meta for Developers](https://developers.facebook.com/){:target=_blank .external-link} account and:
+
+- A **Client ID**
+- A **Client Secret**

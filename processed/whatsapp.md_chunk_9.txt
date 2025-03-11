@@ -1,0 +1,2 @@
+4. Enter a contact **email address**.
+5. Select **Create app**. Refer to [Create a Meta app](https://developers.facebook.com/docs/whatsapp/solution-providers/get-started-for-tech-providers#step-2--create-a-meta-app){:target=_blank .external-link} for more detail on the above steps.

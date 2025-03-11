@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Help Scout credentials](/integrations/builtin/credentials/helpscout/) for guidance on setting up authentication. 
+///
+
+## Operations

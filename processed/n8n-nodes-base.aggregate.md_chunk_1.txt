@@ -1,0 +1,4 @@
+* [**Individual Fields**](#individual-fields): Aggregate individual fields separately.
+* [**All Item Data**](#all-item-data): Aggregate all item data into a single list.
+
+### Individual Fields

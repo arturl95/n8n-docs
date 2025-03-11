@@ -1,0 +1,1 @@
+Review your FTP server provider's documentation for instructions on getting the information you need.

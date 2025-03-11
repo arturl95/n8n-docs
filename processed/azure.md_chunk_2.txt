@@ -1,0 +1,7 @@
+This guide uses the Azure Kubernetes Service (AKS) as the hosting option. Using Kubernetes requires some additional complexity and configuration, but is the best method for scaling n8n as demand changes.
+
+The steps in this guide use a mix of the Azure UI and command line tool, but you can use either to accomplish most tasks.
+
+## Open the Azure Kubernetes Service
+
+From [the Azure portal](https://portal.azure.com/){:target="_blank" .external-link} select **Kubernetes services**.

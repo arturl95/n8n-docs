@@ -1,0 +1,2 @@
+- Use `.first()`, `.last()` or `.all()[index]` instead. Refer to [Built in methods and variables | Output of other nodes](/code/builtin/output-other-nodes/) for more detail on these methods.
+- Reference a different node that contains the same information, but doesn't have multiple matching items.

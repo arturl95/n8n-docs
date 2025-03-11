@@ -1,0 +1,6 @@
+## Supported authentication methods
+
+- API access token: Use this method with any GitHub nodes.
+- OAuth2: Use this method with [GitHub](/integrations/builtin/app-nodes/n8n-nodes-base.github/) and [GitHub Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.githubtrigger/) nodes only; don't use with [GitHub Document Loader](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.documentgithubloader).
+
+## Related resources

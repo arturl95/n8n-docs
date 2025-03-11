@@ -1,0 +1,4 @@
+To configure this credential, you'll need:
+
+- A **Region**: Select the region that matches your business needs. Choose **EU** if you're located in the European Union. Otherwise, choose **US**.
+- An **API Key**: Go to your **avatar > Preferences > API Keys** to get your API key. You can also use VCert to get your API key. Refer to [Obtaining an API Key](https://docs.venafi.cloud/api/obtaining-api-key/){:target=_blank .external-link} for more information.

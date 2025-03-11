@@ -1,0 +1,14 @@
+## n8n@1.62.1
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@1.61.0...n8n@1.62.1){:target=_blank .external-link} for this version.<br />
+**Release date:** 2024-10-02
+
+This release contains new features, node enhancements and bug fixes.
+
+/// note | Skipped 1.62.0
+We skipped 1.62.0 and went straight to 1.62.1 with an additional fix. 
+///
+
+<div class="n8n-new-features" markdown>
+
+#### Additional nodes as tools

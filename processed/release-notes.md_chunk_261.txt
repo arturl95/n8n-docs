@@ -1,0 +1,10 @@
+</div>
+
+### Contributors
+
+[Anush](https://github.com/Anush008){:target=_blank .external-link}  
+[Eric Koleda](https://github.com/ekoleda-codaio){:target=_blank .external-link}  
+[Mason Geloso](https://github.com/MasonGeloso){:target=_blank .external-link}  
+[vacitbaydarman](https://github.com/vacitbaydarman){:target=_blank .external-link}
+
+## n8n@1.22.5

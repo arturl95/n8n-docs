@@ -1,0 +1,11 @@
+### Core Functionality
+- Improved the autofill behaviour on Google Chrome when entering credentials.
+
+### Bug fixes
+
+* [Airtable:](/integrations/builtin/app-nodes/n8n-nodes-base.airtable/) Fixed an issue with the sort field.
+* [Cron:](/integrations/builtin/core-nodes/n8n-nodes-base.cron/) Set the version of the cron library to 1.7.2.
+
+### Contributors
+
+[Jonathan Bennetts](https://github.com/Joffcom)

@@ -1,0 +1,1 @@
+8. Enter the **Domain** you access Jira on, for example `https://example.atlassian.net`.

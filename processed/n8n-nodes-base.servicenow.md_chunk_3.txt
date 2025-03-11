@@ -1,0 +1,34 @@
+## Operations
+
+* Business Service
+    * Get All
+* Configuration Items
+    * Get All
+* Department
+    * Get All
+* Dictionary
+    * Get All
+* Incident
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* Table Record
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* User
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* User Group
+    * Get All
+* User Role
+    * Get All
+
+## Templates and examples

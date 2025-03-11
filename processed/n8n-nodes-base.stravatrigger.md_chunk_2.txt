@@ -1,0 +1,17 @@
+## Events
+
+- **\[All\]**
+    - \[All\]
+    - Created
+    - Deleted
+    - Updated
+- **Activity**
+    - \[All\]
+    - Created
+    - Deleted
+    - Updated
+- **Athlete**
+    - \[All\]
+    - Created
+    - Deleted
+    - Updated

@@ -1,0 +1,13 @@
+// Whether to display the field in the UI
+	// If false, can't be used for matching or mapping
+	display: boolean;
+	// The data type for the field
+	// These correspond to UI element types
+	// Supported types: string, number, dateTime, boolean, time, array, object, options
+	type?: FieldType;
+	// Added at runtime if the field is removed from mapping by the user
+	removed?: boolean;
+	// Specify options for enumerated types
+	options?: INodePropertyOptions[];
+}
+```

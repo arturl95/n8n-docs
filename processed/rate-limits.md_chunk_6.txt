@@ -1,0 +1,4 @@
+1. Add the Loop Over Items node before the node that calls the API. Refer to [Loop Over Items](/integrations/builtin/core-nodes/n8n-nodes-base.splitinbatches/) for information on how to configure the node.
+1. Add the Wait node after the node that calls the API, and connect it back to the Loop Over Items node. Refer to [Wait](/integrations/builtin/core-nodes/n8n-nodes-base.wait/) for information on how to configure the node.
+
+For example, to handle rate limits when using OpenAI:

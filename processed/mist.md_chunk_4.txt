@@ -1,0 +1,2 @@
+- An **API Token**: You can use either a User API token or an Org API token. Refer to [How to generate a user API token](https://www.mist.com/documentation/using-postman/){:target=_blank .external-link} for instructions on generating a User API token. Refer to [Org API token](https://www.mist.com/documentation/org-api-token/){:target=_blank .external-link} for instructions on generating an Org API token.
+- Select the **Region** you're in. Options include:

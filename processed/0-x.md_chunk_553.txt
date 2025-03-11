@@ -1,0 +1,1 @@
+* [WooCommerce:](/integrations/builtin/app-nodes/n8n-nodes-base.woocommerce/) Fixed an issue where a wrong postcode field name was used for the Order resource.

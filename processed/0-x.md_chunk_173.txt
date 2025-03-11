@@ -1,0 +1,13 @@
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### Typeahead for expressions
+
+When using [expressions](/code/expressions/), n8n will now offer you suggestions as you type.
+
+!["Animated GIF showing typeahead in action"](/_images/reference/release-notes/0.210.2-expressions-type-ahead.gif)
+
+</div>
+
+### Bug fixes

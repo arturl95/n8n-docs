@@ -1,0 +1,13 @@
+/// note | Examples and templates
+For usage examples and templates to help you get started, refer to n8n's [Postgres Trigger integrations](https://n8n.io/integrations/postgres-trigger/){:target=_blank .external-link} page.
+///
+
+## Events
+
+You can configure how the node listens for events.
+
+* Select **Listen and Create Trigger Rule**, then choose the events to listen for:
+	* Insert
+	* Update
+	* Delete
+* Select **Listen to Channel**, then enter a channel name that the node should monitor.

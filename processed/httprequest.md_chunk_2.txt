@@ -1,0 +1,10 @@
+## Supported authentication methods
+
+- Predefined credential type
+- Basic auth (generic credential type)
+- Custom auth (generic credential type)
+- Digest auth (generic credential type)
+- Header auth (generic credential type)
+- OAuth1 (generic credential type)
+- OAuth2 (generic credential type)
+- Query auth (generic credential type)

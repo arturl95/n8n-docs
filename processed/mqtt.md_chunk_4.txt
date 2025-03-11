@@ -1,0 +1,8 @@
+1. Select the broker's **Protocol**, which determines the URL n8n uses. Options include:
+    - **Mqtt**: Begin the URL with the standard `mqtt:` protocol.
+    - **Mqtts**: Begin the URL with the secure `mqtts:` protocol.
+    - **Ws**: Begin the URL with the WebSocket `ws:` protocol.
+2. Enter your broker **Host**.
+3. Enter the **Port** number n8n should use to connect to the broker host.
+4. Enter the **Username** to log into the broker as.
+5. Enter that user's **Password**.

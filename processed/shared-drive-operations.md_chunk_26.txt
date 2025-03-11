@@ -1,0 +1,3 @@
+- **Copy Requires Writer Permission**: Whether the options to copy, print, or download files inside this shared drive should be disabled for readers and commenters.
+	- **Domain Users Only**: Whether to restrict access to this shared drive and items inside this shared drive to users of the domain to which this shared drive belongs.
+	- **Drive Members Only**: Whether to restrict access to items inside this shared drive to its members.

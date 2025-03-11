@@ -1,0 +1,3 @@
+* [GetResponse Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.getresponsetrigger/) Fixed an issue with error handling
+* [GitHub Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.githubtrigger/) Fixed an issue with error handling
+* [GitLab Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.gitlabtrigger/) Fixed an issue with error handling

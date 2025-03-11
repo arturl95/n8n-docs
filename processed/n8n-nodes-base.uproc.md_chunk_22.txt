@@ -1,0 +1,12 @@
+- Get all ISO currency by an IP address
+- Get multiple ISO currency codes by a country ISO code
+- Get ISO currency code by IP address
+- Get ISO currency code by a currency ISO code
+- Get ISO currency code by an ISO country code
+- Get ISO currency code by a country name
+- Get related European TIN in Europe
+- Get IBAN by account number of the country
+- Get to search data bank information by IBAN account number
+- Get country VAT by address
+- Get country VAT by coordinates
+- Get Swift code lookup

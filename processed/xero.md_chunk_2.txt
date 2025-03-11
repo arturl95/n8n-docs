@@ -1,0 +1,4 @@
+To configure this credential, you'll need:
+
+- A **Client ID**: Generated when you create a new app for a custom connection.
+- A **Client Secret**: Generated when you create a new app for a custom connection.

@@ -1,0 +1,12 @@
+Available in version 0.225.0 and above.
+///	
+
+Custom variables are read-only variables that you can use to store and reuse values in n8n workflows. 
+
+/// warning | Variables are shared
+When you create a variable, it's available to everyone on your n8n instance.
+///
+
+## Create variables
+
+To create a new variable:

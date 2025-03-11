@@ -1,0 +1,4 @@
+- **Let n8n format**: New cells in your sheet will have the same data types as the input data provided by n8n.
+- **Data Location on Sheet**: Use this option when you need to specify where the data range on your sheet.
+    - **Header Row**: Specify the row index that contains the column headers.
+    - **First Data Row**: Specify the row index where the actual data starts.

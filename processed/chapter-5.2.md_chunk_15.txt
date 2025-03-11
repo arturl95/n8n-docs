@@ -1,0 +1,3 @@
+3. Use the [**Date & Time node**](/integrations/builtin/core-nodes/n8n-nodes-base.datetime/) to change the date format of the field `customerSince` to the format MM/DD/YYYY.
+    - Set the **Include Input Fields** option to keep all the data together.
+4. Use the [**Convert to File node**](/integrations/builtin/core-nodes/n8n-nodes-base.converttofile/) to create a CSV spreadsheet with the file name set as the expression: `{{$runIndex > 0 ? 'file_low_orders':'file_high_orders'}}`.

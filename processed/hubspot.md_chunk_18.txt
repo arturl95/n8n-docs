@@ -1,0 +1,7 @@
+6. Copy the **Client ID** and enter it in n8n.
+7. Copy the **Client Secret** and enter it in n8n.
+8. In the **Scopes** section, select **Add new scope**.
+9. Add all the scopes listed in [Required scopes for HubSpot node](#required-scopes-for-hubspot-node) to your app.
+10. Select **Update**.
+11. Copy the n8n **OAuth Redirect URL** and enter it as the **Redirect URL** in your HubSpot app.
+12. Select **Create app** to finish creating the HubSpot app.

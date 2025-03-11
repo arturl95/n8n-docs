@@ -1,0 +1,9 @@
+### Loop until a condition is met
+
+To create a loop in an n8n workflow, connect the output of one node to the input of a previous node. Add an [IF](/integrations/builtin/core-nodes/n8n-nodes-base.if/) node to check when to stop the loop. 
+
+Here is an [example workflow](https://n8n.io/workflows/1130) that implements a loop with an `IF` node:
+
+![Editor UI view of sample workflow](/_images/flow-logic/looping/example_workflow.png)
+
+### Loop until all items are processed

@@ -1,0 +1,10 @@
+```python
+previousNodeData = _("<node-name>").all();
+for item in previousNodeData:
+	# item is of type <class 'pyodide.ffi.JsProxy'>
+	# You need to convert it to a Dict
+	itemDict = item.json.to_py()
+	print(itemDict)
+```
+
+Refer to the Pyodide documentation on [JsProxy](https://pyodide.org/en/stable/usage/api/python-api/ffi.html#pyodide.ffi.JsProxy){:target=_blank .external-link} for more information on this class.

@@ -1,0 +1,9 @@
+- API key
+
+## Related resources
+
+Refer to [TheHive's API documentation](https://docs.strangebee.com/thehive/api-docs/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

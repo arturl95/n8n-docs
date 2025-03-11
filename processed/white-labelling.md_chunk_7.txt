@@ -1,0 +1,15 @@
+![Example Theme Color Customization](/_images/embed/white-label/color-transition.gif)
+
+
+## Theme logos
+
+To change the editor’s logo assets look into [packages/editor-ui/public](https://github.com/n8n-io/n8n/tree/master/packages/editor-ui/public){:target=_blank .external-link} and replace:
+
+- favicon-16x16.png
+- favicon-32x32.png
+- favicon.ico
+- n8n-logo.svg
+- n8n-logo-collapsed.svg
+- n8n-logo-expanded.svg
+
+Replace these logo assets. n8n uses them in Vue.js components, including:

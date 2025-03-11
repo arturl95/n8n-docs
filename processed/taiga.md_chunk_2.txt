@@ -1,0 +1,8 @@
+## Using basic auth
+
+To configure this credential, you'll need:
+
+- A **Username**: Enter your username or user email address. Refer to [Normal login](https://docs.taiga.io/api.html#auth-normal-login){:target=_blank .external-link} for more information.
+- A **Password**: Enter your password.
+- The **Environment**: Choose between **Cloud** or **Self-Hosted**. For **Self-Hosted** instances, you'll also need to add:
+    - The **URL**: Enter your Taiga URL.

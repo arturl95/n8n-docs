@@ -1,0 +1,9 @@
+* **Qdrant collection name**: Enter the name of the Qdrant collection to use.
+* **Prompt**: Enter the search query.
+* **Limit**: Enter how many results to retrieve from the vector store. For example, set this to `10` to get the ten best results.
+
+This Operation Mode includes one **Node option**, the [Metadata Filter](#metadata-filter).
+
+### Insert Documents parameters
+
+* **Qdrant collection name**: Enter the name of the Qdrant collection to use.

@@ -1,0 +1,5 @@
+* **File(s) Selector**: Enter the path of the file you want to read.
+	- To enter multiple files, enter a page path pattern. You can use these characters to define a path pattern:
+		- `*`: Matches any character zero or more times, excluding path separators.
+		- `**`: Matches any character zero or more times, include path separators.
+		- `?`: Matches any character except for path separators one time.

@@ -1,0 +1,9 @@
+=== "Code node (JavaScript)"
+
+	```js
+	let daysToChristmas = "There are " + $today.diff(DateTime.fromISO($today.year + '-12-25'), 'days').toObject().days.toString().substring(1) + " days to Christmas!";
+	```
+
+	This outputs `"There are <number of days> days to Christmas!"`. For example, on 9th March, it outputs "There are 291 days to Christmas!".
+
+	A detailed explanation of what the code does:

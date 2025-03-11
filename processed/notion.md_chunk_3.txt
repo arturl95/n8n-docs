@@ -1,0 +1,5 @@
+To configure this credential, you'll need:
+
+- An **Internal Integration Secret**: Generated once you create a Notion integration.
+
+To generate an integration secret, [create a Notion integration](https://developers.notion.com/docs/create-a-notion-integration#create-your-integration-in-notion){:target=_blank .external-link} and grab the integration secret from the **Secrets** tab:

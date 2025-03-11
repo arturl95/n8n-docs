@@ -1,0 +1,5 @@
+1. Go to **Settings** > **Community Nodes**.
+2. Select **Install**.
+3. Find the node you want to install:
+    1. Select **Browse**. n8n takes you to an npm search results page, showing all npm packages tagged with the keyword `n8n-community-node-package`.
+    2. Browse the list of results. You can filter the results or add more keywords.

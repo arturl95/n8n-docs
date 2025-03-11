@@ -1,0 +1,12 @@
+## Workflow controls
+ 
+ - **Ctrl** + **Alt** + **n**: create new workflow
+ - **Ctrl** + **o**: open workflow
+ - **Ctrl** + **s**: save the current workflow 
+ - **Ctrl** + **z**: undo
+ - **Ctrl** + **shift** + **z**: redo
+ - **Ctrl** + **Enter**: execute workflow
+
+## Canvas
+
+### Move the canvas

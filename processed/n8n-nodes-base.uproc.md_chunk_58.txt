@@ -1,0 +1,9 @@
+- Check if a string only contains alphabets
+- Check if a string is alphanumeric
+- Check if a string is boolean
+- Check if the largest item in a list matches the provided item
+- Check if IPv4 or IPv6 address has a valid format
+- Check if IPv4 address has a valid format
+- Check if IPv6 address has a valid format
+- Check if the length of a list is between two quantities
+- Checks if the length of a list equals a specified quantity

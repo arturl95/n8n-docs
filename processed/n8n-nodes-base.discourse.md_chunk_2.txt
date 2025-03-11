@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Discourse credentials](/integrations/builtin/credentials/discourse/) for guidance on setting up authentication. 
+///
+
+## Operations

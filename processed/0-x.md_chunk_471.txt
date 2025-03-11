@@ -1,0 +1,1 @@
+* [Item Lists:](/integrations/builtin/core-nodes/n8n-nodes-base.itemlists/) Fixed an erroneous placeholder text.

@@ -1,0 +1,7 @@
+## Using Access Token
+
+To configure this credential, you'll need:
+
+- An **Access Token**
+	
+Refer to [Access Tokens](https://docs.dynatrace.com/docs/manage/identity-access-management/access-tokens-and-oauth-clients/access-tokens){:target=_blank .external-link} on Dynatrace's website for more information.

@@ -1,0 +1,1 @@
+You must [create a Notion integration](https://developers.notion.com/docs/create-a-notion-integration#create-your-integration-in-notion){:target=_blank .external-link} and set it to public distribution:

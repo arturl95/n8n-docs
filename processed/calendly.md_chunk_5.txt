@@ -1,0 +1,5 @@
+1. Log in to Calendly's developer portal and go to [**My apps**](https://developer.calendly.com/console/apps){:target=_blank .external-link}.
+1. Select **Create new app**.
+1. Enter a **Name of app**, like `n8n integration`.
+2. In **Kind of app**, select **Web**.
+3. In **Environment type**, select the environment that corresponds to your usage, either **Sandbox** or **Production**.

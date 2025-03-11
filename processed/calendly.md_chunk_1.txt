@@ -1,0 +1,14 @@
+/// warning | Supported Calendly plans
+The Calendly Trigger node relies on Calendly webhooks. Calendly only offers access to webhooks in their paid plans.
+///
+
+## Supported authentication methods
+
+- API access token
+- OAuth2
+
+## Related resources
+
+Refer to [Calendly's API documentation](https://developer.calendly.com/getting-started){:target=_blank .external-link} for more information about the service.
+
+## Using API access token

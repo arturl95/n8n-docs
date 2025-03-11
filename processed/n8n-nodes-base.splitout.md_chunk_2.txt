@@ -1,0 +1,10 @@
+You can select:
+
+* **No Other Fields**: No other fields will be included.
+* **All Other Fields**: All other fields will be included.
+* **Selected Other Fields**: Only the selected fields will be included.
+    * **Fields to Include**: Enter a comma separated list of the fields you want to include.
+
+## Node options
+
+### Disable Dot Notation

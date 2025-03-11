@@ -1,0 +1,20 @@
+* Activity
+    * Create an activity
+    * Delete an activity
+    * Get data of an activity
+    * Get data of all activities
+    * Update an activity
+* Deal
+    * Create a deal
+    * Delete a deal
+    * Duplicate a deal
+    * Get data of a deal
+    * Get data of all deals
+    * Search a deal
+    * Update a deal
+* Deal Activity
+    * Get all activities of a deal
+* Deal Product
+    * Add a product to a deal
+    * Get all products in a deal
+    * Remove a product from a deal

@@ -1,0 +1,14 @@
+* Delete an organization
+    * Get data of an organization
+    * Get data of all organizations
+    * Update an organization
+    * Search organizations
+* Person
+    * Create a person
+    * Delete a person
+    * Get data of a person
+    * Get data of all persons
+    * Search all persons
+    * Update a person
+* Product
+    * Get data of all products

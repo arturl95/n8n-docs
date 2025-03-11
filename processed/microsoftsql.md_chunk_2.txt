@@ -1,0 +1,9 @@
+- SQL database connection
+
+## Related resources
+
+Refer to [Microsoft's Connect to SQL Server documentation](https://learn.microsoft.com/en-us/sql/sql-server/connect-to-database-engine?view=sql-server-ver16&tabs=sqldb#connect-to-sql-server){:target=_blank .external-link} for more information about connecting to the service.
+
+## Using SQL database connection
+
+To configure this credential, you'll need:

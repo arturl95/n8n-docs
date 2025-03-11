@@ -1,0 +1,14 @@
+/// note | Credentials
+Refer to [PhantomBuster credentials](/integrations/builtin/credentials/phantombuster/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Agent
+    * Delete an agent by ID.
+    * Get an agent by ID.
+    * Get all agents of the current user's organization.
+    * Get the output of the most recent container of an agent.
+    * Add an agent to the launch queue.
+
+## Templates and examples

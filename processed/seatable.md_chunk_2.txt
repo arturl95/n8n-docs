@@ -1,0 +1,9 @@
+- API key
+
+## Related resources
+
+Refer to [SeaTable's API documentation](https://api.seatable.io){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

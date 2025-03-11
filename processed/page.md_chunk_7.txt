@@ -1,0 +1,5 @@
+* **Leadgen**: Notifies you when a page's lead generation settings change.
+    * **Live Videos**: Notifies you when a page's live video status changes.
+    * **Mention**: Notifies you when new mentions in pages, comments, and so on occur.
+    * **Merchant Review**: Notifies you when a page's merchant review settings change.
+    * **Page Change Proposal**: Notifies you when Facebook suggests proposed changes for your Facebook Page.

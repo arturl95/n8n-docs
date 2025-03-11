@@ -1,0 +1,9 @@
+Refer to the [Gmail API Method: users.messages.get](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/get){:target=_blank .external-link} documentation for more information.
+
+<!-- vale off -->
+## Get Many messages
+<!-- vale on -->
+
+Use this operation to get two or more messages.
+
+Enter these parameters:

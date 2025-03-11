@@ -1,0 +1,4 @@
+- **Code Interpreter**: Turn on to enable the code interpreter for the assistant, where it can write and execute code in a sandbox environment. Enable this tool for tasks that require computations, data analysis, or any logic-based processing.
+- **Description**: Enter the description of the assistant. The maximum length is 512 characters.
+  ```
+  A virtual assistant that helps users with daily tasks, including setting reminders, answering general questions, and providing quick information.

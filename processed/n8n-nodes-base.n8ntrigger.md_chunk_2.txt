@@ -1,0 +1,7 @@
+- **Active Workflow Updated**: If you select this event, the node triggers when this workflow is updated.
+- **Instance started**: If you select this event, the node triggers when the n8n instance starts or restarts.
+- **Workflow Activated**: If you select this event, the node triggers when this workflow is activated.
+
+You can select one or more of these events.
+
+## Templates and examples

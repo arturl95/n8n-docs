@@ -1,0 +1,20 @@
+name: 'value',
+					type: 'string',
+					default: '',
+					description: 'Value to set for the metadata key.',
+				},
+			],
+		},
+	],
+	displayOptions: { // the resources and operations to display this element with
+		show: {
+			resource: [
+				// comma-separated list of resource names
+			],
+			operation: [
+				// comma-separated list of operation names
+			]
+		}
+	},
+}
+```

@@ -1,0 +1,5 @@
+Refer to [Secure TCP/IP Connections with SSH Tunnels](https://www.postgresql.org/docs/16/ssh-tunnels.html){:target=_blank .external-link} for more information.
+
+### SSH tunnel limitations
+
+Only use the **SSH Tunnel** setting if:

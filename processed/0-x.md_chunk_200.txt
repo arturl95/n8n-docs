@@ -1,0 +1,4 @@
+* Editor: fix an issue where some node actions wouldn't select default parameters correctly.
+* Editor: fix typo in retry-button option "Retry with original workflow".
+* Update permission for showing workflow caller policy.
+* Update pnpm-lock to fix build.

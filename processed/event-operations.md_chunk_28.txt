@@ -1,0 +1,5 @@
+- **Max Attendees**: The maximum number of attendees to include in the response. If there are more than the specified number of attendees, only returns the participant.
+	- **Repeat Frequency**: The repetition interval for recurring events.
+	- **Repeat How Many Times?**: The number of instances to create for recurring events.
+	- **Repeat Until**: The date at which recurring events should stop.
+	<!-- vale from-write-good.Weasel = NO -->

@@ -1,0 +1,9 @@
+- Discover if service in a port is available
+- Check if an URL contains a string or regular expression
+- Check if an URL exists
+- Check that an URL has a valid format
+- Get full SSL certificate data by a domain (or website) and monitor your certificate status
+- Get feed entries by domain
+- Get last feed entry by domain
+- Get text data from web, PDF or image allowing to filter some elements by regular expressions or field names
+- Decode URL to recover original

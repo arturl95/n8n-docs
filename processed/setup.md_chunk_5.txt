@@ -1,0 +1,6 @@
+## Generic IdP setup
+
+The steps to configure the IdP vary depending on your chosen IdP. These are some common setup tasks:
+
+* Create an app for n8n in your IdP.
+* Map n8n attributes to IdP attributes:

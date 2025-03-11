@@ -1,0 +1,3 @@
+### Create the workflow
+
+The details and scope of this workflow will vary greatly according to the individual use case, however there are a few design implementations to keep in mind:

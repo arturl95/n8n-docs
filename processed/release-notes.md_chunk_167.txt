@@ -1,0 +1,7 @@
+This release contains bug fixes, feature enhancements, a new node, node enhancements and performance improvements.
+
+For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
+
+<div class="n8n-new-features" markdown>
+
+#### New node: HTTP request tool

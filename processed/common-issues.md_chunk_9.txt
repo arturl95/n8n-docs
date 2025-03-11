@@ -1,0 +1,7 @@
+1. In the HTTP Request node, select **Add Option > Batching**.
+1. Set **Items per Batch** to the number of input items to include in each request.
+1. Set **Batch Interval (ms)** to introduce a delay between requests in milliseconds. For example, to send one request to an API per second, set **Batch Interval (ms)** to `1000`.
+
+### Retry on Fail
+
+Use this option to retry the node after a failed attempt.

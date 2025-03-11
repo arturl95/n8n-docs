@@ -1,0 +1,1 @@
+- Your Contentful **Space ID**: The Space ID displays as you generate the tokens;  You can also refer to the [Contentful Find space ID documentation](https://www.contentful.com/help/find-space-id/){:target=_blank .external-link} to view the Space ID.

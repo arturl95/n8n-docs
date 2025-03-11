@@ -1,0 +1,5 @@
+More details about these options can be found in the [Formhub API docs](https://github.com/SEL-Columbia/formhub/wiki/Formhub-Access-Points-(API)#api-parameters)
+
+### Submission options
+
+All operations that return form submission data offer options to tweak the response. These include:

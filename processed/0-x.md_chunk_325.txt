@@ -1,0 +1,11 @@
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Data pinning
+
+[Data pinning](/data/data-pinning/) allows you to freeze and edit data during workflow development. Data pinning means saving the output data of a node, and using the saved data instead of fetching fresh data in future workflow executions. This avoids repeated API calls when developing a workflow, reducing calls to external systems, and speeding up workflow development.
+
+</div>
+
+<div class="n8n-new-features" markdown>

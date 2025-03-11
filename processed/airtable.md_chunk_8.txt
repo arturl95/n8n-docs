@@ -1,0 +1,6 @@
+1. Open your Airtable Builder Hub [**OAuth integrations**](https://airtable.com/create/oauth){:target=_blank .external-link} page.
+2. Select the **Register new OAuth integration** button.
+3. Enter a name for your OAuth integration.
+4. Copy the **OAuth Redirect URL** from your n8n credential.
+5. Paste that redirect URL in Airtable as the **OAuth redirect URL**.
+6. Select **Register integration**.

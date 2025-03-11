@@ -1,0 +1,6 @@
+2. Enter the SQL Server Instance Name as the **Database** name. Find this name using the same steps listed above for finding the host name.
+    - If you don't see an instance name in any of these places, then your database uses the default `MSSQLSERVER` instance name.
+3. Enter your **User** account name or ID.
+4. Enter your **Password**.
+5. For the **Port**:
+    - SQL Server defaults to `1433`.

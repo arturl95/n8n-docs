@@ -1,0 +1,14 @@
+binary: {
+   		 // The key-name "apple" is only an example. Any kind of key-name is possible.
+   		 apple-picture: {
+   			 data: '....', // Base64 encoded binary data (required)
+   			 mimeType: 'image/png', // Optional but should be set if possible (optional)
+   			 fileExtension: 'png', // Optional but should be set if possible (optional)
+   			 fileName: 'example.png', // Optional but should be set if possible (optional)
+   		 }
+   	 }
+    },
+    ...
+]
+```
+## Configure the Code node

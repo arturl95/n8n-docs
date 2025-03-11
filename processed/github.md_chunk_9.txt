@@ -1,0 +1,3 @@
+### Set up the credential
+
+Then, in your n8n credential:

@@ -1,0 +1,1 @@
+Refer to [Registering your application with Calendly](https://developer.calendly.com/create-a-developer-account){:target=_blank .external-link} for more information.

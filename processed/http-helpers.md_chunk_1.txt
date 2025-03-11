@@ -1,0 +1,15 @@
+Call the helper inside the `execute` function. 
+
+```typescript
+// If no auth needed
+const response = await this.helpers.httpRequest(options);
+
+// If auth needed
+const response = await this.helpers.httpRequestWithAuthentication.call(
+	this, 
+	'credentialTypeName', // For example: pipedriveApi
+	options,
+);
+```
+
+`options` is an object:

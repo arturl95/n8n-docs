@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Jenkins credentials](/integrations/builtin/credentials/jenkins/) for guidance on setting up authentication. 
+///
+
+## Operations

@@ -1,0 +1,9 @@
+- Convert a string to an SHA encoded value
+- Analyze an English text with emojis and detect sentiment
+- Returns an ascending sorted list
+- Split a value into two parts and join them using a separator from the original string
+- Split a value into two parts using a separator from the original string
+- Get the length of a string
+- Lookup string between multiple values by fuzzy logic and regex patterns
+- Clean abuse words from a string
+- Replace the first value found in a string with another

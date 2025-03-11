@@ -1,0 +1,11 @@
+- New nodes
+- Ghost
+- NASA
+- Snowflake
+- Twist
+- Enhanced nodes
+- Automizy: Added options to add and remove tabs for the Update operation of the Contact resource
+- Pipedrive: Added label field to Person, Organization, and Deal resources. Also added Update operation for the Organization resource
+- Bug fixes
+- Fixed a bug that caused OAuth1 requests to break
+- Fixed Docker user mount path

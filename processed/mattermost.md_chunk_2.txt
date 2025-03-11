@@ -1,0 +1,7 @@
+To set it up:
+
+1. In Mattermost, go to **Profile > Security > Personal Access Tokens**.
+
+    /// warning | No Personal Access Tokens option
+    If you don't see the Personal Access Tokens option, refer to the troubleshooting steps in [Enable personal access tokens](#enable-personal-access-tokens) below.
+    ///

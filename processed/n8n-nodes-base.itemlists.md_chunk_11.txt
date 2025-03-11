@@ -1,0 +1,5 @@
+* **Output Field Name**: displayed when you enable **Rename Field**. The field name for the aggregated output data.
+	* **Options** > **Add Field**: use this to add more optional settings, including:
+		* **Disable Dot Notation**: when disabled, you can't reference child fields (in the format `parent.child`).
+		* **Include Binaries**: include binary data (files) from the input in the new output.
+* If you choose **All Item Data**, you can then set:

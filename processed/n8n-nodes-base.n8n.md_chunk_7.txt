@@ -1,0 +1,15 @@
+## Delete credential
+
+Configure this operation with this parameter:
+
+* **Credential ID**: Enter the ID of the credential you want to delete.
+
+## Get credential schema
+
+Configure this operation with this parameter:
+
+* **Credential Type**: Enter the credential's type. The available types depend on nodes installed on the n8n instance. Some built-in types include `githubApi`, `notionApi`, and `slackApi`.
+
+## Get execution
+
+Configure this operation with this parameter:

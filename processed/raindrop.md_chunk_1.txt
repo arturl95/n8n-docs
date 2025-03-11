@@ -1,0 +1,20 @@
+## Prerequisites
+
+Create a [Raindrop](https://raindrop.io/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Raindrop's API documentation](https://developer.raindrop.io/){:target=_blank .external-link} for more information about the service.
+
+## Using OAuth
+
+To configure this credential, you'll need:
+
+- A **Client ID**
+- A **Client Secret**
+
+Generate both by creating a Raindrop app.

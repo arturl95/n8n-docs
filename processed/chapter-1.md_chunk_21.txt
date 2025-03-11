@@ -1,0 +1,8 @@
+return [
+    	{
+        	json: {
+        		data_object: $input.all().map(item => item.json)
+        	}
+        }
+      ];
+	```

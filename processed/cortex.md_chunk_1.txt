@@ -1,0 +1,15 @@
+## Prerequisites
+
+Install [Cortex](https://docs.strangebee.com/cortex/installation-and-configuration/){:target=_blank .external-link} on your server.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Cortex's API documentation](https://docs.strangebee.com/cortex/api/api-guide/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

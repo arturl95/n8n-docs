@@ -1,0 +1,1 @@
+* [Todoist node](/integrations/builtin/app-nodes/n8n-nodes-base.todoist/): Improve multi-item support.

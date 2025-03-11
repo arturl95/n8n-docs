@@ -1,0 +1,5 @@
+Refer to [MongoDB's x.509 documentation](https://www.mongodb.com/docs/manual/core/security-x.509/#std-label-client-x509-certificates-requirements) for more information on working with x.509 certificates.
+
+## Using database connection - Values
+
+To configure this credential, you'll need the [Prerequisites](#prerequisites) listed above. Then:

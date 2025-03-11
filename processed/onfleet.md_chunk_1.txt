@@ -1,0 +1,12 @@
+- [Onfleet](/integrations/builtin/app-nodes/n8n-nodes-base.onfleet/)
+- [Onfleet Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.onfleettrigger/)
+
+## Prerequisites
+
+Create an [Onfleet](https://onfleet.com/){:target=_blank .external-link} administrator account.
+
+# Supported authentication methods
+
+- API key
+
+## Related resources

@@ -1,0 +1,9 @@
+Follow these steps:
+
+1. Enter the **Host** for the Baserow instance:
+    - For a Baserow-hosted instance: leave as `https://api.baserow.io`.
+    - For a self-hosted instance: set to your self-hosted instance API URL.
+2. Enter the **Username** for the user account n8n should use.
+3. Enter the **Password** for that user account.
+
+Refer to [Baserow's API Authentication documentation](https://baserow.io/docs/apis/rest-api#authentication) for information on creating user accounts.

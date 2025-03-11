@@ -1,0 +1,6 @@
+1. In your Meta app, select **App settings > Basic** from the left menu.
+1. Enter a **Privacy Policy URL**. (Required to take the app "Live.")
+1. Select **Save changes**.
+1. At the top of the page, toggle the **App Mode** from **Development** to **Live**.
+1. Facebook Login for Business requires Advanced Access for `public_profile`. To add it, go to **App Review > Permissions and Features**.
+1. Search for `public_profile` and select **Request advanced access**.

@@ -1,0 +1,2 @@
+* [TimescaleDB:](/integrations/builtin/app-nodes/n8n-nodes-base.timescaledb/) Added query parameters. The Execute Query operation returns the result from all queries executed instead of just one of the results.
+* [Twist:](/integrations/builtin/app-nodes/n8n-nodes-base.twist/) Added Get, Get All, Delete, and Update operations to the Message Conversation resource. Added Archive, Unarchive, and Delete operations to the Channel resource. Added Thread and Comment resource

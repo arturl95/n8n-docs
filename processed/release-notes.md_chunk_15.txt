@@ -1,0 +1,7 @@
+We also added a custom [projects](/user-management/rbac/projects/) icon selector on top of the available emojis. Pretty!
+
+### Contributors
+
+[igatanasov](https://github.com/igatanasov){:target=_blank .external-link}  
+[Stamsy](https://github.com/Stamsy){:target=_blank .external-link}  
+[feelgood-interface](https://github.com/feelgood-interface){:target=_blank .external-link}

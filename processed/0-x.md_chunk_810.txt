@@ -1,0 +1,15 @@
+- New nodes
+- Gmail
+- Google Contacts
+- Unleashed Software
+- YouTube
+- Enhanced nodes
+- AMQP
+- AMQP Trigger
+- Bitly
+- Function Item
+- Google Sheets
+- Shopify
+- Todoist
+- Enhanced support for [JWT based authentication](/hosting/authentication/jwt/)
+- Added an option to execute a node once, using data of only the first item

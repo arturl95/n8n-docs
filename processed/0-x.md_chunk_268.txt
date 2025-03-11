@@ -1,0 +1,15 @@
+It also contains bug fixes and node enhancements.
+
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### Improved item linking
+
+Introducing improved support for item linking (paired items). Item linking is a key concept in the n8n data flow. Learn more in [Data item linking](/data/data-mapping/data-item-linking/).
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Overhauled built-in variables

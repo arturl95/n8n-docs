@@ -1,0 +1,5 @@
+## Splitting data in batches
+
+If you need to process large volumes of incoming data, execute the **Code node** multiple times, or avoid API rate limits, it's best to split the data into batches (groups) and process these batches.
+
+For these processes, use the [**Loop Over Items node**](/integrations/builtin/core-nodes/n8n-nodes-base.splitinbatches/){:target="_blank"}. This node splits input data into a specified batch size and, with each iteration, returns a predefined amount of data.

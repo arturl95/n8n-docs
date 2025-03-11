@@ -1,0 +1,1 @@
+* [Mattermost Node:](/integrations/builtin/app-nodes/n8n-nodes-base.mattermost/) Add support for Channel search.

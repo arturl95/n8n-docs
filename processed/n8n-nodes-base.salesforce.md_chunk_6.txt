@@ -1,0 +1,15 @@
+* Add note to a lead
+    * Create a lead
+    * Create a new lead, or update the current one if it already exists (upsert)
+    * Delete a lead
+    * Get a lead
+    * Get all leads
+    * Returns an overview of Lead's metadata
+    * Update a lead
+* Opportunity
+    * Add note to an opportunity
+    * Create an opportunity
+    * Create a new opportunity, or update the current one if it already exists (upsert)
+    * Delete an opportunity
+    * Get an opportunity
+    * Get all opportunities

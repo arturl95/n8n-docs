@@ -1,0 +1,7 @@
+You should also have [git](https://git-scm.com/){:target=_blank class=.external-link} installed. This allows you to clone and use the [n8n-node-starter](https://github.com/n8n-io/n8n-nodes-starter){:target=_blank class=.external-link}.
+
+## Editor setup
+
+n8n recommends using [VS Code](https://code.visualstudio.com/){:target=_blank class=.external-link} as your editor.
+
+Install these extensions:

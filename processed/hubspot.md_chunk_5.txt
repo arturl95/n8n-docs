@@ -1,0 +1,7 @@
+## Using App token
+
+To configure this credential, you'll need a [HubSpot](https://www.hubspot.com/){:target=_blank .external-link} account or [HubSpot developer](https://developers.hubspot.com/){:target=_blank .external-link} account and:
+
+- An **App Token**
+
+To generate an app token, create a private app in HubSpot:

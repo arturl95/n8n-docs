@@ -1,0 +1,3 @@
+## Feature limits
+
+The ChatGPT implementation in n8n has the following limitations:

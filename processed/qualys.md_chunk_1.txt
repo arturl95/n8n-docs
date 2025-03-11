@@ -1,0 +1,11 @@
+## Prerequisites
+
+Create a [Qualys](https://www.qualys.com/){:target=_blank .external-link} user account with any user role except Contact.
+
+## Supported authentication methods
+
+- Basic auth
+
+## Related resources
+
+Refer to [Qualys's documentation](https://qualysguard.qg2.apps.qualys.com/qwebhelp/fo_portal/api_doc/index.htm){:target=_blank .external-link} for more information about the service.

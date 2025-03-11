@@ -1,0 +1,3 @@
+We created the Sustainable Use License to be more permissive and more clear about what use is allowed, while continuing to ensure n8n gets the funding needed to build and improve our product.
+
+### What are the main differences between the Sustainable Use License and your previous license arrangement (Apache 2.0 with Commons Clause)?

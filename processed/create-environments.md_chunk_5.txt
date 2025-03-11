@@ -1,0 +1,16 @@
+### Multiple instances, multiple branches
+
+![Diagram](/_images/source-control-environments/vc-multi-multi.png)
+
+--8<-- "_snippets/source-control-environments/multi-instance-multi-branch-pros-cons.md"
+
+
+### Multiple instances, one branch
+
+![Diagram](/_images/source-control-environments/vc-multi-one.png)
+
+--8<-- "_snippets/source-control-environments/multi-instance-one-branch-pros-cons.md"
+
+## Set up your repository
+
+Once you've chosen your pattern, you need to set up your GitHub repository.

@@ -1,0 +1,7 @@
+While not mentioned in the documentation for eksctl, you also need to [install the AWS CLI tool](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html){:target=_blank .external-link}, and [configure authentication of the tool](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html){:target=_blank .external-link}.
+
+--8<-- "_snippets/self-hosting/warning.md"
+
+--8<-- "_snippets/self-hosting/installation/latest-next-version.md"
+
+## Create a cluster

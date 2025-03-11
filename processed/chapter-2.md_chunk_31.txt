@@ -1,0 +1,21 @@
+"node": "Edit Fields",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		},
+		"Schedule Trigger": {
+		"main": [
+			[
+			{
+				"node": "Customer Datastore (n8n training)",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		}
+	}
+	}
+	```

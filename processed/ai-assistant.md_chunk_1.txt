@@ -1,0 +1,3 @@
+- **Debug helper**: Identify and troubleshoot node execution issues in your workflows to keep them running without issues.
+- **Answer n8n questions**: Get instant answers to your n8n-related questions, whether they're about specific features or general functionality.
+- **Coding support**: Receive guidance on coding, including SQL and JSON, to optimize your nodes and data processing.

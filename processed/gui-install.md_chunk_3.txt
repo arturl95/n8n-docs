@@ -1,0 +1,5 @@
+* To install the latest version of a package called n8n-node-weather: enter `n8n-nodes-storms` in **Enter npm package name**.
+    * To install version 2.3: enter `n8n-node-storms@2.3` in **Enter npm package name**.
+    <!-- vale off -->
+5. Agree to the [risks](/integrations/community-nodes/risks/) of using community nodes: select **I understand the risks of installing unverified code from a public source.**
+    <!-- vale on -->

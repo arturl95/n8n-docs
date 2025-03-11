@@ -1,0 +1,7 @@
+- **Visibility**: The visibility of the event:
+		<!-- vale from-write-good.Passive = NO -->
+		- **Confidential**: The event is private. This value is provided for compatibility.
+		<!-- vale from-write-good.Passive = YES -->
+		- **Default**: Uses the default visibility for events on the calendar.
+		- **Public**: The event is public and the event details are visible to all readers of the calendar.
+		- **Private**: The event is private and only event attendees may view event details.

@@ -1,0 +1,6 @@
+| 2      | Ed Sheeran    | Singer-songwriter | 2024-10-05T08:30:59.493Z |
+| 2      | Ed Sheeran    | Singer-songwriter | 2024-10-05T08:30:59.493Z |
+| 3      | Adele         | Singer-songwriter | 2024-10-07T14:15:59.493Z |
+| 3      | Adele         | Singer-songwriter | 2024-10-07T14:15:59.493Z |
+| 4      | Bruno Mars    | Singer-songwriter | 2024-08-25T17:45:12.493Z |
+| 5      | Billie Eilish | Singer-songwriter | 2024-09-10T09:30:12.493Z |

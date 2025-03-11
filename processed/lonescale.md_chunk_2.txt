@@ -1,0 +1,5 @@
+## Using API key
+
+To configure this credential, you'll need:
+
+- An **API Key**: Refer to [LoneScale's Generate an API key documentation](https://help-center.lonescale.com/en/articles/6454360-lonescale-public-api){:target=_blank .external-link} to generate your key.

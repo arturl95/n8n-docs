@@ -1,0 +1,8 @@
+* Core: Return SAML service provider URls with configuration.
+* Core: Service account private key should display as a password field.
+* Core: Upgrade Luxon to address CVE-2023-22467.
+* Core: Upgrade simple-git to address CVE-2022-25912.
+* Core: Upgrade SQLite3 to address CVE-2022-43441.
+* Core: Upgrade Convict to address CVE-2023-0163.
+* Core: Waiting workflows not stopping.
+* Editor: Fix connection lost hover text not showing.

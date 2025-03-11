@@ -1,0 +1,2 @@
+* [HTTP node](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/): fetches website data.
+* [HTML node](/integrations/builtin/core-nodes/n8n-nodes-base.html/): simplifies the data by extracting the main content from the page.

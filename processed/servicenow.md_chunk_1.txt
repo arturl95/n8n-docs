@@ -1,0 +1,16 @@
+## Prerequisites
+
+Create a [ServiceNow](https://developer.servicenow.com/dev.do#!/reference){:target=_blank .external-link} developer account.
+
+## Supported authentication methods
+
+- Basic auth
+- OAuth2
+
+## Related resources
+
+Refer to [ServiceNow's API documentation](https://developer.servicenow.com/dev.do#!/reference/api/washingtondc/rest/){:target=_blank .external-link} for more information about the service.
+
+## Using basic auth
+
+To configure this credential, you'll need:

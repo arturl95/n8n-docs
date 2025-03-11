@@ -1,0 +1,8 @@
+* **SHA3-512**
+	* **SHA385**
+	* **SHA512**
+* **Property Name**: Enter the name of the property you want to write the hash to.
+* **Secret**: Enter the secret or secret key used for decoding.
+* **Encoding**: Select the encoding type to use. Choose from:
+	* **BASE64**
+	* **HEX**

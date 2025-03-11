@@ -1,0 +1,12 @@
+### Bug fixes
+
+**core**: Luxon now applies the correct timezone. Refer to [Luxon](/code/cookbook/luxon/) for more information.<br>
+**core**: fixed an issue with localization that was preventing i18n files from loading.<br>
+[Action Network Node:](/integrations/builtin/app-nodes/n8n-nodes-base.actionnetwork/) Fix a pagination issue and add credentials test.
+
+### Contributors
+
+
+[Paolo Rechia](https://github.com/paolo-rechia)
+
+## n8n@0.171.1

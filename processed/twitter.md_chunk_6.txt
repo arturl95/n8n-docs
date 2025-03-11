@@ -1,0 +1,6 @@
+5. In the **Type of app** section, select **Web App, Automated App or Bot**.
+1. In n8n, copy the **OAuth Redirect URL**.
+7. In your X app, find the **App Info** section and paste that URL in as the **Callback URI / Redirect URL**.
+7. Add a **Website URL**.
+8. Save your changes.
+1. Copy the **Client ID** and **Client Secret** displayed in X and add them to the corresponding fields in your n8n credential.

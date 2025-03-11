@@ -1,0 +1,8 @@
+See each supported authentication method below for more detailed instructions on creating the app.
+
+## Supported authentication methods
+
+- API key: Use for the [WhatsApp Business Cloud](/integrations/builtin/app-nodes/n8n-nodes-base.whatsapp/) node.
+- OAuth2: Use for the [WhatsApp Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.whatsapptrigger/) node.
+
+## Related resources

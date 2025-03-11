@@ -1,0 +1,9 @@
+* Add paired item to the most used nodes.
+* Core: fix OAuth2 client credentials not always working.
+* Core: fix populating of node custom API call options.
+* Core: fix value resolution in declarative node design.
+* Core: prevent shared user details being saved alongside execution data.
+* Core: revert custom API option injecting.
+* Editor: add SMTP info translation link slot.
+* Editor: change executions title to match menu.
+* Editor: fix JSON field completions while typing.

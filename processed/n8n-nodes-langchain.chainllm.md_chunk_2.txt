@@ -1,0 +1,15 @@
+### Require Specific Output Format
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/output-format.md"
+
+## Chat Messages
+
+Use **Chat Messages** when you're using a chat model to set a message.
+
+n8n ignores these options if you don't connect a chat model. Select the **Type Name or ID** you want the node to use:
+
+#### AI
+
+Enter a sample expected response in the **Message** field. The model will try to respond in the same way in its messages.
+
+#### System

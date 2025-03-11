@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Quick Base](https://www.quickbase.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Quick Base's API documentation](https://developer.quickbase.com/auth/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

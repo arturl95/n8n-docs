@@ -1,0 +1,19 @@
+# Don't save node progress for each execution
+export EXECUTIONS_DATA_SAVE_ON_PROGRESS=false
+
+# Don't save manually launched executions
+export EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS=false
+
+```
+
+```sh
+# Docker
+docker run -it --rm \
+ --name n8n \
+ -p 5678:5678 \
+ -e EXECUTIONS_DATA_SAVE_ON_ERROR=all \
+ -e EXECUTIONS_DATA_SAVE_ON_SUCCESS=none \
+    -e EXECUTIONS_DATA_SAVE_ON_PROGRESS=true \
+    -e EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS=false \
+ docker.n8n.io/n8nio/n8n
+```

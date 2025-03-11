@@ -1,0 +1,8 @@
+* API: Don't use names for type ORM connections.
+* Core: Fix manual execution of pinned trigger on main mode.
+* Core: Streamline multiple pinned triggers behavior.
+* Editor: Curb argument linting for `$input.first()` and `$input.last()`
+* Editor: Fix duplicate bug when new workflow is open.
+* Editor: Fix for incorrect execution saving indicator in executions view.
+* Editor: Fix for OAuth authorization.
+* Editor: Fix workflow activation from the Workflows view.

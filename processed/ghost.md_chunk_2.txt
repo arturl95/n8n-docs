@@ -1,0 +1,7 @@
+## Related resources
+
+Refer to Ghost's [Admin API documentation](https://ghost.org/docs/admin-api/){:target=_blank .external-link} for more information about the Admin API service. Refer to Ghost's [Content API documentation](https://ghost.org/docs/content-api/){:target=_blank .external-link} for more information about the Content API service.
+
+## Using Admin API key
+
+To configure this credential, you'll need:

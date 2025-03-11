@@ -1,0 +1,13 @@
+- Instance URL
+
+## Related resources
+
+Refer to [Ollama's API documentation](https://github.com/ollama/ollama/blob/main/docs/api.md){:target=_blank .external-link} for more information about the service.
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-overview-link.md"
+
+## Using instance URL
+
+To configure this credential, you'll need:
+
+- The **Base URL** of your Ollama instance.

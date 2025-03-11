@@ -1,0 +1,3 @@
+<figure><img src="/_images/courses/level-two/chapter-five/workflow2_1.png" alt="Workflow 1: Getting data from different sources" style="width:100%"><figcaption align = "center"><i>Workflow 1: Getting data from different sources</i></figcaption></figure>
+
+1. Use the [**HTTP Request node**](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) to get data from the API endpoint that stores company data. Configure the following node parameters:

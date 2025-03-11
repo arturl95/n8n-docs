@@ -1,0 +1,1 @@
+n8n uses the [Vue I18n](https://kazupon.github.io/vue-i18n/){:target=_blank .external-link} internationalization plugin for Vue.js to translate the majority of UI texts. To search and replace text occurrences inside `en.json` you can use [Linked locale messages](https://kazupon.github.io/vue-i18n/guide/messages.html#linked-locale-messages){:target=_blank .external-link}.

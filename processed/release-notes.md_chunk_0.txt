@@ -1,0 +1,18 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Release notes
+description: Release notes detailing new features and bug fixes for n8n.
+tags:
+  - release
+  - release notes
+  - changelog
+hide:
+  - tags
+contentType: reference
+---
+<!-- vale off -->
+# Release notes
+
+New features and bug fixes for n8n.
+
+You can also view the [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} in the GitHub repository.

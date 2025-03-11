@@ -1,0 +1,9 @@
+## Connect your n8n instances to your repository
+
+Create two n8n instances, one for development, one for production. 
+
+### Configure Git in n8n
+
+--8<-- "_snippets/source-control-environments/configure-git-in-n8n.md"
+
+### Set up a deploy key

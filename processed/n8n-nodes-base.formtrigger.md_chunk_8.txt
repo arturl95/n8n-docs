@@ -1,0 +1,15 @@
+Here, percent-encoding replaces the at-symbol (`@`) with the string `%40` and the space character (` `) with the string `%20`. This will set the initial value for these fields no matter which page of the form they appear on.
+<!-- vale from-microsoft.Percentages = YES -->
+
+## Node parameters
+
+These are the main node configuration fields:
+
+### Authentication
+
+- **Basic Auth**
+- **None**
+
+#### Using basic auth
+
+To configure this credential, you'll need:

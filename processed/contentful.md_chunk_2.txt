@@ -1,0 +1,3 @@
+## Using API access token
+
+To configure this credential, you'll need:

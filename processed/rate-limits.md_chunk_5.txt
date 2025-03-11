@@ -1,0 +1,3 @@
+### Use Loop Over Items and Wait
+
+Use the Loop Over Items node to batch the input items, and the Wait node to introduce a pause between each request.

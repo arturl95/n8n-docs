@@ -1,0 +1,2 @@
+- **Expression assistance**: Learn how to create and refine [expressions](/code/expressions/) to get the most out of your workflows.
+- **Credential setup tips**: Find out how to set up and manage node [credentials](/integrations/builtin/credentials/) securely and efficiently.

@@ -1,0 +1,9 @@
+- API auth token
+
+## Related resources
+
+Refer to [Splunk's Enterprise API documentation](https://docs.splunk.com/Documentation/Splunk/latest/RESTREF/RESTprolog){:target=_blank .external-link} for more information about the service.
+
+## Using API auth token
+
+To configure this credential, you'll need:

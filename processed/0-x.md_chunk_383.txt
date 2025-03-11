@@ -1,0 +1,14 @@
+</div>
+
+### Node enhancements
+
+[Salesforce Node](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce){:target=_blank}: Add the **Country** field.
+
+### Bug fixes
+
+* **Editor UI**: don't display the dividing line unless necessary.
+* **Editor UI**: don't display the 'Welcome' sticky in template workflows.
+* [Slack Node](/integrations/builtin/app-nodes/n8n-nodes-base.slack){:target=_blank}: Fix the kick operation for the channel resource.
+
+
+## n8n@0.177.0

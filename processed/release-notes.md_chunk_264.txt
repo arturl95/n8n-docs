@@ -1,0 +1,1 @@
+There are now three key nodes dedicated to handling binary data files:

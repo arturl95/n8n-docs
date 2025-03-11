@@ -1,0 +1,4 @@
+* [Environments in n8n](/source-control-environments/understand/environments/): the purpose of environments, and how they work in n8n. 
+* [Git and n8n](/source-control-environments/understand/git/): Git concepts and source control in n8n.
+
+## Choose your source control pattern

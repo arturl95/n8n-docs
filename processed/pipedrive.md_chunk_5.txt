@@ -1,0 +1,3 @@
+/// note | No Developer Hub
+    If you don't see **Developer Hub** in your account dropdown, sign up for a [developer sandbox account](https://developers.pipedrive.com/){:target=_blank .external-link}.
+    ///

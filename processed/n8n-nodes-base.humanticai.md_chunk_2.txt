@@ -1,0 +1,15 @@
+/// note | Credentials
+Refer to [Humantic AI credentials](/integrations/builtin/credentials/humanticai/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Profile
+    * Create a profile
+    * Retrieve a profile
+    * Update a profile
+
+## Templates and examples
+
+<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
+[[ templatesWidget(page.title, 'humantic-ai') ]]

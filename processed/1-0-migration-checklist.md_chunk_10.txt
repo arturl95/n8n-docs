@@ -1,0 +1,13 @@
+## Breaking changes
+
+### Docker
+
+#### Permissions change
+
+When using Docker-based deployments, the n8n process is now run by the user `node` instead of `root`. This change increases security.
+
+If permission errors appear in your n8n container logs when starting n8n, you may need to update the permissions by executing the following command on the Docker host:
+
+```bash
+docker run --rm -it --user root -v ~/.n8n:/home/node/.n8n --entrypoint chown n8nio/base:16 -R node:node /home/node/.n8n
+```

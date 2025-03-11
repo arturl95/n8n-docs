@@ -1,0 +1,10 @@
+### Binary Exercise 1
+
+For our first binary exercise, let's convert a PDF file to JSON:
+
+1. Make an HTTP request to get this PDF file: `https://media.kaspersky.com/pdf/Kaspersky_Lab_Whitepaper_Anti_blocker.pdf.`
+2. Use the **Extract From File node** to convert the file from binary to JSON.
+
+??? note "Show me the solution"
+
+	In the **HTTP Request node**, you should see the PDF file, like this:

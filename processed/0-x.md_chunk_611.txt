@@ -1,0 +1,3 @@
+* [Kafka Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.kafkatrigger/) Added Read Messages From Beginning option.
+* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added Sandbox Environment Type for OAuth2 credentials.
+* [Taiga:](/integrations/builtin/app-nodes/n8n-nodes-base.taiga/) Added Epic, Task, and User Story operations.

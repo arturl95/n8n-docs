@@ -1,0 +1,7 @@
+Refer to Microsoft's [Add credentials](https://learn.microsoft.com/en-us/graph/auth-register-app-v2#add-credentials){:target=_blank .external-link} for more information on adding a client secret.
+
+## Common issues
+
+Here are the known common errors and issues with Microsoft Entra credentials.
+
+--8<-- "_snippets/integrations/builtin/credentials/microsoft-need-admin-approval.md"

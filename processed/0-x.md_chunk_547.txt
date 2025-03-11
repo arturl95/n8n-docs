@@ -1,0 +1,12 @@
+## n8n@0.145.0
+
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n%400.144.0...n8n@0.145.0) for this version.<br />
+**Release date:** 2021-10-22
+
+### New nodes
+
+
+* [AWS Textract](/integrations/builtin/app-nodes/n8n-nodes-base.awstextract/)
+* [Google Drive Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.googledrivetrigger/)
+
+### Enhanced nodes

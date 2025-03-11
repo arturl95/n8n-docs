@@ -1,0 +1,10 @@
+- Get a company's Twitter profile by name without manually searching on Google or Twitter
+- Get decision maker by search engine
+- Get decision makers by search engine
+- Get Facebook URI by company's domain
+- Get GitHub URI by company's domain
+- Get Instagram URI by company's domain
+- Get LinkedIn URI by company's domain
+- Get Pinterest URI by company's domain
+- Get Twitter URI by company's domain
+- Get YouTube URI by company's domain

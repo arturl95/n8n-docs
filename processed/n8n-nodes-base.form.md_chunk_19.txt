@@ -1,0 +1,3 @@
+[[ workflowDemo("file:///integrations/builtin/core-nodes/n8n-nodes-base.form/mutually-exclusive-branching.json") ]]
+
+#### Workflows that may execute multiple branches

@@ -1,0 +1,3 @@
+When configuring [app node](/integrations/builtin/app-nodes/) tools connected to the Tools Agent, you can use the `$fromAI()` function to dynamically populate parameter values using the AI model. The AI model will fill in appropriate data given the context from the task and information from other connected tools.
+
+## How the `$fromAI()` function works

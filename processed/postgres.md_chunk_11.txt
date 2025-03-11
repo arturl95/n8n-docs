@@ -1,0 +1,2 @@
+1. Add the contents of the **Private Key** or identity file used for SSH.
+        2. If the **Private Key** was created with a passphrase, enter that **Passphrase**. If the **Private Ke**y has no passphrase, leave this field blank.

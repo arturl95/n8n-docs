@@ -1,0 +1,9 @@
+To configure this credential, you'll need:
+
+- A **User** name: Enter your ServiceNow username.
+- A **Password**: Enter your ServiceNow password.
+- A **Subdomain**: The subdomain for your servicenow instance is in your instance URL: `https://<subdomain>.service-now.com/`. For example, if the full URL is `https://dev99890.service-now.com`, then the subdomain is `dev99890`.
+
+## Using OAuth2
+
+To configure this credential, you'll need:

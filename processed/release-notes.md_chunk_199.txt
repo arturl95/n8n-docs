@@ -1,0 +1,13 @@
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### New node: Groq Chat Model
+
+This release adds the [Groq Chat Model node](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatgroq/).
+
+</div>
+
+For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
+
+### Contributors

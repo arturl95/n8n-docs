@@ -1,0 +1,4 @@
+1. Email your idea to [marketing@n8n.io](mailto:marketing@n8n.io) with the subject "Blog contribution: [Your Topic]."
+2. Submit your draft:
+      - Write your post in a Google Doc following the [style guide](https://www.notion.so/97dc73436a624933b75ddc941a361b70?pvs=21){:target=_blank class=.external-link}.
+      - If your blog post includes example workflows, include the workflow JSON in a separate section at the end.

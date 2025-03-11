@@ -1,0 +1,8 @@
+</div>
+
+### Node enhancements
+
+* HubSpot node: you can now use your HubSpot credentials in the HTTP Request node to make a [custom API call](/integrations/custom-operations/).
+* Rundeck node: you can now use your Rundeck credentials in the HTTP Request node to make a [custom API call](/integrations/custom-operations/).
+
+### Bug fixes

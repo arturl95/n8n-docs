@@ -1,0 +1,13 @@
+Enter these parameters:
+
+* Select the **Credential to connect with** or create a new one.
+* **Resource**: Select **Message**.
+* **Operation**: Select **Send**.
+* **To**: Enter the email address you want the email sent to.
+* **Subject**: Enter the subject line.
+* Select the **Email Type**. Choose from **Text** or **HTML**.
+* **Message**: Enter the email message body.
+
+### Send options
+
+Use these options to further refine the node's behavior:

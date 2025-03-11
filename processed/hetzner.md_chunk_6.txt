@@ -1,0 +1,15 @@
+Clone the repository with the following command:
+
+```shell
+git clone https://github.com/n8n-io/n8n-docker-caddy.git
+```
+
+And change directory to the root of the repository you cloned:
+
+```shell
+cd n8n-docker-caddy
+```
+
+## Default folders and files
+
+The host operating system (the server) copies the two folders you created to Docker containers to make them available to Docker. The two folders are:

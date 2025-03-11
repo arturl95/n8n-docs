@@ -1,0 +1,17 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+description: Methods for working with n8n metadata.
+contentType: reference
+hide:
+  - toc
+---
+
+# n8n metadata
+
+Methods for working with n8n metadata.
+
+This includes:
+
+* Access to n8n environment variables for self-hosted n8n.
+* Metadata about workflows, executions, and nodes.
+* Information about instance [Variables](/code/variables/) and [External secrets](/external-secrets/).

@@ -1,0 +1,15 @@
+- New nodes
+- Automizy
+- AWS Rekognition
+- Matrix
+- Sendy
+- Vonage
+- WeKan
+- Enhanced nodes
+- AWS SES: Added Send Template operation for the Email resource and added the Template resource
+- ClickUp: Added Time Entry and Time Entry Tag resources
+- Function: The Function field is now called the JavaScript Code field
+- Mailchimp: Added Campaign resource
+- Mindee: Added currency to the simplified response
+- OneDrive: Added Share operation
+- OpenWeatherMap: Added Language parameter

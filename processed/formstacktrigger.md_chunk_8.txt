@@ -1,0 +1,5 @@
+Refer to [Formstack's API Authorization documentation](https://developers.formstack.com/reference/api-overview#obtaining-an-api-key-oauth2-access-token){:target=_blank .external-link} for more detailed instructions.
+
+/// note | Access token permissions
+Formstack ties access tokens to a Formstack user. Access tokens follow Formstack (in-app) user permissions.
+///

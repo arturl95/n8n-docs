@@ -1,0 +1,5 @@
+??? note "Show me the solution"
+
+	The workflow for this exercise looks like this:
+
+	<figure><img src="/_images/courses/level-two/chapter-three/exercise_merge.png" alt="Workflow exercise for merging data" style="width:100%"><figcaption align = "center"><i>Workflow exercise for merging data</i></figcaption></figure>

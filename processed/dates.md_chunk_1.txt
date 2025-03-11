@@ -1,0 +1,8 @@
+/// note | JavaScript in expressions
+You can use any JavaScript in expressions. Refer to [Expressions](/code/expressions/) for more information.
+///
+[[% import "_macros/data-functions.html" as dataFunctions %]]
+
+[[% for func in df_date %]]
+[[ dataFunctions.dataFunctions("date", func.funcName, func.returns, func.description, func.args, func.examples ) ]]
+[[% endfor %]]

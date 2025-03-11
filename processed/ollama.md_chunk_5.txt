@@ -1,0 +1,5 @@
+### Ollama and self-hosted n8n
+
+If you're self-hosting n8n on the same machine as Ollama, you may run into issues if they're running in different containers.
+
+For this setup, open a specific port for n8n to communicate with Ollama by setting the `OLLAMA_ORIGINS` variable or adjusting `OLLAMA_HOST` to an address the other container can access.

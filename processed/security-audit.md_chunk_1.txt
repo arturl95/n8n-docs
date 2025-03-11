@@ -1,0 +1,19 @@
+### n8n node
+
+Add the [n8n node](/integrations/builtin/core-nodes/n8n-nodes-base.n8n/) to your workflow. Select **Resource** > **Audit** and **Operation** > **Generate**.
+
+## Report contents
+
+The audit generates five risk reports:
+
+### Credentials
+
+This report shows:
+
+* Credentials not used in a workflow.
+* Credentials not used in an active workflow.
+* Credentials not use in a recently active workflow.
+
+### Database
+
+This report shows:

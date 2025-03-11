@@ -1,0 +1,12 @@
+### Bug fixes
+
+* CLI: cache generated assets in a user-writeable directory.
+* Core: prevent excess runs when data is pinned in a trigger node.
+* Core: ensure hook URLs always added correctly.
+* Editor: a fix for an issue affecting linked items in combination with data pinning.
+* Editor: resolve a bug with the binary data view.
+* GitHub Trigger node: ensure trigger executes reliably.
+* Microsoft Excel node: fix pagination issue.
+* Microsoft ToDo node: fix pagination issue.
+
+### Contributors

@@ -1,0 +1,3 @@
+- A user **Email**: Must be for a user account, not an admin account. Refer to the more detailed instructions below.
+- A user **Password**: Must be for a user account, not an admin account. Refer to the more detailed instructions below.
+- The **URL**: Use the public URL of your Strapi server, defined in `./config/server.js` as the `url` parameter. Strapi recommends using an absolute URL.

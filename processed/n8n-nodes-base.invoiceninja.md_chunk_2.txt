@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Invoice Ninja credentials](/integrations/builtin/credentials/invoiceninja/) for guidance on setting up authentication. 
+///
+
+## Operations

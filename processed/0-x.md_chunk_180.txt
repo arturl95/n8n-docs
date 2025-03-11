@@ -1,0 +1,13 @@
+#### Security audit
+
+This release adds a [security audit](/hosting/logging-monitoring/security-audit/) feature. You can now run a security audit on your n8n instance, to detect common security issues.
+
+</div>
+
+* Core: add support for Redis 6+ ACLs system using username in queue mode. Add the `QUEUE_BULL_REDIS_USERNAME` environment variable.
+
+### Node enhancements
+
+* Compare Datasets node: add an option for fuzzy compare.
+
+### Bug fixes

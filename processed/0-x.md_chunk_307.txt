@@ -1,0 +1,8 @@
+</div>
+
+* Core and editor: support `pairedItem` for pinned data.
+* Core and editor: integrate PostHog.
+* Core: add a command to scripts making it easier to launch n8n with tunnel.
+* CLI: notify external hooks about user profile and password changes.
+
+### Bug fixes

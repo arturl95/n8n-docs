@@ -1,0 +1,10 @@
+To configure this credential, you'll need:
+
+- The **Username** you use to access the app or service your HTTP Request is targeting.
+- The **Password** that goes with that username.
+
+### Form URLs
+
+The Form Trigger node has two URLs: **Test URL** and **Production URL**. n8n displays the URLs at the top of the node panel. Select **Test URL** or **Production URL** to toggle which URL n8n displays.
+
+![Screenshot of the form URLs](/_images/integrations/builtin/core-nodes/form-trigger/form-urls.png)

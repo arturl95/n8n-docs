@@ -1,0 +1,5 @@
+- **Credential to connect with**: Create or select an existing [Google Drive credentials](/integrations/builtin/credentials/google/).
+- **Resource**: Select **Shared Drive**.
+- **Operation**: Select **Update**.
+- **Shared Drive**: Choose the shared drive you want to update. 
+    - Select **From list** to choose the drive from the dropdown list, **By URL** to enter the URL of the drive, or **By ID** to enter the `driveId`.

@@ -1,0 +1,4 @@
+<div class="n8n-new-features" markdown>
+
+### Task runners for the Code node in public beta
+We're introducing a significant performance upgrade to the Code node with our new Task runner system. This enhancement moves JavaScript code execution to a separate process, improving your workflow execution speed while adding better isolation.

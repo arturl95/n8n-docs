@@ -1,0 +1,5 @@
+To get the User ID for a user:
+
+1. Open the **Team** tab.
+2. Select a user's avatar.
+3. Copy the string of characters located after `/u/` in your Twist URL. This string is the User ID. For example, if the URL is `https://twist.com/a/4qw45/people/u/475370` the User ID is `475370`.

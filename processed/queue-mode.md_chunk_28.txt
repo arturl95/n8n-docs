@@ -1,0 +1,10 @@
+## Multi-main setup
+
+/// info | Feature availability
+* Available on Self-hosted Enterprise plans.
+* If you want access to this feature on Cloud Enterprise, [contact n8n](https://n8n-community.typeform.com/to/y9X2YuGa){:target=_blank .external-link}.
+///
+
+In queue mode you can run more than one `main` process for high availability.
+
+In a single-mode setup, the `main` process does two sets of tasks:

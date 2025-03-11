@@ -1,0 +1,16 @@
+* Album
+    * Get an album by URI or ID.
+    * Get a list of new album releases.
+    * Get an album's tracks by URI or ID.
+    * Search albums by keyword.
+* Artist
+    * Get an artist by URI or ID.
+    * Get an artist's albums by URI or ID.
+    * Get an artist's related artists by URI or ID.
+    * Get an artist's top tracks by URI or ID.
+    * Search artists by keyword.
+* Library
+    * Get the user's liked tracks.
+* My Data
+    * Get your followed artists.
+* Player

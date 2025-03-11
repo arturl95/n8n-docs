@@ -1,0 +1,4 @@
+- An **Authentication** type: Select the option that best suits your use case. Options include:
+	- **Header**: Send the credentials as a basic auth header.
+	- **Body**: Send the credentials in the body of the request.
+- _Optional:_ Choose whether to **Ignore SSL Issues**. If turned on, n8n will connect even if SSL validation fails.

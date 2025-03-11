@@ -1,0 +1,9 @@
+# Gmail node Draft Operations
+
+Use the Draft operations to create, delete, or get a draft or list drafts in Gmail. Refer to the [Gmail node](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) for more information on the Gmail node itself.
+
+## Create a draft
+
+Use this operation to create a new draft.
+
+Enter these parameters:

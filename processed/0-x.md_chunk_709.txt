@@ -1,0 +1,5 @@
+- TheHive: Fixed an issue with the case resolution status
+- Fixed an issue with importing separate decrypted credentials
+- Fixed issues with the sub-workflows not finishing
+- Fixed an issue with the sub-workflows running on the main process
+- Fixed concurrency issues with sub-workflows

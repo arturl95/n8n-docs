@@ -1,0 +1,6 @@
+- Discover if a phone (landline or mobile) exists in a Robinson list (only Spain)
+- Discover if a landline or mobile number has a valid prefix
+- Discover if a landline phone number is valid, with Spain coverage
+- Allows discovering if landline number has a good international format, depending on the country
+- Discover if a landline phone number prefix exists, with worldwide coverage
+- Clean a phone removing non allowed characters

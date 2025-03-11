@@ -1,0 +1,6 @@
+4. On the **App Info** tab, add an **App name**, **Description**, **Logo**, and any support contact info you want to provide. Anyone encountering the app would see these.
+5. Open the **Auth** tab.
+6. Copy the **App ID** and enter it in n8n.
+6. Copy the **Client ID** and enter it in n8n.
+7. Copy the **Client Secret** and enter it in n8n.
+8. In the **Scopes** section, select **Add new scope**.

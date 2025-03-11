@@ -1,0 +1,26 @@
+## Color
+
+The `color` type provides a color selector.
+
+```typescript
+{
+	displayName: 'Background Color',
+	name: 'backgroundColor',
+	type: 'color',
+	default: '', // Initially selected color
+	displayOptions: { // the resources and operations to display this element with
+		show: {
+			resource: [
+				// comma-separated list of resource names
+			],
+			operation: [
+				// comma-separated list of operation names
+			]
+		}
+	},
+}
+```
+
+![Color](/_images/integrations/creating-nodes/color.png)
+
+## Options

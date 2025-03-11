@@ -1,0 +1,5 @@
+* Editor: stop rendering expressions as HTML.
+* Email Trigger node: backport V2 mark-seen-after processing to V1.
+* Email Trigger node: improve connection handling and credentials.
+* HTTP Request node: fix sending previously selected credentials.
+* TheHive node: small fixes.

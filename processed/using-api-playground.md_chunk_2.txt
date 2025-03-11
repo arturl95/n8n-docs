@@ -1,0 +1,8 @@
+/// warning | Real data
+If you select **Authorize** and enter your API key in the API playground, you have access to your live data. This is useful for trying out requests. Be aware you can change or delete real data.
+///
+The API includes built-in documentation about credential formats. This is available using the `credentials` endpoint:
+
+```shell
+N8N_HOST:N8N_PORT/N8N_PATH/api/v<api-version-number>/credentials/schema/{credentialTypeName}
+```

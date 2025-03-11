@@ -1,0 +1,5 @@
+[PR #6352](https://github.com/n8n-io/n8n/pull/6352){:target=_blank .external link}
+
+### Mandatory owner account
+
+This change makes [User Management](/user-management/) mandatory and removes support for other authentication methods, such as BasicAuth and External JWT. Note that the number of permitted users on [n8n.cloud](http://n8n.cloud/){:target=_blank .external link} or custom plans still varies depending on your subscription.

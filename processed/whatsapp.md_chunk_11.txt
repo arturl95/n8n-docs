@@ -1,0 +1,6 @@
+9. Go to **App settings** > **Basic**.
+10. Set the **Privacy Policy URL** and **Terms of Service URL** for the app.
+10. Change the **App Mode** to **Live**.
+11. Open the **API Setup** page either from the app navigation or from the **Start Using API** on the **Quickstart** page.
+12. Copy the **Temporary access token** and add it to n8n as the **Access Token**.
+13. Copy the **WhatsApp Business Account ID** and add it to n8n as the **Business Account ID**.

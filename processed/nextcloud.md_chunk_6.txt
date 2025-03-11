@@ -1,0 +1,3 @@
+## Using OAuth2
+
+To configure this credential, you'll need a [Nextcloud](https://nextcloud.com/){:target=_blank .external-link} account and:

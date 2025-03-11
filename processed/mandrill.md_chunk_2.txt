@@ -1,0 +1,11 @@
+If you already have a Mailchimp account with a Standard plan or higher, enable [Transactional Emails](https://mailchimp.com/help/add-or-remove-transactional-email){:target=_blank .external-link} within that account to use Mandrill.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Mailchimp's Transactional API documentation](https://mailchimp.com/developer/transactional/api/){:target=_blank .external-link} for more information about the service.
+
+## Using API key

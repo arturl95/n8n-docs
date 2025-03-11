@@ -1,0 +1,9 @@
+Refer to the Slack API [Quickstart](https://api.slack.com/quickstart){:target=_blank .external-link} for more information.
+
+### Slack Trigger configuration
+
+To use your Slack app with the [Slack Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.slacktrigger/) node:
+
+1. Go to **Features** > **Event Subscriptions**.
+2. Turn on the **Enable Events** control.
+3. In n8n, copy the **Webhook URL** and enter it as the **Request URL** in your Slack app.

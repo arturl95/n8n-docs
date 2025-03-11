@@ -1,0 +1,22 @@
+* Update an estimate
+* Expense
+    * Get data of an expense
+    * Get data of all expenses
+    * Create an expense
+    * Update an expense
+    * Delete an expense
+* Invoice
+    * Get data of an invoice
+    * Get data of all invoices
+    * Create an invoice
+    * Update an invoice
+    * Delete an invoice
+* Project
+    * Create a project
+    * Delete a project
+    * Get data of a project
+    * Get data of all projects
+    * Update a project
+* Task
+    * Create a task
+    * Delete a task

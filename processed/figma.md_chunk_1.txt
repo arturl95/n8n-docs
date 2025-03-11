@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Figma](https://www.figma.com/){:target=_blank .external-link} account. You need an admin or owner level account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Figma's API documentation](https://www.figma.com/developers/api){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

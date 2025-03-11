@@ -1,0 +1,7 @@
+* Start a time entry
+    * Stop the current running timer
+    * Update a time Entry
+* Time Entry Tag
+    * Add tag to time entry
+    * Get all time entry tags
+    * Remove tag from time entry

@@ -1,0 +1,11 @@
+#### Open AI node
+
+This release adds an integration with OpenAI. Refer to the [OpenAI node documentation](/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/) for details.
+
+</div>
+
+### Node enhancements
+
+Send Email node: add support for a "Reply to" email address.
+
+### Bug fixes

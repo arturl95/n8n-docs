@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Magento 2 credentials](/integrations/builtin/credentials/magento2/) for guidance on setting up authentication. 
+///
+
+## Operations

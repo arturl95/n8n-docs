@@ -1,0 +1,11 @@
+You can use [Expressions](/code/expressions/) in the template, including n8n's [Built-in methods and variables](/code/builtin/overview/). 
+
+## Extract HTML Content
+
+Extract contents from an HTML-formatted source. The source can be in JSON or a binary file (`.html`).
+
+Use these parameters:
+
+### Source Data
+
+Select the source type for your HTML content. Choose between:

@@ -1,0 +1,2 @@
+* **Save execution progress**: whether n8n should save execution data for each node. If set to **Save**, the workflow resumes from where it stopped in case of an error. This might increase latency.
+* **Timeout Workflow**: toggle to enable setting a duration after which n8n should cancel the current workflow execution.

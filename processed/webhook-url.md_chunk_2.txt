@@ -1,0 +1,4 @@
+```bash
+export WEBHOOK_URL=https://n8n.example.com/
+```
+Refer to [Environment variables reference](/hosting/configuration/environment-variables/endpoints/) for more information on this variable.

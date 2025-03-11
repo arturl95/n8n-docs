@@ -1,0 +1,10 @@
+## Prerequisites
+
+- Create a [Mailgun](https://www.mailgun.com/){:target=_blank .external-link} account.
+- [Add and verify a domain](https://help.mailgun.com/hc/en-us/articles/360026833053-Domain-Verification-Setup-Guide){:target=_blank .external-link} in Mailgun or use the provided sandbox domain for testing.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

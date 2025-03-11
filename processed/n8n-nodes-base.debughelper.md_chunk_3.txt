@@ -1,0 +1,15 @@
+* **Data Type**: Choose the type of random data you'd like to generate. Options include:
+	* **Address**
+	* **Coordinates**
+	* **Credit Card**
+	* **Email**
+	* **IPv4**
+	* **IPv6**
+	* **MAC**
+	* **Nanoids**: If you select this data type, you'll also need to enter:
+		* **Nanoid Alphabet**: The alphabet the generator will use to generate the nanoids.
+		* **Nanoid Length**: The length of each nanoid.
+	* **URL**
+	* **User Data**
+	* **UUID**
+	* **Version**

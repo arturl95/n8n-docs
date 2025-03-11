@@ -1,0 +1,17 @@
+You can start workflows directly using the CLI.
+
+Execute a saved workflow by its ID:
+
+```bash
+n8n execute --id <ID>
+```
+
+## Change the active status of a workflow
+
+You can change the active status of a workflow using the CLI.
+
+/// note | Restart required
+These commands operate on your n8n database. If you execute them while n8n is running, the changes don't take effect until you restart n8n.
+///	
+
+Set the active status of a workflow by its ID to false:

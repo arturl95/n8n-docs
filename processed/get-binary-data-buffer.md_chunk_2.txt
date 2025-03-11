@@ -1,0 +1,15 @@
+```js
+/* 
+* itemIndex: number. The index of the item in the input data.
+* binaryPropertyName: string. The name of the binary property. 
+* The default in the Read/Write File From Disk node is 'data'. 
+*/
+let binaryDataBufferItem = await this.helpers.getBinaryDataBuffer(itemIndex, binaryPropertyName);
+```
+
+For example:
+
+```js
+let binaryDataBufferItem = await this.helpers.getBinaryDataBuffer(0, 'data');
+// Returns the data in the binary buffer for the first input item
+```

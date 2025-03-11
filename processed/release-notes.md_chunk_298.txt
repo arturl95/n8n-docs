@@ -1,0 +1,20 @@
+Workflow history is available in Enterprise n8n, and with limited history for Cloud Pro.
+
+Learn more in the [Workflow history](/workflows/history/) documentation.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Dark mode
+
+_Almost_ in time for Halloween: this release introduces dark mode.
+
+To enable dark mode:
+
+1. Select **Settings** > **Personal**.
+1. Under **Personalisation**, change **Theme** to **Dark theme**.
+
+</div>
+
+<div class="n8n-new-features" markdown>

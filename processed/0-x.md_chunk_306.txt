@@ -1,0 +1,11 @@
+This release contains new features and enhancements, as well as bug fixes.
+
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### Map nested fields
+
+n8n@0.187.0 saw the first release of [data mapping](/data/data-mapping/), allowing you to drag and drop top level data from a node's **INPUT** panel into parameter fields. With this release, you can now drag and drop data from any level.
+
+</div>

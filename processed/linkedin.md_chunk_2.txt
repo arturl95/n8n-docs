@@ -1,0 +1,9 @@
+## Related Resources
+
+Refer to [LinkedIn's Community Management API documentation](https://learn.microsoft.com/en-us/linkedin/marketing/community-management/community-management-overview?view=li-lms-2024-04){:target=_blank .external-link} for more information about the service.
+
+This credential works with API version `202404`.
+
+## Using Community Management OAuth2
+
+Use this method if you're a new LinkedIn user or creating a new LinkedIn app.

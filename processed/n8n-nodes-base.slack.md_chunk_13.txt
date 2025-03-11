@@ -1,0 +1,4 @@
+| Channel | Invite | [conversations.invite](https://api.slack.com/methods/conversations.invite){:target=blank .external-link} |
+| Channel | Join | [conversations.join](https://api.slack.com/methods/conversations.join){:target=blank .external-link} |
+| Channel | Kick | [conversations.kick](https://api.slack.com/methods/conversations.kick){:target=blank .external-link} |
+| Channel | Leave | [conversations.leave](https://api.slack.com/methods/conversations.leave){:target=blank .external-link} |

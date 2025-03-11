@@ -1,0 +1,7 @@
+### Convert to XLSX
+
+Configure the node for this operation with the **Put Output File in Field** parameter. Enter the name of the field in the output data to contain the file.
+
+#### Convert to XLSX options
+
+You can also configure this operation with these **Options**:

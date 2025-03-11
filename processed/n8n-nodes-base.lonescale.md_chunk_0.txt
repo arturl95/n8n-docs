@@ -1,0 +1,10 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: LoneScale node documentation
+description: Learn how to use the LoneScale node in n8n. Follow technical documentation to integrate LoneScale node into your workflows.
+contentType: integration
+---
+
+# LoneScale node
+
+Use the LoneScale node to automate work in LoneScale and integrate LoneScale with other applications. n8n has built-in support for managing Lists and Items in LoneScale.

@@ -1,0 +1,13 @@
+- [Mailjet](/integrations/builtin/app-nodes/n8n-nodes-base.mailjet/)
+- [Mailjet Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.mailjettrigger/)
+
+## Prerequisites
+
+Create a [Mailjet](https://www.mailjet.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Email API key: For use with Mailjet's Email API
+- SMS token: For use with Mailjet's SMS API
+
+## Related resources

@@ -1,0 +1,11 @@
+### Workflow templates
+
+You can browse workflow templates in-app or on the n8n website [Workflows](https://n8n.io/workflows/?categories=25,26){:target=_blank .external-link} page.
+
+Refer to [Templates](/workflows/templates/) for information on accessing templates in-app.
+
+### Chat trigger
+
+Use the [n8n Chat Trigger](/integrations/builtin/core-nodes/n8n-nodes-langchain.chattrigger/) to trigger a workflow based on chat interactions.
+
+### Chatbot widget

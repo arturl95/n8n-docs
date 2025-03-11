@@ -1,0 +1,5 @@
+### New features
+
+Enhancements to the **Trigger** inputs panel: When using a trigger node, you will now see an **INPUT** view that gives guidance on how to load data into your trigger.
+
+### Node enhancements

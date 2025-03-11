@@ -1,0 +1,5 @@
+## SQLite
+
+| Variable | Type  | Default  | Description |
+| :------- | :---- | :------- | :---------- |
+| `DB_SQLITE_VACUUM_ON_STARTUP` | Boolean | `false` | Runs [VACUUM](https://www.sqlite.org/lang_vacuum.html){:target="_blank" .external-link} operation on startup to rebuild the database. Reduces file size and optimizes indexes. This is a long running blocking operation and increases start-up time. |

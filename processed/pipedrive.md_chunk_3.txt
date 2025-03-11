@@ -1,0 +1,9 @@
+1. Select your account name and be sure you're viewing the correct company.
+2. Then select **Company Settings**.
+2. Select **Personal Preferences**.
+3. Select the **API** tab.
+4. Copy **Your personal API token** and enter it in your n8n credential.
+
+Refer to [How to find the API token](https://pipedrive.readme.io/docs/how-to-find-the-api-token){:target=_blank .external-link} for more information.
+
+## Using OAuth2

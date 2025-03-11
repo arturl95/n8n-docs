@@ -1,0 +1,14 @@
+- [Lemlist](/integrations/builtin/app-nodes/n8n-nodes-base.lemlist/)
+- [Lemlist Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.lemlisttrigger/)
+
+## Prerequisites
+
+Create an account on a [Lemlist](https://www.lemlist.com/){:target=_blank .external-link} instance.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Lemlist's API documentation](https://developer.lemlist.com/){:target=_blank .external-link} for more information about the service.

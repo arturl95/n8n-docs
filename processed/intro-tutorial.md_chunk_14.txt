@@ -1,0 +1,24 @@
+"position": [
+				1380,
+				500
+			]
+			},
+			{
+			"parameters": {
+				"aggregate": "aggregateAllItemData",
+				"include": "specifiedFields",
+				"fieldsToInclude": "fruit, color",
+				"options": {}
+			},
+			"id": "6d6c847d-7417-4780-8a8b-b99996cd6166",
+			"name": "Aggregate",
+			"type": "n8n-nodes-base.aggregate",
+			"typeVersion": 1,
+			"position": [
+				1600,
+				500
+			]
+			},
+			{
+			"parameters": {},
+			"id": "1ec54b09-7533-4280-8bf2-54407d6bf134",

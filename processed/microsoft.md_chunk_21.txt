@@ -1,0 +1,1 @@
+--8<-- "_snippets/integrations/builtin/credentials/microsoft-need-admin-approval.md"

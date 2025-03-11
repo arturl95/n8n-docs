@@ -1,0 +1,23 @@
+The objects must include:
+
+```js
+displayName: 'Additional Fields',
+name: 'additionalFields',
+// The UI element type
+type: ''
+placeholder: 'Add Field',
+default: {},
+displayOptions: {
+  // Set which resources and operations this field is available for
+  show: {
+    resource: [
+      // Resource names
+    ],
+    operation: [
+      // Operation names
+    ]
+  },
+}
+```
+
+For more information about UI element types, refer to [UI elements](/integrations/creating-nodes/build/reference/ui-elements/).

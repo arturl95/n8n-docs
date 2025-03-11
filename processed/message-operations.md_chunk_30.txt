@@ -1,0 +1,2 @@
+* **Send Replies To**: Enter an email address to set as the reply to address.
+* **Reply to Sender Only**: Choose whether to reply all (turned off) or reply to the sender only (turned on).

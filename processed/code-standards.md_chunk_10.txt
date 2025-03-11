@@ -1,0 +1,3 @@
+When reusing the internal name, you must ensure that only one field is visible to the user at a time. You can control this using `displayOptions`.
+
+## Detailed guidelines for writing a programmatic-style node

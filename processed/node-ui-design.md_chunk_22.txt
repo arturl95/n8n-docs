@@ -1,0 +1,10 @@
+#### Lists
+
+* Set default values for lists whenever possible. The default should be the most-used option.
+* Sort list options alphabetically.
+* You can include list option descriptions. Only add descriptions if they provide useful information.
+* If there is an option like **All**, use the word **All**, not shorthand like *****.
+
+#### Trigger node inputs
+
+When a trigger node has a parameter for specifying which events to trigger on:

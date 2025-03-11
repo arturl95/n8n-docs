@@ -1,0 +1,15 @@
+## Prerequisites
+
+Install and run a [MISP](https://misp.github.io/MISP/){:target=_blank .external-link} instance.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [MISP's Automation API documentation](https://www.circl.lu/doc/misp/automation){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

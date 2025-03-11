@@ -1,0 +1,4 @@
+* **Repository Path**: Enter the local path of the git repository.
+* **Authentication**: Select **Authenticate** to pass credentials in. Select **None** to not use authentication.
+    * **Credential for Git**: If you select **Authenticate**, you must select or create credentials for the node to use. Refer to [Git credential](/integrations/builtin/credentials/git/) for more information.
+* **New Repository Path**: Enter the local path where you'd like to locate the cloned repository.

@@ -1,0 +1,13 @@
+See the [Wait > On webhook call](/integrations/builtin/core-nodes/n8n-nodes-base.wait/#webhook-call) documentation to learn more.
+
+## `execution.customData`
+
+This is only available in the Code node.
+
+=== "JavaScript"
+	```js
+	// Set a single piece of custom execution data
+	$execution.customData.set("key", "value");
+
+	// Set the custom execution data object
+	$execution.customData.setAll({"key1": "value1", "key2": "value2"})

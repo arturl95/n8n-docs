@@ -1,0 +1,7 @@
+/// note | Python support
+You can use Python in the Code node. It isn't available in expressions.
+///
+=== "JavaScript"
+	| Method | Description | Available in Code node? |
+	| ------ | ----------- | :-------------------------: |
+	| `$now` | A Luxon object containing the current timestamp. Equivalent to `DateTime.now()`. | :white_check_mark: |

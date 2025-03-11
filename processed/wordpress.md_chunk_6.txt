@@ -1,0 +1,8 @@
+1. From the WordPress **Security >** [**Two-Step Authentication**](https://wordpress.com/me/security/two-step) page, select **+ Add new application password** in the **Application passwords** section.
+5. Enter an **Application name**, like `n8n integration`.
+6. Select **Generate Password**.
+7. Copy the password it generates. You'll use this in your n8n credential.
+
+### Set up the credential
+
+Congratulations! You're now ready to set up your n8n credential:

@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Enterprise key
+description: How to use your enterprise license key.
+contentType: howto
+---
+
+# Enterprise license key
+
+You need to add your enterprise license key to enable enterprise features. You can do this through the UI, or using environment variables.
+
+## Add an enterprise license key in the UI
+
+In your n8n instance:

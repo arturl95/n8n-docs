@@ -1,0 +1,16 @@
+"fieldType": "number"
+	},
+	{
+		"fieldLabel": "Password",
+		"fieldType": "password"
+	},
+	{
+		// "fieldType": "text" can be omitted since it's the default type
+		"fieldLabel": "Text"
+	},
+	{
+		"fieldLabel": "Textarea",
+		"fieldType": "textarea"
+	}
+]
+```

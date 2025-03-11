@@ -1,0 +1,5 @@
+| **Resource** | **Operation** | **Slack API method** |
+| --- | --- | --- |
+| Channel | Archive | [conversations.archive](https://api.slack.com/methods/conversations.archive){:target=blank .external-link} |
+| Channel | Close | [conversations.close](https://api.slack.com/methods/conversations.close){:target=blank .external-link} |
+| Channel | Create | [conversations.create](https://api.slack.com/methods/conversations.create){:target=blank .external-link} |

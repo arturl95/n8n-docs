@@ -1,0 +1,7 @@
+* Core: ensure n8n calls available error workflows in main mode recovery.
+* Core: fix telemetry execution status for manual workflows executions.
+* Core: return SAML attributes after connection test.
+* Editor: disable mapping tooltip for display modes that don't support mapping.
+* Editor: fix execution list item selection.
+* Editor: fix for large notifications being cut off.
+* Editor: fix redo in code and expression editor.

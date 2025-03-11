@@ -1,0 +1,12 @@
+### Convert to HTML
+
+Configure the node for this operation with the **Put Output File in Field** parameter. Enter the name of the field in the output data to contain the file.
+
+#### Convert to HTML options
+
+You can also configure this operation with these **Options**:
+
+* **File Name**: Enter the file name for the generated output file.
+* If the first row of the file contains header names, turn on the **Header Row** option.
+
+### Convert to ICS

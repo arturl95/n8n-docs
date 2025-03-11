@@ -1,0 +1,3 @@
+- **Redirect URI**: Copy the **OAuth Redirect URL** from the n8n credential to enter here.
+    - For self-hosted n8n instances, enter the OAuth callback URL for your n8n instance in the format `https://<n8n_url>/rest/oauth2-credential/callback`. For example `https://localhost:5678/rest/oauth2-credential/callback`.
+- **Platform**: Select **Website**.

@@ -1,0 +1,7 @@
+To configure this credential, you'll need:
+
+- An **API token**: Create a new API token on the [API Tokens](https://onesimpleapi.com/user/api-tokens) page. Be sure you select appropriate permissions for the token.
+
+You can also access the API Tokens page by selecting your **Profile > API Tokens**.
+
+<!-- vale on -->

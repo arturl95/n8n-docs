@@ -1,0 +1,12 @@
+Configure this operation with these parameters:
+
+- **Old Path**: Enter the existing path of the file you'd like to rename in this field.
+- **New Path**: Enter the new path for the renamed file in this field.
+
+### Rename options
+
+This operation adds one new option: **Create Directories**. If you turn this option on, the node will recursively create the destination directory when renaming an existing file or folder.
+
+## Upload
+
+Configure this operation with these parameters:

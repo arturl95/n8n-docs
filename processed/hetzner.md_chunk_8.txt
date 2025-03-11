@@ -1,0 +1,5 @@
+```shell
+sudo docker volume create n8n_data
+```
+
+## Set up DNS

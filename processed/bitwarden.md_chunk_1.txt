@@ -1,0 +1,9 @@
+## Prerequisites
+
+Create a [Bitwarden](https://vault.bitwarden.com/#/register?org=teams){:target=_blank .external-link} Teams organization or Enterprise organization account. (Bitwarden only makes the Bitwarden Public API available for these [organization](https://bitwarden.com/help/about-organizations/){:target=_blank .external-link} plans.)
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

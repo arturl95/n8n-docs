@@ -1,0 +1,8 @@
+* Core: fix wokflow hashing for MySQL.
+* Core: make `deepCopy` backward compatible.
+* Editor: ensure `displayOptions` received the value from the resource locator component.
+* Editor: disable the settings link in executions view for unsaved workflows.
+* Editor: ensure forms reliably save.
+* Editor: fix issues with interim updates in executions view.
+* Editor: fix for node creator search.
+* Editor: limit columns in table view to prevent the UI becoming unresponsive in the node details view.

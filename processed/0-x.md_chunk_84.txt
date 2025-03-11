@@ -1,0 +1,7 @@
+* Editor: Fix issue preventing execution preview loading when in an iframe.
+* Editor: Use credentials when fetching node and credential types.
+* Google Sheets Node: Fix `insertOrUpdate` cell update with object.
+* HTTP Request Node: Add streaming to binary response.
+* HTTP Request Node: Fix AWS credentials to automatically deconstruct the URL.
+* HTTP Request Node: Fix AWS credentials to stop removing URL parameters for STS.
+* Split In Batches Node: Roll back changes in v1 and create v2.

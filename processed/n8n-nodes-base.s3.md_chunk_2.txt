@@ -1,0 +1,7 @@
+Use the S3 node for non-AWS S3 solutions like:
+
+* [MinIO](https://min.io/){:target="_blank" .external-link}
+* [Wasabi](https://wasabi.com/){:target="_blank" .external-link}
+* [Digital Ocean spaces](https://www.digitalocean.com/products/spaces){:target="_blank" .external-link}
+
+On this page, you'll find a list of operations the S3 node supports and links to more resources.

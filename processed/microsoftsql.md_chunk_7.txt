@@ -1,0 +1,3 @@
+- SQL Server defaults to `1433`.
+    - If you can't connect over port 1433, check the [Error logs](https://learn.microsoft.com/en-us/sql/ssms/tutorials/ssms-tricks?view=sql-server-ver16#before-you-connect-to-sql-server){:target=_blank .external-link} for the phrase `Server is listening on` to identify the port number you should enter.
+6. You only need to enter the **Domain** name if users in multiple domains access your database. Run this SQL query to get the domain name:

@@ -1,0 +1,12 @@
+- [PayPal](/integrations/builtin/app-nodes/n8n-nodes-base.paypal/)
+- [PayPal Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.paypaltrigger/)
+
+## Prerequisites
+
+Create a [PayPal developer](https://developer.paypal.com/home){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API client and secret
+
+## Related resources

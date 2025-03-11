@@ -1,0 +1,12 @@
+* [Brevo node](/integrations/builtin/app-nodes/n8n-nodes-base.brevo/)
+* [Brevo Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.brevotrigger/)
+
+## Prerequisites
+
+Create a [Brevo](https://www.brevo.com/){:target=_blank .external-link} developer account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

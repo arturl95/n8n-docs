@@ -1,0 +1,19 @@
+## Node parameters
+
+Configure the Tools Agent using the following parameters.
+
+### Prompt
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/prompt.md"
+
+### Require Specific Output Format
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/output-format.md"
+
+## Node options
+
+Refine the Tools Agent node's behavior using these options:
+
+### System Message 
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/system-message.md"

@@ -1,0 +1,10 @@
+* Test your JSON in a JSON checker or syntax parser to find errors like missing quotation marks, extra or missing commas, incorrectly formatted arrays, extra or missing square brackets or curly brackets, and so on.
+* If you've used an **Expression** in the node, be sure you've wrapped the entire JSON in double curly brackets, for example:
+    ```
+    {{
+        {
+        "myjson":
+        {
+            "name1": "value1",
+            "name2": "value2",
+            "array1":

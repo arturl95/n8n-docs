@@ -1,0 +1,8 @@
+- [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/)
+- [Chat OpenAI](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatopenai)
+- [Embeddings OpenAI](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.embeddingsopenai)
+- [LM OpenAI](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmopenai)
+
+## Prerequisites
+
+Create an [OpenAI](https://platform.openai.com/signup/){:target=_blank .external-link} account.

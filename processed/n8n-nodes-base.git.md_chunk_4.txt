@@ -1,0 +1,3 @@
+* [**Log**](#log): Return git commit history. Performs a [git log](https://git-scm.com/docs/git-log){:target=_blank .external-link}.
+* [**Pull**](#pull) from remote repository: Performs a [git pull](https://git-scm.com/docs/git-pull){:target=_blank .external-link}.
+* [**Push**](#push) to remote repository: Performs a [git push](https://git-scm.com/docs/git-push){:target=_blank .external-link}.

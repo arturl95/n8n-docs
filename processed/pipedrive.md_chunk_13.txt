@@ -1,0 +1,4 @@
+| Organization | Create <br> Delete <br> Update | **Contacts: Full Access** | `contacts:full` |
+| Person | Get data of a person <br> Get data of all persons <br> Search | **Contacts: Read Only** or <br> **Contacts: Full Access** | `contacts:read` or <br> `contacts:full` |
+| Person | Create <br> Delete <br> Update | **Contacts: Full Access** | `contacts:full` |
+| Product | Get data of all products | **Products: Read Only** | `products:read` |

@@ -1,0 +1,2 @@
+* **Row Attributes**: Enter any attributes to apply to the table's rows `<tr>`.
+* **Cell Attributes**: Enter any attributes to apply to the table's cells `<td>`.

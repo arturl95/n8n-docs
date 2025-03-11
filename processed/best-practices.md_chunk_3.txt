@@ -1,0 +1,2 @@
+* The path works for the first workflow that's run or activated.
+    * Other workflows will error if they try to run with the same path.

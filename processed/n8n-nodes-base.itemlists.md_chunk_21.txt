@@ -1,0 +1,8 @@
+* **Max Items**: enter the maximum number of items that n8n should keep. If the input data contains more than this value, n8n removes the items.
+* **Keep**: when items must be removed, select if n8n keeps the input items at the beginning or end.
+
+### Summarize
+
+Aggregate items together, in a manner similar to Excel pivot tables.
+
+When using the Summarize operation, configure the following parameters and options:

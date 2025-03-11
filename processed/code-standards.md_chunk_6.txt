@@ -1,0 +1,17 @@
+resource: [
+                            'resourceOne'
+                        ]
+                    }
+                },
+                options: [
+                    {
+                        name: 'Create',
+                        value: 'create',
+                        description: 'Create an instance of Resource One'
+                    }
+                ]
+            }
+        ]
+    }
+}
+```

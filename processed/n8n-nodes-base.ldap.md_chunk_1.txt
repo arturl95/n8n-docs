@@ -1,0 +1,14 @@
+## Operations
+
+* [**Compare**](#compare) an attribute
+* [**Create**](#create) a new entry
+* [**Delete**](#delete) an entry
+* [**Rename**](#rename) the DN of an existing entry
+* [**Search**](#search) LDAP
+* [**Update**](#update) attributes
+
+Refer to the sections below for details on configuring the node for each operation.
+
+## Compare
+
+Configure this operation using these parameters:

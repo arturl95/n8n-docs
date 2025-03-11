@@ -1,0 +1,26 @@
+Import workflows from a specific file:
+
+```bash
+n8n import:workflow --input=file.json
+```
+Import all the workflow files as JSON from the specified directory:
+
+```bash
+n8n import:workflow --separate --input=backups/latest/
+```
+
+### Credentials
+
+Import credentials from a specific file:
+
+```bash
+n8n import:credentials --input=file.json
+```
+
+Import all the credentials files as JSON from the specified directory:
+
+```bash
+n8n import:credentials --separate --input=backups/latest/
+```
+
+## License

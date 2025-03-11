@@ -1,0 +1,3 @@
+| User | Update User's Profile | [users.profile.set](https://api.slack.com/methods/users.profile.set){:target=blank .external-link} |
+| User Group | Create | [usergroups.create](https://api.slack.com/methods/usergroups.create){:target=blank .external-link} |
+| User Group | Disable | [usergroups.disable](https://api.slack.com/methods/usergroups.disable){:target=blank .external-link} |

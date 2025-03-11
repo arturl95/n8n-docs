@@ -1,0 +1,5 @@
+## File locations
+
+If you run n8n in Docker, your command runs in the n8n container and not the Docker host.
+
+This node looks for files relative to the n8n install path. n8n recommends using absolute file paths to prevent any errors.

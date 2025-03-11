@@ -1,0 +1,3 @@
+* [Google Calendar Node](/integrations/builtin/app-nodes/n8n-nodes-base.googlecalendar/){:target="_blank"}: Make it work with public calendars and clean up.
+* [KoBoToolbox Node](/integrations/builtin/app-nodes/n8n-nodes-base.kobotoolbox/){:target="_blank"}: Fix query and sort + use question name in attachments.
+* [Mailjet Trigger Node](/integrations/builtin/app-nodes/n8n-nodes-base.mailjet/){:target="_blank"}: Fix issue that node couldn't get activated.

@@ -1,0 +1,2 @@
+7. Return to the API key list.
+8. Copy the **clientID** for the key and enter it as the **Client ID** in your n8n credential.

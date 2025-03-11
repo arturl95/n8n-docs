@@ -1,0 +1,7 @@
+To get your API token:
+
+1. Open your Hugging Face profile and go to the [**Tokens**](https://huggingface.co/settings/tokens){:target=_blank .external-link} section.
+2. Copy the token listed there. It should begin with `hf_`.
+3. Enter this API token as your n8n credential **API Key**.
+
+Refer to [Get your API token](https://huggingface.co/docs/api-inference/quicktour#get-your-api-token){:target=_blank .external-link} for more information.

@@ -1,0 +1,12 @@
+/// note | Self-hosted n8n only
+This node isn't available on n8n Cloud.
+///
+
+## Operations
+
+- [**Read File(s) From Disk**](#read-files-from-disk): Use this operation to retrieve one or more files from the computer that runs n8n.
+- [**Write File to Disk**](#write-file-to-disk): Use this operation to create a binary file on the computer that runs n8n.
+
+Refer to the sections below for more information on configuring the node for each operation.
+
+## Read File(s) From Disk

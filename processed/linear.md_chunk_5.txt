@@ -1,0 +1,2 @@
+- **Application**: The application creates resources as itself. Use this option if you have only one user (like an admin) authorizing the application.
+- To use this credential with the [Linear Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.lineartrigger/) node, you must enable the **Include Admin Scope** toggle.

@@ -1,0 +1,9 @@
+* Review the documentation for the API you're integrating. Ask yourself:
+    * What can you leave out? 
+    * What can you simplify?
+    * Which parts of the API are confusing? How can you help users understand them?
+* Use a wireframe tool to try out your field layout. If you find your node has a lot of fields and is getting confusing, consider n8n's guidance on [showing and hiding fields](#showing-and-hiding-fields).
+
+## Standards
+
+### UI text style

@@ -1,0 +1,12 @@
+#### Google Sheets Trigger node
+
+This release adds a new [Google Sheets Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.googlesheetstrigger/). You can now start workflows in response to row changes or new rows in a Google Sheet.
+
+</div>
+
+### Bug fixes
+
+Fixes an issue that was preventing users from installing community nodes.
+
+
+## n8n@0.211.1

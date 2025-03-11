@@ -1,0 +1,6 @@
+To configure this credential, you'll need a [LinkedIn](https://www.linkedin.com/){:target=_blank .external-link} account, a LinkedIn [Company Page](https://www.linkedin.com/help/linkedin/answer/a543852){:target=_blank .external-link}, and:
+
+- A **Client ID**: Generated after you create a new developer app.
+- A **Client Secret**: Generated after you create a new developer app.
+
+To create a new developer app and set up the credential:

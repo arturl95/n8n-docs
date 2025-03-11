@@ -1,0 +1,9 @@
+# Google Drive Shared Drive operations
+
+Use this operation to create, delete, get, and update shared drives in Google Drive. Refer to [Google Drive](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) for more information on the Google Drive node itself.
+
+## Create a shared drive
+
+Use this operation to create a new shared drive.
+
+Enter these parameters:

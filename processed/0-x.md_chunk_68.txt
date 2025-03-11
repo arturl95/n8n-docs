@@ -1,0 +1,8 @@
+* Editor: Add `$if`, `$min`, `$max` to root expression autocomplete.
+* Editor: Curb overeager item access linting.
+* Editor: Disable Grammarly in expression editors.
+* Editor: Disable password reset on desktop with no user management.
+* Editor: Fix connection lost hover text not showing.
+* Editor: Fix issue preventing execution preview loading when in an Iframe.
+* Editor: Fix mapping with special characters.
+* Editor: Prevent error from showing-up when duplicating unsaved workflow.

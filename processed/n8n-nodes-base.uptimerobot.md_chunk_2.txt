@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [UptimeRobot credentials](/integrations/builtin/credentials/uptimerobot/) for guidance on setting up authentication. 
+///
+
+## Operations

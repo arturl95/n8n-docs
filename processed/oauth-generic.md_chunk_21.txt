@@ -1,0 +1,4 @@
+| Google Analytics | https://www.googleapis.com/auth/analytics <br /> https://www.googleapis.com/auth/analytics.readonly |
+	| Google BigQuery | https://www.googleapis.com/auth/bigquery |
+	| Google Books | https://www.googleapis.com/auth/books |
+	| Google Calendar | 	https://www.googleapis.com/auth/calendar <br /> https://www.googleapis.com/auth/calendar.events |

@@ -1,0 +1,49 @@
+## Operations
+
+* Calendar
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+* Contact
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+* Draft
+	* Create
+	* Delete
+	* Get
+	* Send
+	* Update
+* Event
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+* Folder
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+* Folder Message
+    * Get Many
+* Message
+	* Delete
+	* Get
+	* Get Many
+	* Move
+	* Reply
+	* Send
+	* Update
+* Message Attachment
+	* Add
+	* Download
+	* Get
+	* Get Many
+
+## Templates and examples

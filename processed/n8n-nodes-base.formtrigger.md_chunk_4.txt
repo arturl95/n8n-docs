@@ -1,0 +1,3 @@
+## Set default selections with query parameters
+
+You can set the initial values for fields by using [query parameters](https://en.wikipedia.org/wiki/Query_string#Web_forms){:target=_blank .external-link} with the initial URL provided by the n8n Form Trigger. Every [page in the form](/integrations/builtin/core-nodes/n8n-nodes-base.form/) receives the same query parameters sent to the n8n Form Trigger URL.

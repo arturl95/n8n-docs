@@ -1,0 +1,7 @@
+10. Select **Save**, then **Continue**. The **Manage Connected Apps** page should open to the app you just created.
+11. In the **API (Enable OAuth Settings)** section, select **Manage Consumer Details**.
+12. Copy the **Consumer Key** and add it to your n8n credential as the **Client ID**.
+13. Enter the contents of the private key file in n8n as **Private Key**.
+	- Use the multi-line editor in n8n.
+	- Enter the private key in standard PEM key format:
+        ```

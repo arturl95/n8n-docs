@@ -1,0 +1,6 @@
+When using `.item`, n8n displays an error when:
+
+- The thread is broken
+- The thread points to more than one item in the previous node (as it's unclear which one to use)
+
+To solve these errors, you can either avoid using `.item`, or fix the root cause.

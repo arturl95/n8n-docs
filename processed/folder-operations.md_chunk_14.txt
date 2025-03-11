@@ -1,0 +1,2 @@
+- **Transfer Ownership**: Whether to transfer ownership to the specified user and downgrade the current owner to writer permissions.
+- **Use Domain Admin Access**: Whether to perform the action as a domain administrator.

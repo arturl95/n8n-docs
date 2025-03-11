@@ -1,0 +1,6 @@
+/// question | Quiz questions
+* How many items does the **HTTP Request node** return?
+* How many items does the **Merge node** return?
+* How many unique regions are assigned in the customers table?
+* What's the subregion assigned to the customerID 10?
+///

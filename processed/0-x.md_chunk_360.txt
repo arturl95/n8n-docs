@@ -1,0 +1,6 @@
+### Node enhancements
+
+* [Twilio node](/integrations/builtin/app-nodes/n8n-nodes-base.twilio/){:target=_blank}: added the ability to make a voice call using TTS.
+* [Wise node](/integrations/builtin/app-nodes/n8n-nodes-base.wise/){:target=_blank}: added support for downloading statements as JSON, CSV, or PDF.
+
+### Bug fixes

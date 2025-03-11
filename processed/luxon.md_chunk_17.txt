@@ -1,0 +1,14 @@
+=== "Expressions (JavaScript)"
+
+	For example, you want to set a field to always show the date seven days before the current date.
+
+	In the expressions editor, enter:
+
+
+	``` js
+	{{$today.minus({days: 7})}}
+	```
+
+	On the 23rd June 2019, this returns `[Object: "2019-06-16T00:00:00.000+00:00"]`.
+
+	This example uses n8n's custom variable `$today` for convenience. It's the equivalent of `DateTime.now().set({ hour: 0, minute: 0, second: 0, millisecond: 0 }).minus({days: 7})`.

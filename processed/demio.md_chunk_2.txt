@@ -1,0 +1,4 @@
+- An **API Key**
+- An **API Secret**
+
+You must have Owner status in Demio to generate API keys and secrets. To view and generate API keys and secrets, go to **Account Settings > API**. Refer to the [Demio Account Owner Settings documentation](https://help.demio.com/en/articles/6456716-account-owner-settings){:target=_blank .external-link} for more detailed steps.

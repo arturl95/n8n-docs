@@ -1,0 +1,4 @@
+<!-- add a link to the node page on n8n's website. For example: https://n8n.io/integrations/356-gmail/ -->
+View [example workflows and related content](https://n8n.io/integrations/google-business-profile-trigger/){:target=_blank .external-link} on n8n's website.
+
+Refer to [Google Business Profile's documentation](https://developers.google.com/my-business/reference/rest){:target=_blank .external-link} for details about their API.

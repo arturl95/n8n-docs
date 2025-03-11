@@ -1,0 +1,16 @@
+=== "JavaScript"
+	```typescript
+	previousNodeData = $("<node-name>").all();
+	for(let i=0; i<previousNodeData.length; i++) {
+		console.log(previousNodeData[i].json);
+	}
+	```
+=== "Python"
+	```python
+	previousNodeData = _("<node-name>").all();
+	for item in previousNodeData:
+		# item is of type <class 'pyodide.ffi.JsProxy'>
+		# You need to convert it to a Dict
+  		itemDict = item.json.to_py()
+  		print(itemDict)
+	```

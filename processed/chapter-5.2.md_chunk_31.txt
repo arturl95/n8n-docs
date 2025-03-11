@@ -1,0 +1,16 @@
+"typeVersion": 1.1,
+        "position": [
+            1880,
+            500
+        ]
+        },
+        {
+        "parameters": {
+            "authentication": "webhook",
+            "content": "I sent the file using email with the label ID  and wrote the binary file {file name}. My ID: 123",
+            "options": {}
+        },
+        "id": "26f43f2c-1422-40de-9f40-dd2d80926b1c",
+        "name": "Discord",
+        "type": "n8n-nodes-base.discord",
+        "typeVersion": 2,

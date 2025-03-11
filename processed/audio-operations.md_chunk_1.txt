@@ -1,0 +1,9 @@
+# OpenAI Audio operations
+
+Use this operation to generate an audio, or transcribe or translate a recording in OpenAI. Refer to [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-base.openai/) for more information on the OpenAI node itself.
+
+## Generate Audio
+
+Use this operation to create audio from a text prompt. 
+
+Enter these parameters:

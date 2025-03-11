@@ -1,0 +1,10 @@
+- API access token
+- OAuth2
+
+## Related resources
+
+Refer to [Medium's API documentation](https://github.com/Medium/medium-api-docs){:target=_blank .external-link} for more information about the service.
+
+## Using API access token
+
+To configure this credential, you'll need:

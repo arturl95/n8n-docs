@@ -1,0 +1,1 @@
+- WhatsApp messaging services require a Meta business portfolio, formerly called a Business Manager account. The UI may still show either option. Refer to Meta's [Create a business portfolio documentation](https://www.facebook.com/business/help/1710077379203657?id=180505742745347){:target=_blank .external-link} for detailed instructions.

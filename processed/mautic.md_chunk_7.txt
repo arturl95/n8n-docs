@@ -1,0 +1,10 @@
+Refer to [What is Mautic's API?](https://kb.mautic.org/article/what-is-mautic-039%3bs-api.html#mcetoc_1g7n1bgoo0){:target=_blank .external-link} for more information.
+
+## Enable the API
+
+To enable the API in your Mautic instance:
+
+1. Go to **Settings > Configuration**.
+2. Select **API Settings**.
+3. Set **API enabled?** to **Yes**.
+4. **Save** your changes.

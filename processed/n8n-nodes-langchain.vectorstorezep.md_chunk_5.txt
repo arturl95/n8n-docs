@@ -1,0 +1,3 @@
+Here, the connection would be: AI agent (tools connector) -> Zep Vector Store node.
+
+### Use a retriever to fetch documents

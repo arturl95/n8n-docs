@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a user account on a [Rundeck](https://www.rundeck.com/){:target=_blank .external-link} server.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources
+
+Refer to [Rundeck's API documentation](https://docs.rundeck.com/docs/api/){:target=_blank .external-link} for more information about the service.
+
+## Using API token
+
+To configure this credential, you'll need:

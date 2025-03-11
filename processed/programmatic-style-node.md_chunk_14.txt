@@ -1,0 +1,17 @@
+```typescript
+{
+	displayName: 'Resource',
+	name: 'resource',
+	type: 'options',
+	options: [
+		{
+			name: 'Contact',
+			value: 'contact',
+		},
+	],
+	default: 'contact',
+	noDataExpression: true,
+	required: true,
+	description: 'Create a new contact',
+},
+```

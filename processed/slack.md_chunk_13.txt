@@ -1,0 +1,3 @@
+13. After you've added scopes, go up to the **OAuth Tokens** section and select **Install to Workspace**. You must be a Slack workspace admin to complete this action.
+14. Select **Allow**.
+15. At this point, you should be able to select the OAuth button in your n8n credential to connect.

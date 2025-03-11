@@ -1,0 +1,4 @@
+* **Date**: Enter the date you want to format.
+* **Format**: Select the format you want to change the date to. Choose from:
+    * **Custom Format**: Enter your own custom format using Luxon's [special tokens](https://moment.github.io/luxon/#/formatting?id=table-of-tokens){:target=_blank .external-link}. Tokens are case-sensitive.
+    * **MM/DD/YYYY**: For `4 September 1986`, this formats the date as `09/04/1986`.

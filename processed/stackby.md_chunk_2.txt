@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Go to your [**Account Settings > API**](https://www.stackby.com/account){:target=_blank .external-link} to create an API Key. Refer to [API Key](https://help.stackby.com/en/article/95-api-key){:target=_blank .external-link} for more information.

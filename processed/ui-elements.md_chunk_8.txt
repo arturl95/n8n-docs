@@ -1,0 +1,8 @@
+* `requiresDataPath: 'single'`: for fields that require a single string.
+* `requiresDataPath: 'multiple'`: for fields that can accept a comma-separated list of string.
+
+The [Compare Datasets node code](https://github.com/n8n-io/n8n/blob/master/packages/nodes-base/nodes/CompareDatasets/CompareDatasets.node.ts){:target=_blank .external-link} has examples.
+
+## Number
+
+Number field with decimal points:

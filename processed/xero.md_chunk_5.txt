@@ -1,0 +1,2 @@
+- Select appropriate **scopes** for your app. Refer to [OAuth2 Scopes](https://developer.xero.com/documentation/guides/oauth2/scopes/){:target=_blank .external-link} for more information.
+    - To use all functionality in the [Xero](/integrations/builtin/app-nodes/n8n-nodes-base.xero/) node, add the `accounting.contacts` and `accounting.transactions` scopes.

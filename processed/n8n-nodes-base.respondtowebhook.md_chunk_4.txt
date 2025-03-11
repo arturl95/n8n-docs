@@ -1,0 +1,9 @@
+- **All Incoming Items**: Respond with all the JSON items from the input.
+- **Binary**: Respond with a binary file defined in **Response Data Source**.
+- **First Incoming Item**: Respond with the first incoming item's JSON.
+- **JSON**: Respond with a JSON object defined in **Response Body**.
+- **No Data**: No response payload.
+- **Redirect**: Redirect to a URL set in **Redirect URL**.
+- **Text**: Respond with text set in **Response Body**.
+
+## Node options

@@ -1,0 +1,13 @@
+=== "Code node (JavaScript)"
+
+	```js
+	let monthsBetweenDates = DateTime.fromISO('2019-06-23').diff(DateTime.fromISO('2019-05-23'), 'months').toObject()
+	```
+
+	This returns `{"months":1}`.
+
+Refer to Luxon's [Diffs](https://moment.github.io/luxon/#/math?id=diffs){:target=_blank .external-link} for more information.
+
+### A longer example: How many days to Christmas?
+
+This example brings together several Luxon features, uses JMESPath, and does some basic string manipulation.

@@ -1,0 +1,18 @@
+```
+<your-instance-url>/metrics
+```
+
+/// info | Feature availability
+The `/metrics` endpoint isn't available on n8n Cloud.
+///
+<!-- vale off -->
+## Enable metrics and healthz for self-hosted n8n
+<!-- vale on -->
+The `/metrics` and `/healthz` endpoints are disabled by default. To enable them, configure your n8n instance:
+
+```shell
+# metrics
+N8N_METRICS=true
+# healthz
+QUEUE_HEALTH_CHECK_ACTIVE=true
+```

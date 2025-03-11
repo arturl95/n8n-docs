@@ -1,0 +1,1 @@
+Refer to Ollama's [How can I allow additional web origins to access Ollama?](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-can-i-allow-additional-web-origins-to-access-ollama){:target=_blank .external-link} for more information.

@@ -1,0 +1,1 @@
+* **File Content**: Displayed if you turn off **Binary File** Enter the text content of the file you'll upload in this field.

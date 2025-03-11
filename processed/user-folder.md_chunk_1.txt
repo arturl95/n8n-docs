@@ -1,0 +1,4 @@
+```bash
+export N8N_USER_FOLDER=/home/jim/n8n
+```
+Refer to [Environment variables reference](/hosting/configuration/environment-variables/deployment/) for more information on this variable.

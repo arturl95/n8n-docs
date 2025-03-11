@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: howto
+---
+
+# Execution data
+
+Depending on your executions settings and volume, your n8n database can grow in size and run out of storage.
+
+To avoid this, n8n recommends that you don't save unnecessary data, and enable pruning of old executions data.
+
+To do this, configure the corresponding [environment variables](/hosting/configuration/environment-variables/executions).
+
+## Reduce saved data

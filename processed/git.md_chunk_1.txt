@@ -1,0 +1,13 @@
+## Prerequisites
+
+Create an account on [GitHub](https://github.com){:target=_blank .external-link}, [GitLab](https://about.gitlab.com/){:target=_blank .external-link}, or similar platforms for use with [Git](https://git-scm.com){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- Basic auth
+
+## Related resources
+
+Refer to [Git's documentation](https://git-scm.com/doc){:target=_blank .external-link} for more information about the service.
+
+## Using basic auth

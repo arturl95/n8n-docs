@@ -1,0 +1,3 @@
+--8<-- "_snippets/integrations/builtin/cluster-nodes/use-with-chat-trigger.md"
+
+This agent supports the following chat models:

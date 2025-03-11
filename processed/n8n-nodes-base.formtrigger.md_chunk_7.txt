@@ -1,0 +1,10 @@
+* Production URL: `https://my-account.n8n.cloud/form/my-form`
+* Fields:
+	* `name`: `Jane Doe`
+	* `email`: `jane.doe@example.com`
+
+With query parameters and percent-encoding, you could use the following URL to set initial field values to the data above:
+
+```
+https://my-account.n8n.cloud/form/my-form?email=jane.doe%40example.com&name=Jane%20Doe
+```

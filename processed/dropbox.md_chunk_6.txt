@@ -1,0 +1,7 @@
+Refer to the [Dropbox App Console Settings documentation](https://www.dropbox.com/developers/reference/getting-started){:target=_blank .external-link} for more information.
+
+/// warning | User limits
+On the **Settings** tab, you can add other users to your app, even with the access token method. Once your app links 50 Dropbox users, you will have two weeks to apply for and receive production status approval before Dropbox freezes your app from linking more users.
+///
+
+## Using OAuth2

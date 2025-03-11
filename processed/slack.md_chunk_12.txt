@@ -1,0 +1,6 @@
+6. In the left menu under **Features**, select **OAuth & Permissions**.
+7. In the **Redirect URLs** section, select **Add New Redirect URL**.
+8. Copy the **OAuth Callback URL** from n8n and enter it as the new Redirect URL in Slack.
+9. Select **Add**.
+10. Select **Save URLs**.
+11. In the **Scopes** section, select appropriate scopes for your app. Refer to [Scopes](#scopes) for a list of scopes.

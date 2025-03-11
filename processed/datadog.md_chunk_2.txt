@@ -1,0 +1,9 @@
+## Using API Key
+
+To configure this credential, you'll need:
+
+- Your Datadog instance **Host**
+- An **API Key**
+- An **App Key**
+	
+Refer to [Authentication](https://docs.datadoghq.com/api/latest/authentication/){:target=_blank .external-link} on Datadog's website for more information.

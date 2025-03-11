@@ -1,0 +1,10 @@
+Stripes' Secret keys always begin with `sk_`:
+
+- Live keys begin with `sk_live_`.
+- Test keys begin with `sk_test_`.
+
+n8n hasn't tested these credentials with Restricted keys (prefixed `rk_`).
+
+/// warning | Publishable keys
+Don't use the Publishable keys (prefixed `pk_`) with your n8n credential.
+///

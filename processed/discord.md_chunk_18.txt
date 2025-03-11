@@ -1,0 +1,6 @@
+1. Open your Discord **Server Settings** and open the **Integrations** tab.
+2. Select **Create Webhook** to create a new webhook.
+3. Give your webhook a **Name** that makes sense.
+3. Select the **avatar** next to the **Name** to edit or upload a new avatar.
+4. In the **CHANNEL** dropdown, select the channel the webhook should post to.
+5. Select **Copy Webhook URL** to copy the Webhook URL. Enter this URL in your n8n credential.

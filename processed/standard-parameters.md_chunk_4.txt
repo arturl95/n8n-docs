@@ -1,0 +1,18 @@
+* `trigger`: node waits for a trigger.
+* `schedule`: node waits for a timer to expire.
+* `input`, `output`, `transform`: these currently have no effect.
+* An empty array, `[]`. Use this as the default option if you don't need `trigger` or `schedule`.
+
+## `description`
+
+_String_ | _Required_
+
+A short description of the node. n8n uses this in the GUI.
+
+## `defaults`
+
+_Object_ | _Required_
+
+Contains essential brand and name settings.
+
+The object can include:

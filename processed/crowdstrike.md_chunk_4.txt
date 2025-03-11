@@ -1,0 +1,1 @@
+A broad outline of the appropriate steps is available publicly at the CrowdStrike blog: [Getting Access to the CrowdStrike API](https://www.crowdstrike.com/blog/tech-center/get-access-falcon-apis/){:target=_blank .external-link}. CrowdStrike's full documentation is behind a log in, so you must log in to your account to access the full API documentation.

@@ -1,0 +1,4 @@
+* **Compare**: specify which fields of the input data n8n should compare to check if they're the same. The following options are available:
+  * **All Fields**: compares all fields of the input data.
+  * **All Fields Except**: enter which input data fields n8n should exclude from the comparison. You can provide multiple values separated by commas.
+  * **Selected Fields**: enter which input data fields n8n should include in the comparison. You can provide multiple values separated by commas.

@@ -1,0 +1,5 @@
+### Enhanced nodes
+
+* [DeepL:](/integrations/builtin/app-nodes/n8n-nodes-base.deepl/) Added support for Free API
+* [Function:](/integrations/builtin/core-nodes/n8n-nodes-base.function/) Added the functionality to log console.log messages to the browser console
+* [Function Item:](/integrations/builtin/core-nodes/n8n-nodes-base.functionitem/) Added the functionality to log console.log messages to the browser console

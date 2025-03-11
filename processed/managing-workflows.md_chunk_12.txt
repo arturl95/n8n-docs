@@ -1,0 +1,8 @@
+1. Select **Workflows** > **Duplicate**, then enter a name for this new workflow and click **Save**.
+    ![Duplicate workflow](/_images/embed/managing-workflows/duplicate_workflow.png)
+
+1. Update all relevant nodes to use the credentials for this user (created above).
+
+1. **Save** this workflow set it to **Active** using the toggle in the top-right corner.
+
+#### Using the API

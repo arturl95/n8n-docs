@@ -1,0 +1,3 @@
+* [Google Drive:](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) Added APP Properties and Properties options to the Upload operation of the File resource
+* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Added the functionality to log the request to the browser console for testing
+* [Notion:](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Added the Include Time parameter date field types

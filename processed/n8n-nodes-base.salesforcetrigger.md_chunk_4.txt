@@ -1,0 +1,5 @@
+## Related resources
+
+n8n provides an app node for Salesforce. You can find the node docs [here](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/).
+
+View [example workflows and related content](https://n8n.io/integrations/salesforce-trigger/){:target=_blank .external-link} on n8n's website.

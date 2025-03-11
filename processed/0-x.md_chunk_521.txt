@@ -1,0 +1,4 @@
+- Improved expression security
+- Introduced redirect to a new page and UI error message when trying to open a deleted workflow
+- Introduced support for multiple arguments when logging
+- Updated the onboarding survey

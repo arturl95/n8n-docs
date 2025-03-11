@@ -1,0 +1,3 @@
+/// note | Keep in mind
+In multi-main setup, all `main` processes listen for webhooks, so they fulfill the same purpose as `webhook` processes. Running `webhook` processes is neither needed nor allowed in multi-main setup.
+///

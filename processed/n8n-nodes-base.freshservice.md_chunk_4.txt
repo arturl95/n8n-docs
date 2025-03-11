@@ -1,0 +1,20 @@
+* Retrieve all announcements
+    * Update an announcement
+* Asset Type
+    * Create an asset type
+    * Delete an asset type
+    * Retrieve an asset type
+    * Retrieve all asset types
+    * Update an asset type
+* Change
+    * Create a change
+    * Delete a change
+    * Retrieve a change
+    * Retrieve all changes
+    * Update a change
+* Department
+    * Create a department
+    * Delete a department
+    * Retrieve a department
+    * Retrieve all departments
+    * Update a department

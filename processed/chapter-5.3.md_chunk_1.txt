@@ -1,0 +1,2 @@
+* **Webhook URL**: The Discord URL that you received in the email from n8n when you signed up for this course.
+	* **Text**: "The workflow `{workflow name}` failed, with the error message: `{execution error message}`. Last node executed: `{name of the last executed node}`. Check this workflow execution here: `{execution URL}` My Unique ID: " followed by the unique ID emailed to you when you registered for this course.

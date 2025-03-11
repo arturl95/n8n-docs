@@ -1,0 +1,3 @@
+### Share Notion page(s) with the integration
+
+For your integration to interact with Notion, you must [give your integration page permission](https://developers.notion.com/docs/create-a-notion-integration#give-your-integration-page-permissions){:target=_blank .external-link} to interact with page(s) in your Notion workspace:

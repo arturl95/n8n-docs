@@ -1,0 +1,12 @@
+### Core Functionality
+
+- Allow deletion of nodes from the canvas using the backspace key
+- Fixed an issue causing clicks in the value survey to impact the main view
+- Fixed an issue preventing the update panel from closing
+
+### Bug fixes
+
+
+* [Todoist:](/integrations/builtin/app-nodes/n8n-nodes-base.todoist/) Fixed a bug where using the additional field Due Date Time on the Task resource would cause the Create operation to fail.
+
+### Contributors

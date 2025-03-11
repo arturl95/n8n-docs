@@ -1,0 +1,12 @@
+## Supported authentication methods
+
+* API Token
+
+## Related resources
+
+Refer to [SolarWinds Observability SaaS's API documentation](https://documentation.solarwinds.com/en/success_center/observability/content/api/api-swagger.htm){:target=_blank .external-link} for more information about the service.
+
+
+## Using API Token
+
+To configure this credential, you'll need a SolarWinds Observability SaaS account and:

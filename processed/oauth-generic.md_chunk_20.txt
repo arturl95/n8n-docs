@@ -1,0 +1,5 @@
+??? Details "Supported scopes"
+	| Service | Available scopes |
+	| ------- | ---------------- |
+	| Gmail | 	https://www.googleapis.com/auth/gmail.labels <br /> https://www.googleapis.com/auth/gmail.addons.current.action.compose <br />	https://www.googleapis.com/auth/gmail.addons.current.message.action <br /> https://mail.google.com/ <br /> https://www.googleapis.com/auth/gmail.modify <br />	https://www.googleapis.com/auth/gmail.compose |
+	| Google Ads | https://www.googleapis.com/auth/adwords |

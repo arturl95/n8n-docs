@@ -1,0 +1,5 @@
+To resolve the error, you can use one of the built-in options of the HTTP request node:
+
+### Batching
+
+Use this option to send requests in batches and introduce a delay between them.

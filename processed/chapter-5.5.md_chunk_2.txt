@@ -1,0 +1,4 @@
+/// warning | Code node modes
+The Code node has two operational **Modes** that change the way it processes data. The **Run Once for All Items** mode allows you to accumulate data from all items on the input list. The **Run Once for Each Item** is used to add custom snippets of JavaScript code that should be executed once for every item that it receives as the input. Learn more about how to use the [Code node](/integrations/builtin/core-nodes/n8n-nodes-base.code/).
+///
+- Create your own node.

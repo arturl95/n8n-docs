@@ -1,0 +1,13 @@
+### Core Functionality
+- Added Continue-on-fail support to all nodes.
+- Added new version notifications.
+- Added Refresh List for remote options lists.
+- Added `$position` expression variable to return the index of an item within a list.
+
+### Bug fixes
+
+* [Spreadsheet File:](/integrations/builtin/core-nodes/n8n-nodes-base.spreadsheetfile/) Fixed issue when saving dates.
+
+### Contributors
+
+[Anthr@x](https://github.com/AnthraX1), [Felipe Cecagno](https://github.com/fcecagno)

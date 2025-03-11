@@ -1,0 +1,3 @@
+* Tooltips for binary states should start with something like **Whether to . . . **.
+* You may need a list rather than a toggle:
+    * Use toggles when it's clear what happens in a false state. For example, **Simplify Output?**. The alternative (don't simplify output) is clear.

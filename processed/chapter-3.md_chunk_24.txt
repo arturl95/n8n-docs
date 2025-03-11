@@ -1,0 +1,1 @@
+- The **RSS Read node** is one of the [exception nodes](/flow-logic/looping/#node-exceptions){:target="_blank"} which processes only the first item it receives, so the **Loop Over Items node** is necessary for iterating over multiple items.

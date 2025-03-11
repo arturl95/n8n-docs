@@ -1,0 +1,13 @@
+* **Text**: Send the email in plain-text format.
+* **HTML**: Send the email in HTML format.
+* **Both**: Send the email in both formats. If you choose this option, the email recipient's client will set which format to display.
+
+## Node options
+
+Use these **Options** to further refine the node's behavior.
+
+### Append n8n Attribution
+
+Set whether to include the phrase `This email was sent automatically with n8n` at the end of the email (turned on) or not (turned off).
+
+### Attachments

@@ -1,0 +1,5 @@
+// Returns all items the node "IF" outputs (index: 0 which is Output "true" of its most recent run)
+	let allItems = $("IF").all();
+
+	// Returns all items the node "IF" outputs (index: 0 which is Output "true" of the same run as current node)
+	let allItems = $("IF").all(0, $runIndex);

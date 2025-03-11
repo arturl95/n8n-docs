@@ -1,0 +1,19 @@
+* Task
+    * Create a task
+    * Delete a task
+    * Get data of a task
+    * Get data of all tasks
+    * Update a task
+* Time Entries
+    * Create a time entry using duration
+    * Create a time entry using start and end time
+    * Delete a time entry
+    * Delete a time entry's external reference.
+    * Get data of a time entry
+    * Get data of all time entries
+    * Restart a time entry
+    * Stop a time entry
+    * Update a time entry
+* User
+    * Create a user
+    * Delete a user

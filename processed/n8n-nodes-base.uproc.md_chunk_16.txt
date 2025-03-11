@@ -1,0 +1,9 @@
+- Get a company's data by domain
+- Get a company's data by email
+- Get a company's data by IP address
+- Get a company's data by name
+- Get a company's data by phone number
+- Get a company's data by social networks URI (LinkedIn, Twitter)
+- Get a company's name by company domain
+- Get professional data of a decision-maker by company name/domain and area
+- Discover more suitable decision-maker using search engines (Bing) by company name and area

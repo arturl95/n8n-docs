@@ -1,0 +1,11 @@
+### Core Functionality
+- Fixed an issue where failed workflows were displayed as "running".
+- Fixes issues with uncaught errors.
+
+### Bug fixes
+
+* [Notion:](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Fixed issue when filtering field data type.
+
+### Contributors
+
+[Michael Hirschler](https://github.com/mvhirsch), [Mika Luhta](https://github.com/mluhta), [Pierre Lanvin](https://github.com/planvin)

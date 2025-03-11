@@ -1,0 +1,1 @@
+* [WeKan:](/integrations/builtin/app-nodes/n8n-nodes-base.wekan/) Added Sort field to the Card resource.

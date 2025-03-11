@@ -1,0 +1,6 @@
+Refer to [Managing end-user accounts](https://docs.strapi.io/user-docs/users-roles-permissions/managing-end-users){:target=_blank .external-link} for more information.
+
+
+## Using API token
+
+To configure this credential, you'll need:

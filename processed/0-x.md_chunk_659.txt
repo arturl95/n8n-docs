@@ -1,0 +1,7 @@
+### Core Functionality
+- Added await to hooks to fix issues with the `Unknown` status of the workflows
+- Changed the data type of the `credentials_entity` field for MySQL database to fix issues with long credentials
+- Fixed an issue with the ordering of the executions when the list is auto-refreshed
+- Added the functionality that allows reading sibling parameters
+
+### Bug fixes

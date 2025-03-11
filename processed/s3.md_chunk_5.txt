@@ -1,0 +1,5 @@
+More detailed instructions for DigitalOcean Spaces and Wasabi follow. If you're using a different provider, refer to their documentation for more information. 
+
+### Using DigitalOcean Spaces
+
+To configure the credential for use with DigitalOcean spaces:

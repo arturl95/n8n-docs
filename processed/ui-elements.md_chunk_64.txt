@@ -1,0 +1,3 @@
+### Add a dynamic hint to a programmatic-style node
+
+In programmatic-style nodes you can create a dynamic message that includes information from the node execution. As it relies on the node output data, you can't display this type of hint until after execution.

@@ -1,0 +1,3 @@
+* [Discord node](/integrations/builtin/app-nodes/n8n-nodes-base.discord/): additional fields now available when sending a message to Discord.
+* [GoogleBigQuery](/integrations/builtin/app-nodes/n8n-nodes-base.googlebigquery/): added support for service account authentication.
+* [Google Cloud Realtime Database node](/integrations/builtin/app-nodes/n8n-nodes-base.googlecloudrealtimedatabase/): you can now select a region.

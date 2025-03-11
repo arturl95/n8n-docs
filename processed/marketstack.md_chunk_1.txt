@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Marketstack](https://marketstack.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Marketstack's API documentation](https://marketstack.com/documentation){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

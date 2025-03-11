@@ -1,0 +1,16 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Limit
+description: Documentation for the Limit node in n8n, a workflow automation platform. Includes guidance on usage, and links to examples.
+priority: high
+---
+
+# Limit
+
+Use the Limit node to remove items beyond a defined maximum number. You can choose whether n8n takes the items from the beginning or end of the input data.
+
+## Node parameters
+
+Configure this node using the following parameters.
+
+### Max Items

@@ -1,0 +1,4 @@
+/// note | Workflow history and execution history
+Don't confuse workflow history with the [Workflow-level executions list](/workflows/executions/single-workflow-executions/).
+
+Executions are workflow runs. With the executions list, you can see previous runs of the current version of the workflow. You can copy previous executions into the editor to [Debug and re-run past executions](/workflows/executions/debug/) in your current workflow.

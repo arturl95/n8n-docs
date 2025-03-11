@@ -1,0 +1,3 @@
+The Respond to Webhook node runs once, using the first incoming data item. This includes when using [expressions](/code/expressions/). You can't force looping using the Loop node: the workflow will run, but the webhook response will still only contain the results of the first execution. 
+
+If you need to return more than one data item, choose one of these options:

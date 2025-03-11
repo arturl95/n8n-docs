@@ -1,0 +1,8 @@
+### Bug fixes
+
+
+* [Baserow:](/integrations/builtin/app-nodes/n8n-nodes-base.baserow/) Fixed a bug preventing the Sorting option of the Get All operation from working as expected.
+* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Fixed a bug causing Digest Authentication to fail in some scenarios.
+* [Wise:](/integrations/builtin/app-nodes/n8n-nodes-base.wise/) Fixed a bug causing API requests requiring Strong Customer Authentication (SCA) to fail.
+
+### Contributors

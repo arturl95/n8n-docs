@@ -1,0 +1,8 @@
+* Add schema to Postgres migrations.
+* Core: fix execute-once incoming data handling.
+* Core: fix expression extension miss-detection.
+* Core: fix onWorkflowPostExecute not being called.
+* Core: fix URL in error handling for the error Trigger.
+* Core: make pinned data with webhook responding on last node manual-only.
+* Editor: making parameter input components label configurable.
+* Editor: remove infinite loading in not found workflow level execution.

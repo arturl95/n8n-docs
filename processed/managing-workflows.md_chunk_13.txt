@@ -1,0 +1,6 @@
+#### Using the API
+
+1. Fetch the JSON of the template workflow using the endpoint: `https://<n8n-domain>/rest/workflows/<workflow_id>`
+``` 
+GET https://<n8n-domain>/rest/workflows/1012
+```

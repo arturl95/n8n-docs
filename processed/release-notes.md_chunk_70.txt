@@ -1,0 +1,13 @@
+</div>
+
+### New node: Gong
+  
+The new node for [Gong](/integrations/builtin/app-nodes/n8n-nodes-base.gong/) allows you to get users and calls to process them further in n8n. Very useful for sales related workflows. 
+
+For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
+
+### Contributors
+
+- [Sören Uhrbach](https://github.com/soerenuhrbach){:target=_blank .external-link}  
+
+## n8n@1.63.4

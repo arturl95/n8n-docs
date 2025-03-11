@@ -1,0 +1,4 @@
+7. There are two ways to copy the JSON:
+  1. Select the JSON you want by highlighting it, like selecting text. Then use `ctrl` + `c` to copy it.
+  2. Select the JSON you want to copy by clicking on a parameter. Then:
+    1. Hover over the JSON. n8n displays the **Copy** <span class="inline-image">![Copy data icon](/_images/data/data-pinning/copy-data.png){.off-glb}</span> button.

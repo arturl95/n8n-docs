@@ -1,0 +1,15 @@
+import {
+	IDataObject,
+	INodeExecutionData,
+	INodeType,
+	INodeTypeDescription,
+} from 'n8n-workflow';
+
+import {
+	OptionsWithUri,
+} from 'request';
+```
+
+#### Step 3.2: Create the main class
+
+The node must export an interface that implements `INodeType`. This interface must include a `description` interface, which in turn contains the `properties` array.

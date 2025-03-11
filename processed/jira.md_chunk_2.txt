@@ -1,0 +1,6 @@
+## Supported authentication methods
+
+- [SW Cloud API token](#using-sw-cloud-api-token): Use this method with [Jira Software Cloud](https://www.atlassian.com/software/jira){:target=_blank .external-link}.
+- [SW Server account](#using-sw-server-account): Use this method with [Jira Software Server](https://www.atlassian.com/software/jira/download.){:target=_blank .external-link}.
+
+## Related resources

@@ -1,0 +1,9 @@
+### Bug fixes
+
+* Google Sheets node: fix an issue that was causing append and update operations to fail for numeric values.
+* Resolve issues with external hooks.
+
+## n8n@0.210.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.209.4...n8n@0.210.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-01-05

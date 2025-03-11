@@ -1,0 +1,3 @@
+Refer to the [Internal integration auth flow setup documentation](https://developers.notion.com/docs/authorization#internal-integration-auth-flow-set-up){:target=_blank .external-link} for more information about authenticating to the service.
+
+### Share Notion page(s) with the integration

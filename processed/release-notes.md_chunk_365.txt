@@ -1,0 +1,12 @@
+### Contributors
+
+[Romain Dunand](https://github.com/airmoi){:target=_blank .external-link}  
+[noctarius aka Christoph Engelbert](https://github.com/noctarius){:target=_blank .external-link}
+
+
+## n8n@1.0.3
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@1.0.2...n8n@1.0.3){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-07-13
+
+This release contains API enhancements and adds support for sending messages to forum threads in the Telegram node.

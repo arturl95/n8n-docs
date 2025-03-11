@@ -1,0 +1,9 @@
+Programmatic-style nodes also use the `execute()` method. Refer to [Programmatic-style execute method](/integrations/creating-nodes/build/reference/node-base-files/programmatic-style-execute-method/) for more information.
+
+Refer to [Standard parameters](/integrations/creating-nodes/build/reference/node-base-files/standard-parameters/) for parameters available to all nodes.
+
+## `defaultVersion`
+
+_Number_ | _Optional_
+
+Use `defaultVersion` when using the full versioning approach.

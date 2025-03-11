@@ -1,0 +1,22 @@
+}
+                }
+                ]
+            }
+            },
+        ],
+        default: 'create',
+        description: 'The operation to perform.',
+        },
+        {
+        displayName: 'Email',
+        . . .
+        },
+        {
+        displayName: 'Additional Fields',
+        // Sets up optional fields
+        },
+    ],
+  }
+  // No execute method needed
+}
+```

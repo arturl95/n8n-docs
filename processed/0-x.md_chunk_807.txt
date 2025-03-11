@@ -1,0 +1,12 @@
+- Enhanced nodes
+- Contentful
+- HTTP Request
+- Postgres
+- Webhook
+- Removed Test-Webhook also in case checkExists fails
+- HTTP Request node doesn'toverwrite accept header if it's already set
+- Add rawBody to every request so that n8n doesn'tgive an error if body is missing
+
+## n8n@0.79.0
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.79.2...n8n@0.79.3) for this version.<br />
+**Release date:** 2020-08-27

@@ -1,0 +1,18 @@
+## `requestDefaults`
+
+_Object_ | _Required_  
+
+Set up the basic information for the API calls the node makes.
+
+This object must include:
+
+* `baseURL`: The API base URL.
+
+You can also add:
+
+* `headers`: an object describing the API call headers, such as content type.
+* `url`: string. Appended to the `baseURL`. You can usually leave this out. It's more common to provide this in the `operations`.
+
+## `properties`
+
+_Array of objects_ | _Required_

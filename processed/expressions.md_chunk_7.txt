@@ -1,0 +1,14 @@
+In the next node in the workflow, you want to get just the value of `city`. You can use the following expression:
+
+
+```js
+{{$json.body.city}}
+```
+
+This expression:
+
+1. Accesses the incoming JSON-formatted data using n8n's custom `$json` variable.
+2. Finds the value of `city` (in this example, "New York"). Note that this example uses JMESPath syntax to query the JSON data. You can also write this expression as `{{$json['body']['city']}}`.
+
+
+### Example: Writing longer JavaScript

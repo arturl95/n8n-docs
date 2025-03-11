@@ -1,0 +1,2 @@
+* **Get Many**: Get a list of user groups.
+    * **Update** a user group.

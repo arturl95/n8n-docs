@@ -1,0 +1,7 @@
+To set up the credential, you'll need to create and install a custom app:
+
+1. Enter your **Shop Subdomain**.
+    - Your subdomain is within the URL: `https://<subdomain>.myshopify.com`. For example, if the full URL is `https://n8n.myshopify.com`, the Shop Subdomain is `n8n`.
+2. In Shopify, go to **Admin > Settings >** [**Apps and sales channels**](https://admin.shopify.com/settings/apps){:target=_blank .external-link}.
+3. Select **Develop apps**.
+4. Select **Create a custom app**.

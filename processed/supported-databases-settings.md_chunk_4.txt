@@ -1,0 +1,17 @@
+Recommended permissions:
+
+```sql
+CREATE DATABASE n8n-db;
+CREATE USER n8n-user WITH PASSWORD 'random-password';
+GRANT ALL PRIVILEGES ON DATABASE n8n-db TO n8n-user;
+```
+
+### TLS
+
+You can choose between these configurations:
+
+- Not declaring (default): Connect with `SSL=off`
+- Declaring only the CA and unauthorized flag: Connect with `SSL=on` and verify the server's signature
+- Declaring `_{CERT,KEY}` and the above: Use the certificate and key for client TLS authentication
+
+## SQLite

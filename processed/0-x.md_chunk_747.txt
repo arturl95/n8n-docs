@@ -1,0 +1,6 @@
+- HTTP Request: Fixed batch sizing to work when `batchSize = 1`
+- PayPal: Fixed a typo in the Environment field
+- Split In Batches: Fixed a typo in the description
+- Telegram: Fixed an issue with the Send Audio operation
+- Based on your settings, vacuum runs on SQLite on startup
+- Updated Axios to version `0.21.1`

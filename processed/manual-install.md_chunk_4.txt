@@ -1,0 +1,32 @@
+Access your Docker shell:
+
+```sh
+docker exec -it n8n sh
+```
+
+Run npm update:
+
+```sh
+npm update n8n-nodes-nodeName
+```
+
+### Upgrade or downgrade to a specific version
+
+Access your Docker shell:
+
+```sh
+docker exec -it n8n sh
+```
+
+Run npm uninstall to remove the current version:
+
+```sh
+npm uninstall n8n-nodes-nodeName
+```
+
+Run npm install with the version specified:
+
+```sh
+# Replace 2.1.0 with your version number
+npm install n8n-nodes-nodeName@2.1.0
+```

@@ -1,0 +1,16 @@
+- [MySQL](/integrations/builtin/app-nodes/n8n-nodes-base.mysql/)
+- [Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent)
+
+/// note | Agent node users
+The Agent node doesn't support SSH tunnels.
+///
+
+## Prerequisites
+
+Create a user account on a [MySQL](https://www.mysql.com/){:target=_blank .external-link} server database.
+
+## Supported authentication methods
+
+- Database connection
+
+## Related resources

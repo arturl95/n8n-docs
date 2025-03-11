@@ -1,0 +1,21 @@
+* Board
+    * Create a new board
+    * Delete a board
+    * Get the data of a board
+    * Get all user boards
+* Card
+    * Create a new card
+    * Delete a card
+    * Get a card
+    * Get all cards
+    * Update a card
+* Card Comment
+    * Create a comment on a card
+    * Delete a comment from a card
+    * Get a card comment
+    * Get all card comments
+* Checklist
+    * Create a new checklist
+    * Delete a checklist
+    * Get the data of a checklist
+    * Returns all checklists for the card

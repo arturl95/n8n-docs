@@ -1,0 +1,5 @@
+- An **S3 Endpoint**: Enter the URL endpoint for the S3 storage backend.
+- A **Region**: Enter the region for your S3 storage. Some providers call this the "region slug."
+- An **Access Key ID**: Enter the S3 access key your S3 provider uses to access the bucket or space. Some providers call this API keys.
+- A **Secret Access Key**: Enter the secret access key for the **Access Key ID**.
+- **Force Path Style**: When turned on, the connection uses path-style addressing for buckets.

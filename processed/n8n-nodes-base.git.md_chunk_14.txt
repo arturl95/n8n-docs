@@ -1,0 +1,7 @@
+Configure this operation with these parameters:
+
+* **Repository Path**: Enter the local path of the git repository.
+* **Authentication**: Select **Authenticate** to pass credentials in or **None** to not use authentication.
+    * If you select **Authenticate**, you must select or create **Credential for Git** for the node to use. Refer to [Git credential](/integrations/builtin/credentials/git/) for more information.
+
+### Push options

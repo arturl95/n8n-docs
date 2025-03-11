@@ -1,0 +1,3 @@
+* [QuestDB:](/integrations/builtin/app-nodes/n8n-nodes-base.questdb/) Added the Mode option that allows you to execute queries as transactions
+* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added Owner option to the Case and Lead resources. Added custom fields to Create and Update operations of the Case resource
+* [Sentry.io:](/integrations/builtin/app-nodes/n8n-nodes-base.sentryio/) Added Delete and Update operations to Project, Release, and Team resources

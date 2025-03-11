@@ -1,0 +1,5 @@
+- Added configurable debug logging for telemetry.
+- Added support for defining nodes through JSON. This functionality is in alpha state and breaking changes to the interface can take place in upcoming versions.
+- Added telemetry support to page events occuring before telemetry is initialized.
+- Fixed a bug preventing errors in sub-workflows from appearing in parent executions.
+- Fixed a bug where node versioning would not work as expected.

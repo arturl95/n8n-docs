@@ -1,0 +1,20 @@
+/// note | Credentials
+Refer to [Freshdesk credentials](/integrations/builtin/credentials/freshdesk/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Contact
+    * Create a new contact
+    * Delete a contact
+    * Get a contact
+    * Get all contacts
+    * Update a contact
+* Ticket
+    * Create a new ticket
+    * Delete a ticket
+    * Get a ticket
+    * Get all tickets
+    * Update a ticket
+
+## Templates and examples

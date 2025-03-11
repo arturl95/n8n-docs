@@ -1,0 +1,9 @@
+### Security
+
+- Check if a Luhn number is valid
+- Check if a password is strong
+- Check if a UUID number is valid
+- Get blacklists for a domain
+- Get blacklists for an IP address
+
+### Text

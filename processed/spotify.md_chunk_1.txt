@@ -1,0 +1,11 @@
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Spotify's Web API documentation](https://developer.spotify.com/documentation/web-api){:target=_blank .external-link} for more information about the service.
+
+## Using OAuth2
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"

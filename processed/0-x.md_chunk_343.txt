@@ -1,0 +1,5 @@
+### New nodes
+
+[Google Ads node](/integrations/builtin/app-nodes/n8n-nodes-base.googleads/): n8n now provides a Google Ads node, allowing you to get data from Google Ad campaigns.
+
+### Node enhancements

@@ -1,0 +1,3 @@
+7. Select **Generate Key**.
+8. Copy the key and enter it as the **Password or API key** in your n8n credential.
+9. Enter your Odoo **Database name**, also known as the instance name.

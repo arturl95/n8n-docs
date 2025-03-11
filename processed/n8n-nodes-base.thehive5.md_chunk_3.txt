@@ -1,0 +1,40 @@
+* Alert
+	* Create
+	* Delete
+	* Execute Responder
+	* Get
+	* Merge Into Case
+	* Promote to Case
+	* Search
+	* Update
+	* Update Status
+* Case
+	* Add Attachment
+	* Create
+	* Delete Attachment
+	* Delete Case
+	* Execute Responder
+	* Get
+	* Get Attachment
+	* Get Timeline
+	* Search
+	* Update
+* Comment
+	* Create
+	* Delete
+	* Search
+	* Update
+* Observable
+	* Create
+	* Delete
+	* Execute Analyzer
+	* Execute Responder
+	* Get
+	* Search
+	* Update
+* Page
+	* Create
+	* Delete
+	* Search
+	* Update
+* Query

@@ -1,0 +1,13 @@
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Motorhead's API documentation](https://docs.getmetal.io/rest-api/introduction){:target=_blank .external-link} for more information about the service.
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-overview-link.md"
+
+## Using API key
+
+To configure this credential, you'll need a [Motorhead](https://www.metal.ai/){:target=_blank .external-link} account and:

@@ -1,0 +1,5 @@
+When the workflow executes, the Wait node generates the resume URL and the webhook(s) in your workflow using the `$execution.resumeUrl`. This generated URL is unique to each execution, so your workflow can contain multiple Wait nodes and as the webhook URL is called it will resume each Wait node sequentially.
+
+For this **Resume** style, set more parameters listed below.
+
+#### Authentication

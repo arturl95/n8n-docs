@@ -1,0 +1,7 @@
+* Use the [Read/Write Files from Disk](/integrations/builtin/core-nodes/n8n-nodes-base.readwritefile/) node or the [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) node to upload the file to your workflow.
+* Add multiple attachments by entering a comma-separated list of binary properties.
+* Reference embedded images or other content within the body of an email message, for example `<img src="cid:image_1">`.
+
+### CC Email
+
+Enter an email address for the cc: field.

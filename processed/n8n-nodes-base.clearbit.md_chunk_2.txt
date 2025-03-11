@@ -1,0 +1,12 @@
+## Operations
+
+* Company
+    * Auto-complete company names and retrieve logo and domain
+    * Look up person and company data based on an email or domain
+* Person
+    * Look up a person and company data based on an email or domain
+
+## Templates and examples
+
+<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
+[[ templatesWidget(page.title, 'clearbit') ]]

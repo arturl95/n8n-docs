@@ -1,0 +1,13 @@
+### Ignored Tables
+
+If you'd like the node to ignore any tables from the database, enter a comma-separated list of tables you'd like it to ignore.
+
+If left empty, the agent doesn't ignore any tables.
+
+### Include Sample Rows
+
+Enter the number of sample rows to include in the prompt to the agent. Default is `3`.
+
+Sample rows help the agent understand the schema of the database, but they also increase the number of tokens used.
+
+### Included Tables

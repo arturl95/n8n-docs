@@ -1,0 +1,10 @@
+- API token
+- OAuth2
+
+## Related resources
+
+Refer to [Zendesk's API documentation](https://developer.zendesk.com/api-reference/){:target=_blank .external-link} for more information about the service.
+
+## Using API token
+
+To configure this credential, you'll need:

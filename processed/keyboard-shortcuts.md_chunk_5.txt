@@ -1,0 +1,2 @@
+- **Shift** + **ArrowLeft**: select all nodes left of the current one
+ - **Shift** + **ArrowRight**: select all nodes right of the current one

@@ -1,0 +1,12 @@
+### Core Functionality
+
+- Added execution ID to logs of queue processes.
+- Added description to operation errors.
+- Added ability for webhook processes to wake waiting executions.
+
+### Bug fixes
+
+* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Fixed issue with 'RequestAllItems' API.
+* [WordPress:](/integrations/builtin/app-nodes/n8n-nodes-base.wordpress/) Fixed issue with 'RequestAllItems' API only returning the first 10 items.
+
+### Contributors

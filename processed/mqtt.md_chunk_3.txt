@@ -1,0 +1,9 @@
+To configure this credential, you'll need:
+
+- Your MQTT broker's **Protocol**
+- The **Host**
+- The **Port**
+- A **Username** and **Password** to authenticate with
+- If you're using **SSL**, the relevant certificates and keys
+
+To set things up:

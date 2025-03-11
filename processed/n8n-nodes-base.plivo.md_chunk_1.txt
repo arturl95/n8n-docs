@@ -1,0 +1,16 @@
+On this page, you'll find a list of operations the Plivo node supports and links to more resources.
+
+/// note | Credentials
+Refer to [Plivo credentials](/integrations/builtin/credentials/plivo/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Call
+    * Make a voice call
+* MMS
+    * Send an MMS message (US/Canada only)
+* SMS
+    * Send an SMS message.
+
+## Templates and examples

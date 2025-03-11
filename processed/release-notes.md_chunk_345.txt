@@ -1,0 +1,13 @@
+</div>
+
+For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
+
+### Contributors
+
+[Ian Gallagher](https://github.com/craSH){:target=_blank .external-link}  
+[Xavier Calland](https://github.com/xavier-calland){:target=_blank .external-link}
+
+## n8n@1.2.2
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@1.2.1...n8n@1.2.2){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-08-14

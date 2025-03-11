@@ -1,0 +1,8 @@
+### Core Functionality
+
+- Fixed an issue causing an error message to be thrown when executing a workflow through the CLI.
+- Improved expression security by limiting the available process properties.
+- Improved the behaviour of internal tests executed through the CLI.
+- Updated the owner of the node user's home directory in the custom docker image.
+
+### Bug fixes

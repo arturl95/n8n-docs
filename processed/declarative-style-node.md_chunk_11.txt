@@ -1,0 +1,3 @@
+#### Step 3.3: Add node details
+
+All nodes need some basic parameters, such as their display name, icon, and the basic information for making a request using the node. Add the following to the `description`:

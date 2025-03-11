@@ -1,0 +1,11 @@
+## Manage variables using the API
+
+n8n syncs variable names, but doesn't push variable values to your Git provider. You can either:
+
+* Manually set variable values in n8n.
+* Set variable values using the n8n API, using the `/pull` endpoint. 
+
+Managing variables using the API has several advantages:
+
+* You can automatically update variable values using a CI (continuous integration) tool. 
+* You may also be able to protect the values.

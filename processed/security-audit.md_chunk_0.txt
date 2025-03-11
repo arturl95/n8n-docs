@@ -1,0 +1,23 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Security audit
+description: "Run a security audit on your n8n instance."
+contentType: howto
+---
+
+# Security audit
+
+You can run a security audit on your n8n instance, to detect common security issues.
+
+## Run an audit
+
+You can run an audit using the CLI, the public API, or the n8n node.
+
+
+### CLI
+
+Run `n8n audit`.
+
+### API
+
+Make a `POST` call to the `/audit` endpoint. You must authenticate as the instance owner.

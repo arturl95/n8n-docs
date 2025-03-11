@@ -1,0 +1,15 @@
+#### Code node
+
+This release introduces the Code node. This node replaces both the Function and Function Item nodes. Refer to the [Code node](/integrations/builtin/core-nodes/n8n-nodes-base.code/) documentation for more information.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Venafi TLS Protect Cloud Trigger node
+
+Start a workflow in response to events in your Venafi Cloud service.
+
+</div>
+
+### Node enhancements

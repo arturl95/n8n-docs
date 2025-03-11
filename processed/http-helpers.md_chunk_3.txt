@@ -1,0 +1,14 @@
+returnFullResponse?: boolean;
+	proxy?: {
+		host: string;
+		port: string | number;
+		auth?: {
+			username: string;
+			password: string;
+		},
+		protocol?: string;
+	};
+	timeout?: number;
+	json?: boolean;
+}	
+```

@@ -1,0 +1,12 @@
+Check out the [user management documentation](/user-management/) for more information.
+
+## n8n@0.167.0
+
+For a comprehensive list of changes, view the [commits](https://github.com/n8n-io/n8n/compare/n8n%400.166.0...n8n@0.167.0) for this version.<br />
+**Release date:** 2022-03-13
+
+### Highlights
+
+#### Luxon and JMESPath
+
+0.167.0 adds support for two new libraries:

@@ -1,0 +1,8 @@
+To start using Task runners today, [check out the docs](/hosting/configuration/task-runners/).
+
+</div>
+
+### Node updates
+
+- [AI Transform node](/integrations/builtin/core-nodes/n8n-nodes-base.aitransform/): We improved the prompt for code generation to transform data
+- [Code node](/integrations/builtin/core-nodes/n8n-nodes-base.code/): We added a warning if `pairedItem` is absent or could not be auto mapped

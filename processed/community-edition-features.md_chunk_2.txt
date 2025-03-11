@@ -1,0 +1,4 @@
+- [Projects](/user-management/rbac/projects/)
+- SSO ([SAML](/hosting/securing/set-up-sso/), [LDAP](/user-management/ldap/))
+- Sharing ([workflows](/workflows/sharing/), [credentials](/credentials/credential-sharing/)) (Only the instance owner and the user who creates them can access workflows and credentials)
+- [Version control using Git](/source-control-environments/)

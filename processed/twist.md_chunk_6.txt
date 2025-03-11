@@ -1,0 +1,6 @@
+- Select **Update OAuth settings** to save those changes.
+- Copy the **Client ID** and **Client Secret** from Twist and enter them in the appropriate fields in n8n.
+
+### Local environment redirect URL
+
+Twist doesn't accept a localhost callback URL. These steps should allow you to configure the OAuth credentials for the local environment:

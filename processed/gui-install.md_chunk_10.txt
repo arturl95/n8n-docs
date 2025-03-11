@@ -1,0 +1,7 @@
+### Upgrade to a specific version
+
+To upgrade to a specific version (a version other than the latest), uninstall the node, then reinstall it, making sure to specify the target version. Follow the [Installation](#install-a-community-node) instructions for more guidance.
+
+## Downgrade a community node
+
+If there is a problem with a particular version of a community node, you may want to roll back to a previous version.

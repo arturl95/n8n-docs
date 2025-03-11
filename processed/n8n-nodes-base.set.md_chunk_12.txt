@@ -1,0 +1,19 @@
+"email": "jab@macondo.co",
+    "notes": "Lots of people named after him. Very confusing",
+    "country": "CO",
+    "created": "1967-05-05",
+    "newKey": "new value",
+    "array": [
+      23423533,
+      "José Arcadio Buendía"
+    ],
+    "object": {
+      "innerKey1": "new value",
+      "innerKey2": "23423533",
+      "innerKey3": "José Arcadio Buendía"
+    }
+  },
+  {
+    "id": "23423534",
+    "name": "Max Sendak",
+    "email": "info@in-and-out-of-weeks.org",

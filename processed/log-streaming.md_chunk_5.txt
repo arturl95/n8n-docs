@@ -1,0 +1,7 @@
+## Destinations
+
+n8n supports three destination types:
+
+* A syslog server
+* A generic webhook
+* A Sentry client

@@ -1,0 +1,18 @@
+```js
+{
+  displayName: 'Your text here',
+  name: 'notice',
+  type: 'notice',
+  default: '',
+},
+```
+![Notice](/_images/integrations/creating-nodes/notice.png)
+
+## Hints
+
+There are two types of hints: parameter hints and node hints:
+
+* Parameter hints are small lines of text below a user input field.
+* Node hints are a more powerful and flexible option than [Notice](#notice). Use them to display longer hints, in the input panel, output panel, or node details view. 
+
+### Add a parameter hint

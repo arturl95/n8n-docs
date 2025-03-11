@@ -1,0 +1,8 @@
+<figure markdown="span">
+    ![Task runners overview](/_images/hosting/configuration/task-runner-concept.png)
+    <figcaption>Task runners overview</figcaption>
+</figure>
+
+Our benchmarks show up to 6x improvement in workflow executions using Code nodes - from approximately 6 to 35 executions per second. All these improvements happen under the hood, keeping your Code node experience exactly the same.
+
+The Task runner comes in two modes:

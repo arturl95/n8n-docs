@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: explanation
+---
+
+# Choose your node building approach
+
+n8n has two node-building styles, declarative and programmatic.
+
+You should use the declarative style for most nodes. This style:
+
+* Uses a JSON-based syntax, making it simpler to write, with less risk of introducing bugs.
+* Is more future-proof.
+* Supports integration with REST APIs.

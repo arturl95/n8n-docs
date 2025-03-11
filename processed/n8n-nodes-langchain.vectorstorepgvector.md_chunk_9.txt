@@ -1,0 +1,11 @@
+* **Table name**: Enter the name of the table you want to query.
+* **Prompt**: Enter your search query.
+* **Limit**: Enter a number to set how many results to retrieve from the vector store. For example, set this to `10` to get the ten best results.
+
+### Insert Documents parameters
+
+* **Table name**: Enter the name of the table you want to query.
+
+### Retrieve Documents parameters (As Vector Store for Chain/Tool)
+
+* **Table name**: Enter the name of the table you want to query.

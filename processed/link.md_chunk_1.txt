@@ -1,0 +1,7 @@
+# Facebook Trigger Link object
+
+Use this object to receive updates about links for rich previews by an external provider. Refer to [Facebook Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/) for more information on the trigger itself.
+
+/// note | Credentials
+You can find authentication information for this node [here](/integrations/builtin/credentials/facebookapp/).
+///

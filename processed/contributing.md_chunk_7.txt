@@ -1,0 +1,5 @@
+- Fix [issues](https://github.com/n8n-io/n8n/issues){:target=_blank class=.external-link} reported on GitHub. The [CONTRIBUTING guide](https://github.com/n8n-io/n8n/blob/master/CONTRIBUTING.md){:target=_blank class=.external-link} will help you get your development environment ready in minutes.
+- Add additional functionality to an existing third party integration.
+- Add a new feature to n8n.
+
+## Contribute to the docs

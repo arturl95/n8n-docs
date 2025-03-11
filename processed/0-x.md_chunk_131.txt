@@ -1,0 +1,3 @@
+* Refactor the n8n Desktop user management experience.
+* Core: add support for WebSockets as an alternative to server-sent events. This introduces a new way for n8n's backend to push changes to the UI. The default is still server-sent events. If you're experiencing issues with the UI not updating, try changing to WebSockets by setting the `N8N_PUSH_BACKEND` environment variable to `websocket`. 
+* Editor: add autocomplete for objects.

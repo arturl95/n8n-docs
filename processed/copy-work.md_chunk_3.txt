@@ -1,0 +1,3 @@
+* [GitLab: Creating merge requests](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html){:target=_blank .external-link}
+	* [Git: Basic branching and merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging){:target=_blank .external-link}
+1. In your production n8n instance, pull the changes. You can [automate pulls](#automatically-send-changes-to-n8n).

@@ -1,0 +1,1 @@
+* For maximum privacy, you can [Isolate n8n](/hosting/configuration/configuration-examples/isolation/).

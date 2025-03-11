@@ -1,0 +1,11 @@
+### Insert Documents parameters
+
+* **Collection Name**: Enter the collection name to store the data in.
+
+<!-- vale from-write-good.Weasel = NO -->
+### Get Many parameters
+<!-- vale from-write-good.Weasel = YES -->
+
+* **Collection Name**: Enter the collection name to retrieve the data from.
+* **Prompt**: Enter the search query.
+* **Limit**: Enter how many results to retrieve from the vector store. For example, set this to `10` to get the ten best results.

@@ -1,0 +1,7 @@
+## Full versioning
+
+This isn't available for declarative-style nodes.
+
+As an example, refer to the [Mattermost node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Mattermost){:target=_blank .external-link}.
+
+Full versioning summary:

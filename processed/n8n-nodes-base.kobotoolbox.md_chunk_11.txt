@@ -1,0 +1,2 @@
+- Splits all fields matching any of the **Multiselect Mask** wildcard masks into an array. Since the multi-select fields appear as space-separated strings, they can't be guessed algorithmically, so you must provide a field naming mask. Format the masks as a comma-separated list. Lists support the `*` wildcard.
+- Converts all fields matching any of the **Number Mask** wildcard masks into a JSON float.

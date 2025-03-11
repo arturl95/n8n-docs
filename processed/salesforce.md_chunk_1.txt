@@ -1,0 +1,13 @@
+- [Salesforce](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/)
+- [Salesforce trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.salesforcetrigger/)
+
+## Supported authentication methods
+
+- JWT
+- OAuth2
+
+## Related resources
+
+Refer to [Salesforce's developer documentation](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm){:target=_blank .external-link} for more information about the service.
+
+## Using JWT

@@ -1,0 +1,2 @@
+* **Top P**: Use this option to set the probability the completion should use. Use a lower value to ignore less probable options. 
+* **Safety Settings**: Gemini supports adjustable safety settings. Refer to Google's [Gemini API safety settings](https://ai.google.dev/docs/safety_setting_gemini){:target=_blank .external-link} for information on the available filters and levels.

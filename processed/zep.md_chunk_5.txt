@@ -1,0 +1,3 @@
+### Self-hosted Zep Open Source setup
+
+Follow these instructions if you're self-hosting [Zep Open Source](https://docs.getzep.com/deployment/quickstart/){:target=_blank .external-link}:

@@ -1,0 +1,9 @@
+* Name: **Simplify Response**
+  * Description: **Whether to return a simplified version of the response instead of the raw data**
+
+#### Upsert operations
+
+This should always be a separate operation with:
+
+  * Name: **Create or Update**
+  * Description: **Create a new record, or update the current one if it already exists (upsert)**

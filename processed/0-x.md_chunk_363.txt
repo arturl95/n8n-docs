@@ -1,0 +1,10 @@
+### Contributors
+
+
+[Albrecht Schmidt](https://github.com/IamDrowsy){:target=_blank .external-link}
+[Erick Friis](https://github.com/efriis){:target=_blank .external-link}
+[JoLo](https://github.com/jolo-dev){:target=_blank .external-link}
+[Shaun](https://github.com/simshaun){:target=_blank .external-link}
+[Valentin Mocanu](https://github.com/rontav){:target=_blank .external-link}
+
+## n8n@0.181.2

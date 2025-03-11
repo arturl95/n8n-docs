@@ -1,0 +1,4 @@
+```bash
+export N8N_CUSTOM_EXTENSIONS="/home/jim/n8n/custom-nodes;/data/n8n/nodes"
+```
+Refer to [Environment variables reference](/hosting/configuration/environment-variables/nodes/) for more information on this variable.

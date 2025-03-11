@@ -1,0 +1,7 @@
+- Discover if a domain has a social network presence
+- Discover if an email is valid, hard bounce, soft bounce, spam-trap, free, temporary, and recipient exists
+- Discover if the email recipient exists, returning email status
+- Check if an email domain has an SMTP server to receive emails
+- Discover if the email has a social network presence
+- Check if an email has a valid format
+- Check if an email domain belongs to a disposable email service

@@ -1,0 +1,1 @@
+Refer to [Qdrant's authentication documentation](https://qdrant.tech/documentation/cloud/authentication/){:target=_blank .external-link} for more information on creating and using API keys.

@@ -1,0 +1,5 @@
+To get your personal API token:
+
+1. If you're using ClickUp 2.0, select your avatar in the lower-left corner and select **Apps**. If you're using ClickUp 3.0, select your avatar in the upper-right corner, select **Settings**, and scroll down to select **Apps** in the sidebar.
+2. Under **API Token**, select **Generate**.
+3. Copy your **Personal API token** and enter it in your n8n credential as the **Access Token**.

@@ -1,0 +1,23 @@
+## Operations
+
+* Customer
+    * Create a new customer
+    * Delete a customer
+    * Get a customer
+    * Get all customers
+    * Update a customer
+* Invoice
+    * Create an invoice
+* Order
+    * Cancel an order
+    * Get an order
+    * Get all orders
+    * Ship an order
+* Product
+    * Create a product
+    * Delete a product
+    * Get a product
+    * Get all products
+    * Update a product
+
+## Templates and examples

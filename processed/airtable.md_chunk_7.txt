@@ -1,0 +1,11 @@
+Refer to Airtable's [Find/create PATs documentation](https://support.airtable.com/docs/creating-personal-access-tokens#understanding-the-basics-of-personal-access-tokens){:target=_blank .external-link} for more information.
+
+## Using OAuth2
+
+To configure this credential, you'll need:
+
+- An **OAuth Redirect URL**
+- A **Client ID**
+- A **Client Secret**
+
+To generate all this information, register a new Airtable integration:

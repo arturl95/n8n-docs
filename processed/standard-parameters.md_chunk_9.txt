@@ -1,0 +1,1 @@
+* `required`: Boolean. Specify whether authentication is required to use this node.

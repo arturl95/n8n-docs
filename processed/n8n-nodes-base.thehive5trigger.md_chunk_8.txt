@@ -1,0 +1,15 @@
+{
+		"value": [
+			{
+			"delegate": false,
+			"trigger": { "name": "AnyEvent"},
+			"notifier": { "name": "webhook", "endpoint": "TESTING_WEBHOOK_NAME" }
+			},
+			{
+			"delegate": false,
+			"trigger": { "name": "AnyEvent"},
+			"notifier": { "name": "webhook", "endpoint": "PRODUCTION_WEBHOOK_NAME" }
+			}
+		]
+	}'
+	```

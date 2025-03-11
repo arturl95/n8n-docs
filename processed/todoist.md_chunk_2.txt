@@ -1,0 +1,11 @@
+- An **API Key**
+
+To get your **API Key**:
+
+1. In Todoist, open your [**Integration settings**](https://todoist.com/prefs/integrations){:target=_blank .external-link}.
+2. Select the **Developer** tab.
+3. Copy your **API token** and enter it as the **API Key** in your n8n credential.
+
+Refer to [Find your API token](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB){:target=_blank .external-link} for more information.
+
+## Using OAuth2

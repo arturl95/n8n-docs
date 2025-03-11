@@ -1,0 +1,4 @@
+1. In DigitalOceans, go to the control panel and open **Settings**. Your endpoint should be listed there. Prepend `https://` to that endpoint and enter it as the **S3 Endpoint** in n8n.
+    - Your DigitalOceans endpoint depends on the data center region your bucket's in.
+2. For the **Region**, enter the region your bucket's located in, for example, `nyc3`.
+    - If you plan to use this credential to create new Spaces, enter `us-east-1` instead.

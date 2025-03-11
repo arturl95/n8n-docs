@@ -1,0 +1,10 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: explanation
+---
+
+# Self-hosted concurrency control
+
+/// info | Only for self-hosted n8n
+This document is for self-hosted concurrency control. Read [Cloud concurrency](/manage-cloud/concurrency/) to learn how concurrency works with n8n Cloud accounts.
+///

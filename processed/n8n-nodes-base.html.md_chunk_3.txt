@@ -1,0 +1,5 @@
+## Operations
+
+* [**Generate HTML template**](#generate-html-template): Use this operation to create an HTML template. This allows you to take data from your workflow and output it as HTML.
+* [**Extract HTML content**](#extract-html-content): Extract contents from an HTML-formatted source. The source can be in JSON or a binary file (`.html`).
+* [**Convert to HTML Table**](#convert-to-html-table): Convert content to an HTML table.

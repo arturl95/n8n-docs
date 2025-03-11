@@ -1,0 +1,13 @@
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Execute Workflow Trigger node
+
+The Execute Workflow Trigger starts a workflow in response to another workflow. You can find documentation for the new node [here](/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflowtrigger/).
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Manual Trigger node

@@ -1,0 +1,26 @@
+## JSON
+
+```typescript
+{
+	displayName: 'Content (JSON)',
+	name: 'content',
+	type: 'json',
+	default: '',
+	description: '',
+	displayOptions: { // the resources and operations to display this element with
+		show: {
+			resource: [
+				// comma-separated list of resource names
+			],
+			operation: [
+				// comma-separated list of operation names
+			]
+		}
+	},
+}
+```
+
+![JSON](/_images/integrations/creating-nodes/json.png)
+
+
+## HTML

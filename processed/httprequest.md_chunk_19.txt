@@ -1,0 +1,7 @@
+### PKCE grant type
+
+Proof Key for Code Exchange (PKCE) grant type is an extension to the Authorization Code flow to prevent CSRF and authorization code injection attacks.
+
+To configure this credential, select **PKCE** as the **Grant Type**.
+
+Then enter:

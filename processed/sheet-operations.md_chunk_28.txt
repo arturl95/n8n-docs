@@ -1,0 +1,7 @@
+Refer to the [Method: spreadsheets.batchUpdate | Google Sheets](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets/batchUpdate){:target=_blank .external-link} API documentation for more information.
+
+## Delete Rows or Columns
+
+Use this operation to delete rows or columns in a sheet.
+
+Enter these parameters:

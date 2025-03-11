@@ -1,0 +1,8 @@
+## Using API key
+
+To configure this credential, you'll need:
+
+- an **API Token**: An API key for your Zabbix user.
+- the **URL**: The URL of your Zabbix server. Don't include `/zabbix` as part of the URL.
+
+Refer to [Zabbix's API documentation](https://www.zabbix.com/documentation/current/en/manual/api#authentication){:target=_blank .external-link} for more information about authenticating to the service.

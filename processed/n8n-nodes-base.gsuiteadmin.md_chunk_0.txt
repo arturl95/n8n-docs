@@ -1,0 +1,8 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: G Suite Admin node documentation
+description: Learn how to use the G Suite Admin node in n8n. Follow technical documentation to integrate G Suite Admin node into your workflows.
+contentType: integration
+---
+
+# G Suite Admin node

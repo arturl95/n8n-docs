@@ -1,0 +1,7 @@
+## Using basic auth
+
+To configure this credential, you'll need:
+
+- A **Username**: For the user account you log into Elasticsearch with.
+- A **Password**: For the user account you log into Elasticsearch with.
+- Your Elasticsearch application's **Base URL** (also known as the Elasticsearch application endpoint):

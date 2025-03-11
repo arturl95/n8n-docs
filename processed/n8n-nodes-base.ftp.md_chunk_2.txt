@@ -1,0 +1,9 @@
+/// note | Uploading files
+To attach a file for upload, you'll need to use an extra node such as the [Read/Write Files from Disk](/integrations/builtin/core-nodes/n8n-nodes-base.readwritefile/) node or the [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) node to pass the file as a data property.
+///
+
+## Delete
+
+This operation includes one parameter: **Path**. Enter the remote path that you would like to connect to.
+
+### Delete options

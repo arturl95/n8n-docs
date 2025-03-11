@@ -1,0 +1,10 @@
+### Contributors
+
+[Ayato Hayashi](https://github.com/hayashi-ay){:target=_blank .external-link}  
+[Daniil Zobov](https://github.com/ddzobov){:target=_blank .external-link}  
+[Guilherme Barile](https://github.com/GuilhermeBarile){:target=_blank .external-link}  
+[Romain MARTINEAU](https://github.com/RJiraya){:target=_blank .external-link}
+
+
+
+## n8n@1.42.1

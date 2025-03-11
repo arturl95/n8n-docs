@@ -1,0 +1,4 @@
+* **Use Input A Version** to treat input stream A as the source of truth.
+	* **Use Input B Version** to treat input stream B as the source of truth.
+	* **Use a Mix of Versions** to use different inputs for different fields.
+		* Use **Prefer** to select either **Input A Version** or **Input B Version** as the main source of truth.

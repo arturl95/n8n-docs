@@ -1,0 +1,4 @@
+- **Can Copy**: Whether the current user can copy files in this shared drive.
+	- **Can Delete Children**: Whether the current user can delete children from folders in this shared drive.
+	- **Can Delete Drive**: Whether the current user can delete this shared drive. This operation may still fail if there are items not in the trash in the shared drive.
+	- **Can Download**: Whether the current user can download files from this shared drive.

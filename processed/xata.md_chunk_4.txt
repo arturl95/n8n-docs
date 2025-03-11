@@ -1,0 +1,3 @@
+- `{dbname}`: The name of the database you're interacting with.
+- A **Branch**: Enter the name of the GitHub branch for your database.
+- An **API Key**: To generate an API key, go to [**Account Settings**](https://app.xata.io/settings){:target=_blank .external-link} and select **+ Add a key**. Refer to [Generate an API Key](https://xata.io/docs/rest-api#generate-an-api-key){:target=_blank .external-link} for more information.

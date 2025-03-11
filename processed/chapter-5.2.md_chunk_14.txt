@@ -1,0 +1,2 @@
+1. Use the [**Loop Over Items node**](/integrations/builtin/core-nodes/n8n-nodes-base.splitinbatches/) to split data from the Item Lists node into batches of 5.
+2. Use the [**Set node**](/integrations/builtin/core-nodes/n8n-nodes-base.set/) to set four values, referenced with expressions from the previous node: `customerEmail`, `customerRegion`, `customerSince`, and `orderPrice`.

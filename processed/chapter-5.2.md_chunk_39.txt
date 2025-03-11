@@ -1,0 +1,23 @@
+"discordWebhookApi": {
+            "id": "WEBrtPdoLrhlDYKr",
+            "name": "L2 Course Discord Webhook account"
+            }
+        }
+        }
+    ],
+    "connections": {
+        "Gmail": {
+        "main": [
+            [
+            {
+                "node": "Discord",
+                "type": "main",
+                "index": 0
+            }
+            ]
+        ]
+        },
+        "When clicking \"Test workflow\"": {
+        "main": [
+            [
+            {

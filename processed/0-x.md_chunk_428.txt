@@ -1,0 +1,4 @@
+* [Crypto Node:](/integrations/builtin/core-nodes/n8n-nodes-base.crypto/) Add Generate operation to generate random values.
+* [HTTP Request Node:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Add support for OPTIONS method.
+* [Jira Node:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Add Simplify Output option to Issue > Get.
+* [Reddit Node:](/integrations/builtin/app-nodes/n8n-nodes-base.reddit/) Add possibility to query saved posts.

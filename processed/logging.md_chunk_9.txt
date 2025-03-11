@@ -1,0 +1,6 @@
+Convenience methods are provided for all logging levels, so new logs can be added whenever needed using the format `Logger.<logLevel>('<message>', ...meta)`, where `meta` represents any additional properties desired beyond `message`.
+
+In the example above, we use the standard log levels described [above](#log-levels). The `message` argument is a string, and `meta` is a data object.
+
+```js
+// You have to import the LoggerProxy. We rename it to Logger to make it easier

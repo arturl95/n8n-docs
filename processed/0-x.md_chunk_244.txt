@@ -1,0 +1,15 @@
+</div>
+
+* Core: block workflow updates on interim changes.
+* Core: enable sending client credentials in the body of API calls.
+* Editor: add automatic credential selection for new nodes.
+
+### New nodes
+
+<div class="n8n-new-features" markdown>
+
+#### Compare node
+
+The Compare Datasets node helps you compare data from two input streams. You can find documentation for the new node [here](/integrations/builtin/core-nodes/n8n-nodes-base.comparedatasets/).
+
+</div>

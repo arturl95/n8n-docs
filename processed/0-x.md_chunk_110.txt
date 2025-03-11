@@ -1,0 +1,2 @@
+* Support feature flag evaluation server side.
+* Deprecate the Read Binary File node. Use the [Read Binary Files](/integrations/builtin/core-nodes/n8n-nodes-base.readbinaryfiles/) node instead.

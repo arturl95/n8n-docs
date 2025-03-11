@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Xero](https://www.xero.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Zero's API documentation](https://developer.xero.com/documentation/api/accounting/overview){:target=_blank .external-link} for more information about the service.
+
+## Using OAuth2
+
+To configure this credential, you'll need:

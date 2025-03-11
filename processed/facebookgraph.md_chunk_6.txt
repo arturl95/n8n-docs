@@ -1,0 +1,9 @@
+* Add an **App contact email**.
+    * Here again you can connect to a business portfolio or skip it.
+1. Select **Create app**.
+1. The **Add products to your app** page opens.
+1. Select **App settings > Basic** from the left menu.
+1. Enter a **Privacy Policy URL**. (Required to take the app "Live.")
+1. Select **Save changes**.
+1. At the top of the page, toggle the **App Mode** from **Development** to **Live**.
+1. In the left menu, select **Add Product**.

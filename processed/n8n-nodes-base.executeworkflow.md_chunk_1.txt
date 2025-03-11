@@ -1,0 +1,5 @@
+## Node parameters
+
+### Source
+
+Select where the node should get the sub-workflow's information from:

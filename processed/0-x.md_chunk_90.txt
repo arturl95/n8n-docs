@@ -1,0 +1,5 @@
+### New nodes
+
+This release adds a node for [QuickChart](https://quickchart.io/){:target=_blank .external-link}, an open source chart generation tool.
+
+### Bug fixes

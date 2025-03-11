@@ -1,0 +1,7 @@
+* Editor: Make sure to redirect to blank canvas after personalisation modal.
+* Editor: Fix an issue that was preventing typing certain characters in the UI on devices with touchscreen.
+* Editor: Fix n8n-checkbox alignment.
+* Code Node: Handle user code returning null and undefined.
+* GitHub Trigger Node: Remove content_reference event.
+* Google Sheets Trigger Node: Return actual error message.
+* HTTP Request Node: Fix `itemIndex` in HTTP Request errors.

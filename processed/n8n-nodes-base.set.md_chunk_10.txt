@@ -1,0 +1,15 @@
+Add the following JSON in the **JSON Output** field, with **Include in Output** set to **All Input Fields**:
+
+```json
+{
+  "newKey": "new value",
+  "array": [{{ $json.id }},"{{ $json.name }}"],
+  "object": {
+    "innerKey1": "new value",
+    "innerKey2": "{{ $json.id }}",
+    "innerKey3": "{{ $json.name }}",
+ }
+}
+```
+
+You get this output:

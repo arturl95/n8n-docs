@@ -1,0 +1,11 @@
+- Decode URL to recover original
+- Get valid, existing, and default URL when accessing a domain using a web browser
+- Get long version of shortened URL
+- Discover device features by a user agent
+- Get the network name of and IP address
+- Get the domain record by its type
+- Encode URL to avoid problems
+- Copy file from one URL to another URL
+- Fix an IP address to the right format
+- Get the IPv4 address linked with a domain
+- Convert a number to an IP address

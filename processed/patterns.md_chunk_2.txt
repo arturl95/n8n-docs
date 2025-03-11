@@ -1,0 +1,7 @@
+--8<-- "_snippets/source-control-environments/multi-instance-multi-branch-pros-cons.md"
+
+![Diagram](/_images/source-control-environments/vc-multi-multi.png)
+
+## Multiple instances, one branch
+
+Use this pattern if you want the same workflows, tags, and variables everywhere, but want to use them in different n8n instances.

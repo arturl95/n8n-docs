@@ -1,0 +1,8 @@
+There are four output options:
+
+* **In A only Branch**: Contains data that occurs only in the first input.
+* **Same Branch**: Contains data that's the same in both inputs.
+* **Different Branch**: Contains data that's different between inputs.
+* **In B only Branch**: Contains data that occurs only in the second output.
+
+## Templates and examples

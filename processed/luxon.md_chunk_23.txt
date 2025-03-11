@@ -1,0 +1,15 @@
+### Get the time between two dates
+
+To get the time between two dates, use Luxon's diffs feature. This subtracts one date from another and returns a duration.
+
+For example, get the number of months between two dates:
+
+=== "Expressions (JavaScript)"
+
+	```js
+	{{DateTime.fromISO('2019-06-23').diff(DateTime.fromISO('2019-05-23'), 'months').toObject()}}
+	```
+
+	This returns `[Object: {"months":1}]`.
+
+=== "Code node (JavaScript)"

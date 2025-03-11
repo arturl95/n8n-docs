@@ -1,0 +1,2 @@
+- Create a user account on a [FileMaker Server](https://www.claris.com/filemaker/){:target=_blank .external-link} with the `fmrest` extended privilege to [Access the FileMaker Data API](https://help.claris.com/en/data-api-guide/content/enable-access.html){:target=_blank .external-link}.
+- Ensure the FileMaker Server can use the [FileMaker Data API](https://help.claris.com/en/data-api-guide/content/index.html){:target=_blank .external-link}:

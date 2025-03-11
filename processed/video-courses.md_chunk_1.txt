@@ -1,0 +1,4 @@
+- [Introduction and workflows](https://youtu.be/4BVTkqbn_tY?si=g2A5eD8kAoia5k6y){:target=_blank .external-link}
+- [APIs and Webhooks](https://youtu.be/y_cpFMF1pzk?si=zi3wM4W7nx8Jkcw3){:target=_blank .external-link}
+- [Nodes](https://youtu.be/rCPXBkeBWCQ?si=-T2iUsydwS5ym6yI){:target=_blank .external-link}
+- [Data in n8n](https://youtu.be/2YfWuNziPE4?si=4jB-fubG1_T0HXYx){:target=_blank .external-link}

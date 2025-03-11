@@ -1,0 +1,1 @@
+* **Text**: "I created the spreadsheet `{file name}`. My ID:" followed by the unique ID emailed to you when you registered for this course. <br/> Note that you need to replace `{file name}` with an expression that references data from the previous **Convert to File node**.<br/>

@@ -1,0 +1,1 @@
+By using VS Code and these extensions, you get access to the n8n node linter's warnings as you code.

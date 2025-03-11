@@ -1,0 +1,5 @@
+## GDPR
+
+### Data processing agreement
+
+For Cloud versions of n8n, n8n is considered both a Controller and a Processor as defined by the GDPR. As a Processor, n8n implements policies and practices that secure the personal data you send to the platform, and includes a [Data Processing Agreement](https://n8n.io/legal/#data){:target=_blank .external-link} as part of the company's standard [Terms of Service](https://n8n.io/legal/#terms){:target=_blank .external-link}.

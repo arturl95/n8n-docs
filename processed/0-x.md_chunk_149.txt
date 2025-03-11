@@ -1,0 +1,7 @@
+* Editor: handling router errors when navigation is canceled by user.
+* Editor: set max width for executions list.
+* Editor: stop unsaved changes popup display when navigating away from an untouched workflow.
+* Editor: fix workflow executions view.
+* Invoice Ninja Node: fix line items not being correctly set for quotes and invoices.
+* Linear Node: fix pagination issue for get all issues.
+* Mailchimp Trigger Node: fix webhook recreation.

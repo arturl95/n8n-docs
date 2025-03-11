@@ -1,0 +1,11 @@
+- Broker connection
+
+## Related resources
+
+Refer to [MQTT's documentation](https://mqtt.org/){:target=_blank .external-link} for more information about the MQTT protocol.
+
+Refer to your broker provider's documentation for more detailed configuration and details.
+
+## Using broker connection
+
+To configure this credential, you'll need:

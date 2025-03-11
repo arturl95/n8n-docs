@@ -1,0 +1,4 @@
+To access the linked items from earlier in the workflow, use `("<node-name>").itemMatching(currentNodeinputIndex)`.
+
+
+For example, consider a workflow that does the following:

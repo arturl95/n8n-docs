@@ -1,0 +1,6 @@
+- Discover if a mobile phone number has a valid format with worldwide coverage
+- Discover if a mobile phone number has a valid format (only Spain)
+- Discover if a mobile phone number has a valid prefix, with worldwide coverage
+- Discover if a Spanish mobile phone number has a valid prefix
+- Discover if a mobile number is switched on to call it later, with worldwide coverage
+- Discover if a mobile number can receive SMS with worldwide coverage

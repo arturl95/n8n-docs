@@ -1,0 +1,14 @@
+=== "Expressions (JavaScript)"
+
+	```js
+	{{DateTime.fromISO('2019-06-23T00:00:00.00')}}
+	```
+
+=== "Code node (JavaScript)"
+
+	```js
+	let luxonDateTime = DateTime.fromISO('2019-06-23T00:00:00.00')
+	```
+
+
+Luxon's API documentation has more information on [fromISO](https://moment.github.io/luxon/api-docs/index.html#datetimefromiso){:target="_blank" .external-link}.

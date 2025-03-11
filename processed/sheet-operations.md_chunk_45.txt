@@ -1,0 +1,5 @@
+## Update Row
+
+Use this operation to update existing row in a sheet. This operation only updates existing rows. To append rows when a matching entry isn't found in a sheet, use **Append or Update Row** operation instead.
+
+Enter these parameters:

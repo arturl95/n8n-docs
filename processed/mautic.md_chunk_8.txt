@@ -1,0 +1,1 @@
+Refer to [How to use the Mautic API](https://kb.mautic.org/article/what-is-mautic-039;s-api.html){:target=_blank .external-link} for more information.

@@ -1,0 +1,8 @@
+### Core functionality
+
+- Added new environment variable `N8N_HIRING_BANNER_ENABLED` to enable/disable the hiring banner.
+- Fixed a bug preventing keyboard shortcuts from working as expected.
+- Fixed a bug causing tooltips to be hidden behind other elements.
+- Fixed a bug causing some credentials to be hidden from the credentials list.
+
+### Bug fixes

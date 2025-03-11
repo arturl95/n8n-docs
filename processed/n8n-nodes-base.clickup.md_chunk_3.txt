@@ -1,0 +1,24 @@
+* Checklist
+    * Create a checklist
+    * Delete a checklist
+    * Update a checklist
+* Checklist Item
+    * Create a checklist item
+    * Delete a checklist item
+    * Update a checklist item
+* Comment
+    * Create a comment
+    * Delete a comment
+    * Get all comments
+    * Update a comment
+* Folder
+    * Create a folder
+    * Delete a folder
+    * Get a folder
+    * Get all folders
+    * Update a folder
+* Goal
+    * Create a goal
+    * Delete a goal
+    * Get a goal
+    * Get all goals

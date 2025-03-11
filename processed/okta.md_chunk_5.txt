@@ -1,0 +1,6 @@
+1. Assign the n8n app to people:
+	1. On the n8n app dashboard in Okta, select **Assignments**.
+	1. Select **Assign** > **Assign to People**. Okta displays a modal with a list of available people.
+	1. Select **Assign** next to the person you want to add. Okta displays a prompt to confirm the username.
+	1. Leave the username as email address. Select **Save and Go Back**.
+	1. Select **Done**.

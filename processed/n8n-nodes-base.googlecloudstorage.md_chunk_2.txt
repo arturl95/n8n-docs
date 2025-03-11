@@ -1,0 +1,23 @@
+/// note | Credentials
+Refer to [Google Cloud Storage credentials](/integrations/builtin/credentials/google/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Bucket
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+* Object
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+
+## Templates and examples
+
+<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
+[[ templatesWidget(page.title, 'google-cloud-storage') ]]

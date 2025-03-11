@@ -1,0 +1,7 @@
+#### Invite link for users on self-hosted n8n
+
+In earlier versions of self-hosted n8n, you needed SMTP set up on your n8n instance for user management to work. User management required SMTP to sent invitation emails.
+
+0.210.1 introduces an invite link, which you can copy and send to users manually. n8n still recommends setting up SMTP, as this is needed for password resets.
+
+### Bug fixes

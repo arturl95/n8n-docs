@@ -1,0 +1,2 @@
+- **Cell Format**: Use this option to choose how to format the data in cells. Refer to [Google Sheets API | CellFormat](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets/cells#CellFormat){:target=_blank .external-link} for more information.
+    - **Let Google Sheets format** (default): n8n formats text and numbers in the cells according to Google Sheets' default settings.

@@ -1,0 +1,1 @@
+* **Stuff**: learn more about [Stuff](https://js.langchain.com/v0.1/docs/modules/chains/document/stuff/){:target=_blank .external-link} in the LangChain documentation.

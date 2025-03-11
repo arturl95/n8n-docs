@@ -1,0 +1,12 @@
+* **Workflow**: Filter the executions by workflow. Options include:
+	* **From list**: Select a workflow to use as a filter.
+	* **By URL**: Enter a workflow URL to use as a filter.
+	* **By ID**: Enter a workflow ID to use as a filter.
+* **Status**: Filter the executions by status. Options include:
+	* **Error**
+	* **Success**
+	* **Waiting**
+
+### Get many execution options
+
+You can further configure this operation with this **Option**:

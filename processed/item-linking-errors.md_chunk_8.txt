@@ -1,0 +1,9 @@
+### Fix for 'Multiple matching items for expression'
+
+This is the error message:
+
+> ERROR: Multiple matching items for expression
+
+Sometimes n8n uses multiple items to create a single item. Examples include the Summarize, Aggregate, and Merge nodes. These nodes can combine information from multiple items.
+
+When you use `.item` and there are multiple possible matches, n8n doesn't know which one to use. To solve this you can either:

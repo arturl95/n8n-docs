@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Google credentials](/integrations/builtin/credentials/google/) for guidance on setting up authentication. 
+///
+
+## Operations

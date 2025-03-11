@@ -1,0 +1,5 @@
+* **Immediately**: Respond as soon as the node executes.
+* **When Last Node Finishes**: Return the response code and the data output from the last node executed in the workflow. If you select this option, also set:
+	* **Response Data**: Select what data should be returned and what format to use. Options include:
+		* **All Entries**: Returns all the entries of the last node in an array.
+		* **First Entry JSON**: Return the JSON data of the first entry of the last node in a JSON object.

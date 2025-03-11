@@ -1,0 +1,5 @@
+**Note:** The default URL for manual workflow executions is `/webhook-test/*`. Make sure that these URLs route to your main process.
+
+You can change this path in the configuration file `endpoints.webhook` or using the `N8N_ENDPOINT_WEBHOOK` environment variable. If you change these, update your load balancer accordingly.
+
+### Disable webhook processing in the main process (optional)

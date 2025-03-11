@@ -1,0 +1,2 @@
+4. Select **Create**.
+5. Check the top navigation and make sure the **Select a project** dropdown has your project selected. If not, select the project you just created.

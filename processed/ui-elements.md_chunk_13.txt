@@ -1,0 +1,6 @@
+![Collection](/_images/integrations/creating-nodes/collection.png)
+
+
+## DateTime
+
+The `dateTime` type provides a date picker.

@@ -1,0 +1,7 @@
+## Step three: Run the workflow
+
+Select **Test Workflow**. This runs the workflow, loading the data from the Customer Datastore node, then transforming it with Edit Fields. You need this data available in the workflow so that you can work with it in the next step.
+
+## Step four: Add a node
+
+Add a third node to message each customer and tell them their description. Use the Customer Messenger node to send a message to fake recipients.

@@ -1,0 +1,3 @@
+* **Mode**: Displays when you set **Type of Data** to **JSON**. Choose from:
+	* **Load All Input Data**: Use all the node's input data.
+	* **Load Specific Data**: Use [expressions](/code/expressions/) to define the data you want to load. You can add text as well as expressions. This means you can create a custom document from a mix of text and expressions.

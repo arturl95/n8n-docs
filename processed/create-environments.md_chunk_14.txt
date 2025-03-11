@@ -1,0 +1,9 @@
+## Pull work to production
+
+Your work is now in GitHub. If you're using a multi-branch setup, it's on the development branch. If you chose the single-branch setup, it's on main.
+
+=== "Multi-branch"
+
+    1. In GitHub, create a pull request to merge development into production.
+    1. Merge the pull request.
+    1. In your production instance, select **Pull** <span class="inline-image">![Pull icon](/_images/source-control-environments/pull-icon.png){.off-glb}</span> in the main menu.

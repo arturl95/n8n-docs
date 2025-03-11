@@ -1,0 +1,10 @@
+## Prerequisites
+
+- The [gcloud command line tool](https://cloud.google.com/sdk/gcloud/){:target="_blank" .external-link}
+- The [gke-gcloud-auth-plugin](https://cloud.google.com/blog/products/containers-kubernetes/kubectl-auth-changes-in-gke){:target="_blank" .external-link} (install the gcloud CLI first)
+
+--8<-- "_snippets/self-hosting/warning.md"
+
+--8<-- "_snippets/self-hosting/installation/latest-next-version.md"
+
+## Hosting options

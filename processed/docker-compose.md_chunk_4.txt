@@ -1,0 +1,16 @@
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+
+### 2. Optional: Non-root user access
+
+Run when logged in as the user that should also be allowed to run docker:
+
+```bash
+sudo usermod -aG docker ${USER}
+su - ${USER}
+```
+
+### 3. Install Docker-Compose
+
+This can vary depending on the Linux distribution used. You can find detailed instructions in the [Docker documentation](https://docs.docker.com/compose/){:target=_blank .external-link}.

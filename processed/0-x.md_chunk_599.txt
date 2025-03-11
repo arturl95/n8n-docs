@@ -1,0 +1,8 @@
+### Bug fixes
+
+* [Nextcloud:](/integrations/builtin/app-nodes/n8n-nodes-base.nextcloud/) Fixed issue where List operation on an empty Folder returned an error.
+* [Spotify:](/integrations/builtin/app-nodes/n8n-nodes-base.spotify/) Fixed issues with pagination and infinite executions.
+
+### Contributors
+
+[Jacob Burrell](https://github.com/jacobburrell), [Лебедев Иван](https://github.com/X-pech)

@@ -1,0 +1,8 @@
+### Bug fixes
+
+
+* [Google BigQuery:](/integrations/builtin/app-nodes/n8n-nodes-base.googlebigquery/) Fixed a bug preventing pagination from working as expected when the Return All option is enabled.
+* [RabbitMQ Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.rabbitmqtrigger/) Added Trigger to the name of the trigger node.
+* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Fixed a typo affecting the Type field of the Opportunity resource.
+
+### Contributors

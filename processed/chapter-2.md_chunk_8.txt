@@ -1,0 +1,11 @@
+??? note "Show me the solution"
+
+	1. To get the quotes from the Quotable API, execute the **HTTP Request node** with the following parameters:
+		- **Authentication**: None
+		- **Request Method**: GET
+		- **URL**: https://api.quotable.io/quotes
+	2. Connect an **XML node** to it with the following parameters:
+		- **Mode**: JSON to XML
+		- **Property name**: data
+
+	The result should look like this:

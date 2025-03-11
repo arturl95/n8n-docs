@@ -1,0 +1,7 @@
+Refer to the [Gmail API Method: users.messages.delete](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/delete){:target=_blank .external-link} documentation for more information.
+
+## Get a message
+
+Use this operation to get a single message.
+
+Enter these parameters:

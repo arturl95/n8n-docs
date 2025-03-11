@@ -1,0 +1,3 @@
+To avoid overwhelming users, n8n displays these under **Additional Fields** in the UI.
+
+For this tutorial, you'll add one additional field, to allow users to pick a date to use with the APOD endpoint. Add the following to the properties array:

@@ -1,0 +1,9 @@
+## Using OAuth2
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
+
+Cloud users need to select the **App Access Type**:
+
+- **App Folder** grants access to a single folder created specifically for your app.
+- **Full Dropbox** grants access to all files and folders in your user's Dropbox.
+- Refer to the [DBX Platform developer guide](https://www.dropbox.com/developers/reference/developer-guide){:target=_blank .external-link} for more information.

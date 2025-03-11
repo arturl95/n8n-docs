@@ -1,0 +1,3 @@
+5. With the new table created, update the Airtable node configuration to point to this new `processingOrders` table instead of the `orders` table.
+6. Connect the Edit Fields node** connector to the **Airtable node.
+7. Test your Airtable node to be sure it inserts records into the new `processingOrders` table.

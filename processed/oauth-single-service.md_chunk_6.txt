@@ -1,0 +1,4 @@
+</figure>
+1. Open the left navigation menu and go to **APIs & Services > OAuth consent screen**.
+2. For **User Type**, select **Internal** for user access within your organization's Google workspace or **External** for any user with a Google account. Refer to Google's [User type documentation](https://support.google.com/cloud/answer/10311615#user-type&zippy=%2Cexternal%2Cinternal){:target=_blank .external-link} for more information on user types.
+3. Select **Create**.

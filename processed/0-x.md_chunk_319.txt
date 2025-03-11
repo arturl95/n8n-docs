@@ -1,0 +1,7 @@
+### Node enhancements
+
+* [Item Lists node](/integrations/builtin/core-nodes/n8n-nodes-base.itemlists/): add an operation to create arrays from input items.
+* [Kafka Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.kafkatrigger/): add more option fields.
+
+
+### Bug fixes

@@ -1,0 +1,5 @@
+## Use the linter
+
+The n8n node linter provides automatic checking for many of the node-building standards. You should ensure your node passes the linter's checks before publishing it. Refer to the [n8n node linter](/integrations/creating-nodes/test/node-linter/) documentation for more information.
+
+## Use the starter

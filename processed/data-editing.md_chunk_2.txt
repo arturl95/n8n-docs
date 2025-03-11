@@ -1,0 +1,11 @@
+To edit output data:
+
+1. Run the node to load data.
+2. In the **OUTPUT** view, select **JSON** to switch to JSON view.
+3. Select **Edit** <span class="inline-image">![Edit data icon](/_images/data/data-pinning/edit-data.png){.off-glb}</span>.
+4. Edit your data.
+5. Select **Save**. n8n saves your data changes and pins your data.
+
+## Use data from previous executions
+
+You can copy data from nodes in previous workflow executions:

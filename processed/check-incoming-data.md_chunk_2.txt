@@ -1,0 +1,6 @@
+As an alternative, you can use the [nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing) or the [logical or operator (||)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR):
+
+```javascript
+{{ $x ?? "default value" }}
+{{ $x || "default value" }}
+```

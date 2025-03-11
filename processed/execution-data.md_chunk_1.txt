@@ -1,0 +1,14 @@
+## Reduce saved data
+
+/// note | Configuration at workflow level
+You can also configure these settings on an individual workflow basis using the [workflow settings](/workflows/workflows/#workflow-settings).
+///
+You can select which executions data n8n saves. For example, you can save only executions that result in an `Error`.
+
+```sh
+# npm
+# Save executions ending in errors
+export EXECUTIONS_DATA_SAVE_ON_ERROR=all
+
+# Save successful executions
+export EXECUTIONS_DATA_SAVE_ON_SUCCESS=all

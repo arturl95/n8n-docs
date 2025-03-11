@@ -1,0 +1,14 @@
+## Events
+
+- coupon.created
+- coupon.updated
+- coupon.deleted
+- customer.created
+- customer.updated
+- customer.deleted
+- order.created
+- order.updated
+- order.deleted
+- product.created
+- product.updated
+- product.deleted

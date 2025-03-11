@@ -1,0 +1,4 @@
+Merging data can involve:
+
+- Creating one data set from multiple sources.
+- Synchronizing data between multiple systems. This could include removing duplicate data or updating data in one system when it changes in another.

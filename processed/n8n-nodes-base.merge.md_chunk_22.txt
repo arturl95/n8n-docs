@@ -1,0 +1,15 @@
+#### Combine by Position
+
+Select **Mode** > **Combine**, **Combine by** > **Position**, then select **Test step**.
+
+Your output in table view should look like this:
+<!-- vale off -->
+| **name** | **language** | **greeting** |
+| --- | --- | --- |
+| Stefan | en | Hello |
+| Jim | de | Hallo  |
+<!-- vale on -->
+
+##### Keep unpaired items
+
+If you want to keep all items, select **Add Option** > **Include Any Unpaired Items**, then turn on **Include Any Unpaired Items**.

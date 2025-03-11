@@ -1,0 +1,16 @@
+## Prerequisites
+
+Create a [PostHog](https://posthog.com/){:target=_blank .external-link} account or host PostHog on your server.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [PostHog's API documentation](https://posthog.com/docs/api){:target=_blank .external-link} for more information about the service.
+
+
+## Using API key
+
+To configure this credential, you'll need:

@@ -1,0 +1,12 @@
+Refer to the [Gmail API Method: users.drafts.create](https://developers.google.com/gmail/api/reference/rest/v1/users.drafts/create){:target=_blank .external-link} documentation for more information.
+
+## Delete a draft
+
+Use this operation to delete a draft.
+
+Enter these parameters:
+
+* Select the **Credential to connect with** or create a new one.
+* **Resource**: Select **Draft**.
+* **Operation**: Select **Delete**.
+* **Draft ID**: Enter the ID of the draft you wish to delete.

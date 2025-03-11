@@ -1,0 +1,11 @@
+Microsoft includes an Entra ID free plan when you create a [Microsoft Azure](https://azure.microsoft.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Microsoft Entra ID's documentation](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory){:target=_blank .external-link} for more information about the service.
+
+## Using OAuth2

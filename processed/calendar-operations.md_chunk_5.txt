@@ -1,0 +1,7 @@
+### Options
+
+- **Output Format**: Select the format for the availability information:
+	- **Availability**: Returns if there are already events overlapping with the given time slot or not.
+	- **Booked Slots**: Returns the booked slots.
+	- **RAW**: Returns the RAW data from the API.
+- **Timezone**: The timezone used in the response. By default, uses the n8n timezone.

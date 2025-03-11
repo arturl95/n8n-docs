@@ -1,0 +1,15 @@
+"Field_Details/Crops_Grown": "maize beans avocado",
+  "Field_Details/Field_Size_sqm": "2300",
+  "__version__": "veGcULpqP6JNFKRJbbMvMs",
+  "meta/instanceID": "uuid:2356cbbe-c1fd-414d-85c8-84f33e92618a",
+  "_xform_id_string": "ajXVJpBkTD5tB4Nu9QXpgm",
+  "_uuid": "2356cbbe-c1fd-414d-85c8-84f33e92618a",
+  "_attachments": [],
+  "_status": "submitted_via_web",
+  "_geolocation": [
+    -1.932914,
+    30.078211
+  ],
+  "_submission_time": "2021-12-05T14:15:44",
+  "_tags": [],
+  "_notes": [],

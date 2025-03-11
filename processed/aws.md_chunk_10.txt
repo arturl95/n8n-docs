@@ -1,0 +1,13 @@
+### Pod resources
+
+[Kubernetes](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/){:target=_blank .external-link} lets you specify the minimum resources application containers need and the limits they can run to. The example YAML files cloned above contain the following in the `resources` section of the `n8n-deployment.yaml` file:
+
+```yaml
+…
+resources:
+  requests:
+    memory: "250Mi"
+  limits:
+    memory: "500Mi"
+…    
+```

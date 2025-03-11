@@ -1,0 +1,20 @@
+* Camera Proxy
+    * Get the camera screenshot
+* Config
+    * Get the configuration
+    * Check the configuration
+* Event
+    * Create an event
+    * Get all events
+* Log
+    * Get a log for a specific entity
+    * Get all logs
+* Service
+    * Call a service within a specific domain
+    * Get all services
+* State
+    * Create a new record, or update the current one if it already exists (upsert)
+    * Get a state for a specific entity
+    * Get all states
+* Template
+    * Create a template

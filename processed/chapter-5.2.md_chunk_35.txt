@@ -1,0 +1,17 @@
+},
+                {
+                "id": "a7e890d6-86af-4839-b5df-d2a4efe923f7",
+                "name": "orderPrice",
+                "value": "={{ $json.orderPrice }}",
+                "type": "number"
+                }
+            ]
+            },
+            "options": {}
+        },
+        "id": "09b8584c-4ead-4007-a6cd-edaa4669a757",
+        "name": "Edit Fields",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.3,
+        "position": [
+            1880,

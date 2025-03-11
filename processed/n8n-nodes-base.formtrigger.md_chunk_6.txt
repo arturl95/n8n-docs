@@ -1,0 +1,4 @@
+<!-- vale from-microsoft.Percentages = NO -->
+When using query parameters, [percent-encode](https://en.wikipedia.org/wiki/Percent-encoding){:target=_blank .external-link} any field names or values that use special characters. This ensures n8n uses the initial values for the given fields. You can use tools like [URL Encode/Decode](https://www.url-encode-decode.com/) to format your query parameters using percent-encoding.
+
+As an example, imagine you have a form with the following properties:

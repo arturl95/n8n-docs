@@ -1,0 +1,1 @@
+Refer to [Spotify Apps](https://developer.spotify.com/documentation/web-api/concepts/apps){:target=_blank .external-link} for more information.

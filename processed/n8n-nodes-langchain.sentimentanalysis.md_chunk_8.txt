@@ -1,0 +1,10 @@
+### Custom Category Analysis
+
+1. Change the **Sentiment Categories** to `Excited, Happy, Neutral, Disappointed, Angry`.
+2. Adjust your workflow to handle these five output categories.
+3. Use this setup to analyze customer feedback with more nuanced emotional categories.
+
+## Related resources
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-overview-link.md"
+--8<-- "_glossary/ai-glossary.md"

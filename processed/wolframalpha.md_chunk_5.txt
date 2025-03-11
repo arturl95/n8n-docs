@@ -1,0 +1,5 @@
+1. Go to your [Wolfram ID Details](https://account.wolfram.com/wolframid){:target=_blank .external-link}.
+2. If you don't see the **Verified** label underneath your **Email address**, select the link to **Send a verification email**.
+3. You must open the link in that email to verify your email address.
+
+It may take several minutes for the verification to populate to the API, but once it does, retrying the n8n credential should succeed.

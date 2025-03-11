@@ -1,0 +1,11 @@
+Refer to [Node options](#node-options) for optional configuration options.
+
+### Shear parameters
+
+* **Property Name**: Enter the name of the binary property that stores the image data.
+* **Degrees X**: Enter the number of degrees to shear from the x axis.
+* **Degrees Y**: Enter the number of degrees to shear from the y axis.
+
+Refer to [Node options](#node-options) for optional configuration options.
+
+### Text parameters

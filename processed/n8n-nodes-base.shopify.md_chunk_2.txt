@@ -1,0 +1,20 @@
+/// note | Credentials
+Refer to [Shopify credentials](/integrations/builtin/credentials/shopify/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Order
+    * Create an order
+    * Delete an order
+    * Get an order
+    * Get all orders
+    * Update an order
+* Product
+    * Create a product
+    * Delete a product
+    * Get a product
+    * Get all products
+    * Update a product
+
+## Templates and examples

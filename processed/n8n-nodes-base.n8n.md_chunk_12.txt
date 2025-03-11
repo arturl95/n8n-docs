@@ -1,0 +1,9 @@
+The **Activate**, **Deactivate**, **Delete**, and **Get** workflow operations all include the same parameter for you to select the **Workflow** you want to perform the operation on. Options include:
+
+* **From list**: Select the workflow from the list.
+* **By URL**: Enter the URL of the workflow.
+* **By ID**: Enter the ID of the workflow.
+
+## Create workflow
+
+Configure this operation with this parameter:

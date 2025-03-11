@@ -1,0 +1,24 @@
+"position": [
+			720,
+			580
+		]
+		},
+		{
+		"parameters": {},
+		"id": "71aa5aad-afdf-4f8a-bca0-34450eee8acc",
+		"name": "When clicking \"Test workflow\"",
+		"type": "n8n-nodes-base.manualTrigger",
+		"typeVersion": 1,
+		"position": [
+			260,
+			560
+		]
+		},
+		{
+		"parameters": {
+			"operation": "getAllPeople"
+		},
+		"id": "497174fe-3cab-4160-8103-78b44efd038d",
+		"name": "Customer Datastore (n8n training)",
+		"type": "n8n-nodes-base.n8nTrainingCustomerDatastore",
+		"typeVersion": 1,

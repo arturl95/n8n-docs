@@ -1,0 +1,5 @@
+For full list of environment variables see [task runner environment variables](/hosting/configuration/environment-variables/task-runners/).
+
+### Configuring task runners in external mode
+
+The task runner comes bundled within the n8n Docker image. The Docker image also includes the task runner launcher.

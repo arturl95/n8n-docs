@@ -1,0 +1,2 @@
+| `type` | string | :x: | A string specifying the data type. Can be string, number, boolean, or json (defaults to string). |
+| `defaultValue` | any | :x: | The default value to use for the argument. |

@@ -1,0 +1,15 @@
+* Label
+    * Add a label to a card.
+    * Create a new label
+    * Delete a label
+    * Get the data of a label
+    * Returns all labels for the board
+    * Remove a label from a card.
+    * Update a label.
+* List
+    * Archive/Unarchive a list
+    * Create a new list
+    * Get the data of a list
+    * Get all the lists
+    * Get all the cards in a list
+    * Update a list

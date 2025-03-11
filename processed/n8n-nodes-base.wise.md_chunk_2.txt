@@ -1,0 +1,24 @@
+## Operations
+
+* Account
+    * Retrieve balances for all account currencies of this user.
+    * Retrieve currencies in the borderless account of this user.
+    * Retrieve the statement for the borderless account of this user.
+* Exchange Rate
+    * Get
+* Profile
+    * Get
+    * Get All
+* Recipient
+    * Get All
+* Quote
+    * Create
+    * Get
+* Transfer
+    * Create
+    * Delete
+    * Execute
+    * Get
+    * Get All
+
+## Templates and examples

@@ -1,0 +1,2 @@
+1. Use the [**Airtable node**](/integrations/builtin/app-nodes/n8n-nodes-base.airtable/) to list the data in the Airtable table named `customers`.
+2. Use the [**HTTP Request node**](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) to get data from the REST Countries API: `https://restcountries.com/v3.1/all`. This will return data about world countries, split out into separate items.

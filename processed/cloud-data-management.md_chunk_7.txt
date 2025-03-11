@@ -1,0 +1,5 @@
+## Cloud data pruning and out of memory incident prevention
+
+### Automatic data pruning
+
+n8n automatically prunes execution logs after a certain time or once you reach the max storage limit, whichever comes first. The pruning always happens from oldest to newest and the limits depend on your Could plan:

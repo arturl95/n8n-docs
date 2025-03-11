@@ -1,0 +1,7 @@
+#### Schedule Trigger node
+
+This release introduces the Schedule Trigger node, replacing the Cron node. You can find documentation for the new node [here](/integrations/builtin/core-nodes/n8n-nodes-base.scheduletrigger/).
+
+</div>
+
+### Node enhancements

@@ -1,0 +1,11 @@
+* `nodes/ExampleNode`
+* `nodes/HTTPBin`
+* `credentials/ExampleCredentials.credentials.ts`
+* `credentials/HttpBinApi.credentials.ts`
+
+Now create the following directories and files:
+
+`nodes/FriendGrid`  
+`nodes/FriendGrid/FriendGrid.node.json`  
+`nodes/FriendGrid/FriendGrid.node.ts`  
+`credentials/FriendGridApi.credentials.ts`

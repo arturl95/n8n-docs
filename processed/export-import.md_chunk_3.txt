@@ -1,0 +1,5 @@
+* **Download**: Downloads your current workflow as a JSON file to your computer.
+* **Import from URL**: Imports workflow JSON from a URL, for example, [this workflow JSON file on GitHub](https://raw.githubusercontent.com/n8n-io/demo-setup/main/n8n/backup/workflows/srOnR8PAY3u4RSwb.json){:target=_blank .external-link}. 
+* **Import from File**: Imports a workflow as a JSON file from your computer.
+
+## From the command line

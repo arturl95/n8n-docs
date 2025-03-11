@@ -1,0 +1,3 @@
+* [Box:](/integrations/builtin/app-nodes/n8n-nodes-base.box/) Fixed a bug causing some files to be corrupted during download.
+* [Philips Hue:](/integrations/builtin/app-nodes/n8n-nodes-base.philipshue/) Fixed a bug preventing the node from connecting to Philips Hue.
+* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Fixed a bug preventing filters on date and datetime fields from working as expected.

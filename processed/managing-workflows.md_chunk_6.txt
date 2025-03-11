@@ -1,0 +1,2 @@
+![Create New Credentials modal](/_images/embed/managing-workflows/create_new_credentials2.png)
+1. Click **Create** to finish and save.

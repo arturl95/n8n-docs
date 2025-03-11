@@ -1,0 +1,8 @@
+1. Push work from one instance to the Git branch.
+1. Log in to the other instance to pull the work from Git. You can [automate pulls](#automatically-send-changes-to-n8n).
+
+## Multiple branches
+
+If you have more than one Git branch, you need to merge the branches in your Git provider to copy work between environments. You can't copy work directly between environments in n8n. 
+
+A common pattern is:

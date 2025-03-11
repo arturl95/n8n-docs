@@ -1,0 +1,15 @@
+* Post
+    * Submit a post to a subreddit
+    * Delete a post from a subreddit
+    * Get a post from a subreddit
+    * Get all posts from a subreddit
+    * Search posts in a subreddit or in all of Reddit.
+* Post Comment
+    * Create a top-level comment in a post
+    * Retrieve all comments in a post
+    * Remove a comment from a post
+    * Write a reply to a comment in a post
+* Profile
+    * Get
+* Subreddit
+    * Retrieve background information about a subreddit.

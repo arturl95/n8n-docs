@@ -1,0 +1,5 @@
+* [Debug in editor](/workflows/executions/debug/): Copy and pin execution data when working on a workflow
+* One day of [workflow history](/workflows/history/): 24 hours of workflow history so you can revert back to previous workflow versions
+* [Custom execution data](/workflows/executions/custom-executions-data/): Save, find, and annotate execution metadata
+
+To register a new community edition instance, select the option during your initial account creation.

@@ -1,0 +1,14 @@
+## Understand item comparison
+
+Item comparison is a two stage process:
+
+1. n8n checks if the values of the fields you selected to compare match across both inputs.
+2. If the fields to compare match, n8n then compares all fields within the items, to determine if the items are the same or different.
+
+## Node options
+
+Use the node **Options** to refine your comparison or tweak comparison behavior.
+
+### Fields to Skip Comparing
+
+Enter field names that you want to ignore in the comparison.

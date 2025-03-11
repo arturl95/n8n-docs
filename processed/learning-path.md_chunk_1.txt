@@ -1,0 +1,5 @@
+It's not necessary to complete all items listed to start using n8n. Use this as a reference to navigate to the most relevant parts of the documentation and other resources according to your needs.
+
+## Join the community
+
+n8n has an active community where you can get and offer help. Connect, share, and learn with other n8n users:

@@ -1,0 +1,8 @@
+1. Open your [Shopify Partner dashboard](https://partners.shopify.com/){:target=_blank .external-link}.
+2. Select **Apps** from the left navigation.
+3. Select **Create app**.
+4. In the **Use Shopify Partners** section, enter an **App name**.
+6. Select **Create app**.
+7. When the app details open, copy the **Client ID**. Enter this in your n8n credential.
+8. Copy the **Client Secret**. Enter this in your n8n credential.
+9. In the left menu, select **Configuration**.

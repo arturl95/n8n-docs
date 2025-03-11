@@ -1,0 +1,7 @@
+* FTP Node: stream binary data for uploads and downloads.
+* Notion Node: add support for image blocks.
+* OpenAI Node: add **Frequency Penalty** and **Presence Penalty** to the node options for the text resource.
+* Salesforce Node: add **Has Opted Out Of Email** field to lead resource options.
+* SSH Node: stream binary data for uploads and downloads.
+* Write Binary File Node: stream binary data for writes.
+* YouTube Node: switch upload operation over to streaming and resumable uploads API.

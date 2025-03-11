@@ -1,0 +1,5 @@
+- You can find the `sheetId` in a Google Sheets URL: `https://docs.google.com/spreadsheets/d/aBC-123_xYz/edit#gid=sheetId`.
+- **Clear**: Select what data you want cleared from the sheet.
+    - **Whole Sheet**: Clear the entire sheet's data. Turn on **Keep First Row** to keep the first row of the sheet. 
+    - **Specific Rows**: Clear data from specific rows. Also enter:
+        - **Start Row Number**: Enter the first row number you want to clear.

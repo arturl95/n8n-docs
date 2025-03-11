@@ -1,0 +1,15 @@
+## n8n@0.129.0
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.128.0...n8n@0.129.0) for this version.<br />
+**Release date:** 2021-07-12
+
+### New nodes
+
+* [Baserow](/integrations/builtin/app-nodes/n8n-nodes-base.baserow/)
+
+### Bug fixes
+
+* [SSH:](/integrations/builtin/core-nodes/n8n-nodes-base.ssh/) Fixed issue with access rights when downloading files.
+
+### Contributors
+
+[Jérémie Pardou-Piquemal](https://github.com/jrmi)

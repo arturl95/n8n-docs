@@ -1,0 +1,3 @@
+That means you are now free to offer commercial consulting or support services (e.g. building n8n workflows) without the need for a separate license agreement with us. If you are interested in joining our community of n8n experts providing these services, you can learn more here.
+
+### Is n8n open source?

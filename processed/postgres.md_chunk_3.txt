@@ -1,0 +1,12 @@
+To configure this credential, you'll need:
+
+- The **Host** or domain name for the server.
+- The **Database** name.
+- A **User** name.
+- A user **Password**.
+- **Ignore SSL Issues**: Set whether the credential connects if SSL validation fails.
+- **SSL**: Choose whether to use SSL in your connection.
+- The **Port** number to use for the connection.
+- **SSH Tunnel**: Choose if you want to use SSH to encrypt the network connection with the Postgres server.
+
+To set up the database connection:

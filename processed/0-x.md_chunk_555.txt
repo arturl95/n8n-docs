@@ -1,0 +1,4 @@
+### Enhanced nodes
+
+* [Nextcloud:](/integrations/builtin/app-nodes/n8n-nodes-base.nextcloud/) Added Share operation to the File and Folder resources.
+* [Zendesk:](/integrations/builtin/app-nodes/n8n-nodes-base.zendesk/) Added support for deleting, listing, getting, and recovering suspended tickets. Added the query option for regular tickets. Added assignee emails, internal notes, and public replies options to the update ticket operation.

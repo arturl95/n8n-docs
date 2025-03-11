@@ -1,0 +1,6 @@
+### Node updates
+- We added credential support for [Zabbix](/integrations/builtin/credentials/zabbix/) to the HTTP request node  
+- We added new OAuth2 credentials for [Microsoft SharePoint](/integrations/builtin/credentials/microsoft/)
+- The [Slack node](/integrations/builtin/app-nodes/n8n-nodes-base.slack/#operations) now uses markdown for the approval message when using the `Send and Wait for Approval` operation
+
+### Contributors

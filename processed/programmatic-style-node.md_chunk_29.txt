@@ -1,0 +1,22 @@
+authenticate: IAuthenticateGeneric = {
+		type: 'generic',
+		properties: {
+			headers: {
+				Authorization: '=Bearer {{$credentials.apiKey}}',
+			},
+		},
+	};
+
+	test: ICredentialTestRequest = {
+		request: {
+			baseURL: 'https://api.sendgrid.com/v3',
+			url: '/marketing/contacts',
+		},
+	};
+}
+
+```
+
+For more information about credentials files and options, refer to [Credentials file](/integrations/creating-nodes/build/reference/credentials-files/).
+
+### Step 6: Add node metadata

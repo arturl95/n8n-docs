@@ -1,0 +1,2 @@
+- **Name**: `unique_id`
+        - **Value**: The unique ID you received in the email when you signed up for this course.

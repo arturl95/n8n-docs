@@ -1,0 +1,3 @@
+* [Notion (Beta):](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Upgraded the Notion node: Added Search operation for the Database resource, Get operation for Database Page resource, Archive operation for the Page resource. Also added Simplify Output option and test for credential validity.
+* [Wait:](/integrations/builtin/core-nodes/n8n-nodes-base.wait/) Added new Ignore Bots option.
+* [Webhook:](/integrations/builtin/core-nodes/n8n-nodes-base.webhook/) Added new Ignore Bots option.

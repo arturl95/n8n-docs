@@ -1,0 +1,12 @@
+## Node options
+
+These options are available regardless of the **Mode** you select:
+
+- **Attribute Key**: Enter the prefix used to access the attributes. Default is `$`.
+- **Character Key**: Enter the prefix used to access the character content. Default is `_`.
+
+All other options depend on the selected **Mode**.
+
+### JSON to XML options
+
+These options only appear if you select **JSON to XML** as the **Mode**:

@@ -1,0 +1,4 @@
+To configure this credential, you'll need:
+
+- An **Access Token**: This token is tied to the account you use to log into Matrix with.
+- A **Homeserver URL**: This is the URL of the [homeserver](https://matrix.org/docs/matrix-concepts/elements-of-matrix/#homeserver){:target=_blank .external-link} you entered when you created your account. n8n prepopulates this with matrix.org's own server; adjust this if you're using a server hosted elsewhere.

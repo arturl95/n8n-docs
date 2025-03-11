@@ -1,0 +1,3 @@
+This enables fast and accurate similarity searches. With a vector database, instead of using conventional database queries, you can search for relevant data based on semantic and contextual meaning.
+
+## A simplified example

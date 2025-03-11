@@ -1,0 +1,1 @@
+5. Add the same scopes added above to your n8n credential in a space-separated list. For example:

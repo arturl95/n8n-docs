@@ -1,0 +1,7 @@
+1. Go to the [**Apps**](https://bubble.io/home/apps){:target=_blank .external-link} page in Bubble.
+1. Select **Create an app**.
+1. Enter a **Name** for your app, like `n8n-integration`.
+1. Select **Get started**. The app's details open.
+1. In the left navigation, select **Settings** (the gear cog icon).
+1. Select the **API** tab.
+1. In the **Public API Endpoints** section, check the box to **Enable Data API**.

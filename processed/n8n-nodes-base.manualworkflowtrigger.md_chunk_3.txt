@@ -1,0 +1,1 @@
+Remove your existing Manual Trigger or edit your workflow to connect that trigger to a different node.

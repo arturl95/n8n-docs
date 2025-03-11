@@ -1,0 +1,35 @@
+### Body
+```
+{
+	 "body" : {
+		"user": "username",
+		"pass": "password"
+	}
+}
+```
+
+### Query string
+```
+{
+	"qs": { 
+		"appid": "123456",
+		"apikey": "my-api-key"
+	}
+}
+```
+
+### Sending header and query string
+```
+{
+	"headers": {
+		"api-version": "202404"
+	},
+	"qs": {
+		"apikey": "my-api-key"
+	}
+}
+```
+
+## Provide an SSL certificate
+
+You can send an SSL certificate with your HTTP request. Create the SSL certificate as a separate credential for use by the node:

@@ -1,0 +1,29 @@
+/// note | Credentials
+Refer to [HighLevel credentials](/integrations/builtin/credentials/highlevel/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Contact
+	* Create or update
+	* Delete
+	* Get
+	* Get many
+	* Update
+* Opportunity
+	* Create
+	* Delete
+	* Get
+	* Get many
+	* Update
+* Task
+	* Create
+	* Delete
+	* Get
+	* Get many
+	* Update
+* Calendar
+	* Book an appointment
+	* Get free slots
+
+## Templates and examples

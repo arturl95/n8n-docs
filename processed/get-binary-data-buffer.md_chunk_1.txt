@@ -1,0 +1,8 @@
+* Manipulating the data: for example, adding column headers to a CSV file.
+* Using the data in calculations: for example, calculating a hash value based on it.
+* Complex HTTP requests: for example, combining file upload with sending other data formats.
+
+/// note | Not available in Python
+`getBinaryDataBuffer()` isn't supported when using Python.
+///
+You can access the buffer using n8n's `getBinaryDataBuffer()` function:

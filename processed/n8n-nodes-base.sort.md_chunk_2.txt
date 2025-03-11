@@ -1,0 +1,12 @@
+Use the dropdown to select how you want to input the sorting from these options.
+
+### Simple
+
+Performs an ascending or descending sort using the selected fields.
+
+When you select this **Type**:
+
+* Use the **Add Field To Sort By** button to input the **Field Name**.
+* Select whether to use **Ascending** or **Descending** order.
+
+#### Simple options

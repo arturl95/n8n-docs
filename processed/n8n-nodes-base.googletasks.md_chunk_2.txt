@@ -1,0 +1,14 @@
+/// note | Credentials
+Refer to [Google Tasks credentials](/integrations/builtin/credentials/google/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Task
+    * Add a task to task list
+    * Delete a task
+    * Retrieve a task
+    * Retrieve all tasks from a task list
+    * Update a task
+
+## Templates and examples

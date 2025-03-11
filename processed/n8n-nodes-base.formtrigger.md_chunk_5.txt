@@ -1,0 +1,3 @@
+/// note | Only for production
+Query parameters are only available when using the form in production mode. n8n won't populate field values from query parameters in testing mode.
+///

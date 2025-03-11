@@ -1,0 +1,3 @@
+| User Group | Enable | [usergroups.enable](https://api.slack.com/methods/usergroups.enable){:target=blank .external-link} |
+| User Group | Get Many | [usergroups.list](https://api.slack.com/methods/usergroups.list){:target=blank .external-link} |
+| User Group | Update | [usergroups.update](https://api.slack.com/methods/usergroups.update){:target=blank .external-link} |

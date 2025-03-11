@@ -1,0 +1,5 @@
+[[ workflowDemo("file:///advanced-ai/examples/agents_vs_chains.json") ]]
+
+## Key features
+
+This workflow uses:

@@ -1,0 +1,14 @@
+- [MQTT](/integrations/builtin/app-nodes/n8n-nodes-base.mqtt/)
+- [MQTT Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.mqtttrigger/)
+
+## Prerequisites
+
+Install an [MQTT broker](https://mqtt.org/){:target=_blank .external-link}.
+
+MQTT provides a list of Servers/Brokers at [MQTT Software](https://mqtt.org/software/){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- Broker connection
+
+## Related resources

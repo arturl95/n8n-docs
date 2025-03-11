@@ -1,0 +1,11 @@
+* **Type**: Select the hash type to use. Choose from:
+	* **MD5**
+	* **SHA256**
+	* **SHA3-256**
+	* **SHA3-384**
+	* **SHA3-512**
+	* **SHA385**
+	* **SHA512**
+* **Binary File**: Turn this parameter on if the data you want to hash is from a binary file.
+	* **Value**: If you turn off **Binary File**, enter the value you want to hash.
+	* **Binary Property Name**: If you turn on **Binary File**, enter the name of the binary property that contains the data you want to hash.

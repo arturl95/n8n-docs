@@ -1,0 +1,12 @@
+## Prerequisites
+
+- Create a [Cisco DevNet developer account](https://developer.cisco.com){:target=_blank .external-link}.
+- A [Cisco Umbrella user account](https://umbrella.cisco.com/){:target=_blank .external-link} with **Full Admin** role.
+
+## Authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Cisco Umbrella's API documentation](https://developer.cisco.com/docs/cloud-security/){:target=_blank .external-link} for more information about the service.

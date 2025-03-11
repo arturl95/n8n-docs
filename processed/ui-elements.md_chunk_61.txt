@@ -1,0 +1,17 @@
+### Add a parameter hint
+
+Add the `hint` parameter to a UI element:
+
+```ts
+{
+	displayName: 'URL',
+	name: 'url',
+	type: 'string',
+	hint: 'Enter a URL',
+	...
+}
+```
+
+### Add a node hint
+
+Define the node's hints in the `hints` property within the node `description`:

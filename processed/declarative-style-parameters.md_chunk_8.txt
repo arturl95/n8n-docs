@@ -1,0 +1,18 @@
+<!--
+
+TODO: more info on the routing object
+### routing.output
+
+include postReceive actions, including ability to dynamically disable - see DOC-400
+
+### routing.request
+
+### routing.send
+
+-->
+
+## `version`
+
+_Number_ or _Array_ | _Optional_
+
+If you have one version of your node, this can be a number. If you want to support more than one version, turn this into an array, containing numbers for each node version.

@@ -1,0 +1,11 @@
+✅ [**Qdrant**](https://qdrant.tech/){:target=_blank .external-link}: Open-source, high performance vector store with a comprehensive API.
+
+✅ [**PostgreSQL**](https://www.postgresql.org/){:target=_blank .external-link}: The workhorse of the Data Engineering world, handles large amounts of data safely.
+
+## What you can build
+
+⭐️ AI Agents that can schedule appointments
+
+⭐️ Summaries of company PDFs without leaking data
+
+⭐️ Smarter Slackbots for company communications and IT-ops

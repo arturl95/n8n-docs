@@ -1,0 +1,31 @@
+]
+		},
+		{
+		"parameters": {
+			"rule": {
+			"interval": [
+				{
+				"field": "minutes",
+				"minutesInterval": 30
+				}
+			]
+			}
+		},
+		"id": "6e8e4308-d0e0-4d0d-bc29-5131b57cf061",
+		"name": "Schedule Trigger",
+		"type": "n8n-nodes-base.scheduleTrigger",
+		"typeVersion": 1.1,
+		"position": [
+			620,
+			480
+		]
+		}
+	],
+	"pinData": {},
+	"connections": {
+		"When clicking \"Test workflow\"": {
+		"main": [
+			[
+			{
+				"node": "Customer Datastore (n8n training)",
+				"type": "main",

@@ -1,0 +1,5 @@
+Use these settings for your application:
+
+- Select **Server-based Applications** as the **Client Type**.
+- Copy the **OAuth Callback URL** from n8n and enter it in the Zoho **Authorized Redirect URIs** field.
+- Copy the **Client ID** and **Client Secret** from the application and enter them in your n8n credential.

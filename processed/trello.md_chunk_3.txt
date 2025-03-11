@@ -1,0 +1,9 @@
+1. Open the Trello [Power-Up Admin Portal](https://trello.com/power-ups/admin){:target=_blank .external-link}.
+2. Select **New**.
+3. Enter a **Name** for your Power-Up, like `n8n integration`.
+4. Select the **Workspace** the Power-Up should have access to.
+5. Leave the **iframe connector URL** blank.
+6. Enter appropriate contact information.
+7. Select **Create**.
+8. This should open the Power-Up to the **API Key** page. (If it doesn't, open that page.)
+9. Select **Generate a new API Key**.

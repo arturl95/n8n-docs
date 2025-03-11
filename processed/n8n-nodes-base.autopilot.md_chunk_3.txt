@@ -1,0 +1,19 @@
+## Operations
+
+* Contact
+    * Create/Update a contact
+    * Delete a contact
+    * Get a contact
+    * Get all contacts
+* Contact Journey
+    * Add contact to list
+* Contact List
+    * Add contact to list
+    * Check if contact is on list
+    * Get all contacts on list
+    * Remove a contact from a list
+* List
+    * Create a list
+    * Get all lists
+
+## Templates and examples

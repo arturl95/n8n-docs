@@ -1,0 +1,3 @@
+* [Ghost:](/integrations/builtin/app-nodes/n8n-nodes-base.ghost/) Fixed an issue with the Get All operation functionality.
+* [Google Analytics:](/integrations/builtin/app-nodes/n8n-nodes-base.googleanalytics/) Fixed an issue that caused an error when attempting to sort with no data present.
+* [Microsoft SQL:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftsql/) Fixed an issue when escaping single quotes and mapping empty fields.

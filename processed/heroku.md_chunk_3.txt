@@ -1,0 +1,7 @@
+This opens the **Create New App** page on Heroku. Set a name for the project, and choose the region to deploy the project to.
+
+### Configure environment variables
+
+Heroku pre-fills the configuration options defined in the `env` section of the `app.json` file, which also sets default values for the environment variables n8n uses.
+
+You can change any of these values to suit your needs. You must change the following values:

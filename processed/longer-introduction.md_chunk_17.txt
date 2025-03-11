@@ -1,0 +1,2 @@
+2. Change the comparison operation to **String > Contains**.
+    3. In **Value 2**, enter **X**. This is the highest classification of solar flare. In the next step, you will create two reports: one for X class solar flares, and one for all the smaller solar flares.

@@ -1,0 +1,18 @@
+### Contributors
+
+
+[Jack Rudenko](https://github.com/erudenko)
+[MC Naveen](https://github.com/mcnaveen)
+[vcrwr](https://github.com/vcrwr)
+
+
+## n8n@0.174.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.173.1...n8n@0.174.0) for this version.<br />
+**Release date:** 2022-04-25
+
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### Sticky Notes

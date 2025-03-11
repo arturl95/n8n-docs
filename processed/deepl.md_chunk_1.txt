@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [DeepL developer](https://www.deepl.com/pro-api){:target=_blank .external-link} account. n8n works with both Free and Pro API Plans.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [DeepL's API documentation](https://developers.deepl.com/docs){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

@@ -1,0 +1,3 @@
+### Search options
+
+You can also configure this operation using these options:

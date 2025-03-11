@@ -1,0 +1,9 @@
+# OpenAI File operations
+
+Use this operation to create, delete, list, message, or update a file in OpenAI. Refer to [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-base.openai/) for more information on the OpenAI node itself.
+
+## Delete a File
+
+Use this operation to delete a file from the server.
+
+Enter these parameters:

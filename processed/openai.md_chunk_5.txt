@@ -1,0 +1,1 @@
+Refer to [Setting up your organization](https://platform.openai.com/docs/guides/production-best-practices/setting-up-your-organization){:target=_blank .external-link} for more information. Note that API requests made using an Organization ID will count toward the organization's subscription quota.

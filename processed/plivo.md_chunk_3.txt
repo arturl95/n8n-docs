@@ -1,0 +1,1 @@
+Refer to [How can I change my Auth ID or Auth Token?](https://support.plivo.com/hc/en-us/articles/360041731231-How-can-I-change-my-Auth-ID-or-Auth-Token){:target=_blank .external-link} for more detailed instructions.

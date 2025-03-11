@@ -1,0 +1,5 @@
+### Resource mapper method
+
+This method contains your node-specific logic for fetching the data schema. Every node must implement its own logic for fetching the schema, and setting up each UI field according to the schema.
+
+It must return a value that implements the `ResourceMapperFields` interface:

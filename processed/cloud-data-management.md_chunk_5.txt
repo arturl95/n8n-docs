@@ -1,0 +1,7 @@
+Binary data is non-textual data that n8n can't represent as plain text. This is files and media such as images, documents, audio files, and videos. It's much larger than textual data.
+
+If a workflow consumes a large amounts of data and is past testing stage, it's a good option to stop saving the successful executions.
+
+There are two ways you can control how much execution data n8n stores in the database:
+
+In the admin dashboard:

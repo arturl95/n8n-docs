@@ -1,0 +1,4 @@
+<!-- vale off -->
+5. Open the Code node and uncomment (remove the `//` from) the lines for "Harry Nilsson" and "Kylie Minogue."
+<!-- vale on -->
+6. On the canvas, select **Test workflow** again. Open the Remove Duplicates node again to examine the results.

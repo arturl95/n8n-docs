@@ -1,0 +1,11 @@
+### To Email
+
+Enter the email address you want to send the email to. You can also include a name using this format: `Name Name <email@sample.com>`, for example: `Nathan Doe <nate@n8n.io>`.
+
+### Subject
+
+Enter the subject line for the email.
+
+### Email Format
+
+Select the format to send the email in. Choose from:

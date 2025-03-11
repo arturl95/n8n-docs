@@ -1,0 +1,8 @@
+| `$version` | The node version. | :x: |
+	| `$workflow.active` | Whether the workflow is active (true) or not (false). | :white_check_mark: |
+	| `$workflow.id` | The workflow ID. | :white_check_mark: |
+	| `$workflow.name` | The workflow name. | :white_check_mark: |
+=== "Python"
+	| Method | Description |
+	| ------ | ----------- |
+	| `_env` | Contains n8n instance configuration [environment variables](/hosting/configuration/environment-variables/). |

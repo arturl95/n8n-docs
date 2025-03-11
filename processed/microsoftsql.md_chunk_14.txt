@@ -1,0 +1,1 @@
+with different SQL Server versions and .NET frameworks. Options include:

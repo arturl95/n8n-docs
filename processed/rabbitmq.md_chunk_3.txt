@@ -1,0 +1,3 @@
+1. Enter the **Hostname** for the RabbitMQ broker.
+2. Enter the **Port** the connection should use.
+3. Enter a **User** the connection should use to log in as.

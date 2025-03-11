@@ -1,0 +1,18 @@
+- [Emelia](/integrations/builtin/app-nodes/n8n-nodes-base.emelia/)
+- [Emelia Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.emeliatrigger/)
+
+## Prerequisites
+
+Create an [Emelia](https://emelia.io) account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Emelia's API documentation](https://docs.emelia.io/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

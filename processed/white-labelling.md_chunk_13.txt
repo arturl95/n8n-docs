@@ -1,0 +1,14 @@
+In the following example add the `_brand.name` translation key to white label n8n's [AboutModal.vue](https://github.com/n8n-io/n8n/blob/master/packages/editor-ui/src/components/AboutModal.vue){:target=_blank .external-link}.
+
+```js
+{
+	"_brand.name": "My Brand",
+	//replace n8n with link to _brand.name
+	"about.aboutN8n": "About @:_brand.name",
+	"about.n8nVersion": "@:_brand.name Version",
+}
+```
+
+![Example About Modal Localization](/_images/embed/white-label/about-modal.png)
+
+### Window title

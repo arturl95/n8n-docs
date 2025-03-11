@@ -1,0 +1,3 @@
+11. In the **API (Enable OAuth Settings)** section, select **Manage Consumer Details**.
+12. Copy the **Consumer Key** and add it to your n8n credential as the **Client ID**.
+13. Copy the **Consumer Secret** and add it to your n8n credential as the **Client Secret**.

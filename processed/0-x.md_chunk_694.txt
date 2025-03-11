@@ -1,0 +1,8 @@
+### Core Functionality
+
+- Fixed an issue with expressions not being displayed in read-only mode
+- Fixed an issue that didn't allow editing JavaScript code in read-only mode
+- Added support for configuring the maximum payload size
+- Added support to dynamically add menu items
+
+### Bug fixes

@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Keap credentials](/integrations/builtin/credentials/keap/) for guidance on setting up authentication. 
+///
+
+## Operations

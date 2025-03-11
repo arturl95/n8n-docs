@@ -1,0 +1,7 @@
+## Related resources
+
+Refer to the [MongoDBs Atlas documentation](https://www.mongodb.com/docs/atlas/){:target=_blank .external-link} for more information about the service.
+
+## Using database connection - Connection string
+
+To configure this credential, you'll need the [Prerequisites](#prerequisites) listed above. Then:

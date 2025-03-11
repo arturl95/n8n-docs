@@ -1,0 +1,4 @@
+| **Place URLs At The Bottom** | Whether to place URLs at the bottom of the page and format using link reference definitions (enabled) or not (disabled). | Disabled |
+| **Strong Delimiter** | Specify the characters for `<strong>`. | ** |
+| **Style For Code Block** | Specify the styling for code blocks. Options are **Fence** and **Indented**. | Fence |
+| **Text Replacement Pattern** | Define a text replacement pattern using regex. | None |

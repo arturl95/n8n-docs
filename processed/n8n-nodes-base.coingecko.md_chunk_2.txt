@@ -1,0 +1,7 @@
+* Coin
+    * Get a candlestick open-high-low-close chart for the selected currency
+    * Get current data for a coin
+    * Get all coins
+    * Get historical data (name, price, market, stats) at a given date for a coin
+    * Get prices and market related data for all trading pairs that match the selected currency
+    * Get historical market data include price, market cap, and 24h volume (granularity auto)

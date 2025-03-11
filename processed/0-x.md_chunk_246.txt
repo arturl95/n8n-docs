@@ -1,0 +1,9 @@
+#### Manual Trigger node
+
+The Manual Trigger allows you to start a workflow by clicking **Test Workflow**, without any option to run it automatically. You can find documentation for the new node [here](/integrations/builtin/core-nodes/n8n-nodes-base.manualworkflowtrigger/).
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Schedule Trigger node

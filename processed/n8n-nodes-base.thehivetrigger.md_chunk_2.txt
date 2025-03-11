@@ -1,0 +1,28 @@
+///  note  | Examples and templates
+For usage examples and templates to help you get started, refer to n8n's [TheHive Trigger integrations](https://n8n.io/integrations/thehive-trigger/){:target=_blank .external-link} page.
+///
+
+## Events
+
+* Alert 
+	* Created
+	* Deleted
+	* Updated
+* Case
+	* Created
+	* Deleted
+	* Updated
+* Log
+	* Created
+	* Deleted
+	* Updated
+* Observable
+	* Created
+	* Deleted
+	* Updated
+* Task
+	* Created
+	* Deleted
+	* Updated
+
+## Related resources

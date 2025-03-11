@@ -1,0 +1,10 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Task runners
+description: How to configure task runners to execute tasks using internal or external runner processes.
+contentType: howto
+---
+
+# Task runners
+
+Task runners are a generic mechanism to execute tasks in a secure and performant way. They're used to execute user-provided JavaScript code in the [Code node](/integrations/builtin/core-nodes/n8n-nodes-base.code/).

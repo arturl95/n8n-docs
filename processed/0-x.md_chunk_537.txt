@@ -1,0 +1,4 @@
+* [Lemlist:](/integrations/builtin/app-nodes/n8n-nodes-base.lemlist/) Added additional fields to Create operation of Lead resource.
+* [Slack:](/integrations/builtin/app-nodes/n8n-nodes-base.slack/) Added User Group resource.
+* [Todoist:](/integrations/builtin/app-nodes/n8n-nodes-base.todoist/) Added Update operation to Task resource.
+* [Wait:](/integrations/builtin/core-nodes/n8n-nodes-base.wait/) Improved descriptions of available Respond options.

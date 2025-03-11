@@ -1,0 +1,6 @@
+1. Open your GitHub profile [Settings](https://github.com/settings/profile){:target=_blank .external-link}.
+2. In the left navigation, select [**Developer settings**](https://github.com/settings/apps){:target=_blank .external-link}.
+3. In the left navigation, select **OAuth apps**.
+4. Select **New OAuth App**.
+    - If you haven't created an app before, you may see **Register a new application** instead. Select it.
+5. Enter an **Application name**, like `n8n integration`.

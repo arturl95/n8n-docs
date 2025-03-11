@@ -1,0 +1,13 @@
+</div>
+
+* Core: add workflow execution statistics.
+* Editor: add the alert design system component.
+* Editor: fix checkbox line hight and make checkbox label clickable.
+* Nodes: add a message for read-only nodes.
+* Nodes: add a prompt to overwrite changes when concurrent editing occurs.
+
+### Node enhancements
+
+KoBo Toolbox node: add support for the media file API.
+
+### Bug fixes

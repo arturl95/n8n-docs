@@ -1,0 +1,12 @@
+```shell
+# Bash - Single file
+export N8N_CONFIG_FILES=/<path-to-config>/my-config.json
+# Bash - Multiple files are comma-separated
+export N8N_CONFIG_FILES=/<path-to-config>/my-config.json,/<path-to-config>/production.json
+
+# PowerShell - Single file, persist for current user
+# Note that setting scope (Process, User, Machine) has no effect on Unix systems
+[Environment]::SetEnvironmentVariable('N8N_CONFIG_FILES', '<path-to-config>\config.json', 'User')
+```
+
+Example file:

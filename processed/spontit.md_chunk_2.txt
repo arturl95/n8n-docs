@@ -1,0 +1,4 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Go to **API** to get a new secret key. Enter that key as your **API Key**.
+- A **Username**: Enter your Spontit username. If you're unsure how to format it, open your **Profile** and copy the username from there.

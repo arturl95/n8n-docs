@@ -1,0 +1,6 @@
+- The [Track API](https://customer.io/docs/api/track/){:target=_blank .external-link} at `https://track.customer.io/api/v1/`
+- The [App API](https://customer.io/docs/api/app/){:target=_blank .external-link} at `https://api.customer.io/v1/api/`
+
+The Track API requires a Tracking Site ID; the App API doesn't.
+
+Based on the operation you want to perform, n8n uses the correct API key and its corresponding endpoint.

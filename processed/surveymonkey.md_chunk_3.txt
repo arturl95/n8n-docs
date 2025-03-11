@@ -1,0 +1,11 @@
+To configure this credential, you'll need:
+
+- An **Access Token**: Generated once you create an app.
+- A **Client ID**: Generated once you create an app.
+- A **Client Secret**: Generated once you create an app.
+
+Once you've created your app and assigned appropriate scopes, go to **Settings > Credentials**. Copy the **Access Token**, **Client ID**, and **Secret** and add them to n8n.
+
+## Using OAuth
+
+To configure this credential, you'll need:

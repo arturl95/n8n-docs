@@ -1,0 +1,15 @@
+### Create Docker volumes
+
+To persist the Caddy cache between restarts and speed up start times, create [a Docker volume](https://docs.docker.com/storage/volumes/){:target="_blank" .external-link} that Docker reuses between restarts:
+
+```shell
+sudo docker volume create caddy_data
+```
+
+Create a Docker volume for the n8n data:
+
+```shell
+sudo docker volume create n8n_data
+```
+
+## Set up DNS

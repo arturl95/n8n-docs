@@ -1,0 +1,5 @@
+| `workflow.open` |  |
+| `workflowRun.runError` |  |
+| `workflowRun.runWorkflow` | Called when a workflow executes. |
+| `workflowSettings.dialogVisibleChanged` |  |
+| `workflowSettings.saveSettings` | Called when someone saves the settings of a workflow. |

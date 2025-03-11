@@ -1,0 +1,16 @@
+### Bug fixes
+
+
+* [Edit Image:](/integrations/builtin/core-nodes/n8n-nodes-base.editimage/) Fixed an issue preventing the Composite operation from working correctly in some cases.
+
+### Contributors
+
+
+[Jonathan Bennetts](https://github.com/Joffcom)
+
+## n8n@0.150.0
+
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.149.0...n8n@0.150.0) for this version.<br />
+**Release date:** 2021-11-19
+
+### Enhanced nodes

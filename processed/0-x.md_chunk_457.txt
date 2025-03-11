@@ -1,0 +1,2 @@
+* [Asana:](/integrations/builtin/app-nodes/n8n-nodes-base.asana/) Added Create operation to the Project resource.
+* [Mautic:](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/) Added Edit Contact Points, Edit Do Not Contact List, Send Email operations to Contact resource. Also added new Segment Email resource.

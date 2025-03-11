@@ -1,0 +1,9 @@
+Available flags:
+
+| Flag | Description |
+|------|-------------|
+| --help | Help prompt. |
+| --input | Input file name or directory if you use --separate. |
+| --projectId | Import the workflow or credential to the specified project. Can't be used with `--userId`. |
+| --separate | Imports `*.json` files from directory provided by --input. |
+| --userId | Import the workflow or credential to the specified user. Can't be used with `--projectId`. |

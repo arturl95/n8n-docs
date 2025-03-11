@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Sentry.io](https://sentry.io/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API token
+- OAuth2
+- Server API token: Use for [self-hosted Sentry](https://develop.sentry.dev/self-hosted/){:target=_blank .external-link}.
+
+## Related resources
+
+Refer to [Sentry.io's API documentation](https://docs.sentry.io/api/){:target=_blank .external-link} for more information about the service.
+
+## Using API token

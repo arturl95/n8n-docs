@@ -1,0 +1,2 @@
+2. Add the **Error Trigger node**.
+3. Connect a node for the communication platform of your choice to the Error Trigger node, like [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/), [Discord](/integrations/builtin/app-nodes/n8n-nodes-base.discord/), [Telegram](/integrations/builtin/app-nodes/n8n-nodes-base.telegram/), or even [Gmail](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) or a more generic [Send Email](/integrations/builtin/core-nodes/n8n-nodes-base.sendemail/).

@@ -1,0 +1,19 @@
+"options": {}
+        },
+        "id": "e5ae1927-b531-401c-9cb2-ecf1f2836ba6",
+        "name": "Airtable",
+        "type": "n8n-nodes-base.airtable",
+        "typeVersion": 2,
+        "position": [
+            1000,
+            700
+        ],
+        "credentials": {
+            "airtableTokenApi": {
+            "id": "MIplo6lY3AEsdf7L",
+            "name": "Airtable Personal Access Token account 4"
+            }
+        }
+        },
+        {
+        "parameters": {

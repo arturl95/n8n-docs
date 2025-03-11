@@ -1,0 +1,9 @@
+* API: validate executions and workflow filter parameters.
+* Core: amend typing for `jsonParse()` options.
+* Core: fix `predefinedCredentialType` in node graph item.
+* Core: fix canvas node execution skipping parent nodes.
+* Core: fix single node execution failing in `main` mode.
+* Core: set JWT authentication token `sameSite` policy to `lax`.
+* Core: update to imports in helpers.
+* Editor: curb item method linting in single-item mode.
+* Editor: stop rendering expressions as HTML.

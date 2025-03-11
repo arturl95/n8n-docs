@@ -1,0 +1,12 @@
+- [RabbitMQ](/integrations/builtin/app-nodes/n8n-nodes-base.rabbitmq/)
+- [RabbitMQ Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.rabbitmqtrigger/)
+
+## Supported authentication methods
+
+- User connection
+
+## Related resources
+
+Refer to [RabbitMQ's Connections documentation](https://www.rabbitmq.com/docs/connections){:target=_blank .external-link} for more information about the service.
+
+## Using user connection

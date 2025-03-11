@@ -1,0 +1,14 @@
+## Supported authentication methods
+
+- Notify OAuth2
+
+## Related resources
+
+Refer to [Line Notify's API documentation](https://notify-bot.line.me/doc/en/){:target=_blank .external-link} for more information about the service.
+
+## Using Notify OAuth2
+
+To configure this credential, you'll need a [Line](https://line.me/en/){:target=_blank .external-link} account and:
+
+- A **Client ID**
+- A **Client Secret**

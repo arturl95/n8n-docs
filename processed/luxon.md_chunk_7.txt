@@ -1,0 +1,5 @@
+n8n provides built-in convenience functions to support data transformation in expressions for dates. Refer to [Data transformation functions | Dates](/code/builtin/data-transformation-functions/dates/) for more information.
+
+## Date and time behavior in n8n
+
+Be aware of the following:

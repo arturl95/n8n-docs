@@ -1,0 +1,2 @@
+- **Europe**: Select this option if your cloud environment is in any of the EMEA regions.
+    - **Global**: Select this option if your cloud environment is in any of the global regions.

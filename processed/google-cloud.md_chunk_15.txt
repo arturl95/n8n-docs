@@ -1,0 +1,12 @@
+```yaml
+…
+volumes:
+  - name: n8n-claim0
+    persistentVolumeClaim:
+      claimName: n8n-claim0
+…
+```
+
+### Pod resources
+
+[Kubernetes lets you](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/) optionally specify the minimum resources application containers need and the limits they can run to. The example YAML files cloned above contain the following in the `resources` section of the `n8n-deployment.yaml` and `postgres-deployment.yaml` files:

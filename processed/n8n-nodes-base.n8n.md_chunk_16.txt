@@ -1,0 +1,11 @@
+Configure this operation with these parameters:
+
+* **Workflow**: Select the workflow you want to update. Options include:
+	* **From list**: Select the workflow from the list.
+	* **By URL**: Enter the URL of the workflow.
+	* **By ID**: Enter the ID of the workflow.
+* **Workflow Object**: Enter a valid JSON object to update the workflow with. The object requires these fields:
+	* `name`
+	* `nodes`
+	* `connections`
+	* `settings`

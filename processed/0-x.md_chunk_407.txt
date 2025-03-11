@@ -1,0 +1,18 @@
+Fixes a bug with the Discord node icon name.
+
+## n8n@0.173.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.172.0...n8n@0.173.0) for this version.<br />
+**Release date:** 2022-04-19
+
+### New nodes
+
+<div class="n8n-new-features" markdown>
+
+#### Markdown node
+
+[Markdown node](/integrations/builtin/core-nodes/n8n-nodes-base.markdown/): added a new Markdown node to convert between Markdown and HTML.
+
+</div>
+
+### Enhancements

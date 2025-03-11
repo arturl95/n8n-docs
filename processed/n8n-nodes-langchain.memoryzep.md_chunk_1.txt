@@ -1,0 +1,11 @@
+/// note | Credentials
+You can find authentication information for this node [here](/integrations/builtin/credentials/zep/).
+///
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/sub-node-expression-resolution.md"
+
+## Node parameters
+
+* **Session ID**: Enter the ID to use to store the memory in the workflow data.
+
+## Templates and examples

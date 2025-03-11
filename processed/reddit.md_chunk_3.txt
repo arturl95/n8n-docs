@@ -1,0 +1,5 @@
+Use these settings for your app:
+
+- Copy the **OAuth Callback URL** from n8n and use it as your app's **redirect uri**.
+- The app's client ID displays underneath your app name. Copy that and add it as your n8n **Client ID**.
+- Copy the app's **secret** and add it as your n8n **Client Secret**.

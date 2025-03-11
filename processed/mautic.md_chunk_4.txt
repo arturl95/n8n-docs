@@ -1,0 +1,13 @@
+## Using OAuth2
+
+/// note | API enabled
+To set up this credential, your Mautic instance must have the API enabled. Refer to [Enable the API](#enable-the-api) for instructions.
+///
+
+To configure this credential, you'll need an account on a [Mautic](https://www.mautic.org/){:target=_blank .external-link} instance and:
+
+- A **Client ID**: Generated when you create new API credentials.
+- A **Client Secret**: Generated when you create new API credentials.
+- Your **URL**
+
+To set it up:

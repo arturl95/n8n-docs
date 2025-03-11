@@ -1,0 +1,8 @@
+],
+			operation: [
+				// comma-separated list of operation names
+			]
+		}
+	},
+}
+```

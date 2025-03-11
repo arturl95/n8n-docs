@@ -1,0 +1,5 @@
+A complete `docker-compose` file for Postgres can be found [here](https://github.com/n8n-io/n8n-hosting/tree/main/docker-compose/withPostgres).
+
+## Setting timezone
+
+To define the timezone n8n should use, the environment variable `GENERIC_TIMEZONE` can be set. This gets used by schedule based nodes such as the Cron node.

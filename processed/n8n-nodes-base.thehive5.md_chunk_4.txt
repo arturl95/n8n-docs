@@ -1,0 +1,21 @@
+* Create
+	* Delete
+	* Search
+	* Update
+* Query
+	* Execute Query
+* Task
+	* Create
+	* Delete
+	* Execute Responder
+	* Get
+	* Search
+	* Update
+* Task Log
+	* Add Attachment
+	* Create
+	* Delete
+	* Delete Attachment
+	* Execute Responder
+	* Get
+	* Search

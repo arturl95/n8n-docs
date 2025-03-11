@@ -1,0 +1,6 @@
+<!-- vale on-->
+If your n8n instance is already running, you need to restart it to enable the new SMTP settings.
+
+/// note | More configuration options
+There are more configuration options available as environment variables. Refer to [Environment variables](/hosting/configuration/environment-variables/) for a list. These include options to disable tags, workflow templates, and the personalization survey, if you don't want your users to see them.
+///

@@ -1,0 +1,13 @@
+### New features
+
+* A new command to get information about licenses for self-hosted users: 
+	```sh
+	n8n license:info
+	```
+
+### Node enhancements
+
+* Nodes that use SQL, such as the PostgresSQL node, now have a better SQL editor for writing custom queries.
+* An overhaul of the Google BigQuery node to support executing queries, improve the UI making it easier to configure, improve error handling, and fix issues.
+
+## n8n@0.225.2

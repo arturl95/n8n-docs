@@ -1,0 +1,6 @@
+- A **Host**: Enter the address of your Magento store.
+- An **Access Token**: Get an access token from the [**Admin Panel**](https://docs.magento.com/user-guide/stores/admin.html){:target=_blank .external-link}:
+    1. Go to **System > Extensions > Integrations**.
+    2. Add a new Integration.
+    3. Go to the **API** tab and select the Magento resources you'd like the n8n integration to access.
+    4. From the **Integrations** page, **Activate** the new integration.

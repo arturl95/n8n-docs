@@ -1,0 +1,3 @@
+/// note | Groq API keys
+Groq binds API keys to the organization, not the user.
+///

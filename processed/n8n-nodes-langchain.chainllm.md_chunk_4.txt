@@ -1,0 +1,5 @@
+Select one of these input types:
+
+* **Text**: Enter a sample user input as a text **Message**.
+* **Image (Binary)**: Select a binary input from a previous node. Enter the **Image Data Field Name** to identify which binary field from the previous node contains the image data.
+* **Image (URL)**: Use this option to feed an image in from a URL. Enter the **Image URL**.

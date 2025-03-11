@@ -1,0 +1,2 @@
+8. Copy the **Secret Key** and enter it in n8n as the **Secret Access Key**.
+    - Refer to [Creating a Wasabi API Access Key Set](https://knowledgebase.wasabi.com/hc/en-us/articles/360019677192-Creating-a-Wasabi-API-Access-Key-Set){:target="_blank" .external-link} for more information on generating the key and secret.

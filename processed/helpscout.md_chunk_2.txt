@@ -1,0 +1,5 @@
+## Using OAuth2
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
+
+If you need to configure OAuth2 from scratch or need more detail on what's happening in the OAuth web flow, you'll need to create a Help Scout app. Refer to the instructions in the [Help Scout OAuth documentation](https://developer.helpscout.com/mailbox-api/overview/authentication/#oauth2-application){:target=_blank .external-link} for more information.

@@ -1,0 +1,9 @@
+Refer to the sections below for detailed instructions.
+
+### Generate personal access token
+
+/// note | Recommended access token type
+n8n recommends using a personal access token (classic). GitHub's fine-grained personal access tokens are still in beta and can't access all endpoints.
+///
+
+To generate your personal access token:

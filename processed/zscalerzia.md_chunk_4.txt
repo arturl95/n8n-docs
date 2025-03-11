@@ -1,0 +1,2 @@
+- A **Password**: Enter your ZIA admin password.
+- An **Api Key**: Get an API key by creating one from **Administration > Cloud Service API Security > Cloud Service API Key**.

@@ -1,0 +1,6 @@
+### Core Functionality
+- General UI design improvements.
+- Improved errors messages during debugging of custom nodes.
+- All packages upgraded to TypeScript 4.3.5, improved linting and formatting.
+
+### Bug fixes

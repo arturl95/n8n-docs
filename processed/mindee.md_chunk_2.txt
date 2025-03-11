@@ -1,0 +1,7 @@
+## Related resources
+
+Refer to [Mindee's Invoice OCR API documentation](https://developers.mindee.com/docs/invoice-ocr){:target=_blank .external-link} and [Mindee's Receipt OCR API documentation](https://developers.mindee.com/docs/receipt-ocr){:target=_blank .external-link} for more information about each service.
+
+## Using invoice API key
+
+To configure this credential, you'll need:

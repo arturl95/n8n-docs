@@ -1,0 +1,6 @@
+9. Go to **App settings** > **Basic**.
+10. Set the **Privacy Policy URL** and **Terms of Service URL** for the app.
+10. Change the **App Mode** to **Live**.
+11. Go to **App settings** > **Basic**.
+12. Copy the **App ID** and enter it as the **Client ID** within the n8n credential.
+13. Copy the **App Secret** and enter it as the **Client Secret** within the n8n credential.

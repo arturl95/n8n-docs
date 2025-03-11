@@ -1,0 +1,3 @@
+## n8n's automatic item linking
+
+If a node doesn't control how to link input items to output items, n8n tries to guess how to link the items automatically:

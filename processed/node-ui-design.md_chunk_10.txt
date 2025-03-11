@@ -1,0 +1,10 @@
+Progressively disclose complexity: hide a field until any earlier fields it depends on have values. For example, if you have a **Filter by date** toggle, and a **Date to filter by** datepicker, don't display **Date to filter by** until the user enables **Filter by date**.
+
+
+### Conventions by field type
+
+#### Credentials
+
+n8n automatically displays credential fields as the top fields in the node.
+
+#### Resources and operations

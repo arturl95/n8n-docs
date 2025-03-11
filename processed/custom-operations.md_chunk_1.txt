@@ -1,0 +1,8 @@
+For example: you create an Asana credential, for use with the Asana node. Later, you want to perform an operation that isn't supported by the Asana node, using Asana's API. You can use your existing Asana credential in the HTTP Request node to perform the operation, without additional authentication setup.
+
+### Using predefined credential types
+
+--8<-- "_snippets/integrations/predefined-credential-type-how-to.md"
+
+
+### Credential scopes

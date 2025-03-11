@@ -1,0 +1,9 @@
+This release includes an overhaul of the Google Sheets node, as well as other new features, node enhancements, and bug fixes.
+
+### New features
+
+* Add duplicate workflow error handler.
+* Add workflow data reset action.
+* Add credential runtime checks and prevent tampering during a manual run.
+
+### Node enhancements

@@ -1,0 +1,6 @@
+To configure this credential:
+
+1. Enter the **Host** name or IP address of your FileMaker Server.
+2. Enter the **Database** name. This should match the database name as it appears in the **Databases** list within FileMaker.
+3. Enter the user account **Login** for the account with the `fmrest` extended privilege. Refer to the previous [Prerequisites](#prerequisites) section for more information.
+4. Enter the **Password** for that user account.

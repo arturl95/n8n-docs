@@ -1,0 +1,6 @@
+* GSuite Admin node: resolve issue that was causing the User Update operation to fail.
+* GitLab Trigger node: ensure this node activates reliably.
+* HTTP Request node: ensure OAuth credentials work properly with predefined credentials.
+* KoboToolbox node: fix the hook logs.
+* SeaTable node: ensure link items show in response.
+* Zoom node: resolve an issue that was causing missing output items.

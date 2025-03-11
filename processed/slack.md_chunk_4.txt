@@ -1,0 +1,7 @@
+1. Open your [Slack API Apps](https://api.slack.com/apps){:target=_blank .external-link} page.
+2. Select **Create New App > From scratch**.
+3. Enter an **App Name**.
+4. Select the **Workspace** where you'll be developing your app.
+5. Select **Create App**. The app details open.
+6. In the left menu under **Features**, select **OAuth & Permissions**.
+8. In the **Scopes** section, select appropriate scopes for your app. Refer to [Scopes](#scopes) for a list of recommended scopes.

@@ -1,0 +1,9 @@
+- New nodes
+- Airtable Trigger
+- LingvaNex
+- OpenThesaurus
+- ProfitWell
+- Quick Base
+- Spontit
+- Enhanced nodes
+- Airtable: The Application ID field has been renamed to Base ID, and the Table ID field has been renamed to Table. The List operation now downloads attachments automatically

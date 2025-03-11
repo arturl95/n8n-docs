@@ -1,0 +1,11 @@
+These are the key files required for any node. Refer to [Node file structure](/integrations/creating-nodes/build/reference/node-file-structure/) for more information on required files and recommended organization.
+
+Now install the project dependencies:
+
+```shell
+npm i
+```
+
+### Step 2: Add an icon
+
+Save the NASA SVG logo from [here](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg){:target=_blank .external-link} as `nasapics.svg` in `nodes/NasaPics/`.

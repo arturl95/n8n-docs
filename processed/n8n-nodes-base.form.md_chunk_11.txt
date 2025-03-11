@@ -1,0 +1,6 @@
+An example JSON that shows the general format required and the keys available:
+
+```javascript
+// Use the "requiredField" key on any field to mark it as mandatory
+// Use the "placeholder" key to specify placeholder data for all fields
+//     except 'dropdown', 'date' and 'file'

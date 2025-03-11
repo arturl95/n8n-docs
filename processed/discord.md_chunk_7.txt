@@ -1,0 +1,3 @@
+8. In **Installation > Installation Contexts**, select the installation contexts you want your bot to use:
+    - Select **Guild Install** for server-installed apps. (Most common for n8n users.)
+    - Select **User Install** for user-installed apps. (Less common for n8n users, but may be useful for testing.)

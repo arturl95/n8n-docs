@@ -1,0 +1,5 @@
+| `N8N_SMTP_PORT` | number | _your_SMTP_server_port_ Default is `465`.| Optional |
+| `N8N_SMTP_USER` | string | _your_SMTP_username_ | Optional |
+| `N8N_SMTP_PASS` | string | _your_SMTP_password_ | Optional |
+| `N8N_SMTP_OAUTH_SERVICE_CLIENT` | string | _your_OAuth_service_client_ | Optional |
+| `N8N_SMTP_OAUTH_PRIVATE_KEY` | string | _your_OAuth_private_key_ | Optional |

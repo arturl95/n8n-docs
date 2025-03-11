@@ -1,0 +1,3 @@
+### Operations objects
+
+The operations object defines the available operations on a resource.

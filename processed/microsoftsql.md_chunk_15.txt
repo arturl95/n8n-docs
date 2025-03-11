@@ -1,0 +1,5 @@
+- **7_4 (SQL Server 2012 ~ 2019)**: TDS version 7.4.
+    - **7_3_B (SQL Server 2008R2)**: TDS version 7.3.B.
+    - **7_3_A (SQL Server 2008)**: TDS version 7.3.A.
+    - **7_2 (SQL Server 2005)**: TDS version 7.2.
+    - **7_1 (SQL Server 2000)**: TDS version 7.1.

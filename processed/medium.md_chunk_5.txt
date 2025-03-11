@@ -1,0 +1,4 @@
+Use these settings for your new application:
+
+- Select **OAuth 2** as the **Authorization Protocol**
+- Copy the **OAuth Callback URL** from n8n and use this as the **Callback URL** in Medium.

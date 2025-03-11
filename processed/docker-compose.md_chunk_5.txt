@@ -1,0 +1,22 @@
+The example below is for Ubuntu:
+
+```bash
+sudo apt-get install docker-compose-plugin
+```
+
+### 4. DNS setup
+
+Add A record to route the subdomain accordingly:
+
+```
+Type: A
+Name: n8n (or the desired subdomain)
+IP address: <IP_OF_YOUR_SERVER>
+```
+
+### 5. Create Docker Compose file
+
+Create a `docker-compose.yml` file. Paste the following in the file:
+
+```yaml
+version: "3.7"

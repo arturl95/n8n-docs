@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Elastic Security credentials](/integrations/builtin/credentials/elasticsecurity/) for guidance on setting up authentication. 
+///
+
+## Operations

@@ -1,0 +1,7 @@
+1. Open your [Slack API Apps](https://api.slack.com/apps){:target=_blank .external-link} page.
+2. Select **Create New App > From scratch**.
+3. Enter an **App Name**.
+4. Select the **Workspace** where you'll be developing your app.
+5. Select **Create App**. The app details open.
+6. In **Settings > Basic Information**, open the **App Credentials** section.
+7. Copy the **Client ID** and **Client Secret**. Paste these into the corresponding fields in n8n.

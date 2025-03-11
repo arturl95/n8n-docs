@@ -1,0 +1,4 @@
+- A **Client ID**: Obtained by registering the application in the Halo API settings. Refer to [HaloPSA's Authorisation documentation](https://halopsa.com/apidoc/authorisation){:target=_blank .external-link} for detailed instructions. n8n recommends using these settings:
+    - Choose `Client Credentials` as your **Authentication Method**.
+    - Use the `all` permission.
+- A **Client Secret**: Obtained by registering the application in the Halo API settings.

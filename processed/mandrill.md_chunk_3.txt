@@ -1,0 +1,5 @@
+## Using API key
+
+To configure this credential, you'll need:
+
+- An **API Key**: Generate an API key from the Mandrill [Settings](https://mandrillapp.com/settings){:target=_blank .external-link}. Refer to Mailchimp's [Generate your API key documentation](https://mailchimp.com/developer/transactional/guides/quick-start/#generate-your-api-key){:target=_blank .external-link} for more detailed instructions.

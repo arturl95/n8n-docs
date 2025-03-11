@@ -1,0 +1,11 @@
+### Bug fixes
+
+* Code Node: Update vm2 to address CVE-2023-29017.
+* Core: App shouldn't crash with a custom REST endpoint.
+* Core: Do not execute workflowExecuteBefore hook when resuming executions from a waiting state.
+* Core: Fix issue where sub workflows would display as running forever after failure to start.
+* Core: Update xml2js to address CVE-2023-0842.
+* Editor: Drop mergeDeep in favor of lodash merge.
+* HTTP Request Node: Restore detailed error message.
+
+### Contributors

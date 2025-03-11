@@ -1,0 +1,12 @@
+This release contains new features, feature enhancements, and bug fixes.
+
+/// note | Upgrade directly to 1.14.0
+This release failed to publish to npm. Upgrade directly to 1.14.0.
+///
+<div class="n8n-new-features" markdown>
+
+#### RSS Feed Trigger node
+
+This releases introduces a new node, the [RSS Feed Trigger](/integrations/builtin/core-nodes/n8n-nodes-base.rssfeedreadtrigger/). Use this node to start a workflow when a new RSS feed item is published.
+
+</div>

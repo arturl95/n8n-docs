@@ -1,0 +1,3 @@
+## Typical causes
+
+Such problems occur when a workflow execution requires more memory than available to an n8n instance. Factors increasing the memory usage for a workflow execution include:

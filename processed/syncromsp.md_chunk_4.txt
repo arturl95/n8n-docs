@@ -1,0 +1,1 @@
+Refer to [API Tokens](https://community.syncromsp.com/t/api-tokens/2297){:target=_blank .external-link} for more information on creating new tokens.

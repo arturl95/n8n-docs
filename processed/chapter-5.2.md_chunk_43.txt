@@ -1,0 +1,24 @@
+"node": "Convert to File",
+                "type": "main",
+                "index": 0
+            }
+            ]
+        ]
+        },
+        "Convert to File": {
+        "main": [
+            [
+            {
+                "node": "Gmail",
+                "type": "main",
+                "index": 0
+            }
+            ]
+        ]
+        },
+        "Loop Over Items": {
+        "main": [
+            null,
+            [
+            {
+                "node": "Edit Fields",

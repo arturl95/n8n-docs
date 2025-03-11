@@ -1,0 +1,25 @@
+/// note | Credentials
+Refer to [Raindrop credentials](/integrations/builtin/credentials/raindrop/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Bookmark
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* Collection
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* Tag
+    * Delete
+    * Get All
+* User
+    * Get
+
+## Templates and examples

@@ -1,0 +1,6 @@
+You can find the `driveId` and `folderID` by visiting the shared drive or folder in your browser and copying the last URL component: `https://drive.google.com/drive/u/1/folders/driveId`.
+
+### Options
+
+- **Simplify Output**: Choose whether to return a simplified version of the response instead of including all fields.
+- **Folder Color**: The color of the folder as an RGB hex string.

@@ -1,0 +1,5 @@
+# TheHive 5 Trigger node
+
+Use the TheHive 5 Trigger node to respond to events in [TheHive](https://strangebee.com/thehive/){:target=_blank .external-link} and integrate TheHive with other applications. n8n has built-in support for a wide range of TheHive events, including alerts, cases, comments, pages, and tasks.
+
+On this page, you'll find a list of events the TheHive5 Trigger node can respond to and links to more resources.

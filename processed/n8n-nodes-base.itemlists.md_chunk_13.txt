@@ -1,0 +1,7 @@
+### Remove Duplicates
+
+There are situations where you can end up with duplicate data, such as a user creating multiple accounts, or a customer submitting the same order multiple times. When working with large datasets it becomes more difficult to spot and remove these items. 
+
+The Remove Duplicates operation allows you to identify those items that are identical across all fields or a subset of fields.
+
+When using the Remove Duplicates operation, configure the following parameters and options:

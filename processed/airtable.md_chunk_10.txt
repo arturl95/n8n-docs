@@ -1,0 +1,4 @@
+11. Select **Save changes** in Airtable.
+12. In your n8n credential, select the **Connect my account**. A **Grant access** modal opens.
+13. Follow the instructions and select the base you want to work on (or all bases).
+14. Select **Grant access** to complete the connection.

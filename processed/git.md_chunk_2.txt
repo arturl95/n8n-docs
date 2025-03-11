@@ -1,0 +1,6 @@
+## Using basic auth
+
+To configure this credential, you'll need:
+
+- A **Username** for GitHub, GitLab, or a similar platform
+- A **Password** for GitHub, GitLab, or a similar platform

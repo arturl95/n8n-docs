@@ -1,0 +1,14 @@
+- New nodes
+- Hacker News
+- QuestDB
+- Xero
+- Enhanced nodes
+- Affinity Trigger
+- HTTP Request
+- Mailchimp
+- MongoDB
+- Pipedrive
+- Postgres
+- UpLead
+- Webhook
+- Webhook URLs are now handled independently of the workflow ID by `https://{hostname}/webhook/{path}` instead of the older `https://{hostname}/webhook/{workflow_id}/{node_name}/{path}`.

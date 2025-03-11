@@ -1,0 +1,3 @@
+* [GitLab Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.gitlabtrigger/) Added new trigger events: Confidential Issue, Confidential Comment, Deployment, Release.
+* [Google Drive:](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) Added support for downloading and converting native Google files.
+* [Kitemaker:](/integrations/builtin/app-nodes/n8n-nodes-base.kitemaker/) Added Space ID field to Create operation of Work Item resource.

@@ -1,0 +1,7 @@
+### Instance
+
+This report shows:
+
+* Unprotected webhooks in the instance.
+* Missing security settings
+* If your instance is outdated.

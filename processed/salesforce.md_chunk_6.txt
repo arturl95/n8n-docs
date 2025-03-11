@@ -1,0 +1,7 @@
+5. Check the box to **Enable OAuth Settings**.
+6. For the **Callback URL**, enter `http://localhost:1717/OauthRedirect`.
+7. Check the box to **Use digital signatures**.
+8. Select **Choose File** and upload the file that contains your digital certificate, such as `server.crt`.
+9. Add these **OAuth scopes**:
+	- **Full access (full)**
+	- **Perform requests at any time (refresh_token, offline_access)**

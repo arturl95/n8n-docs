@@ -1,0 +1,23 @@
+## Operations
+
+* Fired Alert
+    * Get a fired alerts report
+* Search Configuration
+    * Delete a search configuration
+    * Get a search configuration
+    * Get many search configurations
+* Search Job
+    * Create a search job
+    * Delete a search job
+    * Get a search job
+    * Get many search jobs
+* Search Result
+    * Get many search results
+* User
+    * Create a user
+    * Delete a user
+    * Get a user
+    * Get many users
+    * Update a user
+
+## Templates and examples

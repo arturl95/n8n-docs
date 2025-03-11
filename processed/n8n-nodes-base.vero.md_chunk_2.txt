@@ -1,0 +1,17 @@
+## Operations
+
+* User
+    * Create or update a user profile
+    * Change a users identifier
+    * Unsubscribe a user.
+    * Resubscribe a user.
+    * Delete a user.
+    * Adds a tag to a users profile.
+    * Removes a tag from a users profile.
+* Event
+    * Track an event for a specific customer
+
+## Templates and examples
+
+<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
+[[ templatesWidget(page.title, 'vero') ]]

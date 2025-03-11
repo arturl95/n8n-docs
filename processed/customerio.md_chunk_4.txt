@@ -1,0 +1,3 @@
+- **EU region**: Adjusts the Track API subdomain to `track-eu` and the App API subdomain to `api-eu`; only use this if you are in the EU.
+- A **Tracking Site ID**: Required with your **Tracking API Key**
+- An **App API Key**: For use with the [App API](https://customer.io/docs/api/app/){:target=_blank .external-link} at `https://api.customer.io/v1/api/`. See the FAQs below for more details.

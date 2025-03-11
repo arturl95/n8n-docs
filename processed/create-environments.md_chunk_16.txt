@@ -1,0 +1,8 @@
+If you want to avoid logging in to your production instance to pull, you can use a [GitHub Action](https://docs.github.com/en/actions/creating-actions/about-custom-actions){:target=_blank .external-link} and the [n8n API](/api/) to automatically pull every time you push new work to your production or main branch.
+
+--8<-- "_snippets/source-control-environments/github-action.md"
+
+
+## Next steps
+
+Learn more about:

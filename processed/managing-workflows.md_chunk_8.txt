@@ -1,0 +1,15 @@
+With the request body:
+```json
+{
+   "name":"MyAirtable",
+   "type":"airtableApi",
+   "nodesAccess":[
+      {
+         "nodeType":"n8n-nodes-base.airtable"
+      }
+   ],
+   "data":{
+      "apiKey":"q12we34r5t67yu"
+   }
+}
+```

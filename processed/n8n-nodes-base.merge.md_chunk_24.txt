@@ -1,0 +1,11 @@
+Your output in table view should look like this:
+<!-- vale off -->
+| **name** | **language** | **greeting** |
+| --- | --- | --- |
+| Stefan | en | Hello |
+| Stefan | de | Hallo |
+| Jim | en | Hello  |
+| Jim | de | Hallo |
+| Hans | en | Hello |
+| Hans | de | Hallo |
+<!-- vale on -->

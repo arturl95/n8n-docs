@@ -1,0 +1,3 @@
+- [AI Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/): Vector stores can now be directly used as tools for the agent
+- [Code](/code/builtin/overview/): Tons of new speed and convenience features, see above for details  
+- [Google Vertex Chat](/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatgooglevertex/): Added option to specify the GCP region for the Google API credentials

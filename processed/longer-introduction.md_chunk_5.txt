@@ -1,0 +1,1 @@
+7. Close the node details view to return to the canvas.

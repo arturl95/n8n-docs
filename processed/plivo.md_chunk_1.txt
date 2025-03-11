@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Plivo](https://www.plivo.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Basic auth
+
+## Related resources
+
+Refer to [Plivo's API documentation](https://www.plivo.com/docs/voice/api/overview/){:target=_blank .external-link} for more information about the service.
+
+## Using basic auth
+
+To configure this credential, you'll need:

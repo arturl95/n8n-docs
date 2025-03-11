@@ -1,0 +1,21 @@
+"position": [
+            1220,
+            600
+        ]
+        },
+        {
+        "parameters": {
+            "sortFieldsUi": {
+            "sortField": [
+                {
+                "fieldName": "orderPrice",
+                "order": "descending"
+                }
+            ]
+            },
+            "options": {}
+        },
+        "id": "2f55af2e-f69b-4f61-a9e5-c7eefaad93ba",
+        "name": "Sort",
+        "type": "n8n-nodes-base.sort",
+        "typeVersion": 1,

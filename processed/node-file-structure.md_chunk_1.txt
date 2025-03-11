@@ -1,0 +1,3 @@
+## Required files and directories
+
+Your node must include:

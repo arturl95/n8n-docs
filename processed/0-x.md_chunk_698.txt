@@ -1,0 +1,4 @@
+* [Google Drive:](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) Added support for creating folders for shared drives
+* [Google Sheets:](/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/) Added Create and Remove operation to the Sheet resource
+* [Harvest:](/integrations/builtin/app-nodes/n8n-nodes-base.harvest/) Added Update operation to the Task resource
+* [Jira:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Added Reporter field to the Issue resource

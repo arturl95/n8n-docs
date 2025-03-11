@@ -1,0 +1,4 @@
+```sh
+export WEBHOOK_URL=<YOUR-NGROK-URL>
+```
+3. Follow the [Using OAuth2](#using-oauth2) instructions to configure your credentials, using this URL as your **Redirect URL**.

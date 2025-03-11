@@ -1,0 +1,19 @@
+* Create a release
+    * Delete a release
+    * Retrieve a release
+    * Retrieve all releases
+    * Update a release
+* Requester
+    * Create a requester
+    * Delete a requester
+    * Retrieve a requester
+    * Retrieve all requesters
+    * Update a requester
+* Requester Group
+    * Create a requester group
+    * Delete a requester group
+    * Retrieve a requester group
+    * Retrieve all requester groups
+    * Update a requester group
+* Software
+    * Create a software application

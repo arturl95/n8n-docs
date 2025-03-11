@@ -1,0 +1,5 @@
+* [Item linking for node creators](/data/data-mapping/data-item-linking/item-linking-node-building/), for details on how to handle item linking when building a node.
+* [Item linking in the Code node](/data/data-mapping/data-item-linking/item-linking-code-node/), to learn how to handle item linking in the Code node.
+* [Item linking errors](/data/data-mapping/data-item-linking/item-linking-errors/), to understand the errors you may encounter in the editor UI.
+
+## n8n's automatic item linking

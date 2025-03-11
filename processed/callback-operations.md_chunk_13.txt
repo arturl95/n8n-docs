@@ -1,0 +1,2 @@
+* **URL**: Enter a URL that the user's client will open.
+<!-- vale on -->

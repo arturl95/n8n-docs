@@ -1,0 +1,2 @@
+- Use n8n's [data transformation nodes](/data/#data-transformation-nodes). Use these nodes to modify the structure of incoming data that contain lists (arrays) without needing to use JavaScript code in the **Code node**:
+	- Use the [**Split Out node**](/integrations/builtin/core-nodes/n8n-nodes-base.splitout/) to separate a single data item containing a list into multiple items.

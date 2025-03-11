@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Travis CI](https://travis-ci.org/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources
+
+Refer to [Travis CI's API documentation](https://docs.travis-ci.com/user/developer/){:target=_blank .external-link} for more information about the service.
+
+## Using API token
+
+To configure this credential, you'll need:

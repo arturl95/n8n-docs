@@ -1,0 +1,13 @@
+```yaml
+# Docker Compose
+n8n:
+    environment:
+      - EXECUTIONS_DATA_SAVE_ON_ERROR=all
+   - EXECUTIONS_DATA_SAVE_ON_SUCCESS=none
+      - EXECUTIONS_DATA_SAVE_ON_PROGRESS=true
+      - EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS=false
+```
+
+## Enable data pruning
+
+You can enable data pruning to automatically delete finished executions after a given time. If you don't set `EXECUTIONS_DATA_MAX_AGE`, 336 hours (14 days) is the default.

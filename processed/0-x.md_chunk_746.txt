@@ -1,0 +1,12 @@
+- New nodes
+- Google Analytics
+- PhantomBuster
+- Enhanced nodes
+- AWS: Added support for custom endpoints
+- Gmail: Added an option to send messages formatted as HTML
+- Philips Hue: Added Room/Group name to Light name to make it easier to identify lights
+- Slack: Added ephemeral message option
+- Telegram: Removed the Bot resource as the endpoint is no longer supported
+- Bug fixes
+- E-goi: Fixed the name of the node
+- Edit Image: Fixed an issue with the Border operation

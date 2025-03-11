@@ -1,0 +1,14 @@
+## Operations
+
+* Bookshelf
+    * Retrieve a specific bookshelf resource for the specified user
+    * Get all public bookshelf resource for the specified user
+* Bookshelf Volume
+    * Add a volume to a bookshelf
+    * Clears all volumes from a bookshelf
+    * Get all volumes in a specific bookshelf for the specified user
+    * Moves a volume within a bookshelf
+    * Removes a volume from a bookshelf
+* Volume
+    * Get a volume resource based on ID
+    * Get all volumes filtered by query

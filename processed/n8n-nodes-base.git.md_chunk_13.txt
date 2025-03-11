@@ -1,0 +1,9 @@
+You can use absolute paths or relative paths from the **Repository Path**.
+
+## Pull
+
+This operation only prompts you to enter the local path of the git repository in the **Repository Path** parameter.
+
+## Push
+
+Configure this operation with these parameters:

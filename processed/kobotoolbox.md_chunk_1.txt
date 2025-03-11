@@ -1,0 +1,12 @@
+* [KoboToolbox trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.kobotoolboxtrigger/)
+* [KoboToolbox](/integrations/builtin/app-nodes/n8n-nodes-base.kobotoolbox/)
+
+## Prerequisites
+
+Create a [KoboToolbox](https://www.kobotoolbox.org/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources

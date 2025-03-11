@@ -1,0 +1,4 @@
+* [**Push Tags**](#push-tags) to remote repository: Performs a [git push --tags](https://git-scm.com/docs/git-push#Documentation/git-push.txt---tags){:target=_blank .external-link}.
+* Return [**Status**](#status) of current repository: Performs a [git status](https://git-scm.com/docs/git-status){:target=_blank .external-link}.
+* Create a new [**Tag**](#tag): Performs a [git tag](https://git-scm.com/docs/git-tag){:target=_blank .external-link}.
+* [**User Setup**](#user-setup): Set the user.

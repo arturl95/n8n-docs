@@ -1,0 +1,2 @@
+- **Text Input**: Enter the text to generate the audio for. The maximum length is 4096 characters.
+- **Voice**: Select a voice to use when generating the audio. Listen to the previews of the voices in [Text to speech guide | OpenAI](https://platform.openai.com/docs/guides/text-to-speech/quickstart){:target=_blank .external-link}.

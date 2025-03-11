@@ -1,0 +1,2 @@
+* If you choose **All Fields Except** or **Selected Fields**, n8n displays **Options** > **Add Field**. Use this to add more optional settings, including:
+	* **Disable Dot Notation**: when disabled, you can't reference child fields (in the format `parent.child`).

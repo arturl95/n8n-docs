@@ -1,0 +1,1 @@
+* [WooCommerce:](/integrations/builtin/app-nodes/n8n-nodes-base.woocommerce/) Added password field to Crate operation of Customer resource.

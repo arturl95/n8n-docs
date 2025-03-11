@@ -1,0 +1,8 @@
+* Editor: fix Storybook setup.
+* Editor: ensure BASE_URL replacement works correctly on Windows.
+* Editor: fix parameter input field focus.
+* Editor: make lodash aliases work on case-sensitive file systems.
+* Editor: fix an issue affecting copy-pasting workflows into pinned data in the code editor.
+* Editor: ensure the run data pagination selector displays when appropriate.
+* Editor: ensure the run selector can open.
+* Editor: tidy up leftover i18n references in the node view.

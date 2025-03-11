@@ -1,0 +1,7 @@
+## Use your own workflow templates library
+
+--8<-- "_snippets/workflows/templates/custom-templates-library.md"
+
+## Add your workflows to the n8n library
+
+--8<-- "_snippets/workflows/templates/submit-templates.md"

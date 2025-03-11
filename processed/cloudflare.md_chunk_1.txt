@@ -1,0 +1,10 @@
+## Prerequisites
+
+- Create a [Cloudflare account](https://developers.cloudflare.com/fundamentals/setup/account/){:target=_blank .external-link}.
+- [Add a domain](https://developers.cloudflare.com/fundamentals/setup/manage-domains/add-site/){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

@@ -1,0 +1,7 @@
+### Node enhancements
+
+* [Pipedrive node](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/): adds support for filters to the Organization: Get All operation.
+* [Pushover node](/integrations/builtin/app-nodes/n8n-nodes-base.pushover/): adds an HTML formatting option, and a credential test.
+* [UProc node](/integrations/builtin/app-nodes/n8n-nodes-base.uproc/): adds new tools.
+
+### Bug fixes

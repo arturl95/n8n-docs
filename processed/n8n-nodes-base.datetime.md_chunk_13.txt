@@ -1,0 +1,10 @@
+## Get Current Date
+
+Configure the node for this operation using these parameters:
+
+* **Include Current Time**: Choose whether to include the current time (turned on) or to set the time to midnight (turned off).
+* **Output Field Name**: Enter the name of the field to output the current date to.
+
+### Get Current Date options
+
+This operation includes these options:

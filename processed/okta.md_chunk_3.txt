@@ -1,0 +1,9 @@
+* **Default RelayState**: leave this empty.
+	* **Name ID format**: `EmailAddress`.
+	* **Application username**: `Okta username`.
+	* **Update application username on**: `Create and update`.
+1. Create **Attribute Statements**:
+	
+	| **Name** | **Name format** | **Value** |
+	| -------- | --------------- | --------- |
+	| http://schemas.xmlsoap.org/ws/2005/05/identity/claims/firstname | URI Reference | user.firstName |

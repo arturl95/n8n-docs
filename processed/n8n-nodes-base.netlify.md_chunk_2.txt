@@ -1,0 +1,17 @@
+/// note | Credentials
+Refer to [Netlify credentials](/integrations/builtin/credentials/netlify/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Deploy
+    * Cancel a deployment
+    * Create a new deployment
+    * Get a deployment
+    * Get all deployments
+* Site
+    * Delete a site
+    * Get a site
+    * Returns all sites
+
+## Templates and examples

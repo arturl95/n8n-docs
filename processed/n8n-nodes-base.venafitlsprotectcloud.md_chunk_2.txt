@@ -1,0 +1,18 @@
+/// note | Credentials
+Refer to [Venafi TLS Protect Cloud credentials](/integrations/builtin/credentials/venafitlsprotectcloud/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Certificate
+	* Delete
+	* Download
+	* Get
+	* Get Many
+	* Renew
+* Certificate Request
+	* Create
+	* Get
+	* Get Many
+
+## Templates and examples

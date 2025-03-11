@@ -1,0 +1,18 @@
+## Prerequisites
+
+Create a [Toggl](https://toggl.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- Basic auth
+
+## Related resources
+
+Refer to [Toggl's API documentation](https://engineering.toggl.com/docs/){:target=_blank .external-link} for more information about the service.
+
+## Using basic auth
+
+To configure this credential, you'll need:
+
+- A **Username**: Enter your user email address.
+- A **Password**: Enter your user password.

@@ -1,0 +1,22 @@
+/// note | Credentials
+Refer to [Metabase credentials](/integrations/builtin/credentials/metabase/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Alert
+    * Get
+    * Get All
+* Database
+    * Add
+    * Get All
+    * Get Fields
+* Metric
+    * Get
+    * Get All
+* Question
+    * Get
+    * Get All
+    * Result Data
+
+## Templates and examples

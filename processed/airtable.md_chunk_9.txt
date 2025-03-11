@@ -1,0 +1,9 @@
+6. Select **Register integration**.
+7. On the following page, copy the **Client ID** from Airtable and paste it into the **Client ID** in your n8n credential.
+8. In Airtable, select **Generate client secret**.
+9. Copy the client secret and paste it into the **Client Secret** in your n8n credential.
+10. Select the following scopes in Airtable:
+    - `data.records:read`
+    - `data.records:write`
+    - `schema.bases:read`
+11. Select **Save changes** in Airtable.

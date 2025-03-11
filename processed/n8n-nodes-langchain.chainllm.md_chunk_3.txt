@@ -1,0 +1,11 @@
+#### System
+
+Enter a system **Message** to include with the user input to help guide the model in what it should do.
+
+Use this option for things like defining tone, for example: `Always respond talking like a pirate`.
+
+#### User
+
+Enter a sample user input. Using this with the AI option can help improve the output of the agent. Using both together provides a sample of an input and expected response (the **AI Message**) for the model to follow.
+
+Select one of these input types:

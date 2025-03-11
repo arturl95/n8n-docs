@@ -1,0 +1,2 @@
+* **Auto**: The model uses the auto setting, which looks at the image input size and decide if it should use the Low or High setting.
+* **Low**: The model receives a low-resolution 512px x 512px version of the image and represents the image with a budget of 65 tokens. This allows the API to return faster responses and consume fewer input tokens. Use this option for use cases that don't require high detail.

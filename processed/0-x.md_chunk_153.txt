@@ -1,0 +1,13 @@
+#### HTML node
+
+n8n has a new [HTML node](/integrations/builtin/core-nodes/n8n-nodes-base.html/). This replaces the HTML Extract node, and adds new functionality to generate HTML templates.
+
+</div>
+
+### Node enhancements
+
+* GitLab node: add file resource and operations.
+* JIRA Software node: introduce the resource locator component to improve UX.
+* Send Email node: this node has been overhauled.
+
+### Bug fixes

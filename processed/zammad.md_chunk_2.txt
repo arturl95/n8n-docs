@@ -1,0 +1,12 @@
+## Supported authentication methods
+
+- Basic auth
+- Token auth: Zammad recommends using this authentication method.
+
+## Related resources
+
+Refer to [Zammad's API Authentication documentation](https://docs.zammad.org/en/latest/api/intro.html?#authentication){:target=_blank .external-link} for more information about authenticating with the service.
+
+## Using basic auth
+
+To configure this credential, you'll need:

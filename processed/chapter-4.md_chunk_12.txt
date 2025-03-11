@@ -1,0 +1,7 @@
+??? note "Show me the solution"
+
+	The workflow for this exercise looks like this:
+
+	<figure><img src="/_images/courses/level-two/chapter-four/exercise_errors_errortriggernode_workflow.png" alt="" style="width:100%"><figcaption align = "center"><i>Error workflow</i></figcaption></figure>
+
+	To check the configuration of the nodes, you can copy the JSON workflow code below and paste it into your Editor UI:

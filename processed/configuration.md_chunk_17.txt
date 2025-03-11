@@ -1,0 +1,13 @@
+```js
+module.exports = {
+    "frontend": {
+        "settings": [
+            async function (settings) {
+                settings.oauthCallbackUrls.oauth1 = 'https://n8n.example.com/oauth1/callback';
+                settings.oauthCallbackUrls.oauth2 = 'https://n8n.example.com/oauth2/callback';
+            }
+        ]
+    },
+    "workflow": {
+        "activate": [
+            async function (workflowData) {

@@ -1,0 +1,6 @@
+- Set the **Output Field Name** as `new-date`.
+		- In **Options**, select **Add Option** and use the control to **Include Input Fields**
+	3. Add an **If node** connected to the **Date & Time node**.
+		- Add the new-date field as the first part of the condition.
+		- Set the comparison to **Date &Time > is after**
+		- Add `1960-01-01 00:00:00` as the second part of the expression. (This should produce 3 items in the True Branch and 2 items in the False Branch)

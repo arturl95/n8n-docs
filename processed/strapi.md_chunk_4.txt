@@ -1,0 +1,4 @@
+- For Strapi Cloud projects, use the URL of your Cloud project, for example: `https://my-strapi-project-name.strapiapp.com`
+- The **API Version**: Select the version of the API you want your calls to use. Options include:
+    - **Version 3**
+    - **Version 4**

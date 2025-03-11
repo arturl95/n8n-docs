@@ -1,0 +1,6 @@
+1. Select the **Executions** tab either from within the **Overview** page or a specific **project** to open the list.
+2. Select **Filters**.
+3. Enter your filters. You can filter by:
+	* **Workflows**: choose all workflows, or a specific workflow name.
+	* **Status**: choose from **Failed**, **Running**, **Success**, or **Waiting**.
+	* **Execution start**: see executions that started in the given time.

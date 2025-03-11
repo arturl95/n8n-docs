@@ -1,0 +1,10 @@
+To generate an API token:
+
+1. Log into NocoDB and select the **User menu** in the bottom left sidebar.
+2. Select **Account Settings**.
+3. Open the **Tokens** tab.
+4. Select **Add new API token**.
+5. Enter a **Name** for your token, like `n8n integration`.
+6. Select **Save**.
+7. Copy the **API Token** and enter it in your n8n credential.
+8. Enter the **Host** of your NocoDB instance in your n8n credential, for example `http://localhost:8080`.

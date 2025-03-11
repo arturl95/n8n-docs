@@ -1,0 +1,12 @@
+- `NODE_FUNCTION_ALLOW_BUILTIN`: For built-in modules
+- `NODE_FUNCTION_ALLOW_EXTERNAL`: For external modules sourced from n8n/node_modules directory. External module support is disabled when an environment variable isn't set.
+
+```bash
+# Allows usage of all builtin modules
+export NODE_FUNCTION_ALLOW_BUILTIN=*
+
+# Allows usage of only crypto
+export NODE_FUNCTION_ALLOW_BUILTIN=crypto
+
+# Allows usage of only crypto and fs
+export NODE_FUNCTION_ALLOW_BUILTIN=crypto,fs

@@ -1,0 +1,11 @@
+Set the encryption key for each worker node in a [configuration file](/hosting/configuration/configuration-methods/) or by setting the corresponding environment variable:
+
+```bash
+export N8N_ENCRYPTION_KEY=<main_instance_encryption_key>
+```
+
+### Set executions mode
+
+/// note | Database considerations
+n8n recommends using Postgres 13+. Running n8n with execution mode set to `queue` with an SQLite database isn't recommended.
+///

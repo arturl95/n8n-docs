@@ -1,0 +1,3 @@
+* Google Drive node: fix typo.
+* HTTP Request node: avoid errors when a response doesn't provide a content type.
+* n8n node: fix a bug that was preventing the resource locator component from returning all items.

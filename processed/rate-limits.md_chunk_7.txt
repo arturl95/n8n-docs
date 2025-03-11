@@ -1,0 +1,7 @@
+!["Screenshot of a workflow using the Loop Over Items node and Wait node to handle API rate limits for the OpenAI APIs"](/_images/integrations/builtin/rate-limits/loop-wait.png)
+
+## Handle rate limits in the HTTP Request node
+
+The HTTP Request node has built-in settings for handling rate limits and large amounts of data.
+
+### Batch requests

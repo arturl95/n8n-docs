@@ -1,0 +1,11 @@
+* **Name**: The name of the vector store.
+* **Description**: Explain to the LLM what this tool does. A good, specific description allows LLMs to produce expected results more often.
+* **Table Name**: Enter the Supabase table to use.
+* **Limit**: Enter how many results to retrieve from the vector store. For example, set this to `10` to get the ten best results.
+
+### Update Documents
+
+* **Table Name**: Enter the Supabase table to use.
+* **ID**: The ID of an embedding entry.
+
+## Node options

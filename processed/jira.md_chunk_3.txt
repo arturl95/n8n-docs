@@ -1,0 +1,9 @@
+## Related resources
+
+Refer to [Jira's API documentation](https://developer.atlassian.com/cloud/jira/platform/rest/v2/intro/#about){:target=_blank .external-link} for more information about the service.
+
+## Using SW Cloud API token
+
+To configure this credential, you'll need an account on [Jira Software Cloud](https://www.atlassian.com/software/jira){:target=_blank .external-link}.
+
+Then:

@@ -1,0 +1,7 @@
+To configure this credential, you'll need:
+
+- A **Client ID**: Provided when you generate an API key
+- A **Client Secret**: Provided when you generate an API key
+- The **Environment**:
+    - Choose **Cloud-hosted** if you don't self-host Bitwarden. No further configuration required.
+    - Choose **Self-hosted** if you host Bitwarden on your own server. Enter your **Self-hosted domain** in the appropriate field.

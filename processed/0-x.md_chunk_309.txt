@@ -1,0 +1,1 @@
+* Freshdesk node: fix an issue where the getAll operation required non-existant options.

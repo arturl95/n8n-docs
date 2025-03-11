@@ -1,0 +1,5 @@
+/// note | Account types and role types
+Account types and role types are different things. Role types are part of [RBAC](/user-management/rbac/). 
+
+Every account has one type. The account can have different [role types](/user-management/rbac/role-types/) for different [projects](/user-management/rbac/projects/).
+///

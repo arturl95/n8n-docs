@@ -1,0 +1,4 @@
+- **Hidden**: Turn on this option to keep the sheet hidden in the UI. 
+- **Right To Left**: Turn on this option to use RTL sheet instead of an LTR sheet. 
+- **Sheet ID**: Enter the ID of the sheet. 
+	- You can find the `sheetId` in a Google Sheets URL: `https://docs.google.com/spreadsheets/d/aBC-123_xYz/edit#gid=sheetId`

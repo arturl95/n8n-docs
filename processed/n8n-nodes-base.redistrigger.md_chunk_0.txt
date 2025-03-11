@@ -1,0 +1,10 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Redis Trigger node documentation
+description: Learn how to use the Redis Trigger node in n8n. Follow technical documentation to integrate Redis Trigger node into your workflows.
+contentType: integration
+---
+
+# Redis Trigger node
+
+[Redis](https://redis.io/){:target=_blank .external-link} is an open-source, in-memory data structure store, used as a database, cache and message broker.

@@ -1,0 +1,3 @@
+* [Venafi TLS Protect Datacenter node](/integrations/builtin/app-nodes/n8n-nodes-base.venafitlsprotectdatacenter/)
+
+## Prerequisites

@@ -1,0 +1,11 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+description: Configure self-hosted n8n for user management
+contentType: howto
+---
+
+# Configure self-hosted n8n for user management
+
+User management in n8n allows you to invite people to work in your n8n instance. 
+
+This document describes how to configure your n8n instance to support user management, and the steps to start inviting users.

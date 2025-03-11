@@ -1,0 +1,10 @@
+## Payload Claims
+
+The node only displays payload claims if you select the **Sign** operation. What you see depends on what you select for **Use JSON to Build Payload**:
+
+* If you select **Use JSON to Build Payload**, this section displays a JSON editor where you can construct the claims.
+* If you don't select **Use JSON to Build Payload**, this section prompts you to **Add Claim**.
+
+You can add the following claims.
+
+### Audience

@@ -1,0 +1,7 @@
+## Related resources
+
+Refer to [Paddle Classic's API documentation](https://developer.paddle.com/classic/api-reference/1384a288aca7a-api-reference){:target=_blank .external-link} for more information about the service.
+
+## Using API access token (Classic)
+
+To configure this credential, you'll need:

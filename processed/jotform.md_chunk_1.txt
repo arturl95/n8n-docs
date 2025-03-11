@@ -1,0 +1,16 @@
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [JotForm's API documentation](https://api.jotform.com/docs/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need a [JotForm](https://www.jotform.com/){:target=_blank .external-link} account and:
+
+- An **API Key**
+- The **API Domain**
+
+To set it up:

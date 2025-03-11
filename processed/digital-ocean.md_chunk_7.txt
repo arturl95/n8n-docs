@@ -1,0 +1,11 @@
+1. Log in as root.
+2. Create a new user:
+	```shell
+	adduser <username>
+	```
+3. Follow the prompts in the CLI to finish creating the user.
+4. Grant the new user administrative privileges:
+	```shell
+	usermod -aG sudo <username>
+	```
+	You can now run commands with superuser privileges by using `sudo` before the command.

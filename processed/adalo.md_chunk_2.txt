@@ -1,0 +1,4 @@
+- An **API Key**
+- An **App ID**
+
+To get these, create an Adalo app:

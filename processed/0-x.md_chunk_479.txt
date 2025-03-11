@@ -1,0 +1,2 @@
+* [Move Binary Data:](/integrations/builtin/core-nodes/n8n-nodes-base.movebinarydata/) Fixed a bug causing the binary data to JSON conversion to fail when using filesystem-based binary data handling.
+* [Slack:](/integrations/builtin/app-nodes/n8n-nodes-base.slack/) Fixed a typo in the Type field.

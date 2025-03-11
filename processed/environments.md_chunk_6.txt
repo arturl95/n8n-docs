@@ -1,0 +1,1 @@
+* Multiple instances, one branch: you can push from one instance to the Git branch, then pull the work to another instance.

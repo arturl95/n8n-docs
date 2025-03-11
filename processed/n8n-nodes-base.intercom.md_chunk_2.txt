@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Intercom credentials](/integrations/builtin/credentials/intercom/) for guidance on setting up authentication. 
+///
+
+## Operations

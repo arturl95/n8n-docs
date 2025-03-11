@@ -1,0 +1,1 @@
+If you need to configure OAuth2 from scratch or need more detail on what's happening in the OAuth web flow, refer to the instructions in the [Getting Started with OAuth2 documentation](https://developer.keap.com/getting-started-oauth-keys/){:target=_blank .external-link}.

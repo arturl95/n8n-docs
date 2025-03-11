@@ -1,0 +1,9 @@
+--8<-- "_snippets/integrations/creating-nodes/prerequisites.md"
+
+You need some understanding of:
+
+- JavaScript/TypeScript
+- REST APIs
+- git
+
+## Build your node

@@ -1,0 +1,17 @@
+<!-- vale on -->
+
+## Examples
+
+As an example, you could use the following `$fromAI()` expression to dynamically populate a field with a name:
+
+```javascript
+$fromAI("name", "The commenter's name", "string", "Jane Doe")
+```
+
+If you don't need the optional parameters, you could simplify this as:
+
+```javascript
+$fromAI("name")
+```
+
+To dynamically populate the number of items you have in stock, you could use a `$fromAI()` expression like this:

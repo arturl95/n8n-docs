@@ -1,0 +1,4 @@
+1. In n8n, go to **Settings** > **SSO**.
+1. Make a note of the n8n **Redirect URL** and **Entity ID**.
+	1. **Optional**: if your IdP allows you to set up SAML from imported metadata, navigate to the **Entity ID** URL and save the XML. 
+	2. **Optional**: if you are running n8n behind a load balancer make sure you have `N8N_EDITOR_BASE_URL` configured.

@@ -1,0 +1,13 @@
+[Kyle Mohr](https://github.com/kylefmohr)
+
+
+## n8n@0.135.2
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n%400.135.1...n8n@0.135.2) for this version.<br />
+**Release date:** 2021-08-26
+
+### Core Functionality
+
+- Added expression support for credentials.
+- Fixed performance issues when loading credentials.
+
+## n8n@0.135.1

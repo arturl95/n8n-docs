@@ -1,0 +1,4 @@
+- **Style**: Select the style of the generated images. This option is only supported for `dall-e-3`. 
+    - **Natural**: Use this to produce more natural looking images.
+    - **Vivid**: Use this to produce hyper-real and dramatic images.
+- **Respond with image URL(s)**: Whether to return image URL(s) instead of binary file(s).

@@ -1,0 +1,46 @@
+**String**
+
+```js
+toDateTime() //replaces toDate(). toDate() is retained for backwards compatability.
+parseJson()
+extractUrlPath()
+toBoolean()
+base64Encode()
+base64Decode()
+```
+
+**Number**
+
+```js
+toDateTime()
+toBoolean()
+```
+
+**Object**
+
+```js
+toJsonString()
+```
+
+**Array**
+
+```js
+toJsonString()
+```
+
+**Date & DateTime**
+
+```js
+toDateTime()
+toInt()
+```
+
+**Boolean**
+
+```js
+toInt()
+```
+
+</div>
+
+### Contributors

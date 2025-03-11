@@ -1,0 +1,9 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+description: Quickstart covering key concepts in n8n.
+contentType: tutorial
+---
+
+# A slightly longer introduction
+
+This guide shows you how to automate a task using a workflow in n8n, explaining key concepts along the way. You will:

@@ -1,0 +1,2 @@
+- An API **Access Token**: To generate an Access Token, [create a new application](https://www.formstack.com/admin/apiKey/main){:target=_blank .external-link} in Formstack using the following details:
+    * **Redirect URI**: For cloud n8n instances, enter `https://oauth.n8n.cloud/oauth2/callback`.

@@ -1,0 +1,4 @@
+- [HubSpot](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/)
+- [HubSpot Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.hubspottrigger/)
+
+## Supported authentication methods

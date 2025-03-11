@@ -1,0 +1,4 @@
+| Add workflows and credentials | :white_check_mark: | :white_check_mark: | :x: | 
+| Execute workflows | :white_check_mark: | :white_check_mark: | :x: | 
+| Manage members | :white_check_mark: | :x: | :x: | 
+| Modify the project | :white_check_mark: | :x: | :x: |

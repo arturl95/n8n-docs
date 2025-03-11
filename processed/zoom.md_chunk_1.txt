@@ -1,0 +1,18 @@
+## Prerequisites
+
+Create a [Zoom](https://zoom.us/){:target=_blank .external-link} account. Your account must have one of the following permissions:
+
+- Account owner
+- Account admin
+- Zoom for developers role
+
+## Supported authentication methods
+
+- API JWT token
+- OAuth2
+
+/// warning | API JWT token deprecation
+Zoom removed support for JWT access tokens in June 2023. You must use OAuth2 for all new credentials.
+///
+
+## Related resources

@@ -1,0 +1,20 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: howto
+---
+
+# Troubleshooting
+
+## Credentials
+
+<!-- vale off -->
+### Error message: 'Credentials of type "*" aren't known'
+<!-- vale on -->
+
+Check that the name in the credentials array matches the name used in the property name of the credentials' class.
+
+![Troubleshooting credentials](/_images/integrations/creating-nodes/troubleshooting-credentials-1.png)
+
+<!-- vale off -->
+## Editor UI
+<!-- vale on -->

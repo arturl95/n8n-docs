@@ -1,0 +1,10 @@
+## Using JWT
+
+To configure this credential, you'll need a [Salesforce](https://www.salesforce.com/){:target=_blank .external-link} account and:
+
+- Your **Environment Type** (Production or Sandbox)
+- A **Client ID**: Generated when you create a connected app.
+- Your Salesforce **Username**
+- A **Private Key** for a self-signed digital certificate
+
+To set things up, first you'll create a private key and certificate, then a connected app:

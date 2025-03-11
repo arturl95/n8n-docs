@@ -1,0 +1,5 @@
+To configure this credential, you'll need:
+
+- A **Resource Name**: the **Name** you give the resource
+- An **API key**: **Key 1** works well. This can be accessed before deployment in **Keys and Endpoint**.
+- The **API Version** the credentials should use. See the [Azure OpenAI API preview lifecycle documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/api-version-deprecation){:target=_blank .external-link} for more information about API versioning in Azure OpenAI.

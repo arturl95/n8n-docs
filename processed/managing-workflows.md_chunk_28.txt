@@ -1,0 +1,12 @@
+Passing the additional value `active` in your JSON payload:
+```json
+// ...
+"active":true,
+"settings": {},
+"staticData": null,
+"tags": []
+```
+
+## Single workflow
+
+There are four steps to follow to implement this method:

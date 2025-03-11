@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Stackby](https://stackby.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Stackby's API documentation](https://documenter.getpostman.com/view/27762116/2s9YBxXvCa){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:

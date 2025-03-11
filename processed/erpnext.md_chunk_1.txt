@@ -1,0 +1,13 @@
+## Prerequisites
+
+- Create an [ERPNext](https://erpnext.com) account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [ERPNext's documentation](https://docs.erpnext.com/docs/user/manual/en/introduction){:target=_blank .external-link} for more information about the service.
+
+Refer to [ERPNext's developer documentation](https://frappeframework.com/docs/user/en/introduction){:target=_blank .external-link} for more information about working with the framework.

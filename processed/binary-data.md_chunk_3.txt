@@ -1,0 +1,8 @@
+* [HTML](/integrations/builtin/core-nodes/n8n-nodes-base.html/)
+* [XML](/integrations/builtin/core-nodes/n8n-nodes-base.xml/)
+
+And nodes for performing common tasks:
+
+* [Compression](/integrations/builtin/core-nodes/n8n-nodes-base.compression/)
+* [Edit Image](/integrations/builtin/core-nodes/n8n-nodes-base.editimage/)
+* [FTP](/integrations/builtin/core-nodes/n8n-nodes-base.ftp/)

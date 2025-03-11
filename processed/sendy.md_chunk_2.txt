@@ -1,0 +1,4 @@
+To configure this credential, you'll need:
+
+- A **URL**: The URL of your Sendy application.
+- An **API Key**: Get your API key from your user profile > **Settings > Your API Key**.

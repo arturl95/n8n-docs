@@ -1,0 +1,4 @@
+7. If your database uses SSL and you'd like to use **SSL** for the connection, turn this option on in the credential. If you turn it on, enter the information from your MySQL SSL certificate in these fields:
+    1. Enter the `ca.pem` file contents in the **CA Certificate** field.
+    2. Enter the `client-key.pem` file contents in the **Client Private Key** field.
+    3. Enter the `client-cert.pem` file contents in the **Client Certificate** field.

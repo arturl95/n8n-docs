@@ -1,0 +1,9 @@
+### Core Functionality
+
+- Changed `vm2` library version from `3.9.3` to `3.9.5`.
+- Fixed an issue with ignoring the response code.
+- Fixed an issue with overwriting credentials using environment variables.
+- Fixed an issue with using query strings combined with the `x-www-form-urlencoded` content type.
+- Introduced telemetry.
+
+### Bug fixes

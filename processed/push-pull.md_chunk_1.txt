@@ -1,0 +1,10 @@
+--8<-- "_snippets/source-control-environments/one-direction.md"
+
+## Fetch other people's work
+
+/// note | Restricted to instance owners
+Ordinary users can't fetch work from Git.
+///
+To pull work from Git, select **Pull** <span class="inline-image">![Pull icon](/_images/source-control-environments/pull-icon.png){.off-glb}</span> in the main menu.
+
+--8<-- "_snippets/source-control-environments/push-pull-menu-state.md"

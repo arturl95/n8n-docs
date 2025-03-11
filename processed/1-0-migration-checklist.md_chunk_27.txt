@@ -1,0 +1,4 @@
+4. Update to n8n 1.0:
+	* During beta (before July 24th 2023): If using Docker, pull the `next` Docker image.
+	* After July 24th 2023: If using Docker, pull the `latest` Docker image.
+5. If you encounter any issues, redeploy the previous n8n version and restore the backup.

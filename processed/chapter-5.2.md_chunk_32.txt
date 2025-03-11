@@ -1,0 +1,19 @@
+"typeVersion": 2,
+        "position": [
+            2320,
+            500
+        ],
+        "credentials": {
+            "discordWebhookApi": {
+            "id": "WEBrtPdoLrhlDYKr",
+            "name": "L2 Course Discord Webhook account"
+            }
+        }
+        },
+        {
+        "parameters": {
+            "batchSize": 5,
+            "options": {}
+        },
+        "id": "0fa1fbf6-fe77-4044-a445-c49a1db37dec",
+        "name": "Loop Over Items",

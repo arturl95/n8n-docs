@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Salesmate credentials](/integrations/builtin/credentials/salesmate/) for guidance on setting up authentication. 
+///
+
+## Operations

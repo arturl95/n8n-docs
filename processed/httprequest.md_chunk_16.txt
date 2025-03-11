@@ -1,0 +1,7 @@
+### Client Credentials grant type
+
+Use the Client Credentials grant type when applications request an access token to access their own resources, not on behalf of a user. Refer to [Client Credentials](https://www.oauth.com/oauth2-servers/access-tokens/client-credentials/){:target=_blank .external-link} for more information.
+
+To configure this credential, select **Client Credentials** as the **Grant Type**.
+
+Then enter:

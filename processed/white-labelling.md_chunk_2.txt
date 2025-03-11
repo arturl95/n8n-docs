@@ -1,0 +1,1 @@
+* [packages/editor-ui](https://github.com/n8n-io/n8n/tree/master/packages/editor-ui){:target=_blank .external-link}: n8n's [Vue.js](https://vuejs.org/){:target=_blank .external-link} frontend build with [Vite.js](https://vitejs.dev){:target=_blank .external-link}

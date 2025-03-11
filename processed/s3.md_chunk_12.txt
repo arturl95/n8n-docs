@@ -1,0 +1,6 @@
+2. For the **Region**, enter the region slug portion of the service URL. For example, if you entered `https://s3.us-east-2.wasabisys.com` as the **S3 Endpoint**, `us-east-2` is the region.
+3. Log into you Wasabi Console as the root user.
+4. Open the **Menu** and select **Access Keys**.
+5. Select **CREATE NEW ACCESS KEY**.
+6. Select whether the key is for the **Root User** or a **Sub-User** and select **CREATE**.
+7. Copy the **Access Key** and enter it in n8n as the **Access Key ID**.

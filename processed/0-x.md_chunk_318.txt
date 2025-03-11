@@ -1,0 +1,11 @@
+#### Metabase
+
+This release includes a new [Metabase node](/integrations/builtin/app-nodes/n8n-nodes-base.metabase/). [Metabase](https://www.metabase.com/){:target=_blank .external-link} is a business data analysis tool.
+
+</div>
+
+### Enhancements
+
+This release includes improvements to n8n's core pairedItems functionality.
+
+### Node enhancements

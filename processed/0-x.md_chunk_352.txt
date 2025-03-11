@@ -1,0 +1,5 @@
+* Core: fixed an error with logging circular links in JSON.
+* Editor UI: now display the full text of long error messages.
+* Editor UI: fix for an issue with credentials rendering when the node has no parameters.
+* [Cortex node](/integrations/builtin/app-nodes/n8n-nodes-base.cortex/): fix an issue preventing all analyzers being returned.
+* [HTTP Request node](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/): ensure all OAuth2 credentials work with this node.

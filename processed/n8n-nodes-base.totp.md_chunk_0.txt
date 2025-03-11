@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: TOTP
+description: Documentation for the TOTP node in n8n, a workflow automation platform. Includes guidance on usage, and links to examples.
+contentType: integration
+---
+
+# TOTP
+
+The TOTP node provides a way to generate a TOTP (time-based one-time password).
+
+/// note | Credentials
+Refer to [TOTP credentials](/integrations/builtin/credentials/totp/) for guidance on setting up authentication. 
+///

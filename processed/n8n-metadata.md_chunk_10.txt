@@ -1,0 +1,3 @@
+| `_("<node-name>").isExecuted` | Check whether a node has already executed. |
+	| `_nodeVersion` | Get the version of the current node. | :white_check_mark: |
+	| `_prevNode.name` | The name of the node that the current input came from. When using the Merge node, note that `_prevNode` always uses the first input connector. |

@@ -1,0 +1,10 @@
+```sh
+    curl -H "Content-Type: application/json" --data @oauth-credentials.json http://localhost:5678/send-credentials
+    ```
+
+/// note
+There are cases when credentials are based on others. For example, the `googleSheetsOAuth2Api` extends the `googleOAuth2Api`.
+In this case, you can set parameters on the parent credentials (`googleOAuth2Api`) for all child-credentials (`googleSheetsOAuth2Api`) to use.
+///
+
+## Environment variables

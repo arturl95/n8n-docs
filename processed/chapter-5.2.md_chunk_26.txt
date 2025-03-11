@@ -1,0 +1,20 @@
+},
+        {
+        "parameters": {
+            "mode": "combine",
+            "mergeByFields": {
+            "values": [
+                {
+                "field1": "customerID",
+                "field2": "customerID"
+                }
+            ]
+            },
+            "options": {}
+        },
+        "id": "1cddc984-7fca-45e0-83b8-0c502cb4c78c",
+        "name": "Merge",
+        "type": "n8n-nodes-base.merge",
+        "typeVersion": 2.1,
+        "position": [
+            1220,

@@ -1,0 +1,10 @@
+## Using API key
+
+To configure this credential, you'll need a user account on an [Odoo](https://www.odoo.com/){:target=_blank .external-link} database and:
+
+- Your **Site URL**
+- Your **Username**
+- An **API key**
+- Your **Database name**
+
+To set up the credential with an API key:

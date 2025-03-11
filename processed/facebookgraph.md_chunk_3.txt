@@ -1,0 +1,8 @@
+1. [Create a Meta app](#create-a-meta-app) with the products you need to access.
+2. [Generate an App Access Token](#generate-an-app-access-token) for that app.
+
+Refer to the detailed instructions below for each step.
+
+### Create a Meta app
+
+To create a Meta app:

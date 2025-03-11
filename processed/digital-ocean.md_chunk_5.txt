@@ -1,0 +1,7 @@
+/// note | Droplet resources
+When creating the Droplet, DigitalOcean asks you to choose a plan. For most usage levels, a basic shared CPU plan is enough.
+///
+/// note | SSH key or Password
+DigitalOcean lets you choose between SSH key and password-based authentication. SSH keys are considered more secure.
+///
+## Log in to your Droplet and create new user

@@ -1,0 +1,7 @@
+* Message Received
+
+## Related resources
+
+n8n provides an app node for Microsoft Outlook. You can find the node docs [here](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftoutlook/).
+
+View [example workflows and related content](https://n8n.io/integrations/microsoft-outlook-trigger/){:target=_blank .external-link} on n8n's website.

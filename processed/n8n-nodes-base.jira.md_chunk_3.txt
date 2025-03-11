@@ -1,0 +1,15 @@
+* Issue
+    * Get issue changelog
+    * Create a new issue
+    * Delete an issue
+    * Get an issue
+    * Get all issues
+    * Create an email notification for an issue and add it to the mail queue
+    * Return either all transitions or a transition that can be performed by the user on an issue, based on the issue's status
+    * Update an issue
+* Issue Attachment
+    * Add attachment to issue
+    * Get an attachment
+    * Get all attachments
+    * Remove an attachment
+* Issue Comment

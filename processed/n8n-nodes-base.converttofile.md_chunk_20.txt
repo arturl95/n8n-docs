@@ -1,0 +1,4 @@
+* **File Name**: Enter the file name for the generated output file.
+* **MIME Type**: Enter the MIME type of the output file. Refer to [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types){:target=_blank .external-link} for a list of common MIME types and the file extensions they relate to.
+
+## Templates and examples

@@ -1,0 +1,9 @@
+* **Field Label**: Enter the field label you want to appear in the form.
+* **Field Type**: Select the type of field to display in the form. Choose from:
+	* **Date**
+	* **Dropdown List**: Enter each dropdown options in the **Field Options**.
+		* **Multiple Choice**: Select whether the user can select a single dropdown option (turned off) or multiple dropdown options (turned on)
+	* **Number**
+	* **Password**
+	* **Text**
+	* **Textarea**

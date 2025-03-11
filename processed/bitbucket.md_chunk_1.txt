@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Bitbucket](https://www.bitbucket.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API username and app password
+
+## Related resources
+
+Refer to [Bitbucket's API documentation](https://developer.atlassian.com/cloud/bitbucket/rest/intro/#authentication){:target=_blank .external-link} for more information about the service.
+
+## Using API username/app password
+
+To configure this credential, you'll need:

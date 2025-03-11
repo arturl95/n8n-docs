@@ -1,0 +1,3 @@
+### Google Cloud app becoming unauthorized
+
+--8<-- "_snippets/integrations/builtin/credentials/google/app-becoming-unauthorized.md"

@@ -1,0 +1,8 @@
+3. **Iterate on suggestions**: Don't hesitate to build on the assistant's responses. Try different approaches and keep refining based on the assistant's feedback to get closer to your ideal solution.
+4. **Things to try out**:
+    - Debug any error you're seeing
+    - Ask how to setup credentials
+    - "Explain what this workflow does."
+    - "I need your help to write code: [Explain your code here]"
+    - "How can I build X in n8n?"
+<!-- vale from-microsoft.FirstPerson = YES -->

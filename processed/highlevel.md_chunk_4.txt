@@ -1,0 +1,10 @@
+1. Set **Distribution Type** to **Sub-Account**.
+2. Add these **Scopes**:
+    - `locations.readonly`
+    - `contacts.readonly`
+    - `contacts.write`
+    - `opportunities.readonly`
+    - `opportunities.write`
+    - `users.readonly`
+3. Copy the **OAuth Redirect URL** from n8n and add it as a **Redirect URL** in your HighLevel app.
+4. Copy the **Client ID** and **Client Secret** from HighLevel and add them to your n8n credential.

@@ -1,0 +1,7 @@
+* Start and Starter plans: max 2500 executions saved and 7 days execution log retention;
+* Pro and Power plans: max 25000 executions saved and 30 days execution log retention;
+* Enterprise plan: max 50000 executions saved and unlimited execution log retention time.
+
+### Manual data pruning
+
+Heavier executions and use cases can exceed database capacity despite the automatic pruning practices. In cases like this, n8n will manually prune data to protect instance stability.

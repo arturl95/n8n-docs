@@ -1,0 +1,24 @@
+### Understand nested data
+
+Given the following data:
+
+```js
+[
+  {
+    "name": "First item",
+    "nested": {
+      "example-number-field": 1,
+      "example-string-field": "apples"
+    }
+  },
+  {
+    "name": "Second item",
+    "nested": {
+      "example-number-field": 2,
+      "example-string-field": "oranges"
+    }
+  }
+]
+```
+
+n8n displays it in table form like this:

@@ -1,0 +1,8 @@
+## Prerequisites
+
+- Create a remote server with SSH enabled.
+- Create a user account that can `ssh` into the server using one of the following:
+    - Their own [password](#using-password)
+    - An SSH [private key](#using-private-key)
+
+## Supported authentication methods

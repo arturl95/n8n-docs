@@ -1,0 +1,3 @@
+| Channel | Member | [conversations.members](https://api.slack.com/methods/conversations.members){:target=blank .external-link} |
+| Channel | Open | [conversations.open](https://api.slack.com/methods/conversations.open){:target=blank .external-link} |
+| Channel | Rename | [conversations.rename](https://api.slack.com/methods/conversations.rename){:target=blank .external-link} |

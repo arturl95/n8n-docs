@@ -1,0 +1,6 @@
+1. Drag **customer_id** from the **INPUT** panel into the **Customer ID** field in the node settings.
+    2. Hover over **Message**. Select the **Expression** tab, then select the expand button <span class="inline-image">![Add node icon](/_images/common-icons/open-expression-editor.png){.off-glb}</span> to open the full expressions editor.
+    3. Copy this expression into the editor:
+        ```
+        Hi {{$json.customer_name}},  Your description is {{$json.customer_description}}
+        ```

@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Mailcheck](https://mailcheck.co/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Mailcheck's API documentation](https://app.mailcheck.co/docs?from=docs){:target=_blank .external-link} for more information about the service.
+
+## Using API Key
+
+To configure this credential, you'll need:

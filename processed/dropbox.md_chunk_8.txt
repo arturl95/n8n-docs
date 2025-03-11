@@ -1,0 +1,1 @@
+If you're [self-hosting](/hosting/) n8n, you'll need to configure OAuth2 manually:

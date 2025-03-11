@@ -1,0 +1,10 @@
+# Error Trigger node
+
+You can use the Error Trigger node to create error workflows. When another linked workflow fails, this node gets details about the failed workflow and the errors, and runs the error workflow.
+
+## Usage
+
+--8<-- "_snippets/flow-logic/create-set-error-workflow.md"
+
+
+Note the following:

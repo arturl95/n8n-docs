@@ -1,0 +1,5 @@
+## Workflow Executions
+
+An execution represents a completed run of a workflow, from the first to the last node. n8n logs workflow executions, allowing you to see if the workflow was completed successfully or not. The execution log is useful for debugging your workflow and seeing at what stage it runs into issues.
+
+To see the execution log, in your Editor UI select **All executions** in the left panel. This will open the **Executions** window.

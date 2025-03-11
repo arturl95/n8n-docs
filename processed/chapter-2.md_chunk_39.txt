@@ -1,0 +1,3 @@
+<figure><img src="/_images/courses/level-two/chapter-two/exercise_binarydata_movedata_btoj.png" alt="Extract From File node" style="width:100%"><figcaption align = "center"><i>Extract From File node</i></figcaption></figure>
+
+	To check the configuration of the nodes, you can copy the JSON workflow code below and paste it into your Editor UI:

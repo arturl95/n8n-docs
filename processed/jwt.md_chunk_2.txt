@@ -1,0 +1,5 @@
+For a more verbose introduction, refer to the [JWT website Introduction to JSON Web Tokens](https://jwt.io/introduction){:target=_blank .external-link}. Refer to [JSON Web Token (JWT) Signing Algorithms Overview](https://auth0.com/blog/json-web-token-signing-algorithms-overview/){:target=_blank .external-link} for more information on selecting between the two types and the algorithms involved.
+
+## Using Passphrase
+
+To configure this credential:

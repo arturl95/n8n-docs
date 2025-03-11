@@ -1,0 +1,4 @@
+* **Model**: Select the model to use for generating embeddings.
+* **Base URL**: Enter the URL to send the request to. Use this if you are using a self-hosted OpenAI-like model. 
+* **Batch Size**: Enter the maximum number of documents to send in each request.
+* **Strip New Lines**: Select whether to remove new line characters from input text (turned on) or not (turned off). n8n enables this by default.

@@ -1,0 +1,8 @@
+## Supported authentication methods
+
+- Passphrase: Signed with a secret with HMAC algorithm
+- Private key (PEM key): For use with [Private Key JWT](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authenticate-with-private-key-jwt){:target=_blank .external-link} with RSA or ECDSA algorithm
+
+## Related resources
+
+Refer to the [JSON Web Token spec](https://datatracker.ietf.org/doc/html/rfc7519){:target=_blank .external-link} for more details.

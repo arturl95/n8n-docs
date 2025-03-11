@@ -1,0 +1,17 @@
+value: null,
+	},
+	required: true,
+	// See "Resource mapper type options interface" below for the full typeOptions specification
+	typeOptions: {
+		resourceMapper: {
+			resourceMapperMethod: 'getMappingColumns',
+			mode: 'update',
+			fieldWords: {
+				singular: 'column',
+				plural: 'columns',
+			},
+			addAllFields: true, 
+			multiKeyMatch: true,
+			supportAutoMap: true,
+			matchingFieldsLabels: {
+				title: 'Custom matching columns title',

@@ -1,0 +1,13 @@
+## n8n@0.222.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.221.2...n8n@0.222.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-03-30
+
+This release contains new features, including custom filters for the executions list, and a new node to filter items in your workflows.
+
+/// note | Upgrade to 0.222.1
+Upgrade directly to 0.222.1.
+///
+### New features
+
+<div class="n8n-new-features" markdown>

@@ -1,0 +1,7 @@
+* **Host URL**: The host URL for the request. The following options are available:
+    * **Default**: Requests are passed to the `graph.facebook.com` host URL. Used for the majority of requests.
+    * **Video**: Requests are passed to the `graph-video.facebook.com` host URL. Used for video upload requests only.
+* **HTTP Request Method**: The method to be used for this request, from the following options:
+    * **GET**
+    * **POST**
+    * **DELETE**

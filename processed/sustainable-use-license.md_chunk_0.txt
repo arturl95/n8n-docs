@@ -1,0 +1,14 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Sustainable Use License
+description: The n8n Sustainable Use License.
+contentType: explanation
+---
+
+<!-- vale off -->
+
+# Sustainable Use License
+
+/// note | Proprietary licenses for Enterprise
+Proprietary licenses are available for enterprise customers. [Get in touch](mailto:license@n8n.io) for more information.
+///

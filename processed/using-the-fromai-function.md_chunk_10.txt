@@ -1,0 +1,4 @@
+| Parameter | Type | Required? | Description |
+| --------- | ---- | --------- | ----------- |
+| `key` | string | :white_check_mark: | A string representing the key or name of the argument. This must be between 1 and 64 characters in length and can only contain lowercase letters, uppercase letters, numbers, underscores, and hyphens. |
+| `description` | string | :x: | A string describing the argument. |

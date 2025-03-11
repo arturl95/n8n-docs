@@ -1,0 +1,8 @@
+///  note  | Credentials
+You can find authentication information for this node [here](/integrations/builtin/credentials/salesforce/).
+///
+///  note  | Examples and templates
+For usage examples and templates to help you get started, refer to n8n's [Salesforce trigger integrations](https://n8n.io/integrations/salesforce-trigger/){:target=_blank .external-link} page.
+///
+
+## Events

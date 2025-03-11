@@ -1,0 +1,3 @@
+The workflow should look like this:
+
+<figure><img src="/_images/courses/level-two/chapter-five/workflow3.png" alt="Workflow 3 for monitoring workflow errors" style="width:100%"><figcaption align = "center"><i>Workflow 3 for monitoring workflow errors</i></figcaption></figure>

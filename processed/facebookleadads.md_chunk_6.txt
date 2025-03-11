@@ -1,0 +1,4 @@
+1. In your Meta app settings in **Client OAuth settings**, paste that URL as the **Valid OAuth Redirect URIs**.
+1. Select **App settings > Basic** from the left menu.
+1. Copy the **App ID** and enter it as the **Client ID** within your n8n credential.
+1. Copy the **App Secret** and enter it as the **Client Secret** within your n8n credential.

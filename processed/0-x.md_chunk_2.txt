@@ -1,0 +1,10 @@
+* MAJOR version when making incompatible changes which can require user action.
+* MINOR version when adding functionality in a backward-compatible manner.
+* PATCH version when making backward-compatible bug fixes.
+
+## n8n@0.237.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.236.3...n8n@0.237.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-08-17
+
+This is a bug fix release.

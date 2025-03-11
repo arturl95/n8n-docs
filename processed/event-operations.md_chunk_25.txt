@@ -1,0 +1,6 @@
+<!-- vale from-write-good.TooWordy = NO -->
+- **Modify**: For recurring events, choose whether to update the recurring event or a specific instance of the recurring event.
+<!-- vale from-write-good.TooWordy = YES -->
+- **Use Default Reminders**: Whether to enable default reminders for the event according to the calendar configuration.
+- **Update Fields**: The fields of the event to update:
+	- **All Day**: Whether the event is all day or not.

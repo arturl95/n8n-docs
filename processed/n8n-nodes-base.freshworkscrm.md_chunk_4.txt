@@ -1,0 +1,17 @@
+* Delete a deal
+    * Retrieve a deal
+    * Retrieve all deals
+    * Update a deal
+* Note
+    * Create a note
+    * Delete a note
+    * Update a note
+* Sales Activity
+    * Retrieve a sales activity
+    * Retrieve all sales activities
+* Task
+    * Create a task
+    * Delete a task
+    * Retrieve a task
+    * Retrieve all tasks
+    * Update a task

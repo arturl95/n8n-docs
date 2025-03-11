@@ -1,0 +1,6 @@
+* Must be between 5 and 32 characters long.
+        * Not case sensitive.
+        * May only include Latin characters, numbers, and underscores.
+        * Must end in `bot`, like `tetris_bot` or `TetrisBot`.
+        * You can't change the username later.
+3. Copy the bot **token** the BotFather generates and add it as the **Access Token** in n8n.

@@ -1,0 +1,8 @@
+/// note | Heroku and DNS
+Refer to the [Heroku documentation](https://devcenter.heroku.com/categories/networking-dns){:target="_blank" .external-link} to find out how to connect your domain to a Heroku application.
+///
+## Changing the deployment template
+
+You can make changes to the deployment template by forking the [repository](https://github.com/n8n-io/n8n-heroku){:target=_blank .external-link} and deploying from you fork.
+
+### The Dockerfile

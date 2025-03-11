@@ -1,0 +1,13 @@
+#### New node: Okta
+
+This release adds the [Okta node](/integrations/builtin/app-nodes/n8n-nodes-base.okta/). Use the Okta node to automate work in Okta and integrate Okta with other applications. n8n has built-in support for a wide range of Okta features, which includes creating, updating, and deleting users.
+
+</div>
+
+### Node updates
+Enhanced node:
+
+- [MySQL](/integrations/builtin/app-nodes/n8n-nodes-base.mysql/)
+
+
+This release also adds the new schema view for the expression editor modal.

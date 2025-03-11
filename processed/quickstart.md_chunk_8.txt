@@ -1,0 +1,9 @@
+The complete workflow should look like this:
+
+![Screenshot of completed quickstart workflow](/_images/try-it-out/quickstart/very-quick-quickstart-workflow.png)
+
+
+## Next steps
+
+* Read n8n's [longer try it out tutorial](/try-it-out/longer-introduction/) for a more complex workflow, and an introduction to more features and n8n concepts.
+* Take the [text courses](/courses/) or [video courses](/video-courses/).

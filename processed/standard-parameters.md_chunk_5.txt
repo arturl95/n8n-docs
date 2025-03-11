@@ -1,0 +1,12 @@
+The object can include:
+
+* `name`: String. Used as the node name on the canvas if the `displayName` is too long.
+* `color`: String. Hex color code. Provide the brand color of the integration for use in n8n.
+
+## `forceInputNodeExecution`
+
+_Boolean_ | _Optional_
+
+When building a multi-input node, you can choose to force all preceding nodes on all branches to execute before the node runs. The default is `false` (requiring only one input branch to run).
+
+## `inputs`

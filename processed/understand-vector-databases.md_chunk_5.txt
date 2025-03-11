@@ -1,0 +1,6 @@
+/// note | This example is very simplified
+In practice, vectors are far more complex. A vector can range in size from tens to thousands of dimensions. The dimensions don't have a one-to-one relationship to a single feature, so you can't translate individual dimensions directly into single concepts. This example gives an approximate mental model, not a true technical understanding.
+///
+
+
+## Demonstrating the power of similarity search

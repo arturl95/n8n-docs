@@ -1,0 +1,8 @@
+#### Boolean operators
+<!-- vale off -->
+n8n doesn't have good support for combining boolean operators, such as AND and OR, in the GUI. Whenever possible, provide options for all ANDs or all ORs.
+<!-- vale on -->
+
+For example, you have a field called **Must match** to test if values match. Include options to test for **Any** and **All**, as separate options.
+
+#### Source keys or binary properties

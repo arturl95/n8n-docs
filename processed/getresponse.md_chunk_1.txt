@@ -1,0 +1,13 @@
+- [GetResponse](/integrations/builtin/app-nodes/n8n-nodes-base.getresponse/)
+- [GetResponse Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.getresponsetrigger/)
+
+## Prerequisites
+
+Create a [GetResponse](https://www.getresponse.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+- OAuth2
+
+## Related resources

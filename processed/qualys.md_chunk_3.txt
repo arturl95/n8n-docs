@@ -1,0 +1,5 @@
+To configure this credential, you'll need:
+
+- A **Username**
+- A **Password**
+- A **Requested With** string: Enter a user description, like a user agent, or keep the default `n8n application`. This sets the required `X-Requested-With` header.

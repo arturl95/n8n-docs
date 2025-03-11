@@ -1,0 +1,9 @@
+Refer to [API keys | Test mode versus live mode](https://docs.stripe.com/keys#test-live-modes){:target=_blank .external-link} for more information about what's available in each mode and guidance on when to use each.
+
+/// note | n8n credentials for both modes
+If you want to work with both live mode and test mode keys, store each mode's key in a separate n8n credential.
+///
+
+## Key prefixes
+
+Stripes' Secret keys always begin with `sk_`:

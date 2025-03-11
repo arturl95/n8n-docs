@@ -1,0 +1,25 @@
+```bash
+n8n update:workflow --id=<ID> --active=false
+```
+
+Set the active status of a workflow by its ID to true:
+
+```bash
+n8n update:workflow --id=<ID> --active=true
+```
+
+Set the active status to false for all the workflows:
+
+```bash
+n8n update:workflow --all --active=false
+```
+
+Set the active status to true for all the workflows:
+
+```bash
+n8n update:workflow --all --active=true
+```
+
+## Export workflows and credentials
+
+You can export your workflows and credentials from n8n using the CLI.

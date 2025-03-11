@@ -1,0 +1,13 @@
+Refer to [Custom API operations](/integrations/custom-operations/) for more information.
+
+--8<-- "_snippets/integrations/builtin/credentials/generic-auth/basic-auth.md"
+
+--8<-- "_snippets/integrations/builtin/credentials/generic-auth/digest-auth.md"
+
+--8<-- "_snippets/integrations/builtin/credentials/generic-auth/header-auth.md"
+
+## Using OAuth1
+
+Use this generic authentication if your app or service supports OAuth1 authentication.
+
+To configure this credential, enter:

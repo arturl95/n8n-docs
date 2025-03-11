@@ -1,0 +1,7 @@
+Blocks the [Execute Command](/integrations/builtin/core-nodes/n8n-nodes-base.executecommand/) and [Read/Write Files from Disk](/integrations/builtin/core-nodes/n8n-nodes-base.readwritefile/) nodes.
+
+Your n8n users won't be able to search for or use these nodes.
+
+## Suggested nodes to block
+
+The nodes that can pose security risks vary based on your use case and user profile. Here are some nodes you might want to start with:

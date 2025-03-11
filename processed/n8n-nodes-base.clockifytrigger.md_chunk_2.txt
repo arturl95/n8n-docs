@@ -1,0 +1,1 @@
+This node uses the workflow timezone setting to specify the range of time entries starting time. Configure the timezone in your [Workflow Settings](/workflows/settings/) if you want this trigger node to retrieve the right time entries.

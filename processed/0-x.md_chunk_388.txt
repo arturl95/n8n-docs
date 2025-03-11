@@ -1,0 +1,4 @@
+* **core:** Fix call to `/executions-current` with unsaved workflow.
+* **core:** Fix issue with fixedCollection having all default values.
+* [Edit Image Node](/integrations/builtin/core-nodes/n8n-nodes-base.editimage/){:target="_blank"}: Fix font selection.
+* [Ghost Node](/integrations/builtin/app-nodes/n8n-nodes-base.ghost/){:target="_blank"}: Fix post tags and add credential tests.

@@ -1,0 +1,9 @@
+## Using basic auth
+
+To configure this credential, you'll need an [Elasticsearch](https://www.elastic.co/){:target=_blank .external-link} account with a [deployment](https://www.elastic.co/guide/en/cloud/current/ec-create-deployment.html){:target=_blank .external-link} and:
+
+- A **Username**
+- A **Password**
+- Your Elasticsearch application's **Base URL** (also known as the Elasticsearch application endpoint)
+
+To set up the credential:

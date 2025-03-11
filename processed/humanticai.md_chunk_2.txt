@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Get an API key from the [Humantic AI API](https://api.humantic.ai/){:target=_blank .external-link} page.

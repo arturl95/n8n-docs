@@ -1,0 +1,1 @@
+Refer to the [Connect to a CrateDB cluster documentation](https://cratedb.com/docs/crate/clients-tools/en/latest/connect/){:target=_blank .external-link} for detailed instructions on these fields and their default values.

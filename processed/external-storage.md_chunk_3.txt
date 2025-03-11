@@ -1,0 +1,4 @@
+/// info | Enterprise-tier feature
+You will need an [Enterprise license key](/enterprise-key/) for external storage. If your license key expires and you remain on S3 mode, the instance will be able to read from, but not write to, the S3 bucket.
+///
+### Setup

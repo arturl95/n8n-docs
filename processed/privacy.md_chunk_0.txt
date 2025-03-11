@@ -1,0 +1,22 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+description: n8n's privacy policies
+tags:
+  - gdpr
+  - data collection
+  - pid
+  - payment processor
+hide:
+  - tags
+contentType: explanation
+---
+
+<!-- vale off -->
+
+# Privacy
+
+This page describes n8n's data privacy practices.
+
+## GDPR
+
+### Data processing agreement

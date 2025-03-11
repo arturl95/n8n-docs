@@ -1,0 +1,9 @@
+* **File Name**: Enter the file name for the generated output file.
+* **Format**: Choose whether to format the JSON for easier reading (turned on) or not (turned off).
+* **Encoding**: Choose the character set to use to encode the data. The default is **utf8**.
+
+### Convert to ODS
+
+Configure the node for this operation with the **Put Output File in Field** parameter. Enter the name of the field in the output data to contain the file.
+
+#### Convert to ODS options

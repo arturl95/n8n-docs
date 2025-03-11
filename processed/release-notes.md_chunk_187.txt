@@ -1,0 +1,13 @@
+<video src="/_video/release-notes/rbac-glimpse.mp4" controls width="100%"></video>
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### New node: Slack Trigger
+
+This release adds a trigger node for Slack. Refer to the [Slack Trigger documentation](/integrations/builtin/trigger-nodes/n8n-nodes-base.slacktrigger/) for details.
+
+</div>
+
+### Other highlights

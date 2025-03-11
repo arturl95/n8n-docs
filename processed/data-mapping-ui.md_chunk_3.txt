@@ -1,0 +1,14 @@
+Data mapping maps the key path, and loads the key's value into the field. For example, given the following data:
+
+```js
+[
+	{
+		"fruit": "apples",
+		"color": "green"
+	}
+]
+```
+
+You can map `fruit` by dragging and dropping **fruit** from the **INPUT** into the field where you want to use its value. This creates an expression, `{{ $json.fruit }}`. When the node iterates over input items, the value of the field becomes the value of `fruit` for each item.
+
+### Understand nested data

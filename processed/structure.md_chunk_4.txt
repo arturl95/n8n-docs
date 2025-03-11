@@ -1,0 +1,15 @@
+## Outline structure for a programmatic-style node
+
+This code snippet gives an outline of the node structure. 
+
+```js
+import { IExecuteFunctions } from 'n8n-core';
+import { INodeExecutionData, INodeType, INodeTypeDescription } from 'n8n-workflow';
+
+export class ExampleNode implements INodeType {
+	description: INodeTypeDescription = {
+    // Basic node details here
+    properties: [
+      // Resources and operations here
+    ]
+  };

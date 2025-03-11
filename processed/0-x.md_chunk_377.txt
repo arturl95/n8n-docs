@@ -1,0 +1,2 @@
+* [Nextcloud node](/integrations/builtin/app-nodes/n8n-nodes-base.nextcloud){:target=_blank}: Updated the node so the list:folder operation works with Nextcloud version 24.
+* [YouTube node](/integrations/builtin/app-nodes/n8n-nodes-base.youtube){:target=_blank}: Fixed problem with uploading large files.

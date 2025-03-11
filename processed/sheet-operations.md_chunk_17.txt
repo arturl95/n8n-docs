@@ -1,0 +1,7 @@
+Refer to the [Method: spreadsheets.values.clear | Google Sheets](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/clear){:target=_blank .external-link} API documentation for more information.
+
+## Create a new sheet
+
+Use this operation to create a new sheet. 
+
+Enter these parameters:

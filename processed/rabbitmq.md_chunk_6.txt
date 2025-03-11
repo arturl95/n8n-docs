@@ -1,0 +1,4 @@
+- The **Client Certificate**: Paste the text of the SSL client certificate to use.
+        - The **Client Key**: Paste the SSL client key to use.
+        - The **Passphrase**: Paste the SSL passphrase to use.
+    - **CA Certificates**: Paste the text of the SSL CA certificates to use.

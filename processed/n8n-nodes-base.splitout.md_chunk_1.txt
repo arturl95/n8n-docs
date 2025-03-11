@@ -1,0 +1,15 @@
+## Node parameters
+
+Configure this node using the following parameters.
+
+### Field to Split Out
+
+Enter the field containing the list you want to separate out into individual items.
+
+If you're working with binary data inputs, use `$binary` in an expression to set the field to split out.
+
+### Include
+
+Select whether and how you want n8n to keep any other fields from the input data with each new individual item.
+
+You can select:

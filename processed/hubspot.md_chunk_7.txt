@@ -1,0 +1,5 @@
+6. Enter a **Description** for your app.
+7. Open the **Scopes** tab and add the appropriate scopes. Refer to [Required scopes for HubSpot node](#required-scopes-for-hubspot-node) for a complete list of scopes you should add.
+8. Select **Create app** to finish the process.
+9. In the modal, review the info about your app's access token, then select **Continue creating**.
+10. Once your app's created, open the **Access token card** and select **Show token** to reveal the token.

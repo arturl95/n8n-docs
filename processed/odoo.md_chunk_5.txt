@@ -1,0 +1,12 @@
+Refer to [Odoo API Keys](https://www.odoo.com/documentation/15.0/developer/reference/external_api.html?#api-keys){:target=_blank .external-link} for more information.
+
+## Using password
+
+To configure this credential, you'll need a user account on an [Odoo](https://www.odoo.com/){:target=_blank .external-link} database and:
+
+- Your **Site URL**
+- Your **Username**
+- Your **Password**
+- Your **Database name**
+
+To set up the credential with a password:

@@ -1,0 +1,7 @@
+## Using API access token
+
+To configure this credential, you'll need a [Calendly](https://www.calendly.com/){:target=_blank .external-link} account and:
+
+- An API Key or **Personal Access Token**
+
+To get your access token:

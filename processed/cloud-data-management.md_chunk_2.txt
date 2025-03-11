@@ -1,0 +1,14 @@
+Current plans:
+
+* Trial: 320MiB RAM, 10 millicore CPU burstable
+* Starter: 320MiB RAM, 10 millicore CPU burstable
+* Pro-1 (10k executions): 640MiB RAM, 20 millicore CPU burstable
+* Pro-2 (50k executions): 1280MiB RAM, 80 millicore CPU burstable
+* Enterprise: 4096MiB RAM, 80 millicore CPU burstable
+
+Legacy plans:
+
+* Start: 320MiB RAM, 10 millicore CPU burstable
+* Power: 1280MiB RAM, 80 millicore CPU burstable
+
+n8n gives each instance up to 100GB of data storage.

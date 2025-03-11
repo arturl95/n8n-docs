@@ -1,0 +1,1 @@
+- To connect even if SSL certificate validation fails, turn on **Ignore SSL Issues**.

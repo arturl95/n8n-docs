@@ -1,0 +1,4 @@
+To configure this credential, you'll need:
+
+- A **Client ID**: Generated when you create a Pushbullet app, also known as an OAuth client.
+- A **Client Secret**: Generated when you create a Pushbullet app, also known as an OAuth client.

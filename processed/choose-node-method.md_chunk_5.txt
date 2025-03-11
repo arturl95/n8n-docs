@@ -1,0 +1,23 @@
+},
+      },
+      options: [
+        {
+          name: 'Create',
+          value: 'create',
+          description: 'Create a contact',
+        },
+      ],
+      default: 'create',
+      description: 'The operation to perform.',
+    },
+    {
+      displayName: 'Email',
+      name: 'email',
+      . . .
+    },
+    {
+      displayName: 'Additional Fields',
+      // Sets up optional fields
+    },
+  ],
+};

@@ -1,0 +1,6 @@
+1. In the AI workflow, select the **Tool** output on the **AI Agent**. n8n opens the nodes panel.
+1. Select **Custom n8n Workflow Tool**. n8n adds the node to the canvas and opens it.
+1. Configure the node parameters:
+	* **Name**: `Fruit`
+	* **Description**: `Call this tool to get a list of fruit.`
+	* **Workflow ID**: Paste in the workflow ID that you copied from the example workflow URL.

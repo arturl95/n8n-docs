@@ -1,0 +1,9 @@
+## Prerequisites
+
+Create an account on a [Jenkins](https://www.jenkins.io/){:target=_blank .external-link} instance.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources

@@ -1,0 +1,9 @@
+Refer to the [Telegram Bot Features](https://core.telegram.org/bots/features){:target=_blank .external-link} documentation for more information on creating and working with bots.
+
+## Using API bot access token
+
+To configure this credential, you'll need:
+
+- A bot **Access Token**
+
+To generate your access token:

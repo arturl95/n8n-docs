@@ -1,0 +1,3 @@
+* **File Extension**: Enter the extension for the file in the node output.
+* **File Name**: Enter the name for the file in the node output.
+* **MIME Type**: Enter the file's MIME type in the node output. Refer to [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types){:target=_blank .external-link} for a list of file extensions and their MIME types.

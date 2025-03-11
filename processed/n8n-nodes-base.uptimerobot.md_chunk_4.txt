@@ -1,0 +1,9 @@
+* Get a monitor
+    * Get all monitors
+    * Reset a monitor
+    * Update a monitor
+* Public Status Page
+    * Create a public status page
+    * Delete a public status page
+    * Get a public status page
+    * Get all a public status pages

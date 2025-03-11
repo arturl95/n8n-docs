@@ -1,0 +1,5 @@
+1. Open the [App Console](https://www.dropbox.com/developers/apps){:target=_blank .external-link} within the Dropbox developer portal.
+2. Select **Create app**.
+3. In **Choose an API**, select **Scoped access**.
+4. In **Choose the type of access you need**, choose whichever option best fits your use of the [Dropbox](/integrations/builtin/app-nodes/n8n-nodes-base.dropbox/) node:
+    - **App Folder** grants access to a single folder created specifically for your app.

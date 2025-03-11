@@ -1,0 +1,5 @@
+### Split Out Items
+
+This operation is useful if your data contains a list of items, for example a list of customers, and you want to split them so that you have an item for each customer.
+
+When using the Split Out Items operation, configure the following parameters and options:

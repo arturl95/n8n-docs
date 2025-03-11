@@ -1,0 +1,24 @@
+displayName: 'Date',
+	description: 'Earth date',
+	required: true,
+	name: 'marsRoverDate',
+	type: 'dateTime',
+	default:'',
+	displayOptions: {
+		show: {
+			resource: [
+				'marsRoverPhotos',
+			],
+		},
+	},
+	routing: {
+		request: {
+			// You've already set up the URL. qs appends the value of the field as a query string
+			qs: {
+				earth_date: '={{ new Date($value).toISOString().substr(0,10) }}',
+			},
+		},
+	},
+},
+// Optional/additional fields will go here
+```

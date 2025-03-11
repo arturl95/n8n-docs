@@ -1,0 +1,4 @@
+* [Facebook Graph API:](/integrations/builtin/app-nodes/n8n-nodes-base.facebookgraphapi/) Added suport for Facebook Graph API 13.
+* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Added suport for private app token authentication.
+* [MongoDB:](/integrations/builtin/app-nodes/n8n-nodes-base.mongodb/) Added the aggregate operation.
+* [Redis Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.redistrigger/) Added a Redis Trigger node.

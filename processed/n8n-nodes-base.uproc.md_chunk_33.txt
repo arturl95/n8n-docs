@@ -1,0 +1,8 @@
+- Discover the province name from an IP address
+- Get the first province by a name prefix (only for Spain)
+- Discover the province name from a landline phone number (only for Spain)
+- Discover the province name from a zip code number (only for Spain)
+- Get a province list by a name prefix (only for Spain)
+- Get a province list by a phone prefix (only for Spain)
+- Get a province list by a zip code prefix (only for Spain)
+- Discover reputation by IPv4 or IPv6 address

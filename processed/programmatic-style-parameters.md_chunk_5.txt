@@ -1,0 +1,18 @@
+```js
+	methods = {
+		loadOptions: {
+			// Get all the labels and display them
+			async getLabels(
+				this: ILoadOptionsFunctions,
+			): Promise<INodePropertyOptions[]> {
+				const returnData: INodePropertyOptions[] = [];
+				const labels = await googleApiRequestAllItems.call(
+					this,
+					'labels',
+					'GET',
+					'/gmail/v1/users/me/labels',
+				);
+				for (const label of labels) {
+					const labelName = label.name;
+					const labelId = label.id;
+					returnData.push({

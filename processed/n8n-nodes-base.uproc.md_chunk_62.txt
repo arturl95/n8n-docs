@@ -1,0 +1,8 @@
+- Check if the number of words in a sentence equals a certain amount
+- Check if the number of words in a sentence is greater than a certain amount
+- Check if the number of words in a sentence is greater than
+- Check if the word count is lower
+- Check if the number of words present in a sentence is less than or equal to a quantity
+- Convert a string to Base64 encoded value
+- Discover banned English words in an email body or subject
+- Get field names by analyzing the field value provided

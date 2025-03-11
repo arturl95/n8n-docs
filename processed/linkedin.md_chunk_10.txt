@@ -1,0 +1,2 @@
+- **Organization Support**: If turned on, the credential requests permission to post as an organization using the `w_organization_social` scope.
+	- To use this option, you must put your app through LinkedIn's [Community Management App Review](https://learn.microsoft.com/en-us/linkedin/marketing/community-management-app-review){:target=_blank .external-link} process.

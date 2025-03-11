@@ -1,0 +1,2 @@
+* The n8n instance is where you build and run workflows.
+* The Git branch stores copies of the workflows, as well as tags, and variable and credential stubs.

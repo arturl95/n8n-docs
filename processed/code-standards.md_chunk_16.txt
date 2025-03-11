@@ -1,0 +1,1 @@
+Refer to [HTTP helpers](/integrations/creating-nodes/build/reference/http-helpers/) for more information, and for migration instructions for the removed `this.helpers.request`.

@@ -1,0 +1,3 @@
+## Handle rate limits for integrations
+
+There are two ways to handle rate limits in n8n's integrations: using the Retry On Fail setting, or using a combination of the [Loop Over Items](/integrations/builtin/core-nodes/n8n-nodes-base.splitinbatches/) and [Wait](/integrations/builtin/core-nodes/n8n-nodes-base.wait/) nodes:

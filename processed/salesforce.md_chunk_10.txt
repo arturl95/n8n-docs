@@ -1,0 +1,6 @@
+14. In Salesforce, select **Back to Manage Connected Apps**.
+15. Select **Manage**.
+16. Select **Edit Policies**.
+17. Review the **Refresh Token Policy** field. Salesforce recommends using expire refresh token after 90 days.
+18. In the **Session Policies** section, Salesforce recommends setting **Timeout Value** to 15 minutes.
+19. In the **OAuth Policies** section, select **Admin approved users are pre-authorized for permitted users** for **Permitted Users**, and select **OK**.

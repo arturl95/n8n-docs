@@ -1,0 +1,7 @@
+## Using API access token
+
+To configure this credential, you'll need a [ClickUp](https://www.clickup.com/){:target=_blank .external-link} account and:
+
+- A Personal API **Access Token**
+
+To get your personal API token:

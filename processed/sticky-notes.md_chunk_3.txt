@@ -1,0 +1,8 @@
+To change the Sticky Note color:
+
+1. Hover over the Sticky Note
+1. Select **Change color** <span class="inline-image">![Change Sticky Note color icon](/_images/common-icons/change-color.png){.off-glb}</span>
+
+## Sticky Note positioning
+
+You can:

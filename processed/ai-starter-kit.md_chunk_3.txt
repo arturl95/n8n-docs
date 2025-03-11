@@ -1,0 +1,7 @@
+⭐️ Private, low-cost analyses of financial documents
+
+## Get the kit
+
+<!-- vale off -->
+Head to [the GitHub repository](https://github.com/n8n-io/self-hosted-ai-starter-kit){:target=_blank .external-link} to clone the repo and get started!
+<!-- vale on -->

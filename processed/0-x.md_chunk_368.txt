@@ -1,0 +1,21 @@
+<div class="n8n-new-features" markdown>
+
+#### Tags in workflow import and export
+
+When importing or exporting a workflow, the JSON can now include workflow tags.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Improved handling of activation errors
+
+n8n now supports running an error workflow in response to an activation error.
+
+</div>
+
+### New nodes
+
+<div class="n8n-new-features" markdown>
+
+#### Cal.com trigger

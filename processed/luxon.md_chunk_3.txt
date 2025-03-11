@@ -1,0 +1,8 @@
+n8n uses Luxon to provide two custom variables:
+
+- `now`: a Luxon object containing the current timestamp. Equivalent to `DateTime.now()`.
+- `today`: a Luxon object containing the current timestamp, rounded down to the day. Equivalent to `DateTime.now().set({ hour: 0, minute: 0, second: 0, millisecond: 0 })`.
+
+Note that these variables can return different time formats when cast as a string. This is the same behavior as Luxon's `DateTime.now()`.
+
+=== "Expressions (JavaScript)"

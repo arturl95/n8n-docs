@@ -1,0 +1,5 @@
+### Retrieve Documents (As Vector Store for Chain/Tool) parameters
+
+* **Pinecone Index**: Select or enter the Pinecone Index to use.
+
+### Retrieve Documents (As Tool for AI Agent) parameters

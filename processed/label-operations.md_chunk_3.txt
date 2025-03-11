@@ -1,0 +1,4 @@
+* **Label List Visibility**: Sets the visibility of the label in the label list in the Gmail web interface. Choose from:
+    * **Hide**: Don't show the label in the label list.
+    * **Show** (default): Show the label in the label list.
+    * **Show if Unread**: Show the label if there are any unread messages with that label.

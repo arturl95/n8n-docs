@@ -1,0 +1,3 @@
+To configure this credential:
+1. Select the **Key Type** of **PEM Key**.
+2. A **Private Key**: Obtained from generating a Key Pair. Refer to [Generate RSA Key Pair](https://auth0.com/docs/secure/application-credentials/generate-rsa-key-pair){:target=_blank .external-link} for an example.

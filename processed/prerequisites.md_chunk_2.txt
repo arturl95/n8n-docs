@@ -1,0 +1,7 @@
+## CPU considerations
+
+n8n isn't CPU intensive so even small instances (of providers such as AWS and GCP) should be enough for most use cases. Usually, memory requirements supersede CPU requirements, so focus resources there when planning your infrastructure.
+
+## Database considerations
+
+n8n uses its database to store credentials, past executions, and workflows.

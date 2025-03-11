@@ -1,0 +1,2 @@
+* **Sentiment Categories**: Define the categories that you want to classify your input as.
+    * By default, these are `Positive, Neutral, Negative`. You can customize these categories to fit your specific use case, such as `Very Positive, Positive, Neutral, Negative, Very Negative` for more granular analysis.

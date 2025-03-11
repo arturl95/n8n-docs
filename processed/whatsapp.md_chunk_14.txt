@@ -1,0 +1,8 @@
+## Using OAuth2
+
+To configure this credential, you'll need:
+
+- A **Client ID**: Generated once you create a Meta app with WhatsApp as the product.
+- A **Client Secret**: Generated once you create a Meta app with WhatsApp as the product.
+
+To generate both, create a Meta app with WhatsApp as the product. To create the app:

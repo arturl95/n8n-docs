@@ -1,0 +1,13 @@
+- [Asana](/integrations/builtin/app-nodes/n8n-nodes-base.asana/)
+- [Asana Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.asanatrigger/)
+
+## Supported authentication methods
+
+- Access token
+- OAuth2
+
+## Related resources
+
+Refer to [Asana's Developer Guides](https://developers.asana.com/docs/overview){:target=_blank .external-link} for more information about working with the service.
+
+## Using Access token

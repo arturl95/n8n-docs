@@ -1,0 +1,4 @@
+* **Add to a Date**: Add a specified amount of time to a date.
+* **Extract Part of a Date**: Extract part of a date, such as the year, month, or day.
+* **Format a Date**: Transform a date's format to a new format using preset options or a custom expression.
+* **Get Current Date**: Get the current date and choose whether to include the current time or not. Useful for triggering other flows and conditional logic.

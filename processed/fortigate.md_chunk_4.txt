@@ -1,0 +1,1 @@
+Refer to the [Fortinet FortiGate Using APIs documentation](https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/940602/using-apis){:target=_blank .external-link} for more information about token-based authentication in FortiGate.

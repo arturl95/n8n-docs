@@ -1,0 +1,20 @@
+/// note | Credentials
+Refer to [G Suite Admin credentials](/integrations/builtin/credentials/google/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Group
+    * Create a group
+    * Delete a group
+    * Get a group
+    * Get all groups
+    * Update a group
+* User
+    * Create a user
+    * Delete a user
+    * Get a user
+    * Get all users
+    * Update a user
+
+## Templates and examples

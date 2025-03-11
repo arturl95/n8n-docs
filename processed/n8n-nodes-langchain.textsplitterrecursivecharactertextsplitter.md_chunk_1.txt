@@ -1,0 +1,9 @@
+# Recursive Character Text Splitter node
+
+The Recursive Character Text Splitter node splits document data recursively to keep all paragraphs, sentences then words together as long as possible.
+
+On this page, you'll find the node parameters for the Recursive Character Text Splitter node, and links to more resources.
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/sub-node-expression-resolution.md"
+
+## Node parameters

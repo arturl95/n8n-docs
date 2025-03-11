@@ -1,0 +1,6 @@
+1. Open the [Microsoft Application Registration Portal](https://aka.ms/appregistrations){:target=_blank .external-link}.
+2. Select **Register an application**.
+3. Enter a **Name** for your app.
+4. In **Supported account types**, select **Accounts in any organizational directory (Any Azure AD directory - Multi-tenant) and personal Microsoft accounts (for example, Skype, Xbox)**.
+5. In **Register an application**:
+    1. Copy the **OAuth Callback URL** from your n8n credential.

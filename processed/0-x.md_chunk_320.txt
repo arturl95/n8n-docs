@@ -1,0 +1,9 @@
+* Core: add Windows support to `import:credentials --separate`.
+* Editor: correct linking buttons color.
+* Editor: ensure data pinning works as expected when `pinData` is null.
+* Editor: fix a bug with spaces.
+* Editor: resolve an issue with sticky note duplication and positioning.
+* Editor: restore missing header colors.
+* AWS DynamoDB node: fix for errors with expression attribute names.
+* Mautic node: fix an authentication issue.
+* Rocketchat node: fix an authentication issue.

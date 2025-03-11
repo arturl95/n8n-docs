@@ -1,0 +1,5 @@
+1. In Nextcloud, open your **Administrator Security Settings**.
+2. Find the **Add client** section under **OAuth 2.0 clients**.
+3. Enter a **Name** for your client, like `n8n integration`.
+4. Copy the **OAuth Callback URL** from n8n and enter it as the **Redirection URI**.
+5. Then select **Add** in Nextcloud.

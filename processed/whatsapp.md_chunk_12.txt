@@ -1,0 +1,1 @@
+Refer to [Test Business Messaging on WhatsApp](https://developers.facebook.com/docs/whatsapp/solution-providers/get-started-for-tech-providers#step-4--test-business-messaging-on-whatsapp){:target=_blank .external-link} for more information on the above steps.

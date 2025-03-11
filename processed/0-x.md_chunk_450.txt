@@ -1,0 +1,7 @@
+### Bugfixes
+
+- The Google Calendar node now correctly applies timezones when creating, updating, and scheduling all day events.
+- Fixed a bug that occasionally caused n8n to crash, or shut down workflows unexpectedly.
+- You can now use long credential type names with Postgres.
+
+### Contributors

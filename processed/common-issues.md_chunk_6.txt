@@ -1,0 +1,9 @@
+## Forbidden - perhaps check your credentials
+
+This error displays when the node receives a 403 error indicating authentication failed.
+
+To resolve, review the selected credentials and make sure you can authenticate with them. You may need to:
+
+* Update permissions or scopes so that your API key or account can perform the operation you've selected.
+* Format your generic credential in a different way.
+* Generate a new API key or token with the appropriate permissions or scopes.

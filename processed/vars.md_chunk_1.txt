@@ -1,0 +1,12 @@
+`vars` contains all [Variables](/code/variables/) for the active environment. It's read-only: you can access variables using `vars`, but must set them using the UI.
+
+=== "JavaScript"
+	```js
+	// Access a variable
+	$vars.<variable-name>
+	```
+=== "Python"
+	```python
+	# Access a variable
+	_vars.<variable-name>
+	```

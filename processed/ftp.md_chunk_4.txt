@@ -1,0 +1,5 @@
+## Using SFTP account
+
+Use this method if your FTP server supports SSH tunneling and encrypted connections.
+
+To configure this credential, you'll need to:

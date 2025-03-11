@@ -1,0 +1,13 @@
+### Bug fixes
+
+* **core**: a fix for filtering the executions list by waiting status.
+* **core**: improved webhook error messages.
+* [Edit Image node](/integrations/builtin/core-nodes/n8n-nodes-base.editimage/): node now works correctly with the binary-data-mode 'filesystem'.
+
+### Contributors
+
+
+[Albert Kiskorov](https://github.com/Albatrosicks)
+[Miquel Colomer](https://github.com/mcolomer)
+
+## n8n@0.175.1

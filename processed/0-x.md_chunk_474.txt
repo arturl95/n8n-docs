@@ -1,0 +1,4 @@
+- Fixed a bug where remote parameters would not load as expected.
+- Fixed a bug where unkown node types would not work as expected.
+- Prevented the node details view from opening automatically after duplicating a node.
+- Removed dependency `fibers` which is incompatible with the current LTS version 16 of Node.js.

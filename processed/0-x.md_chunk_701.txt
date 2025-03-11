@@ -1,0 +1,3 @@
+* [Bitwarden:](/integrations/builtin/app-nodes/n8n-nodes-base.bitwarden/) Fixed an issue with the Update operation of the Group resource
+* [Cortex:](/integrations/builtin/app-nodes/n8n-nodes-base.cortex/) Fixed an issue where only the last item got returned
+* [Invoice Ninja:](/integrations/builtin/app-nodes/n8n-nodes-base.invoiceninja/) Fixed an issue with the Project parameter

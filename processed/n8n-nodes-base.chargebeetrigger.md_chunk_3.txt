@@ -1,0 +1,8 @@
+To add a Webhook URL in Chargebee:
+
+1. Open your Chargebee dashboard.
+2. Go to **Settings** > **Configure Chargebee**.
+4. Scroll down and select **Webhooks**.
+5. Select the **Add Webhook** button.
+6. Enter the **Webhook Name** and the **Webhook URL**.
+7. Select **Create**.

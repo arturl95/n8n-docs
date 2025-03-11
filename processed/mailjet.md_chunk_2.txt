@@ -1,0 +1,7 @@
+## Related resources
+
+Refer to [Mailjet's Email API documentation](https://dev.mailjet.com/email/guides/){:target=_blank .external-link} and [Mailjet's SMS API documentation](https://dev.mailjet.com/sms/guides/){:target=_blank .external-link} for more information about each service.
+
+## Using Email API key
+
+To configure this credential, you'll need:

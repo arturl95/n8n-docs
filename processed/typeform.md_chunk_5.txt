@@ -1,0 +1,1 @@
+To get your Client ID and Client Secret, register a new Typeform app:

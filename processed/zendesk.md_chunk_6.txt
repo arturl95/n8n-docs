@@ -1,0 +1,3 @@
+To create a new OAuth client, go to **Apps and integrations > APIs > Zendesk API > OAuth Clients**.
+
+Use these settings:

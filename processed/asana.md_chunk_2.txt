@@ -1,0 +1,7 @@
+## Using Access token
+
+To configure this credential, you'll need an [Asana](https://asana.com/){:target=_blank .external-link} account and:
+
+- A Personal **Access Token** (PAT)
+
+To get your PAT:

@@ -1,0 +1,26 @@
+export class AsanaApi implements ICredentialType {
+	name = 'asanaApi';
+	displayName = 'Asana API';
+	documentationUrl = 'asana';
+	properties: INodeProperties[] = [
+		{
+			displayName: 'Access Token',
+			name: 'accessToken',
+			type: 'string',
+			default: '',
+		},
+	];
+
+	authenticate: IAuthenticateGeneric = {
+		type: 'generic',
+		properties: {
+			headers: {
+				Authorization: '=Bearer {{$credentials.accessToken}}',
+			},
+		},
+	};
+}
+```
+</div>
+
+#### Other new features

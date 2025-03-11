@@ -1,0 +1,10 @@
+- [Shopify](/integrations/builtin/app-nodes/n8n-nodes-base.shopify/)
+- [Shopify Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.shopifytrigger/)
+
+## Supported authentication methods
+
+- Access token (recommended): For private apps/single store use. Can be created by regular admins.
+- OAuth2: For public apps. Must be created by partner accounts.
+- API key: Deprecated.
+
+## Related resources

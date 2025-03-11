@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Grafana credentials](/integrations/builtin/credentials/grafana/) for guidance on setting up authentication. 
+///
+
+## Operations

@@ -1,0 +1,8 @@
+Refer to [Node user interface elements | Resource mapper](/integrations/creating-nodes/build/reference/ui-elements/#resource-mapper) for guidance for node builders.
+
+## n8n@0.230.3
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.230.2...n8n@0.230.3){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-06-05
+
+This is a bug fix release.

@@ -1,0 +1,5 @@
+To configure this credential, you'll need:
+
+- The **Jenkins Username**: For the user whom the token belongs to
+- A **Personal API Token**: Generate this from the user's **profile details > Configure > Add new token**. Refer to [these Stack Overflow instructions](https://stackoverflow.com/questions/45466090/how-to-get-the-api-token-for-jenkins){:target=_blank .external-link} for more detail.
+- The **Jenkins Instance URL**

@@ -1,0 +1,2 @@
+- If you have Nextcloud installed in a subdirectory, enter the URL you use to access Nextcloud and add `/<subdirectory>/remote.php/dav/`. Replace `<subdirectory>` with the subdirectory Nextcloud's installed in.
+    - Refer to Nextcloud's [Third-party WebDAV clients](https://docs.nextcloud.com/server/stable/user_manual/en/files/access_webdav.html#third-party-webdav-clients){:target=_blank .external-link} documentation for more information on constructing your WebDAV URL.

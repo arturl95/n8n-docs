@@ -1,0 +1,1 @@
+--8<-- "_snippets/self-hosting/starter-kits/self-hosted-ai-starter-kit.md"

@@ -1,0 +1,9 @@
+## Channel ID field error
+
+If you're not the System Administrator, you might get an error: **there was a problem loading the parameter options from server: "Mattermost error response: You do not have the appropriate permissions.** next to the **Channel ID** field.
+
+Ask your system administrator to grant you the `post:channel` permission.
+
+## Find the channel ID
+
+To find the channel ID in Mattermost:

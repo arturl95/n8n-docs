@@ -1,0 +1,4 @@
+2. Paste it into the **Redirect URI (optional)** field.
+    3. Select **Select a platform** > **Web**.
+6. Select **Register** to finish creating your application.
+7. Copy the **Application (client) ID** and paste it into n8n as the **Client ID**.

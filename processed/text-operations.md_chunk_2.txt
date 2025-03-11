@@ -1,0 +1,3 @@
+- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
+- **Resource**: Select **Text**.
+- **Operation**: Select **Message a Model**.

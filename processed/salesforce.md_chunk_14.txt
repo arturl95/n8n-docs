@@ -1,0 +1,5 @@
+1. In n8n, select the **Environment Type** for your connection. Choose the option that best describes your environment from **Production** or **Sandbox**.
+2. Enter your Salesforce **Username**.
+1. Log in to your org in Salesforce.
+3. From **Setup** in Salesforce, enter `App Manager` in the Quick Find box, then select **App Manager**.
+3. On the App Manager page, select **New Connected App**.

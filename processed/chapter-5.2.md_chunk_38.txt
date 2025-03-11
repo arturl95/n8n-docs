@@ -1,0 +1,17 @@
+},
+        {
+        "parameters": {
+            "authentication": "webhook",
+            "content": "I created the spreadsheet {file name}. My ID: 123",
+            "options": {}
+        },
+        "id": "05da1c22-d1f6-4ea6-9102-f74f9ae2e9d3",
+        "name": "Discord1",
+        "type": "n8n-nodes-base.discord",
+        "typeVersion": 2,
+        "position": [
+            2540,
+            700
+        ],
+        "credentials": {
+            "discordWebhookApi": {

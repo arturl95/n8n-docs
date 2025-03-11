@@ -1,0 +1,13 @@
+## Free versions
+
+n8n offers the following free options:
+
+* A free trial of Cloud
+* A free self-hosted community edition for self-hosted users
+
+## Paid versions
+
+n8n has two paid versions:
+
+* n8n Cloud: choose from a range of paid plans to suit your usage and feature needs.
+* Self-hosted: there are both free and paid versions of self-hosted.

@@ -1,0 +1,2 @@
+| **Split Adjacent Blockquotes** | Whether to split adjacent blockquote blocks (enabled) or not (disabled). If you don't enable this, n8n treats quotes (indicated by `>` at the start of the line) on separate lines as a single blockquote, even when separated by an empty line.  | Disabled |
+| **Strikethrough** | Whether to support strikethrough syntax (enabled) or not (disabled). When enabled, you can add a ~~strikethrough~~ effect using `~~` around the word or phrase. | Disabled |

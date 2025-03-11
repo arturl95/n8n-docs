@@ -1,0 +1,7 @@
+### New nodes
+
+
+
+* [Onfleet](/integrations/builtin/app-nodes/n8n-nodes-base.onfleet/)
+
+### Enhanced nodes

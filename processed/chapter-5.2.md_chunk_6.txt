@@ -1,0 +1,1 @@
+4. Use the [**Sort node**](/integrations/builtin/core-nodes/n8n-nodes-base.sort/) to sort data by `orderPrice` in descending order.

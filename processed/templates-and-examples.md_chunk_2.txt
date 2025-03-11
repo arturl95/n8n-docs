@@ -1,0 +1,9 @@
+## Set up sample data using the Code node
+
+Create a workflow with some example input data to try out the Remove Duplicates node.
+
+1. Add a Code node to the canvas and connect it to the Manual Trigger node.
+2. In the Code node, set **Mode** to **Run Once for Each Item** and **Language** to **JavaScript**.
+3. Paste the following JavaScript code snippet in the **JavaScript** field:
+```js
+let data =[];

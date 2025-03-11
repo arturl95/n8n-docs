@@ -1,0 +1,19 @@
+Maps workflows to users.
+
+### tag_entity
+
+All workflow tags created in the n8n instance. This table lists the tags. [workflows_tags](#workflows_tags) records which workflows have which tags.
+
+### user
+
+Contains user data.
+
+### variables
+
+Store [variables](/code/variables/).
+
+### webhook_entity
+
+Records the active webhooks in your n8n instance's workflows. This isn't just webhooks uses in the Webhook node. It includes all active webhooks used by any trigger node.
+
+### workflow_entity

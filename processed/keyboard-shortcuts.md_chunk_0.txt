@@ -1,0 +1,16 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+tags:
+  - Keyboard
+  - Move canvas
+  - Move nodes
+  - Drag and drop
+description: Keyboard shortcuts available in n8n.
+hide:
+  - tags
+contentType: reference
+---
+
+# Keyboard shortcuts and controls
+
+n8n provides keyboard shortcuts for some actions.

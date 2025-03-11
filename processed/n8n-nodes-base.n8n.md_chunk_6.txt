@@ -1,0 +1,7 @@
+## Create credential
+
+Configure this operation with these parameters:
+
+* **Name**: Enter the name of the credential you'd like to create.
+* **Credential Type**: Enter the credential's type. The available types depend on nodes installed on the n8n instance. Some built-in types include `githubApi`, `notionApi`, and `slackApi`.
+* **Data**: Enter a valid JSON object with the required properties for this **Credential Type**. To see the expected format, use the **Get Schema** operation.

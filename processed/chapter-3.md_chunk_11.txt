@@ -1,0 +1,2 @@
+- For example, Jay Gatsby's language is English and country name is United States.
+4. In the **Merge node**, try out different merge options.

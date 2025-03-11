@@ -1,0 +1,12 @@
+</div>
+
+### Bug fixes
+
+* Core: revert a lint rule `@typescript-eslint/prefer-nullish-coalescing`.
+* Editor: allow special characters in node selector completion.
+* GitLab Node: update the credential test endpoint.
+* Gmail Trigger Node: resolve an issue that was preventing filter by labels from working.
+* HTTP Request Node: ensure node enforces the requirement for valid JSON input.
+* HTTP Request Node: convert responses to text for all formats, including JSON.
+
+### Contributors

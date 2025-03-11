@@ -1,0 +1,13 @@
+/// note | TheHive and TheHive 5
+n8n provides two nodes for TheHive. Use these credentials with TheHive node for TheHive 3 or TheHive 4. If you're using TheHive5 node, use [TheHive 5 credentials](/integrations/builtin/credentials/thehive5/).
+///
+
+## Prerequisites
+
+Install [TheHive](https://github.com/TheHive-Project/TheHiveDocs/blob/master/installation/install-guide.md){:target=_blank .external-link} on your server.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

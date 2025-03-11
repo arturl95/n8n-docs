@@ -1,0 +1,14 @@
+1. Select **Mode** > **Combine**.
+2. Select **Combine by** > **Matching Fields**.
+3. In both **Input 1 Field** and **Input 2 Field**, enter `language`. This tells n8n to combine the data by matching the values in the `language` field in each data set.
+4. Select **Test step**.
+
+Your output in table view should look like this:
+<!-- vale off -->
+
+| **name** | **language** | **greeting** |
+| --- | --- | --- |
+| Stefan | de | Hallo |
+| Jim | en | Hello  |
+| Hans | de | Hallo |
+<!-- vale on -->

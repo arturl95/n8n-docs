@@ -1,0 +1,5 @@
+* **Credential to connect with**: Select or create an [LDAP credential](/integrations/builtin/credentials/ldap/) to connect with.
+* **Base DN**: Enter the Distinguished Name (DN) of the subtree to search in.
+* **Search For**: Select the directory object class to search for.
+* **Attribute**: Select the attribute to search for.
+* **Search Text**: Enter the text to search for. Use `*` for a wildcard.

@@ -1,0 +1,7 @@
+This release contains enhancements to the Twilio and Wise integrations, and adds support for a new grant type for OAuth2. It also includes some bug fixes.
+
+### New features
+
+Added support for the client_credentials grant type for OAuth2.
+
+### Node enhancements

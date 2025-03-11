@@ -1,0 +1,8 @@
+- **Method**: Get
+    - **URL**: The **Dataset URL** you received in the email when you signed up for this course.
+    - **Authentication**: Generic Credential Type
+        - **Generic Auth Type**: Header Auth
+        - **Credentials for Header Auth**: The Header Auth name and Header Auth value you received in the email when you signed up for this course.
+    - **Send Headers**: Toggle to true
+        - **Specify Headers**: Select `Using Fields Below`
+        - **Name**: `unique_id`

@@ -1,0 +1,10 @@
+* Returns all checklists for the card
+* Checklist Item
+    * Delete a checklist item
+    * Get a checklist item
+    * Update a checklist item
+* List
+    * Create a new list
+    * Delete a list
+    * Get the data of a list
+    * Get all board lists

@@ -1,0 +1,3 @@
+1. When you've set the **Prompt** to **Define below** and haven't entered anything in the **Text** field.
+    * To resolve, enter a valid prompt in the **Text** field.
+2. When you've set the **Prompt** to **Connected Chat Trigger Node** and the incoming data has no field called `chatInput`.

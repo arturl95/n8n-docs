@@ -1,0 +1,10 @@
+* The community nodes repository: a new way to build and share nodes.
+* Data pinning and data mapping: accelerate workflow development with better data manipulation functionality.
+
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### Community nodes repository
+
+This release introduces the [community node repository](/integrations/community-nodes/installation/). This allows developers to build and share nodes as npm packages. Users can install community-built nodes directly in n8n.

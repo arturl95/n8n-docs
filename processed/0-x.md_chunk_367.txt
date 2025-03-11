@@ -1,0 +1,14 @@
+### Bug fixes
+
+* **Core**: properly resolve expressions in declarative style nodes.
+
+## n8n@0.180.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.179.0...n8n@0.180.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2022-06-07
+
+This release adds a new node for Cal.com, support for tags in workflow import and export, UI improvements, node enhancements, and bug fixes.
+
+### New features
+
+<div class="n8n-new-features" markdown>

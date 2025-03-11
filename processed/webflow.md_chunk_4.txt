@@ -1,0 +1,3 @@
+If you need to configure OAuth2 from scratch, [register an application](https://developers.webflow.com/data/docs/register-an-app){:target=_blank .external-link} in your workspace.
+
+Use these settings for your application:

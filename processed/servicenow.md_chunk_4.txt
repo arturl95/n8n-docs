@@ -1,0 +1,5 @@
+To generate your **Client ID** and **Client Secret**, register a new app in **System OAuth > Application Registry > New > Create an OAuth API endpoint for external clients**. Use these settings for your app:
+
+- Copy the **Client ID** and add it to your n8n credential.
+- Enter a **Client Secret** or leave it blank to automatically generate a random secret. Add this secret to your n8n credential.
+- Copy the n8n **OAuth Redirect URL** and add it as a **Redirect URL**.

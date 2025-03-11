@@ -1,0 +1,3 @@
+- `DB_POSTGRESDB_SSL_CERT` (default: undefined): Path to the client's TLS certificate
+ - `DB_POSTGRESDB_SSL_KEY` (default: undefined): Path to the client's private key corresponding to the certificate
+ - `DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED` (default: true): If TLS connections that fail validation should be rejected

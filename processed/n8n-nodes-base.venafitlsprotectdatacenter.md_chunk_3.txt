@@ -1,0 +1,12 @@
+## Templates and examples
+
+<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
+[[ templatesWidget(page.title, 'venafi-tls-protect-datacenter') ]]
+
+## Related resources
+
+n8n also provides:
+
+* A [node](/integrations/builtin/app-nodes/n8n-nodes-base.venafitlsprotectcloud/) and [trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.venafitlsprotectcloudtrigger/) node for Venafi TLS Protect Cloud.
+
+<!-- vale on -->

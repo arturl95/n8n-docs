@@ -1,0 +1,5 @@
+### New nodes
+
+* [Linear Node:](/integrations/builtin/app-nodes/n8n-nodes-base.linear/) Add Linear Node.
+
+### Enhanced nodes

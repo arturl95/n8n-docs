@@ -1,0 +1,9 @@
+### New nodes
+
+* [Freshworks CRM](/integrations/builtin/app-nodes/n8n-nodes-base.freshworkscrm/)
+* [Google Perspective](/integrations/builtin/app-nodes/n8n-nodes-base.googleperspective/)
+* [Marketstack](/integrations/builtin/app-nodes/n8n-nodes-base.marketstack/)
+* [NocoDB](/integrations/builtin/app-nodes/n8n-nodes-base.nocodb/)
+
+
+### Enhanced nodes

@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- A Personal **Access Token** (PAT): Refer to the [Figma API Access Tokens documentation](https://www.figma.com/developers/api#access-tokens){:target=_blank .external-link} for instructions on generating a Personal **Access Token**.

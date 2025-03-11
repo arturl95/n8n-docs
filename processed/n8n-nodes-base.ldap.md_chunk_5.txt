@@ -1,0 +1,9 @@
+Configure this operation using these parameters:
+
+* **Credential to connect with**: Select or create an [LDAP credential](/integrations/builtin/credentials/ldap/) to connect with.
+* **DN**: Enter the current Distinguished Name (DN) of the entry to rename.
+* **New DN**: Enter the new Distinguished Name (DN) for the entry in this field.
+
+## Search
+
+Configure this operation using these parameters:

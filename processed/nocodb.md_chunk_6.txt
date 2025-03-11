@@ -1,0 +1,8 @@
+To generate a user auth token:
+
+1. Log into NocoDB and select the **User menu** in the bottom left sidebar.
+2. Select **Copy Auth token**.
+3. Enter that auth token as the **User Token** in n8n. 
+4. Enter the **Host** of your NocoDB instance, for example `http://localhost:8080`.
+
+Refer to the NocoDB [Auth Tokens documentation](https://docs.nocodb.com/account-settings/api-tokens/#auth-tokens){:target=_blank .external-link} for more information.

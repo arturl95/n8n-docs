@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Freshservice credentials](/integrations/builtin/credentials/freshservice/) for guidance on setting up authentication. 
+///
+
+## Operations

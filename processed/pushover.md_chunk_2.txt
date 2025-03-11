@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Generated when you [register an application](https://pushover.net/apps/build){:target=_blank .external-link}. Refer to [Application Registration](https://pushover.net/api#registration){:target=_blank .external-link} for more information.

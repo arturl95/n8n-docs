@@ -1,0 +1,21 @@
+* Client
+    * Create a new client
+    * Delete a client
+    * Get data of a client
+    * Get data of all clients
+* Expense
+    * Create a new expense
+    * Delete an expense
+    * Get data of an expense
+    * Get data of all expenses
+* Invoice
+    * Create a new invoice
+    * Delete a invoice
+    * Email an invoice
+    * Get data of a invoice
+    * Get data of all invoices
+* Payment
+    * Create a new payment
+    * Delete a payment
+    * Get data of a payment
+    * Get data of all payments

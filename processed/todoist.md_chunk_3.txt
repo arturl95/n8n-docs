@@ -1,0 +1,10 @@
+## Using OAuth2
+
+--8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
+
+If you're [self-hosting](/hosting/) n8n, you'll need a [Todoist](https://todoist.com/){:target=_blank .external-link} account and:
+
+- A **Client ID**
+- A **Client Secret**
+
+Get both by creating an application:

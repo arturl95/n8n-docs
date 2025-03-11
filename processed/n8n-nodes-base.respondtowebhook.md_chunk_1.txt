@@ -1,0 +1,7 @@
+/// note | Runs once for the first data item
+The Respond to Webhook node runs once, using the first incoming data item. Refer to [Return more than one data item](#return-more-than-one-data-item) for more information.
+///
+
+## How to use Respond to Webhook
+
+To use the Respond to Webhook node:

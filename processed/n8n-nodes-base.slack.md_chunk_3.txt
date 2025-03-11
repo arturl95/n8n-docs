@@ -1,0 +1,11 @@
+* **Channel**
+    * **Archive** a channel.
+    * **Close** a direct message or multi-person direct message.
+    * **Create** a public or private channel-based conversation.
+    * **Get** information about a channel.
+    * **Get Many**: Get a list of channels in Slack.
+    * **History**: Get a channel's history of messages and events.
+    * **Invite** a user to a channel.
+    * **Join** an existing channel.
+    * **Kick**: Remove a user from a channel.
+    * **Leave** a channel.

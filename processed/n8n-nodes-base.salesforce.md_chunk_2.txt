@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Salesforce credentials](/integrations/builtin/credentials/salesforce/) for guidance on setting up authentication. 
+///
+
+## Operations

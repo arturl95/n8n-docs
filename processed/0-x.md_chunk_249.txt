@@ -1,0 +1,8 @@
+* Editor: fix a hover bug in the bottom menu.
+* Editor: resolve performance issues when opening a node, or editing a code node, with a large amount of data.
+* Editor: ensure workflows always stop when clicking the stop button.
+* Editor: fix a bug that was causing text highlighting when mapping data in Firefox.
+* Editor: ensure correct linting in the Code node editor.
+* Editor: handle null values in table view.
+* Elasticsearch node: fix a pagination issue.
+* Google Drive node: fix typo.

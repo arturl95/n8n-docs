@@ -1,0 +1,5 @@
+/// note | Communication nodes
+You can replace the Discord node with another communication app. For example, n8n also has nodes for [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/){:target="_blank" .external} and [Mattermost](/integrations/builtin/app-nodes/n8n-nodes-base.mattermost/){:target="_blank" .external}.
+///
+
+In your workflow, add a Discord node connected to the Code node.

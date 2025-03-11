@@ -1,0 +1,7 @@
+![DateTime](/_images/integrations/creating-nodes/datetime.png)
+
+
+
+## Boolean
+
+The `boolean` type adds a toggle for entering true or false.

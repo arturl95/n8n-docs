@@ -1,0 +1,7 @@
+Refer to [Create transcription | OpenAI](https://platform.openai.com/docs/api-reference/audio/createTranscription){:target=_blank .external-link} documentation for more information.
+
+## Translate a Recording
+
+Use this operation to translate audio into English. OpenAI API limits the size of the audio file to 25 MB. OpenAI will use the `whisper-1` model by default. 
+
+Enter these parameters:

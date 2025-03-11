@@ -1,0 +1,7 @@
+11. Add permissions on the **Bot > Bot Permissions** page. Refer to Discord's [Permissions](https://discord.com/developers/docs/topics/permissions){:target=_blank .external-link} documentation for more information. n8n recommends selecting these permissions for the [Discord](/integrations/builtin/app-nodes/n8n-nodes-base.discord/) node:
+    - Manage Roles
+    - Manage Channels
+    - Read Messages/View Channels
+    - Send Messages
+    - Create Public Threads
+    - Create Private Threads

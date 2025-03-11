@@ -1,0 +1,8 @@
+For more information about credentials files and options, refer to [Credentials file](/integrations/creating-nodes/build/reference/credentials-files/).
+
+
+### Step 5: Add node metadata
+
+Metadata about your node goes in the JSON file at the root of your node. n8n refers to this as the codex file. In this example, the file is `NasaPics.node.json`.
+
+Add the following code to the JSON file:

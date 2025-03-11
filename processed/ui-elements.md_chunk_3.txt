@@ -1,0 +1,4 @@
+![String](/_images/integrations/creating-nodes/string.png)
+
+
+String field for inputting passwords:

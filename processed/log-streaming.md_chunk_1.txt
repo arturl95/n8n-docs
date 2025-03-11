@@ -1,0 +1,10 @@
+## Set up log streaming
+
+To use log streaming, you have to add a streaming destination.
+
+1. Navigate to **Settings** > **Log Streaming**.
+2. Select **Add new destination**.
+3. Choose your destination type. n8n opens the **New Event Destination** modal.
+4. In the **New Event Destination** modal, enter the configuration information for your event destination. These depend on the type of destination you're using.
+5. Select **Events** to choose which events to stream.
+6. Select **Save**.

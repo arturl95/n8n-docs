@@ -1,0 +1,29 @@
+"typeVersion": 1,
+        "position": [
+          220,
+          300
+        ]
+      }
+    ],
+    "connections": {
+      "HTTP Request": {
+        "main": [
+          [
+            {
+              "node": "IF",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Start": {
+        "main": [
+          []
+        ]
+      },
+      "IF": {
+        "main": [
+          [
+            {
+              "node": "Set",

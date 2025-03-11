@@ -1,0 +1,4 @@
+* Editor: fix redo in code and expression editor.
+* Editor: fix the canvas node distance when automatically injecting manual trigger.
+* HTTP Request Node: fix AWS credentials to automatically deconstruct the URL.
+* Split In Batches Node: roll back changes in v1 and create v2.

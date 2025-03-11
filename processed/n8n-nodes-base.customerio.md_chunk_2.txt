@@ -1,0 +1,21 @@
+/// note | Credentials
+Refer to [Customer.io credentials](/integrations/builtin/credentials/customerio/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Customer
+    * Create/Update a customer.
+    * Delete a customer.
+* Event
+    * Track a customer event.
+    * Track an anonymous event.
+* Campaign
+    * Get
+    * Get All
+    * Get Metrics
+* Segment
+    * Add Customer
+    * Remove Customer
+
+## Templates and examples

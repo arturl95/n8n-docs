@@ -1,0 +1,7 @@
+For full details, refer to the [n8n v1.0 migration guide](/1-0-migration-checklist/).
+
+### Highlights
+
+<div class="n8n-new-features" markdown>
+
+#### Python support

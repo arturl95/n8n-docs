@@ -1,0 +1,4 @@
+* `comma`: `{ a: ['b', 'c'] }` as `a=b,c`
+- `auth`: Used for Basic auth. Provide `username` and `password`. n8n recommends omitting this, and using `helpers.httpRequestWithAuthentication(...)` instead.
+- `disableFollowRedirect`: By default, n8n follows redirects. You can set this to true to prevent this from happening.
+- `skipSslCertificateValidation`: Used for calling HTTPS services without proper certificate

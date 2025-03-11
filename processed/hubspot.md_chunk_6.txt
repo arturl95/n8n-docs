@@ -1,0 +1,6 @@
+1. In your HubSpot account, select the **settings icon** in the main navigation bar.
+2. In the left sidebar menu, go to **Integrations > Private Apps**.
+3. Select **Create private app**.
+4. On the **Basic Info** tab, enter your app's **Name**.
+5. Hover over the **placeholder logo** and select the upload icon to upload a square image that will serve as the logo for your app.
+6. Enter a **Description** for your app.

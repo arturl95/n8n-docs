@@ -1,0 +1,3 @@
+## Front-end logs
+
+As of now, front-end logs aren't available. Using `Logger` or `LoggerProxy` would yield errors in the `editor-ui` package. This functionality will get implemented in the future versions.

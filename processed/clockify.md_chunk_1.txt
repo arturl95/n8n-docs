@@ -1,0 +1,16 @@
+- [Clockify](/integrations/builtin/app-nodes/n8n-nodes-base.clockify/)
+- [Clockify Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.clockifytrigger/)
+
+## Prerequisites
+
+Create a [Clockify](https://www.clockify.com/) account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Clockify's API documentation](https://docs.developer.clockify.me/){:target=_blank .external-link} for more information about the service.
+
+## Using API key

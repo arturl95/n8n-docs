@@ -1,0 +1,6 @@
+* n8n version
+* Database
+* n8n EXECUTIONS_PROCESS setting
+* Running n8n via (Docker, npm, n8n cloud)
+* Operating system
+///

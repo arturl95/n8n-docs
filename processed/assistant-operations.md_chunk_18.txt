@@ -1,0 +1,2 @@
+- **Base URL**: Enter the base URL that the assistant should use for making API requests. This option is useful for directing the assistant to use endpoints provided by other LLM providers that offer an OpenAI-compatible API.
+- **Max Retries**: Specify the number of times the assistant should retry an operation in case of failure.

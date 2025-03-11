@@ -1,0 +1,7 @@
+Refer to [Create speech | OpenAI](https://platform.openai.com/docs/api-reference/audio/createSpeech){:target=_blank .external-link} documentation for more information.
+
+## Transcribe a Recording
+
+Use this operation to transcribe audio into text. OpenAI API limits the size of the audio file to 25 MB. OpenAI will use the `whisper-1` model by default. 
+
+Enter these parameters:

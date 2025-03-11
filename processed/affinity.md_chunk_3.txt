@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Refer to [How to obtain your Affinity API key documentation](https://support.affinity.co/hc/en-us/articles/360032633992-How-to-obtain-your-Affinity-API-key){:target=_blank .external-link} to get your API key.

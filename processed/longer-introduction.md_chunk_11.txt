@@ -1,0 +1,2 @@
+```
+    This generates a date in the correct format, seven days before the current date.

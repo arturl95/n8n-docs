@@ -1,0 +1,4 @@
+* **Credential to connect with**: Create or select an existing [Telegram credential](/integrations/builtin/credentials/telegram/).
+* **Resource**: Select **Chat**.
+* **Operation**: Select **Leave**.
+* **Chat ID**: Enter the Chat ID or username of the channel you wish to leave in the format `@channelusername`.

@@ -1,0 +1,6 @@
+- Get an exact address by a partial address search
+- Discover geographical, company, timezone, and reputation data by IPv4 address
+- Discover the city name, zip code, province, country, latitude, and longitude from an IPv4 or IPv6 address and geocodes it
+- Parse postal address into separated fields, getting an improved resolution
+- Discover locale data (currency, language) by IPv4 or IPv6 address
+- Discover the city name, zip code, province, or country by latitude and longitude

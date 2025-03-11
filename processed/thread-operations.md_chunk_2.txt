@@ -1,0 +1,7 @@
+Enter these parameters:
+
+* Select the **Credential to connect with** or create a new one.
+* **Resource**: Select **Thread**.
+* **Operation**: Select **Add Label**.
+* **Thread ID**: Enter the ID of the thread you want to add the label to.
+* **Label Names or IDs**: Select the Label names you want to apply or enter an expression to specify IDs. The dropdown populates based on the **Credential** you selected.

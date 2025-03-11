@@ -1,0 +1,8 @@
+### Enhanced nodes
+
+
+* [GitHub:](/integrations/builtin/app-nodes/n8n-nodes-base.github/) Added Reference option to the Get operation of the File resource.
+* [Twilio:](/integrations/builtin/app-nodes/n8n-nodes-base.twilio/) Added Status Callbacks option.
+* [uProc:](/integrations/builtin/app-nodes/n8n-nodes-base.uproc/) Sanitized Data Webhook field description.
+
+### Core Functionality

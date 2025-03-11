@@ -1,0 +1,3 @@
+* **Save failed production executions**: whether n8n should save failed executions for active workflows.
+* **Save successful production executions**: whether n8n should save successful executions for active workflows.
+* **Save manual executions**: whether n8n should save executions for workflows started by the user in the editor.

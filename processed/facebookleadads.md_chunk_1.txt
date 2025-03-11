@@ -1,0 +1,9 @@
+* [Facebook Lead Ads trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebookleadadstrigger/)
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Facebook Lead Ads' documentation](https://developers.facebook.com/docs/marketing-api/guides/lead-ads/){:target=_blank .external-link} for more information about the service.

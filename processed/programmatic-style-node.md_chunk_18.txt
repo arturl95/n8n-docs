@@ -1,0 +1,12 @@
+'create',
+			],
+			resource: [
+				'contact',
+			],
+		},
+	},
+	default:'',
+	placeholder: 'name@email.com',
+	description:'Primary email for the contact',
+},
+```

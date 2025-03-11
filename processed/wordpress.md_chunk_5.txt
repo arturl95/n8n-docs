@@ -1,0 +1,5 @@
+Refer to WordPress's [Enable Two-Step Authentication](https://wordpress.com/support/security/two-step-authentication/){:target=_blank .external-link} for detailed instructions.
+
+### Create an application password
+
+With Two-Step Authentication enabled, you can now generate an application password:

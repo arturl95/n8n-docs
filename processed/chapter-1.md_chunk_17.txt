@@ -1,0 +1,10 @@
+## Transforming data
+
+The incoming data from some nodes may have a different data structure than the one used in n8n. In this case, you need to [transform the data](/data/transforming-data/){:target="_blank" .external}, so that each item can be processed individually.
+
+The two most common operations for data transformation are:
+
+- Creating multiple items from one item
+- Creating a single item from multiple items
+
+There are several ways to transform data for the purposes mentioned above:

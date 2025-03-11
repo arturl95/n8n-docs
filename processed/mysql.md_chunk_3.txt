@@ -1,0 +1,7 @@
+- The server **Host**: The database's host name or IP address.
+- The **Database** name.
+- A **User** name.
+- A **Password** for that user.
+- The **Port** number used by the MySQL server.
+- **Connect Timeout**: The number of milliseconds during the initial database connection before a timeout occurs.
+- **SSL**: If your database is using SSL, turn this on and add details for the SSL certificate.

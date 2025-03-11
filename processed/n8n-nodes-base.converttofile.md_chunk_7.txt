@@ -1,0 +1,8 @@
+* **File Name**: Enter the file name for the generated output file.
+* **Attendees**: Use this option to add attendees to the event. For each attendee, add:
+	* **Name**
+	* **Email**
+	* **RSVP**: Select whether the attendee needs to confirm attendance (turned on) or doesn't (turned off).
+* **Busy Status**: Use this option to set the busy status for Microsoft applications like Outlook. Choose from:
+	* **Busy**
+	* **Tentative**

@@ -1,0 +1,2 @@
+- A **Base URL**: Enter the URL of your Zammad instance.
+- An **Access Token**: Once **API Token Access** is enabled for the Zammad instance, any user with the `user_preferences.access_token` permission can generate an **Access Token** by going to your **avatar > Profile > Token Access** and **Create** a new token.

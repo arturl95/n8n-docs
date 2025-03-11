@@ -1,0 +1,16 @@
+## Prerequisites
+
+Create a [Salesmate](https://salesmate.io/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API token
+
+## Related resources
+
+Refer to [Salesmate's API documentation](https://apidocs.salesmate.io/?version=latest){:target=_blank .external-link} for more information about the service.
+
+
+## Using API token
+
+To configure this credential, you'll need:

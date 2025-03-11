@@ -1,0 +1,8 @@
+![Multi-options](/_images/integrations/creating-nodes/multioptions.png)
+
+
+## Filter
+
+Use this component to evaluate, match, or filter incoming data.
+
+This is the code from n8n's own If node. It shows a filter component working with a [collection](#collection) component where users can configure the filter's behavior.

@@ -1,0 +1,11 @@
+#### LangChain general availability
+
+This release adds LangChain support to the main n8n version. Refer to [LangChain](/langchain/) for more information on how to build AI tools in n8n, the new nodes n8n has introduced, and related learning resources.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Show avatars of users working on the same workflow
+
+This release improves the experience of users collaborating on workflows. You can now see who else is editing at the same time as you.

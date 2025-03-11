@@ -1,0 +1,4 @@
+9. In the left menu, select **Configuration**.
+10. In n8n, copy the **OAuth Redirect URL** and paste it into the **Allowed redirection URL(s)** in the **URLs** section.
+10. In the **URLs** section, enter an **App URL** for your app. The host entered here needs to match the host for the **Allowed redirection URL(s)**, like the base URL for your n8n instance.
+8. Select **Save and release**.

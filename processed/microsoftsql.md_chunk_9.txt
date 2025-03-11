@@ -1,0 +1,2 @@
+7. Select whether to use **TLS**.
+8. Select whether to **Ignore SSL Issues**: If turned on, the credential will connect even if SSL certificate validation fails.

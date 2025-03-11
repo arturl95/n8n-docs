@@ -1,0 +1,1 @@
+For example, while most nodes just pass data to the next node in the workflow, the [Code node](/code/code-node/) creates a pre-processing and post-processing copy of the data. When dealing will large binary files, this can consume all available resources.

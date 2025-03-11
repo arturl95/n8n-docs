@@ -1,0 +1,16 @@
+"genericAuthType": "httpHeaderAuth",
+            "sendHeaders": true,
+            "headerParameters": {
+            "parameters": [
+                {
+                "name": "unique_id",
+                "value": "recFIcD6UlSyxaVMQ"
+                }
+            ]
+            },
+            "options": {}
+        },
+        "id": "cc106fa0-6630-4c84-aea4-a4c7a3c149e9",
+        "name": "HTTP Request",
+        "type": "n8n-nodes-base.httpRequest",
+        "typeVersion": 4.1,

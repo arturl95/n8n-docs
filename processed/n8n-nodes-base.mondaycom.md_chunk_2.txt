@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [monday.com credentials](/integrations/builtin/credentials/mondaycom/) for guidance on setting up authentication. 
+///
+
+## Operations

@@ -1,0 +1,7 @@
+This release introduces user management and credential sharing for n8n's Cloud platform. It also contains other enhancements and bug fixes.
+
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### User management and credential sharing for Cloud

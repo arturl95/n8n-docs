@@ -1,0 +1,3 @@
+* [Monday:](/integrations/builtin/app-nodes/n8n-nodes-base.mondaycom/) Added support for OAuth2 authentication
+* [MongoDB:](/integrations/builtin/app-nodes/n8n-nodes-base.mongodb/) Added Limit, Skip, and Sort options to the Find operation and added Upsert parameter to the Update operation. Added the functionality to close the connection after use
+* [MySQL:](/integrations/builtin/app-nodes/n8n-nodes-base.mysql/) Added support for insert modifiers and added support for SSL

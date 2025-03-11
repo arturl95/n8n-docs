@@ -1,0 +1,5 @@
+## Answer Inline Query
+
+Use this operation to send answers to callback queries sent from inline queries using the Bot API [answerInlineQuery](https://core.telegram.org/bots/api#answerinlinequery){:target=_blank .external-link} method.
+
+Enter these parameters:

@@ -1,0 +1,4 @@
+* [Facebook Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/) Added Fields parameter.
+* [Gmail:](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) Added Sender Name parameter.
+* [Home Assistant:](/integrations/builtin/app-nodes/n8n-nodes-base.homeassistant/) Added Event resource.
+* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added Deal Product resource.

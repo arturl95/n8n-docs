@@ -1,0 +1,9 @@
+Then:
+
+1. Copy the **Bot Token** you generate and add it into the n8n credential.
+2. Open the **OAuth2** page in your Discord application to access your **Client ID** and generate a **Client Secret**. Add these to your n8n credential.
+3. From n8n, copy the **OAuth Redirect URL** and add it into the Discord application in **OAuth2 > Redirects**. Be sure you save these changes.
+
+## Using webhook
+
+To configure this credential, you'll need:

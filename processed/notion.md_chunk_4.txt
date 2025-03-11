@@ -1,0 +1,9 @@
+1. Go to your Notion [integration dashboard](https://www.notion.com/my-integrations){:target=_blank .external-link}.
+2. Select the **+ New integration** button.
+3. Enter a **Name** for your integration, for example `n8n integration`. If desired, add a **Logo**.
+4. Select **Submit** to create your integration.
+5. Open the **Capabilities** tab. Select these capabilities:
+    - `Read content`
+    - `Update content`
+    - `Insert content`
+    - `User information without email addresses`

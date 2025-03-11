@@ -1,0 +1,4 @@
+* Mailchimp Trigger Node: fix webhook recreation.
+* Prevent unnecessarily touching `updatedAt` when n8n starts.
+* Schedule Trigger Node: change scheduler behaviour for intervals days and hours.
+* Set Node: fix behaviour when selecting `continueOnFail` and `pairedItem`.

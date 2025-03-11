@@ -1,0 +1,4 @@
+* **Password**
+	* **Text**
+	* **Textarea**
+* **Required Field**: Set whether the user must complete this field in order to submit the form (turned on) or if the user can submit the form without completing it (turned off).

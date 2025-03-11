@@ -1,0 +1,8 @@
+## Throwing exceptions in workflows
+
+Another way of troubleshooting workflows is to include a [**Stop and Error node**](/integrations/builtin/core-nodes/n8n-nodes-base.stopanderror/) in your workflow. This node throws an error. You can specify the error type:
+
+- **Error Message**: returns a custom message about the error
+- **Error Object**: returns the type of error
+
+You can only use the **Stop and Error node** as the last node in a workflow.

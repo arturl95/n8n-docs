@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Slack credentials](/integrations/builtin/credentials/slack/) for guidance on setting up authentication. 
+///
+
+## Operations

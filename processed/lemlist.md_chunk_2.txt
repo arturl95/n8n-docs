@@ -1,0 +1,5 @@
+## Using API key
+
+To configure this credential, you'll need:
+
+- An **API Key**: Access your API key in **Settings > Integrations**. Refer to the [API Authentication documentation](https://developer.lemlist.com/#authentication){:target=_blank .external-link} for more information.

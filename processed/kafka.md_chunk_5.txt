@@ -1,0 +1,7 @@
+4. If you've enabled authentication using SASL in your Kafka environment, turn on the **Authentication** toggle. Then add:
+    1. The **Username**
+    2. The **Password**
+    3. Select the broker's configured **SASL Mechanism**. Refer to [SASL configuration](https://kafka.apache.org/documentation/#security_sasl_config){:target=_blank .external-link} for more information. Options include:
+        - `Plain`
+        - `scram-sha-256`
+        - `scram-sha-512`

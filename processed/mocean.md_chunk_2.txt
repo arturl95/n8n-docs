@@ -1,0 +1,4 @@
+- An **API Key**
+- An **API Secret**
+
+Both the key and secret are accessible in your Mocean [Dashboard](https://dashboard.moceanapi.com/). Refer to [API Authentication](https://moceanapi.com/docs/#authentication){:target=_blank .external-link} for more information.

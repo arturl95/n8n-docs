@@ -1,0 +1,12 @@
+The node parameters and options depend on the operation you select. Refer to the sections below for more details on configuring each operation.
+
+## Generate HTML template
+
+Create an HTML template. This allows you to take data from your workflow and output it as HTML. 
+
+You can include:
+
+* Standard HTML
+* CSS in `<style>` tags.
+* JavaScript in `<script>` tags. n8n doesn't execute the JavaScript.
+* Expressions, wrapped in `{{}}`.

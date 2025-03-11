@@ -1,0 +1,17 @@
+* Update a contact
+* Deal
+    * Create a deal
+    * Create a new record, or update the current one if it already exists (upsert)
+    * Delete a contact
+    * Get a contact
+    * Get all contacts
+    * Update a contact
+* Invoice
+    * Create an invoice
+    * Create a new record, or update the current one if it already exists (upsert)
+    * Delete an invoice
+    * Get an invoice
+    * Get all invoices
+    * Update an invoice
+* Lead
+    * Create a lead

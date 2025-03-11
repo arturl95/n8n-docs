@@ -1,0 +1,4 @@
+- An **API Token**: Create an API token from **Settings > Global Settings > API Tokens**. Refer to Strapi's [Creating a new API token documentation](https://docs.strapi.io/user-docs/settings/API-tokens#creating-a-new-api-token){:target=_blank .external-link} for more details and information on regenerating API tokens.
+    
+    /// note | API tokens permission
+    If you don't see the **API tokens** option in **Global settings**, your account doesn't have the **API tokens > Read** permission.

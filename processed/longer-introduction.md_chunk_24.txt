@@ -1,0 +1,7 @@
+1. Select **Current Node** > **Input Data** > **JSON** > **classType**. n8n adds the expression to the **Expression** editor, and displays a sample output.
+1. The expression is: `{{$json["classType"]}}`. Add a message to it, so that the full expression is:
+    ```js
+    There was a solar flare of class {{$json["classType"]}}
+    ```
+1. Close the expressions editor to return to the node.
+1. Close the Postbin node to return to the canvas.

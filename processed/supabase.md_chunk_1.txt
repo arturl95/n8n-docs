@@ -1,0 +1,12 @@
+- [Supabase](/integrations/builtin/app-nodes/n8n-nodes-base.supabase/)
+- [Supabase Vector Store](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstoresupabase/)
+
+## Prerequisites
+
+Create a [Supabase](https://supabase.com/dashboard/sign-up){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

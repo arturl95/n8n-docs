@@ -1,0 +1,23 @@
+```bash
+n8n export:workflow --backup --output=backups/latest/
+```
+
+### Credentials
+
+Export all your credentials to the standard output (terminal):
+
+```bash
+n8n export:credentials --all
+```
+
+Export credentials by their ID and specify the output file name:
+
+```bash
+n8n export:credentials --id=<ID> --output=file.json
+```
+
+Export all credentials to a specific directory in a single file:
+
+```bash
+n8n export:credentials --all --output=backups/latest/file.json
+```

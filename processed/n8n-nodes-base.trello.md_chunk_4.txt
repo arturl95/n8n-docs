@@ -1,0 +1,16 @@
+* Card Comment
+    * Create a comment on a card
+    * Delete a comment from a card
+    * Update a comment on a card
+* Checklist
+    * Create a checklist item
+    * Create a new checklist
+    * Delete a checklist
+    * Delete a checklist item
+    * Get the data of a checklist
+    * Returns all checklists for the card
+    * Get a specific checklist on a card
+    * Get the completed checklist items on a card
+    * Update an item in a checklist on a card
+* Label
+    * Add a label to a card.

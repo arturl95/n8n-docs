@@ -1,0 +1,3 @@
+* [Function:](/integrations/builtin/core-nodes/n8n-nodes-base.function/) The node now prevents unsupported data from being returned.
+* [Function Item:](/integrations/builtin/core-nodes/n8n-nodes-base.functionitem/) The node now prevents unsupported data from being returned.
+* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Added Engagement resource with Create, Delete, Get, and Get All operations.

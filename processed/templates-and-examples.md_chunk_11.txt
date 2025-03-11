@@ -1,0 +1,5 @@
+5. Open the Remove Duplicates node again and change the **Compare** parameter to **Selected Fields**.
+6. In the **Fields To Compare** field, enter `job`.
+7. Select **Test step** to run the Remove Duplicates node, removing duplicated data in the current input.
+
+n8n removes the items in the current input that have the same `job` data. Your output in table view should look like this:

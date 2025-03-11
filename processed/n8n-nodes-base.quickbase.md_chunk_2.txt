@@ -1,0 +1,22 @@
+/// note | Credentials
+Refer to [Quick Base credentials](/integrations/builtin/credentials/quickbase/) for guidance on setting up authentication. 
+///
+
+## Operations
+
+* Field
+    * Get all fields
+* File
+    * Delete a file
+    * Download a file
+* Record
+    * Create a record
+    * Delete a record
+    * Get all records
+    * Update a record
+    * Upsert a record
+* Report
+    * Get a report
+    * Run a report
+
+## Templates and examples

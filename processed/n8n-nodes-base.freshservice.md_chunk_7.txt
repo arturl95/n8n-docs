@@ -1,0 +1,12 @@
+* Software
+    * Create a software application
+    * Delete a software application
+    * Retrieve a software application
+    * Retrieve all software applications
+    * Update a software application
+* Ticket
+    * Create a ticket
+    * Delete a ticket
+    * Retrieve a ticket
+    * Retrieve all tickets
+    * Update a ticket

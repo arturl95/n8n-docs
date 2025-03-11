@@ -1,0 +1,9 @@
+## Disconnect the Airtable node
+
+In your workflow, disconnect the Airtable node** from the **If node in the same way we disconnected it in the [Filtering Orders](/courses/level-one/chapter-5/chapter-5.3/) lesson.
+
+## Configure the Edit Fields node
+
+Now add a new Edit Fields (Set) node** attached to the **If node's `true` connector by selecting the **+** icon with that connector and searching for **Edit Fields**.
+
+With the Edit Fields node window open, configure these parameters:

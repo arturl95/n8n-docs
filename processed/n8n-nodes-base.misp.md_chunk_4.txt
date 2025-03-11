@@ -1,0 +1,18 @@
+* Delete
+    * Get
+    * Get All
+    * Update
+* Tag
+    * Create
+    * Delete
+    * Get All
+    * Update
+* User
+    * Create
+    * Delete
+    * Get
+    * Get All
+    * Update
+* Warninglist
+    * Get
+    * Get All

@@ -1,0 +1,17 @@
+```js
+export const ExampleNode implements INodeType {
+    description: {
+        displayName: 'Example Node',
+        ...
+        properties: [
+            {
+                displayName: 'Resource',
+                name: 'resource',
+                type: 'options',
+                options: [
+                    {
+                        name: 'Resource One',
+                        value: 'resourceOne'
+                    },
+                    {
+                        name: 'Resource Two',

@@ -1,0 +1,10 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: explanation
+---
+
+# Risks when using community nodes
+
+Using community nodes means you are installing unverified code from a public source into your n8n instance. This has some risks.
+
+Risks include:

@@ -1,0 +1,17 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: Sekoia credentials
+description: Documentation for the Sekoia credentials. Use these credentials to authenticate Sekoia in n8n, a workflow automation platform.
+---
+
+# Sekoia credentials
+
+--8<-- "_snippets/integrations/builtin/credentials/cred-only-statement.md"
+
+## Prerequisites
+
+Create a [Sekoia SOC platform](https://www.sekoia.io/en/homepage/) account.
+
+## Supported authentication methods
+
+- API key

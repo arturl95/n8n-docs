@@ -1,0 +1,9 @@
+* Remove a reaction from a post
+    * Get all the reactions to one or more posts
+* User
+    * Create a new user
+    * Deactivates the user and revokes all its sessions by archiving its user object.
+    * Retrieve all users
+    * Get a user by email
+    * Get a user by ID
+    * Invite user to team

@@ -1,0 +1,9 @@
+#### crowd.dev
+
+This release includes a [crowd.dev](https://www.crowd.dev/){:target=_blank .external-link} node and crowd.dev Trigger node. crowd.dev is a tool to help you understand who is engaging with your open source project.
+
+[crowd.dev node documentation](/integrations/builtin/app-nodes/n8n-nodes-base.crowddev/).
+
+</div>
+
+### Contributors

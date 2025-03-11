@@ -1,0 +1,14 @@
+<!-- vale from-write-good.Weasel = NO -->
+<!-- vale from-write-good.TooWordy = NO -->
+* Activity
+    * Get Many: Get many activities
+* Campaign
+    * Get Many: Get many campaigns
+    * Get Stats: Get campaign stats
+* Enrichment
+	* Get: Fetches a previously completed enrichment
+	* Enrich Lead: Enrich a lead using an email or LinkedIn URL
+	* Enrich Person: Enrich a person using an email or LinkedIn URL
+* Lead
+    * Create: Create a new lead
+    * Delete: Delete an existing lead

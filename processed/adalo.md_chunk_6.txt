@@ -1,0 +1,1 @@
+Refer to [Creating an app](https://help.adalo.com/design/designing-your-app/creating-an-app){:target=_blank .external-link} for more information on creating apps in Adalo. Refer to [The Adalo API](https://help.adalo.com/integrations/the-adalo-api){:target=_blank .external-link} for more information on generating API keys.

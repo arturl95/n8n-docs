@@ -1,0 +1,12 @@
+},
+	];
+	authenticate = {
+		type: 'generic',
+		properties: {
+			qs: {
+				'api_key': '={{$credentials.apiKey}}'
+			}
+		},
+	} as IAuthenticateGeneric;
+}
+```

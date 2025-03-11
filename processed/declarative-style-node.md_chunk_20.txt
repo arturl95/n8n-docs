@@ -1,0 +1,30 @@
+{
+	displayName: 'Operation',
+	name: 'operation',
+	type: 'options',
+	noDataExpression: true,
+	displayOptions: {
+		show: {
+			resource: [
+				'marsRoverPhotos',
+			],
+		},
+	},
+	options: [
+		{
+			name: 'Get',
+			value: 'get',
+			action: 'Get Mars Rover photos',
+			description: 'Get photos from the Mars Rover',
+			routing: {
+				request: {
+					method: 'GET',
+				},
+			},
+		},
+	],
+	default: 'get',
+},
+{
+	displayName: 'Rover name',
+	description: 'Choose which Mars Rover to get a photo from',

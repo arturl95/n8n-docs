@@ -1,0 +1,11 @@
+### Contributors
+
+
+[Phil Clifford](https://github.com/philclifford)
+
+## n8n@0.158.0
+
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.157.1...n8n@0.158.0) for this version.<br />
+**Release date:** 2022-01-09
+
+### New nodes

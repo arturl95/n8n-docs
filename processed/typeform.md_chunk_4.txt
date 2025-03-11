@@ -1,0 +1,8 @@
+Refer to Typeform's [Personal access token documentation](https://www.typeform.com/developers/get-started/personal-access-token/){:target=_blank .external-link} for more information.
+
+## Using OAuth2
+
+To configure this credential, you'll need a [Typeform](https://typeform.com/){:target=_blank .external-link} account and:
+
+- A **Client ID**: Generated when you register an app.
+- A **Client Secret**: Generated when you register an app.

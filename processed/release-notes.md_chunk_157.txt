@@ -1,0 +1,10 @@
+For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
+
+### Contributors
+[Jochem](https://github.com/jvdweerthof){:target=_blank .external-link}  
+[KhDu](https://github.com/KhDu){:target=_blank .external-link}  
+[Nico Weichbrodt](https://github.com/envy){:target=_blank .external-link}  
+[Pavlo Paliychuk](https://github.com/paul-paliychuk){:target=_blank .external-link}
+
+
+## n8n@1.48.3

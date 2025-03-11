@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Vero](https://getvero.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- API auth token
+
+## Related resources
+
+Refer to [Vero's API documentation](https://developers.getvero.com/track-api-reference/#/){:target=_blank .external-link} for more information about the service.
+
+## Using API auth token
+
+To configure this credential, you'll need:

@@ -1,0 +1,13 @@
+- [ClickUp](/integrations/builtin/app-nodes/n8n-nodes-base.clickup/)
+- [ClickUp Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.clickuptrigger/)
+
+## Supported authentication methods
+
+- API access token
+- OAuth2
+
+## Related resources
+
+Refer to [ClickUp's documentation](https://clickup.com/api/){:target=_blank .external-link} for more information about the service.
+
+## Using API access token

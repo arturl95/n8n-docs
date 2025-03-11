@@ -1,0 +1,5 @@
+* **YYYY/MM/DD**: For `4 September 1986`, this formats the date as `1986/09/04`.
+    * **MMMM DD YYYY**: For `4 September 1986`, this formats the date as `September 04 1986`.
+    * **MM-DD-YYYY**: For `4 September 1986`, this formats the date as `09-04-1986`.
+    * **YYYY-MM-DD**: For `4 September 1986`, this formats the date as `1986-09-04`.
+* **Output Field Name**: Enter the name of the field to output the formatted date to.

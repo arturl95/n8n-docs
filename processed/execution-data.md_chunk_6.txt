@@ -1,0 +1,21 @@
+```sh
+# npm
+# Activate automatic data pruning
+export EXECUTIONS_DATA_PRUNE=true
+
+# Number of hours after execution that n8n deletes data
+export EXECUTIONS_DATA_MAX_AGE=168
+
+# Number of executions to store
+export EXECUTIONS_DATA_PRUNE_MAX_COUNT=50000
+```
+
+```sh
+# Docker
+docker run -it --rm \
+ --name n8n \
+ -p 5678:5678 \
+ -e EXECUTIONS_DATA_PRUNE=true \
+ -e EXECUTIONS_DATA_MAX_AGE=168 \
+ docker.n8n.io/n8nio/n8n
+```

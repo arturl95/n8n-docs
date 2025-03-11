@@ -1,0 +1,17 @@
+4. Paste the following JavaScript code snippet in the **JavaScript Code** field:
+```js
+return [
+	  {
+    json: {
+      greeting: 'Hello',
+      language: 'en',
+    }
+  },
+  {
+    json: {
+      greeting: 'Hallo',
+      language: 'de',
+    }
+  }
+];
+```

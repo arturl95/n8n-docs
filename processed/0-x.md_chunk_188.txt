@@ -1,0 +1,12 @@
+This is a bug fix release.
+
+### Bug fixes
+
+* Editor: ensure full tree on expression editor parse. This resolves an issue with the expressions editor cutting off results.
+* Fix automatic credential selection when credentials are shared.
+
+### Performance improvements
+
+Improvements to the workflows list performance.
+
+## n8n@0.209.1

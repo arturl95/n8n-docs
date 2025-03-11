@@ -1,0 +1,3 @@
+### Create a volume for file storage
+
+While not essential for running n8n, using persistent volumes helps maintain files uploaded while using n8n and if you want to persist [manual n8n encryption keys](/hosting/configuration/environment-variables/deployment/) between restarts, which saves a file containing the key into file storage during startup.

@@ -1,0 +1,6 @@
+Note that you need to replace the text in curly brackets `{}` with expressions that take the respective information from the Error Trigger node.<br/>
+
+4. Execute the Discord node.
+5. Set the newly created workflow as the **Error Workflow** for the main workflow you created in the previous lesson.
+
+The workflow should look like this:

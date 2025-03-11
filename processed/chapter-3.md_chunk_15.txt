@@ -1,0 +1,30 @@
+```json
+	{
+	"meta": {
+		"templateCredsSetupCompleted": true,
+		"instanceId": "cb484ba7b742928a2048bf8829668bed5b5ad9787579adea888f05980292a4a7"
+	},
+	"nodes": [
+		{
+		"parameters": {
+			"mode": "combine",
+			"mergeByFields": {
+			"values": [
+				{
+				"field1": "name",
+				"field2": "name"
+				}
+			]
+			},
+			"options": {}
+		},
+		"id": "578365f3-26dd-4fa6-9858-f0a5fdfc413b",
+		"name": "Merge",
+		"type": "n8n-nodes-base.merge",
+		"typeVersion": 2.1,
+		"position": [
+			720,
+			580
+		]
+		},
+		{

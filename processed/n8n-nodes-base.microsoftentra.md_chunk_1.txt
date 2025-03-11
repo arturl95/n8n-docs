@@ -1,0 +1,5 @@
+# Microsoft Entra ID node
+
+Use the Microsoft Entra ID node to automate work in Microsoft Entra ID and integrate Microsoft Entra ID with other applications. n8n has built-in support for a wide range of Microsoft Entra ID features, which includes creating, getting, updating, and deleting users and groups, as well as adding users to and removing them from groups.
+
+On this page, you'll find a list of operations the Microsoft Entra ID node supports, and links to more resources.

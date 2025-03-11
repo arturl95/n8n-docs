@@ -1,0 +1,14 @@
+* Update an Onfleet task
+* Team
+    * Automatically dispatch tasks assigned to a team to on-duty drivers
+    * Create a new Onfleet team
+    * Delete an Onfleet team
+    * Get a specific Onfleet team
+    * Get all Onfleet teams
+    * Get estimated times for upcoming tasks for a team, returns a selected driver
+    * Update an Onfleet team
+* Worker
+    * Create a new Onfleet worker
+    * Delete an Onfleet worker
+    * Get a specific Onfleet worker
+    * Get all Onfleet workers

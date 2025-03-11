@@ -1,0 +1,20 @@
+```json
+	{
+		"nodes": [
+			{
+				"parameters": {},
+				"name": "Error Trigger",
+				"type": "n8n-nodes-base.errorTrigger",
+				"typeVersion": 1,
+				"position": [
+					720,
+					-380
+				]
+			},
+			{
+				"parameters": {
+					"channel": "channelname",
+					"text": "=This workflow {{$node[\"Error Trigger\"].json[\"workflow\"][\"name\"]}}failed.\nHave a look at it here: {{$node[\"Error Trigger\"].json[\"execution\"][\"url\"]}}",
+					"attachments": [],
+					"otherOptions": {}
+				},

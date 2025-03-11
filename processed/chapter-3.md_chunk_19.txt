@@ -1,0 +1,5 @@
+## Looping
+
+In some cases, you might need to perform the same operation on each element of an array or each data item (for example sending a message to every contact in your address book). In technical terms, you need to iterate through the data (with loops).
+
+n8n generally handles this repetitive processing automatically, as the nodes run once for each item, so you don't need to build loops into your workflows.

@@ -1,0 +1,7 @@
+This release adds [Google Cloud Platform Secrets Manager](/external-secrets/) to the list of external secret stores. We already support AWS secrets, Azure Key Vault, Infisical and HashiCorp Vault. External secret stores are available under an enterprise license.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### New node: Information Extractor

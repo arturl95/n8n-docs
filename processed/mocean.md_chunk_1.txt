@@ -1,0 +1,14 @@
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Mocean's API documentation](https://moceanapi.com/docs/){:target=_blank .external-link} for more information about the service.
+
+## Using API key
+
+To configure this credential, you'll need:
+
+- An **API Key**
+- An **API Secret**

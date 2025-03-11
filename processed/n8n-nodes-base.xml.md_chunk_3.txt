@@ -1,0 +1,4 @@
+- **Allow Surrogate Chars**: Set whether to allow using characters from the Unicode surrogate blocks (turned on) or not (turned off).
+- **Cdata**: Set whether to wrap text nodes in `<![CDATA[ ... ]]>` instead of escaping when it's required (turned on) or not (turned off).
+    * Turning this option on doesn't add `<![CDATA[ ... ]]>` if it's not required.
+- **Headless**: Set whether to omit the XML header (turned on) or include it (turned off).

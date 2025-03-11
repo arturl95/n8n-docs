@@ -1,0 +1,15 @@
+### Core Functionality
+
+- Fixed a bug where a wrong number suffix was used after duplicating nodes.
+
+### Bug fixes
+
+
+* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Fixed a bug where using Digest Auth would fail.
+
+### Contributors
+
+
+[pemontto](https://github.com/pemontto)
+
+## n8n@0.156.0

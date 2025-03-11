@@ -1,0 +1,2 @@
+| **Exclude Trailing Punctuation From URLs** | Whether to exclude trailing punctuation from automatically linked URLs (enabled) or not (disabled). For use with **Automatic Linking To URLs**. | Disabled |
+| **GitHub Code Blocks** | Whether to enable GitHub Flavored Markdown code blocks (enabled) or not (disabled). | Enabled |

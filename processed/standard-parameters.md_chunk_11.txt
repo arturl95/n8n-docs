@@ -1,0 +1,7 @@
+_Array of objects_ | _Required_  
+
+This contains the resource and operations objects that define node behaviors, as well as objects to set up mandatory and optional fields that can receive user input.
+
+### Resource objects
+
+A resource object includes the following parameters:

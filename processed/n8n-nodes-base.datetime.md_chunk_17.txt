@@ -1,0 +1,15 @@
+ISO duration format displays a format as `P<n>Y<n>M<n>DT<n>H<n>M<n>S`. `<n>` is the number for the unit after it.
+
+* P = period (duration). It begins all ISO duration strings.
+* Y = years
+* M = months
+* W = weeks
+* D = days
+* T = delineator between dates and times, used to avoid confusion between months and minutes
+* H = hours
+* M = minutes
+* S = seconds
+
+Milliseconds don't get their own unit, but instead are decimal seconds. For example, 2.1 milliseconds is `0.0021S`.
+
+## Round a Date

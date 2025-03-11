@@ -1,0 +1,17 @@
+## Prerequisites
+
+Create a [Xata](https://xata.io/){:target=_blank .external-link} database or an account on an existing database.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources
+
+Refer to [Xata's documentation](https://xata.io/docs/rest-api/authentication){:target=_blank .external-link} for more information about the service.
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-overview-link.md"
+
+## Using API key
+
+To configure this credential, you'll need:

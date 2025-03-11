@@ -1,0 +1,11 @@
+#### Two-factor authentication
+
+n8n now supports two-factor authentication (2FA) for self-hosted instances. n8n is working on bringing support to Cloud. Refer to [Two-factor authentication](/user-management/two-factor-auth/) for guidance on enabling and using it.
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### Debug executions
+
+Users on a paid n8n plan can now load data from previous executions into their current workflow. This is useful when debugging a failed execution.

@@ -1,0 +1,13 @@
+## Opting out of data collection
+
+n8n enables telemetry collection by default. To disable it, configure the following environment variables.
+
+### Opt out of telemetry events
+
+To opt out of telemetry events, set the `N8N_DIAGNOSTICS_ENABLED` environment variable to false, for example:
+
+```bash
+export N8N_DIAGNOSTICS_ENABLED=false
+```
+
+### Opt out of checking for new versions of n8n

@@ -1,0 +1,12 @@
+## Prerequisites
+
+- Create a [Contentful](https://www.contentful.com/){:target=_blank .external-link} account.
+- Create a [Contentful space](https://www.contentful.com/help/contentful-101/#step-2-create-a-space){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- API access token
+
+## Related resources
+
+Refer to [Contentful's API documentation](https://www.contentful.com/developers/docs/references/){:target=_blank .external-link} for more information about the service.

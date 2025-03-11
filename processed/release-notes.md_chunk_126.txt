@@ -1,0 +1,9 @@
+#### New node: AI Transform
+
+This release adds the [AI Transform node](/integrations/builtin/core-nodes/n8n-nodes-base.aitransform/). Use the AI Transform node to generate code snippets based on your prompt. The AI is context-aware, understanding the workflow’s nodes and their data types. The node is only available on [Cloud plans](/manage-cloud/overview/).
+
+</div>
+
+<div class="n8n-new-features" markdown>
+
+#### New node: Okta

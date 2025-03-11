@@ -1,0 +1,33 @@
+```json
+[
+  {
+    "id": "23423532",
+    "name": "Jay Gatsby",
+  },
+  {
+    "id": "23423533",
+    "name": "José Arcadio Buendía",
+  },
+  {
+    "id": "23423534",
+    "name": "Max Sendak",
+  },
+  {
+    "id": "23423535",
+    "name": "Zaphod Beeblebrox",
+  },
+  {
+    "id": "23423536",
+    "name": "Edmund Pevensie",
+  }
+]
+```
+
+To extract the name, use the following expression:
+
+```js
+{{$("<node-name>").item.json.name}}
+```
+
+
+### Access the linked item in the current node's input

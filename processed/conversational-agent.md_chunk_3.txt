@@ -1,0 +1,13 @@
+Refer to [AI Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index/) for more information on the AI Agent node itself.
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/use-with-chat-trigger.md"
+
+## Node parameters
+
+Configure the Conversational Agent using the following parameters.
+
+### Prompt
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/prompt.md"
+
+### Require Specific Output Format

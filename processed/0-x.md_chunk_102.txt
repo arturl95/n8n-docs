@@ -1,0 +1,10 @@
+### New features
+
+* Add distribution test tracking.
+* Add events to enable onboarding checklist.
+* Core: add SAML login setup (for upcoming feature).
+* Core: add SAML settings and consolidate LDAP under SSO (for upcoming feature).
+* Editor: add missing documentation to autocomplete items for inline code editor.
+* Editor: Show parameter hint on multiline inputs.
+
+### Node enhancements

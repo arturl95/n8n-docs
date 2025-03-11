@@ -1,0 +1,17 @@
+## Edit and delete variables
+
+To edit or delete a variable:
+
+1. On the **Variables** page, hover over the variable you want to change.
+2. Select **Edit** or **Delete**.
+
+## Use variables in workflows
+
+You can access variables in the Code node and in expressions:
+
+```javascript
+// Access a variable
+$vars.<variable-name>
+```
+
+All variables are strings.

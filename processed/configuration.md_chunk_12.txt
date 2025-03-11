@@ -1,0 +1,3 @@
+| `frontend.settings` | `[frontendSettings: IN8nUISettings]` | Gets called on n8n startup. Allows you to, for example, overwrite frontend data like the displayed OAuth URL. |
+| `n8n.ready` | `[app: App]` | Called once n8n is ready. Use to, for example, register custom API endpoints. |
+| `n8n.stop` |  | Called when an n8n process gets stopped. Allows you to save some process data. |

@@ -1,0 +1,15 @@
+## Prerequisites
+
+Create a [Zoho](https://www.zoho.com/){:target=_blank .external-link} account.
+
+## Supported authentication methods
+
+- OAuth2
+
+## Related resources
+
+Refer to [Zoho's CRM API documentation](https://www.zoho.com/crm/developer/docs/api/v3/){:target=_blank .external-link} for more information about the service.
+
+## Using OAuth2
+
+To configure this credential, you'll need:

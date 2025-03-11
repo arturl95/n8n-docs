@@ -1,0 +1,2 @@
+- **Timezone**: The timezone used in the response. By default, uses the n8n timezone.
+- **Updated Min**: The lower bounds for an event's last modification time (as an [RFC 3339 timestamp](https://datatracker.ietf.org/doc/html/rfc3339))

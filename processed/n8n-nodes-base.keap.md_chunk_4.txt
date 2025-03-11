@@ -1,0 +1,16 @@
+* Get an ecommerce order
+    * Delete an ecommerce order
+    * Retrieve all ecommerce orders
+* Ecommerce Product
+    * Create an ecommerce product
+    * Delete an ecommerce product
+    * Get an ecommerce product
+    * Retrieve all ecommerce product
+* Email
+    * Create a record of an email sent to a contact
+    * Retrieve all sent emails
+    * Send Email
+* File
+    * Delete a file
+    * Retrieve all files
+    * Upload a file

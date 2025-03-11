@@ -1,0 +1,13 @@
+- [Pipedrive](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/)
+- [Pipedrive Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.pipedrivetrigger/)
+
+## Supported authentication methods
+
+- API token
+- OAuth2
+
+## Related resources
+
+Refer to [Pipedrive's developer documentation](https://pipedrive.readme.io/docs/getting-started){:target=_blank .external-link} for more information about the service.
+
+## Using API token

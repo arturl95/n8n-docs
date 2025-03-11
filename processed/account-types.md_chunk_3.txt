@@ -1,0 +1,6 @@
+| Permission | Owner | Admin | Member |
+| ---------- |------ | ----- | ------ |
+| Manage own email and password | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Manage own workflows | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| View, create, and use tags | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Delete tags | :white_check_mark: | :white_check_mark: | :x: |

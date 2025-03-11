@@ -1,0 +1,12 @@
+## Delete an API key
+
+1. Log in to n8n.
+2. Go to **Settings** > **n8n API**.
+3. Select **Delete** next to the key you want to delete.
+4. Confirm the delete by selecting **Delete Forever**.
+
+## Call the API using your key
+
+Send the API key in your API call as a header named `X-N8N-API-KEY`. 
+
+For example, say you want to get all active workflows. Your curl request will look like this:

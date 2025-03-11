@@ -1,0 +1,3 @@
+Refer to [Environment variables](/hosting/configuration/environment-variables/) for details on each variable.
+
+While most environment variables can use the `_FILE` suffix, it's more beneficial for sensitive data such as credentials and database configuration. Here are some examples:

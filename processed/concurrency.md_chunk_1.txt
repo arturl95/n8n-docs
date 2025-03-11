@@ -1,0 +1,7 @@
+Too many concurrent executions can cause performance degradation and unresponsiveness. To prevent this and improve instance stability, n8n sets concurrency limits for production executions in regular mode.
+
+Any executions beyond the limits queue for later processing. These executions remain in the queue until concurrency capacity frees up, and are then processed in FIFO order.
+
+## Concurrency limits
+
+n8n limits the number of concurrent executions for Cloud instances according to their plan:

@@ -1,0 +1,11 @@
+## Prerequisites
+
+* Create a [LinkedIn](https://www.linkedin.com/){:target=_blank .external-link} account.
+* Create a LinkedIn [Company Page](https://www.linkedin.com/help/linkedin/answer/a543852){:target=_blank .external-link}.
+
+## Supported authentication methods
+
+- **Community Management OAuth2**: Use this method if you're a new LinkedIn user or creating a new LinkedIn app.
+- **OAuth2**: Use this method for older LinkedIn apps and user accounts.
+
+## Related Resources

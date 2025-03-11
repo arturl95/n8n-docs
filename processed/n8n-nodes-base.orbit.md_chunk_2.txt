@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Orbit credentials](/integrations/builtin/credentials/orbit/) for guidance on setting up authentication. 
+///
+
+## Operations

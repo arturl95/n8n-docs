@@ -1,0 +1,16 @@
+* Purchase Order
+    * Create a purchase order
+    * Create a new record, or update the current one if it already exists (upsert)
+    * Delete a purchase order
+    * Get a purchase order
+    * Get all purchase orders
+    * Update a purchase order
+* Quote
+    * Create a quote
+    * Create a new record, or update the current one if it already exists (upsert)
+    * Delete a quote
+    * Get a quote
+    * Get all quotes
+    * Update a quote
+* Sales Order
+    * Create a sales order

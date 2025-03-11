@@ -1,0 +1,21 @@
+The `dateTime` type provides a date picker.
+
+```typescript
+{
+	displayName: 'Modified Since',
+	name: 'modified_since',
+	type: 'dateTime',
+	default: '',
+	description: 'The date and time when the file was last modified',
+	displayOptions: { // the resources and operations to display this element with
+		show: {
+			resource: [
+				// comma-separated list of resource names
+			],
+			operation: [
+				// comma-separated list of operation names
+			]
+		}
+	},
+}
+```

@@ -1,0 +1,3 @@
+* [Mocean Node:](/integrations/builtin/app-nodes/n8n-nodes-base.mocean/) Add 'Delivery Report URL' option and credential tests.
+* [ServiceNow Node:](/integrations/builtin/app-nodes/n8n-nodes-base.servicenow/) Add basicAuth support and fix getColumns loadOptions.
+* [Strava Node:](/integrations/builtin/app-nodes/n8n-nodes-base.strava/) Add 'Get Streams' operation.

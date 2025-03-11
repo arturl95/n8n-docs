@@ -1,0 +1,5 @@
+1. On the version you want to restore or copy, select **Options** <span class="inline-image">![Options icon](/_images/common-icons/three-dot-options-menu.png){.off-glb}</span>.
+1. Choose what you want to do:
+	* **Restore this version**: replace your current workflow with the selected version.
+	* **Clone to new workflow**: create a new workflow based on the selected version.
+	* **Open version in new tab**: open a second tab displaying the selected version. Use this to compare versions.

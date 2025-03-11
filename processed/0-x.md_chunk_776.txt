@@ -1,0 +1,14 @@
+- New nodes
+- Kafka
+- MailerLite
+- MailerLite Trigger
+- Pushbullet
+- Enhanced nodes
+- Airtable: Added Ignore Fields option for the Update operation
+- AMQP Sender: Added Azure Service Bus support
+- Google Calendar: Added Calendar resource and an option to add a conference link
+- G Suite Admin: Added Group resource
+- HTTP Request: Added Batch Size and Batch Interval option
+- Mautic: Added Company resource
+- Salesforce: Added OAuth 2.0 JWT authentication method
+- Bug Fixes

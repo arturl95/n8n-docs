@@ -1,0 +1,7 @@
+* Remove a tag from a task
+* Task Project
+    * Add a task to a project
+    * Remove a task from a project
+* User
+    * Get a user
+    * Get all users

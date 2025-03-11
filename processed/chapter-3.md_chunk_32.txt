@@ -1,0 +1,48 @@
+"main": [
+			[
+			{
+				"node": "Code",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		},
+		"Code": {
+		"main": [
+			[
+			{
+				"node": "Loop Over Items",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		},
+		"Loop Over Items": {
+		"main": [
+			null,
+			[
+			{
+				"node": "RSS Read",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		},
+		"RSS Read": {
+		"main": [
+			[
+			{
+				"node": "Loop Over Items",
+				"type": "main",
+				"index": 0
+			}
+			]
+		]
+		}
+	},
+	"pinData": {}
+	}
+	```

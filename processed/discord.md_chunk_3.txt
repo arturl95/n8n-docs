@@ -1,0 +1,15 @@
+## Supported authentication methods
+
+- Bot
+- OAuth2
+- Webhook
+
+Not sure which method to use? Refer to [Choose an authentication method](#choose-an-authentication-method) for more guidance.
+
+## Related resources
+
+Refer to [Discord's Developer documentation](https://discord.com/developers/docs/intro){:target=_blank .external-link} for more information about the service.
+
+## Using bot
+
+Use this method if you want to add the bot to your Discord server using a bot token rather than OAuth2.

@@ -1,0 +1,12 @@
+- [SeaTable](/integrations/builtin/app-nodes/n8n-nodes-base.seatable/)
+- [SeaTable Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.seatabletrigger/)
+
+## Prerequisites
+
+Create a [SeaTable](https://seatable.io/en/){:target=_blank .external-link} account on either a cloud or self-hosted SeaTable server.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

@@ -1,0 +1,7 @@
+```typescript
+// Handle data coming from previous nodes
+const items = this.getInputData();
+let responseData;
+const returnData = [];
+const resource = this.getNodeParameter('resource', 0) as string;
+const operation = this.getNodeParameter('operation', 0) as string;

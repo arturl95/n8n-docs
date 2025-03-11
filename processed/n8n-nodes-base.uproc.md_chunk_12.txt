@@ -1,0 +1,7 @@
+- Discover if an email has social activity, and get all social network profiles found
+- Discover if a mobile phone has social activity, and get all social network profiles found
+- Get web references for an email published on the internet
+- Send a custom message invitation to a non connected LinkedIn profile
+- Send a custom email to a recipient
+- Send a custom SMS to a recipient with worldwide coverage
+- Send a custom invitation message if a profile is connected or a custom message otherwise

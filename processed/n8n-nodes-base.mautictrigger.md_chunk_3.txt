@@ -1,0 +1,1 @@
+View [example workflows and related content](https://n8n.io/integrations/mautic/){:target=_blank .external-link} on n8n's website.

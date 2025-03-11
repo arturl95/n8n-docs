@@ -1,0 +1,5 @@
+3. Select **Create an app**.
+4. Select **Create public app**. The app's **Basic info** tab opens.
+5. Enter an **App name** for your app, like `n8n integration`.
+6. Copy the **OAuth Redirect URL** from n8n and add it as the app's **Callback URL**.
+7. Select **Save**. The app's **OAuth & access scopes** tab opens.

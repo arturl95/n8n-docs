@@ -1,0 +1,17 @@
+### Contributors
+
+
+[Florian Metz](https://github.com/Timeraa)
+[Francesco Pongiluppi](https://github.com/willywongi)
+[Mark Steve Samson](https://github.com/marksteve)
+[Mike Quinlan](https://github.com/mjquinlan2000)
+
+
+## n8n@0.172.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.171.1...n8n@0.172.0) for this version.<br />
+**Release date:** 2022-04-11
+
+### Enhancements
+
+* Changes to the data output display in nodes.

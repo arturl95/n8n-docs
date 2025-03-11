@@ -1,0 +1,7 @@
+#### WhatsApp Business Platform node
+
+The [WhatsApp Business Platform](/integrations/builtin/app-nodes/n8n-nodes-base.whatsapp/) node allows you to use the WhatsApp Business Platform Cloud API in your workflows.
+
+</div>
+
+### Node enhancements

@@ -1,0 +1,4 @@
+* Set up a reverse proxy to handle TLS, ensuring data is encrypted in transit.
+* Ensure data is encrypted at rest by using encrypted partitions, or encryption at the hardware level, and ensuring n8n and its database is written to that location.
+* Run a [Security audit](/hosting/logging-monitoring/security-audit/).
+* Be aware of the [Risks](/integrations/community-nodes/risks/) when installing community nodes, or choose to disable them.

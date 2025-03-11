@@ -1,0 +1,3 @@
+- An API **Access Token**
+
+Refer to the [Recorded Future APIs documentation](https://support.recordedfuture.com/hc/en-us/categories/16372120363539-Recorded-Future-APIs){:target=_blank .external-link} for more information on getting your API access token.

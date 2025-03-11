@@ -1,0 +1,9 @@
+Refer to the [Hugging Face models documentation](https://huggingface.co/models?other=embeddings){:target=_blank .external-link} for available models.
+
+## Node options
+
+* **Custom Inference Endpoint**: Enter the URL of your deployed model, hosted by HuggingFace. If you set this, n8n ignores the **Model Name**.
+
+Refer to [HuggingFace's guide to inference](https://huggingface.co/inference-endpoints){:target=_blank .external-link} for more information.
+
+## Templates and examples

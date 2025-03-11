@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Jira credentials](/integrations/builtin/credentials/jira/) for guidance on setting up authentication. 
+///
+
+## Operations

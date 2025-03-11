@@ -1,0 +1,5 @@
+- You can find the `folderId` in a Google Drive folder URL: `https://drive.google.com/drive/u/0/folders/folderID`.
+- **Permissions**: The permissions to add to the folder:
+	- **Role**: Select what users can do with the folder. Can be one of **Commenter**, **File Organizer**, **Organizer**, **Owner**, **Reader**, **Writer**.
+	- **Type**: Select the scope of the new permission:
+		- **User**: Grant permission to a specific user, defined by entering their **Email Address**.

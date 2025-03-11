@@ -1,0 +1,11 @@
+## n8n@0.154.0
+
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.153.0...n8n@0.154.0) for this version.<br />
+**Release date:** 2021-12-19
+
+### Enhanced nodes
+
+
+* [Plivo:](/integrations/builtin/app-nodes/n8n-nodes-base.plivo/) Added user agent to all API requests.
+
+### Core Functionality

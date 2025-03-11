@@ -1,0 +1,6 @@
+* AWS SNS Node: Fix an issue with messages failing to send if they contain certain characters.
+* Core: `augmentObject` should clone Buffer/Uint8Array instead of wrapping them in a proxy.
+* Core: `augmentObject` should use existing property descriptors whenever possible.
+* Core: Fix the issue of nodes not loading when run using npx.
+* Core: Improve Axios error handling in nodes.
+* Core: Password reset should pass in the correct values to external hooks.

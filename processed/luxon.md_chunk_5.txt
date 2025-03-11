@@ -1,0 +1,15 @@
+``` js
+	$now
+	// n8n displays <ISO formatted timestamp>
+	// For example 2022-03-09T14:00:25.058+00:00
+	let rightNow = "Today's date is " + $now
+	// n8n displays "Today's date is <unix timestamp>"
+	// For example "Today's date is 1646834498755"
+	```
+=== "Code node (Python)"
+	``` python
+	_now
+	# n8n displays <ISO formatted timestamp>
+	# For example 2022-03-09T14:00:25.058+00:00
+	rightNow = "Today's date is " + str(_now)
+	# n8n displays "Today's date is <unix timestamp>"

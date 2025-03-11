@@ -1,0 +1,6 @@
+- Avoid making repeated calls to your data source. This saves time and costs.
+- Work with a small, predictable dataset during initial development.
+- Avoid the risk of overwriting live data: in the early stages of building your workflow, you don't need to connect your real data source.
+
+
+## Mocking with real data using data pinning

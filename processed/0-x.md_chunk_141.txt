@@ -1,0 +1,12 @@
+/// warning | Breaking changes
+Please note that this version contains a breaking change to Luxon. You can read more about it [here](https://github.com/n8n-io/n8n/blob/master/packages/cli/BREAKING-CHANGES.md#02140){:target=_blank .external-link}.
+///
+### New features
+
+<div class="n8n-new-features" markdown>
+
+#### Autocomplete in the Extension editor
+
+[Data transformation functions](/code/builtin/data-transformation-functions/) now have autocomplete support in the Expression editor.
+
+</div>

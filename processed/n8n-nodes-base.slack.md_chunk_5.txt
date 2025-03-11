@@ -1,0 +1,13 @@
+* **Message**
+    * **Delete** a message
+    * **Get permalink**: Get a message's permalink.
+    * **Search** for messages
+    * **Send** a message
+    * **Send and Wait for Approval**: Send a message and wait for approval from the recipient before continuing.
+    * **Update** a message
+* **Reaction**
+    * **Add** a reaction to a message.
+    * **Get** a message's reactions.
+    * **Remove** a reaction from a message.
+* **Star**
+    * **Add** a star to an item.

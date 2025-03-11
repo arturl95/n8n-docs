@@ -1,0 +1,11 @@
+Refer to [Delete assistant | OpenAI](https://platform.openai.com/docs/api-reference/assistants/deleteAssistant){:target=_blank .external-link} documentation for more information. 
+
+## List Assistants
+
+Use this operation to retrieve a list of assistants in your organization.
+
+- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
+- **Resource**: Select **Assistant**.
+- **Operation**: Select **List Assistants**.
+
+### Options

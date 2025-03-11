@@ -1,0 +1,9 @@
+## Node parameters
+
+The parameters for this node depend on the operation you select.
+
+### Blur parameters
+
+* **Property Name**: Enter the name of the binary property that stores the image data.
+* **Blur**: Enter a number to set how strong the blur should be, between 0 and 1000. Higher numbers create blurrier images.
+* **Sigma**: Enter a number to set the stigma for the blur, between 0 and 1000. Higher numbers create blurrier images.

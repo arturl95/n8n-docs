@@ -1,0 +1,4 @@
+n8n supports two libraries:
+
+- [Luxon](https://github.com/moment/luxon/){:target=_blank .external-link}, for working with data and time.
+- [JMESPath](https://jmespath.org/){:target=_blank .external-link}, for querying JSON.

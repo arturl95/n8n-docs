@@ -1,0 +1,3 @@
+<figure><img src="/_images/courses/level-one/chapter-five/l1-c5-5-8-workflow-settings.png" alt="Workflow Settings" style="width:100%"><figcaption align = "center"><i>Workflow Settings</i></figcaption></figure>
+
+In the **Workflow Settings** window you can configure the following settings:

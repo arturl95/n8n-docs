@@ -1,0 +1,8 @@
+* You're using an invalid name or value in a **Query Parameter**.
+* You're passing array values in a **Query Parameter** but the array isn't formatted correctly. Try using the [**Array Format in Query Parameters**](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/#array-format-in-query-parameters) option.
+
+Review the API documentation for your service to format your query parameters.
+
+<!-- vale off -->
+## The resource you are requesting could not be found
+<!-- vale on -->

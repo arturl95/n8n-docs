@@ -1,0 +1,14 @@
+/// info | Minimum required version
+The monday.com node requires n8n version 1.22.6 or above.
+///
+
+## Supported authentication methods
+
+- API token
+- OAuth2
+
+## Related resources
+
+Refer to [monday.com's API documentation](https://developer.monday.com/api-reference/docs/basics){:target=_blank .external-link} for more information about authenticating with the service.
+
+## Using API token

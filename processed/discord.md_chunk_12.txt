@@ -1,0 +1,1 @@
+1. Once your app's added to your server, you'll see it in the member list.

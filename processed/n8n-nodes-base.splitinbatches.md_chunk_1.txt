@@ -1,0 +1,15 @@
+The node saves the original incoming data, and with each iteration, returns a predefined amount of data through the **loop** output.
+
+When the node execution completes, it combines all the data and returns it through the **done** output.
+
+## Node parameters
+
+### Batch Size
+
+Enter the number of items to return with each call.
+
+## Node options
+
+### Reset
+
+If turned on, the node will reset with the current input-data newly initialized with each loop.

@@ -1,0 +1,2 @@
+* **Webhook URL**: The Discord URL you received in the email when you signed up for this course.
+    * **Text**: "I sent the file using email with the label ID `{label ID}`. My ID: " followed by the unique ID emailed to you when you registered for this course. <br/> Note that you need to replace the text in curly braces `{}` with expressions that reference the data from the nodes.

@@ -1,0 +1,8 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+contentType: tutorial
+---
+
+# Workflow 2: Generating reports
+
+In this workflow, you will merge data from different sources, transform binary data, generate files, and send notifications about them. The final workflow should look like this:

@@ -1,0 +1,5 @@
+To include custom fields, follow these steps:
+
+1. Select **Custom** from the **Projection** dropdown list.
+2. Select the **Add Options** button and select **Custom Schemas** from the dropdown list.
+3. Select the schema names you want to include from the **Custom Schemas** dropdown list.

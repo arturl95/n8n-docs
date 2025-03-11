@@ -1,0 +1,12 @@
+This is a bug fix release.
+
+### Bug fixes
+
+* Editor: Clean up demo and template callouts from workflows page.
+* Editor: Fix memory leak in Node Detail View by correctly unsubscribing from event buses.
+* Editor: Settings sidebar should disconnect from push when navigating away.
+* Notion Node: Update credential test to not require user permissions.
+
+
+
+## n8n@0.225.0

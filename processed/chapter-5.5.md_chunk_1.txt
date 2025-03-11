@@ -1,0 +1,3 @@
+To calculate data and add more functionality to your workflows you can use the Code node, which lets you write custom JavaScript code.
+
+## About the Code node

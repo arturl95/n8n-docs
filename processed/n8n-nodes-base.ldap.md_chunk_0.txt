@@ -1,0 +1,16 @@
+---
+#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
+title: LDAP
+description: Documentation for the LDAP node in n8n, a workflow automation platform. Includes guidance on usage, and links to examples.
+contentType: integration
+---
+
+# LDAP
+
+This node allows you to interact with your LDAP servers to create, find, and update objects.
+
+/// note | Credentials
+You can find authentication information for this node [here](/integrations/builtin/credentials/ldap/).
+///
+
+## Operations

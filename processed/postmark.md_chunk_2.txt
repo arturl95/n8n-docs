@@ -1,0 +1,3 @@
+To configure this credential, you'll need:
+
+- A **Server API Token**: The Server API token is accessible by Account Owners, Account Admins, and users who have Server Admin privileges on a server. Get yours from the [**API Tokens**](https://account.postmarkapp.com/api_tokens){:target=_blank .external-link} tab under your Postmark server. Refer to [API Authentication](https://postmarkapp.com/developer/api/overview#authentication){:target=_blank .external-link} for more information.

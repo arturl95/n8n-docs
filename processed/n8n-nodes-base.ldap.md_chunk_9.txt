@@ -1,0 +1,3 @@
+* **Attribute Names or IDs**: Enter a comma-separated list of attributes to return. Choose from the list or specify IDs using an expression.
+* **Page Size**: Enter the maximum number of results to request at one time. Set to 0 to disable paging.
+* **Scopes**: The set of entries at or below the **Base DN** to search for potential matches. Select from:

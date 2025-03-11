@@ -1,0 +1,5 @@
+/// note | Constructing your own message
+        To add the Unique ID portion of the statement, you'll need to expand **Nodes** > **HTTP Request** > **Parameters** > **headerParameters** > **parameters** > **[Item: 0]** and select the **value**.
+        ///
+
+Now select **Test step** in the Discord node. If all works well, you should see this output in n8n:

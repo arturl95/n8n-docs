@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Sentry.io credentials](/integrations/builtin/credentials/sentryio/) for guidance on setting up authentication. 
+///
+
+## Operations

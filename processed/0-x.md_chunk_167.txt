@@ -1,0 +1,15 @@
+### Bug fixes
+
+* Build CLI to fix Postgres and MySQL test runs.
+* Extend date functions clobbering plus/minus.
+* Extension deep comparen't quite working for some primitives.
+* Upgrade jsonwebtoken to address CVE-2022-23540.
+
+
+
+
+
+## n8n@0.211.0
+
+View the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.210.2...n8n@0.211.0){:target=_blank .external-link} for this version.<br />
+**Release date:** 2023-01-13

@@ -1,0 +1,21 @@
+```sh
+n8n user-management:reset
+```
+
+### Disable MFA for a user
+
+If a user loses their recovery codes you can disable MFA for a user with this command. The user will then be able to log back in to set up MFA again.
+
+```sh
+n8n mfa:disable --email=johndoe@example.com
+```
+
+### Disable LDAP
+
+You can reset the LDAP settings using the command below.
+
+```sh
+n8n ldap:reset
+```
+
+## Security audit

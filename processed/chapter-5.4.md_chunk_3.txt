@@ -1,0 +1,7 @@
+- Ensure **Mode** is set to **Manual Mapping**.
+- While you can use the **Expression editor** we used in the [Filtering Orders](/courses/level-one/chapter-5/chapter-5.3/) lesson, this time, let's drag the fields from the **Input** into the **Fields to Set**:
+    - Drag **orderID** as the first field.
+    - Drag **employeeName** as the second field.
+- Ensure that **Include Other Input Fields** is set to false.
+
+Select **Test step**. You should see the following results:

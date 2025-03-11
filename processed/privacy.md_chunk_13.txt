@@ -1,0 +1,15 @@
+#### How collection works
+
+Most data is sent to n8n as events that generate it occur. Workflow execution counts and an instance pulse are sent periodically (every 6 hours).
+
+#### Opting out of telemetry
+
+Telemetry collection is enabled by default. To disable it you can configure the following environment variables.
+
+To opt out of telemetry events:
+
+```bash
+export N8N_DIAGNOSTICS_ENABLED=false
+```
+
+To opt out of checking for new versions of n8n:

@@ -1,0 +1,6 @@
+1. Log in to Mattermost as an admin.
+2. Go to **System Console > Integrations > Integration Management**.
+3. Confirm that **Enable personal access tokens** is set to **true**. If it's not, change.
+4. Go to **System Console > User Management > Users**.
+5. Search for the user account you want to allow to generate personal access tokens.
+6. Select the **Actions** dropdown for the user and select **Manage roles**.

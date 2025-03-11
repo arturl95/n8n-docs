@@ -1,0 +1,3 @@
+### Resource mapper type options interface
+
+The `typeOptions` section must implement the following interface:

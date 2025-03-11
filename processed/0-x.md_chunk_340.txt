@@ -1,0 +1,6 @@
+### Bug fixes
+
+* Editor: Fix an error that occured after repeated executions.
+* [EmailReadImap node](/integrations/builtin/core-nodes/n8n-nodes-base.emailimap/): improve handling of network problems.
+* [Google Drive node](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/): process input items using the list operation.
+* [Telegram node](/integrations/builtin/app-nodes/n8n-nodes-base.telegram/): fix for a bug affecting sending binary data (images, documents and so on).

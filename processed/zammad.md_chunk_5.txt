@@ -1,0 +1,7 @@
+- The access token permissions depend on what actions you'd like to complete with this credential. For all functionality within the [Zammad](/integrations/builtin/app-nodes/n8n-nodes-base.zammad/) node, select:
+        - `admin.group`
+        - `admin.organization`
+        - `admin.user`
+        - `ticket.agent`
+        - `ticket.customer`
+- **Ignore SSL Issues**: When turned on, n8n will connect even if SSL certificate validation fails.

@@ -1,0 +1,5 @@
+If you build custom nodes, refer to [HTTP request helpers](/integrations/creating-nodes/build/reference/http-helpers/) for more information on migrating to the new interface.
+
+[PR #6413](https://github.com/n8n-io/n8n/pull/6413){:target=_blank .external link}
+
+### Removed WEBHOOK_TUNNEL_URL

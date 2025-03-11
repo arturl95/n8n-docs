@@ -1,0 +1,8 @@
+Generate both by creating a Raindrop app.
+
+To create an app, go to **Settings >** [**Integrations**](https://app.raindrop.io/settings/integrations){:target=_blank .external-link} and select **+ Create new app** in the **For Developers** section.
+
+Use these settings for your app:
+
+- Copy the **OAuth Redirect URL** from n8n and add it as a **Redirect URI** in your app.
+- Copy the **Client ID** and **Client Secret** from the Raindrop app and enter them in your n8n credential.

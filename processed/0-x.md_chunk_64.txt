@@ -1,0 +1,1 @@
+* Editor: SSO setup (this is preparation for an upcoming feature).

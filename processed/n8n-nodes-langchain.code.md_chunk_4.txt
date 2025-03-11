@@ -1,0 +1,11 @@
+By default, you can't load built-in or external modules in this node. Self-hosted users can [enable built-in and external modules](/hosting/configuration/configuration-methods/).
+
+### Inputs
+
+Choose the input types. 
+
+The main input is the normal connector found in all n8n workflows. If you have a main input and output set in the node, **Execute** code is required.
+
+### Outputs
+
+Choose the output types.

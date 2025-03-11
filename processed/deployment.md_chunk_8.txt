@@ -1,0 +1,2 @@
+| `N8N_VERSION_NOTIFICATIONS_INFO_URL` | String | `https://docs.n8n.io/getting-started/installation/updating.html` | The URL displayed in the New Versions panel for more information. |
+| `N8N_DIAGNOSTICS_ENABLED` | Boolean | `true` | Whether to share selected, anonymous [telemetry](/privacy-security/privacy/) with n8n. Note that if you set this to `false`, you can't enable Ask AI in the Code node. |

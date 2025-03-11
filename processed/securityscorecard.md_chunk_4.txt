@@ -1,0 +1,1 @@
+* As a bot user: View the bot user and select **create token**. Refer to [Authenticate with a bot user](https://securityscorecard.readme.io/docs/authentication#){:target=_blank .external-link} for more information.

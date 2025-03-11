@@ -1,0 +1,2 @@
+- Copy the text below and paste it into the **Expression** window, or construct it manually using the **Expression Editor**.
+        - `This week we've {{$json["totalBooked"]}} booked orders with a total value of {{$json["bookedSum"]}}. My Unique ID: {{ $('HTTP Request').params["headerParameters"]["parameters"][0]["value"] }}`

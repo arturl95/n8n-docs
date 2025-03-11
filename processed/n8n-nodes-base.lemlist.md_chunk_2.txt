@@ -1,0 +1,5 @@
+/// note | Credentials
+Refer to [Lemlist credentials](/integrations/builtin/credentials/lemlist/) for guidance on setting up authentication. 
+///
+
+## Operations

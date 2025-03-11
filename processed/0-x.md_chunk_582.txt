@@ -1,0 +1,7 @@
+## n8n@0.136.0
+For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n%400.135.3...n8n@0.136.0) for this version.<br />
+**Release date:** 2021-08-30
+
+### Enhanced nodes
+
+* [Notion:](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Added handling of Rich Text when simplifying data.

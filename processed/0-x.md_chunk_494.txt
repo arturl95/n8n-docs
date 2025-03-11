@@ -1,0 +1,8 @@
+### Bug fixes
+
+
+* [Edit Image:](/integrations/builtin/core-nodes/n8n-nodes-base.editimage/) Fixed a bug causing two items to be returned.
+* [iCalendar:](/integrations/builtin/core-nodes/n8n-nodes-base.ical/) Fixed a bug preventing dates in January from working as expected.
+* [Merge:](/integrations/builtin/core-nodes/n8n-nodes-base.merge/) Fixed causing empty binary data to overwrite other binary data on merge.
+
+### Contributors

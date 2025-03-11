@@ -1,0 +1,7 @@
+Refer to the [Facebook Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/) documentation for more information.
+
+### Optional: Add an App Secret
+
+For added security, Meta recommends adding an **App Secret**. This signs all API calls with the `appsecret_proof` parameter. The app secret proof is a sha256 hash of your access token, using your app secret as the key.
+
+To generate an App Secret:

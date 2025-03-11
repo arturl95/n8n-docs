@@ -1,0 +1,4 @@
+| `$("<node-name>").itemMatching(currentNodeInputIndex)` | Use instead of `$("<node-name>").item` in the Code node if you need to trace back from an input item. | :white_check_mark: |
+=== "Python"
+	| Method | Description | Available in Code node? |
+	| ------ | ----------- | :-------------------------: |

@@ -1,0 +1,14 @@
+If you don't want to use expressions:
+
+1. Hover over a field. n8n displays the **Fixed | Expressions** toggle. 
+1. Select **Fixed**.
+
+You can do this for both the name and value of the field.
+
+![A gif showing the drag and drop action, as well as changing a field to fixed](/_images/integrations/builtin/core-nodes/set/drag-drop-fixed-toggle.gif)
+
+### Keep Only Set Fields
+
+Enable this to discard any input data that you don't use in **Fields to Set**.
+
+### Include in Output

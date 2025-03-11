@@ -1,0 +1,3 @@
+1. Decide which fields to compare. In **Input A Field**, enter the name of the field you want to use from input stream A. In **Input B Field**, enter the name of the field you want to use from input stream B. 
+2. **Optional**: You can compare by multiple fields. Select **Add Fields to Match** to set up more comparisons.
+3. Choose how to handle differences between the datasets. In **When There Are Differences**, select one of the following:

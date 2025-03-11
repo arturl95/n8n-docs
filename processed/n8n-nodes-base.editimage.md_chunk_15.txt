@@ -1,0 +1,5 @@
+* **Property Name**: Enter the name of the binary property that stores the image data.
+* **Width**: Enter the new width you'd like for the image.
+* **Height**: Enter the new height you'd like for the image.
+* **Option**: Select how you'd like to resize the image. Choose from:
+	* **Ignore Aspect Ratio**: Ignore the aspect ratio and resize to the exact height and width you've entered.

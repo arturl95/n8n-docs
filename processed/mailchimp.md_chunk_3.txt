@@ -1,0 +1,5 @@
+To configure this credential, you'll need:
+
+- An **API Key**: Generate an API key in the [API keys section](https://us1.admin.mailchimp.com/account/api/){:target=_blank .external-link} of your Mailchimp account. Refer to [Mailchimp's Generate your API key documentation](https://mailchimp.com/developer/marketing/guides/quick-start/#generate-your-api-key){:target=_blank .external-link} for more detailed instructions.
+
+## Using OAuth2

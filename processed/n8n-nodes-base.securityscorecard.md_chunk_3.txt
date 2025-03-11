@@ -1,0 +1,17 @@
+* Company
+    * Get company factor scores and issue counts
+    * Get company's historical factor scores
+    * Get company's historical scores
+    * Get company information and summary of their scorecard
+    * Get company's score improvement plan
+* Industry
+    * Get Factor Scores
+    * Get Historical Factor Scores
+    * Get Score
+* Invite
+    * Create an invite for a company/user
+* Portfolio
+    * Create a portfolio
+    * Delete a portfolio
+    * Get all portfolios
+    * Update a portfolio

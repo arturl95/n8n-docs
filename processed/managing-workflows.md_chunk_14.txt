@@ -1,0 +1,21 @@
+The response will contain the JSON data of the selected workflow:
+```json
+{
+  "data": {
+    "id": "1012",
+    "name": "Nathan's Workflow",
+    "active": false,
+    "nodes": [
+      {
+        "parameters": {},
+        "name": "Start",
+        "type": "n8n-nodes-base.start",
+        "typeVersion": 1,
+        "position": [
+          130,
+          640
+        ]
+      },
+      {
+        "parameters": {
+          "authentication": "headerAuth",

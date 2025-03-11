@@ -1,0 +1,14 @@
+## Using API key
+
+/// warning | Method deprecated
+Shopify no longer generates API keys with passwords. Use the [Access token](#using-access-token) method instead.
+///
+
+To configure this credential, you'll need:
+
+- An **API Key**
+- A **Password**
+- Your **Shop Subdomain**: Your subdomain is within the URL: `https://<subdomain>.myshopify.com`. For example, if the full URL is `https://n8n.myshopify.com`, the Shop Subdomain is `n8n`.
+- _Optional:_ A **Shared Secret**
+
+## Common issues

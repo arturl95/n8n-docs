@@ -1,0 +1,9 @@
+## Example
+
+For an example, refer to the [Mattermost node](https://github.com/n8n-io/n8n/blob/master/packages/nodes-base/nodes/Mattermost/v1/MattermostV1.node.ts){:target=_blank .external-link}.
+
+## Deprecation of the previous helper
+
+The previous helper implementation using `this.helpers.request(options)` used and exposed the `request-promise` library. This was removed in version 1.
+
+To minimize incompatibility, n8n made a transparent conversion to another library called `Axios`.

@@ -1,0 +1,12 @@
+* Get data of all payments
+* Quote
+    * Create a new quote
+    * Delete a quote
+    * Email an quote
+    * Get data of a quote
+    * Get data of all quotes
+* Task
+    * Create a new task
+    * Delete a task
+    * Get data of a task
+    * Get data of all tasks

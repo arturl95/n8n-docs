@@ -1,0 +1,5 @@
+Explore each method in more detail in the sections below.
+
+## Merge data from different data streams
+
+If your workflow [splits](/flow-logic/splitting/), you combine the separate streams back into one stream.

@@ -1,0 +1,12 @@
+- [Affinity](/integrations/builtin/app-nodes/n8n-nodes-base.affinity/)
+- [Affinity Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.affinitytrigger/)
+
+## Prerequisites
+
+Create an [Affinity](https://www.affinity.co/){:target=_blank .external-link} account at the Scale, Advanced, or Enterprise subscription tiers.
+
+## Supported authentication methods
+
+- API key
+
+## Related resources

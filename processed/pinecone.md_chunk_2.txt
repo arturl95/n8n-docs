@@ -1,0 +1,7 @@
+## Using API key
+
+To configure this credential, you'll need a [Pinecone](https://www.pinecone.io/){:target=_blank .external-link} account and:
+
+- An **API Key**
+
+To get an API key:

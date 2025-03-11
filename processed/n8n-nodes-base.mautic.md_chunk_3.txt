@@ -1,0 +1,18 @@
+* Campaign Contact
+    * Add contact to a campaign
+    * Remove contact from a campaign
+* Company
+    * Create a new company
+    * Delete a company
+    * Get data of a company
+    * Get data of all companies
+    * Update a company
+* Company Contact
+    * Add contact to a company
+    * Remove a contact from a company
+* Contact
+    * Create a new contact
+    * Delete a contact
+    * Edit contact's points
+    * Add/remove contacts from/to the don't contact list
+    * Get data of a contact

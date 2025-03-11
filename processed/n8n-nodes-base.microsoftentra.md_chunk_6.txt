@@ -1,0 +1,7 @@
+## Common issues
+
+Here are some common errors and issues with the Microsoft Entra ID node and steps to resolve or troubleshoot them.
+
+### Updating the Allow External Senders and Auto Subscribe New Members options fails
+
+You can't update the **Allow External Senders** and **Auto Subscribe New Members** options directly after creating a new group. You must wait after creating a group before you can change the values of these options.

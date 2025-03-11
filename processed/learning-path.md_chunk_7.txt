@@ -1,0 +1,8 @@
+## Self-hosting n8n
+
+Explore various [self-hosting options in n8n](/hosting/). If you’re not sure where to start, these are two popular options: 
+
+- [Hosting n8n on DigitalOcean](/hosting/installation/server-setups/digital-ocean/)
+- [Hosting n8n on Amazon Web Services](/hosting/installation/server-setups/aws/)
+
+## Build a node

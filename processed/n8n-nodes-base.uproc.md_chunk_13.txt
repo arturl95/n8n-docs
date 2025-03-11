@@ -1,0 +1,7 @@
+- Visits a profile to show interest and get profile views in return from contact, increasing your LinkedIn network
+- Send a custom private message to a connected LinkedIn profile
+- Get an email by contact's LinkedIn profile URI
+- Discover an email by company's name and prospect's full name
+- Discover an email by company's website or domain and prospect's full name
+- Get email by first name, last name, and company
+- Get parsed and validated phone

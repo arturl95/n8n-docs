@@ -1,0 +1,14 @@
+> Call this tool to get a random color. The input should be a string with comma separated names of colors to exclude.
+
+### Source
+
+Tell n8n which workflow to call. You can choose either:
+
+* **Database** and enter a workflow ID.
+* **Parameter** and copy in a complete [workflow JSON](/workflows/export-import/).
+
+### Workflow Values
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-sub-nodes/workflow-values.md"
+
+### Specify input schema

@@ -1,0 +1,15 @@
+## Send your work to Git
+
+/// note | Restricted to instance owners
+Ordinary users can't send work to Git.
+///
+--8<-- "_snippets/source-control-environments/push.md"
+
+## What gets committed
+
+n8n commits the following to Git:
+
+* Workflows, including their tags and the email address of the workflow owner. You can choose which workflows to push.
+* Credential stubs (ID, name, type)
+* Variable stubs (ID and name)
+* Projects

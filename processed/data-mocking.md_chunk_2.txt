@@ -1,0 +1,7 @@
+## Mocking with real data using data pinning
+
+Using [data pinning](/data/data-pinning/), you load real data into your workflow, then pin it in the output panel of a node. Using this approach you have realistic data, with only one call to your data source. You can [edit pinned data](/data/data-editing/).
+
+Use this approach when you need to configure your workflow to handle the exact data structure and parameters provided by your data source.
+
+--8<-- "_snippets/data/how-to-pin-data.md"

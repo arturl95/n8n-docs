@@ -1,0 +1,10 @@
+## Supported authentication methods
+
+- API access token: Dropbox recommends this method for testing with your user account and granting a limited number of users access.
+- OAuth2: Dropbox recommends this method for production or for testing with more than 50 users.
+
+/// note | App reuse
+You can transition an app from the API access token to OAuth2 by creating a new credential in n8n for OAuth2 using the same app.
+///
+
+## Related resources

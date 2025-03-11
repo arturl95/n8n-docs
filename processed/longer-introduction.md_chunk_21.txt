@@ -1,0 +1,4 @@
+1. On the If node, select the **Add node** <span class="inline-image">![Add node icon](/_images/try-it-out/add-node.png){.off-glb}</span> connector labeled **true**.
+1. Search for **PostBin**. n8n shows a list of nodes that match the search.
+1. Select **PostBin**.
+1. Select **Send a request**. n8n adds the node to the canvas and opens it.

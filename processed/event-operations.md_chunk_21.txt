@@ -1,0 +1,5 @@
+- **All Occurrences**: Return all instances of the recurring event for the specified time range.
+	- **First Occurrence**: Return the first event of a recurring event within the specified time range.
+	- **Next Occurrence**: Return the next instance of a recurring event within the specified time range.
+- **Show Deleted**: Whether to include deleted events (with status equal to "cancelled") in the results.
+- **Show Hidden Invitations**: Whether to include hidden invitations in the results.

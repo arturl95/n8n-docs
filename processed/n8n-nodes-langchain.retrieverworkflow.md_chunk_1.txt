@@ -1,0 +1,14 @@
+On this page, you'll find the node parameters for the Workflow Retriever node, and links to more resources.
+
+--8<-- "_snippets/integrations/builtin/cluster-nodes/sub-node-expression-resolution.md"
+
+## Node parameters
+
+### Source
+
+Tell n8n which workflow to call. You can choose either:
+
+* **Database** and enter a workflow ID.
+* **Parameter** and copy in a complete [workflow JSON](/workflows/export-import/).
+
+### Workflow values

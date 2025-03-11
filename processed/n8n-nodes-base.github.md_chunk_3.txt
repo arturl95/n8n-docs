@@ -1,0 +1,43 @@
+* File
+	* Create
+	* Delete
+	* Edit
+	* Get
+	* List
+* Issue
+	* Create
+	* Create Comment
+	* Edit
+	* Get
+	* Lock
+* Organization
+	* Get Repositories
+* Release
+	* Create
+	* Delete
+	* Get
+	* Get Many
+	* Update
+* Repository
+    * Get
+	* Get Issues
+	* Get License
+	* Get Profile
+	* Get Pull Requests
+	* List Popular Paths
+	* List Referrers
+* Review
+	* Create
+	* Get
+	* Get Many
+	* Update
+* User
+    * Get Repositories
+    * Invite
+* Workflow
+	* Disable
+	* Dispatch
+	* Enable
+	* Get
+	* Get Usage
+	* List

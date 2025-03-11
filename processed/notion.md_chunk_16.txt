@@ -1,0 +1,1 @@
+For a more detailed breakdown of the two integration types, refer to Notion's [Internal vs. Public Integrations documentation](https://developers.notion.com/docs/getting-started#internal-vs-public-integrations){:target=_blank .external-link}.

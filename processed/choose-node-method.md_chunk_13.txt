@@ -1,0 +1,16 @@
+send: {
+                    type: 'body',
+                    properties: {
+                    email: {{$parameter["email"]}}
+                    }
+                }
+                }
+            },
+            // Handle the response to contact creation
+            output: {
+                postReceive: [
+                {
+                    type: 'set',
+                    properties: {
+                    value: '={{ { "success": $response } }}'
+                    }

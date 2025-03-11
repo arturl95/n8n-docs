@@ -1,0 +1,8 @@
+/// note | Upgrade directly to 1.6.1
+Skip this version and upgrade directly to 1.6.1, which contains essential bug fixes.
+///
+<div class="n8n-new-features" markdown>
+
+#### TheHive 5
+
+This release introduces support for TheHive API version 5. This uses a new node and credentials:

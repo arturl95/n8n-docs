@@ -1,0 +1,1 @@
+Refer to the [Airtable Register a new integration documentation](https://airtable.com/developers/web/guides/oauth-integrations){:target=_blank .external-link} for steps on registering a new Oauth integration.

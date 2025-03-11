@@ -1,0 +1,5 @@
+## Using API key
+
+To configure this credential, you'll need:
+
+- An **API Key**: Refer to the [Hybrid Analysis' API documentation](https://www.hybrid-analysis.com/docs/api/v2){:target=_blank .external-link} for instructions on generating an API key.

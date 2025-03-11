@@ -1,0 +1,9 @@
+Enter these parameters:
+
+- **Credential to connect with**: Create or select an existing [Google Calendar credentials](/integrations/builtin/credentials/google/).
+- **Resource**: Select **Event**.
+- **Operation**: Select **Delete**.
+- **Calendar**: Choose a calendar you want to delete an event from. Select **From list** to choose the title from the dropdown list or **By ID** to enter a calendar ID.
+- **Event ID**: The ID of the event to delete.
+
+### Options

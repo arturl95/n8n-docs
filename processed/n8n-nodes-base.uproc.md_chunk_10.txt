@@ -1,0 +1,6 @@
+- Extract last profiles that have published content on LinkedIn by specific keywords
+- Discover if mobile exist using real-time HLR query, as well as portability and roaming data
+- Get existence, portability, and roaming of a mobile phone using MNP query
+- Discover if mobile or landline prefix exists in Spain
+- Allows normalizing email address, removing non allowed characters
+- Allows normalizing a mobile phone, removing non-allowed characters

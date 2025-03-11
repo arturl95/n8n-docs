@@ -1,0 +1,8 @@
+## Prerequisites
+
+- Create an [X developer](https://developer.x.com/en){:target=_blank .external-link} account.
+- Create a [Twitter app](https://developer.x.com/en/docs/apps){:target=_blank .external-link} or use the default project and app created when you sign up for the developer portal. Refer to each supported authentication method below for more details on the app's configuration.
+
+## Supported authentication methods
+
+- OAuth2

@@ -1,0 +1,5 @@
+## Required scopes
+
+To use this node, you need to create an application in Slack and enable event subscriptions. Refer to [Slack credentials | Slack Trigger configuration](/integrations/builtin/credentials/slack/#slack-trigger-configuration) for more information.
+
+You must add the appropriate scopes to your Slack app for this trigger node to work.

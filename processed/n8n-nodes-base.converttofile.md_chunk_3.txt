@@ -1,0 +1,12 @@
+Node parameters and options depend on the operation you select.
+
+### Convert to CSV
+
+Configure the node for this operation with the **Put Output File in Field** parameter. Enter the name of the field in the output data to contain the file.
+
+#### Convert to CSV options
+
+You can also configure this operation with these **Options**:
+
+* **File Name**: Enter the file name for the generated output file.
+* If the first row of the file contains header names, turn on the **Header Row** option.
