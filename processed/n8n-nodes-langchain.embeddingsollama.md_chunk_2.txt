@@ -1,9 +1,0 @@
-## Node parameters
-
-* **Model**: Select the model to use to generate the embedding. Choose from:
-    * [all-minilm](https://ollama.com/library/all-minilm) (384 Dimensions)
-    * [nomic-embed-text](https://ollama.com/library/nomic-embed-text) (768 Dimensions)
-
-Learn more about available models in [Ollama's models documentation](https://ollama.ai/library){:target=_blank .external-link}.
-
-## Templates and examples

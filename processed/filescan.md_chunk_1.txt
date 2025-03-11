@@ -1,7 +1,0 @@
-## Prerequisites
-
-Create a [Filescan](https://www.filescan.io/auth/signup/){:target=_blank .external-link} account.
-
-## Related resources
-
-Refer to [Filescan's API documentation](https://www.filescan.io/api/docs){:target=_blank .external-link} for more information about authenticating with the service.

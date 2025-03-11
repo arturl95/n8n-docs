@@ -1,7 +1,0 @@
-# Chat Memory Manager node
-
-The Chat Memory Manager node manages chat message memories within your workflows. Use this node to load, insert, and delete chat messages in an in-memory vector store.
-
---8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-sub-nodes/chat-memory-manager-purpose.md"
-
-On this page, you'll find a list of operations that the Chat Memory Manager node supports, along with links to more resources.

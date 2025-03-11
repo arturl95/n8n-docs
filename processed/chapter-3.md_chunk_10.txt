@@ -1,4 +1,0 @@
-1. Add a **Merge node** that takes `Input 1` from a **Customer Datastore node** and `Input 2` from a **Code node**.
-2. In the **Customer Datastore node**, run the operation **Get All People**.
-3. In the **Code node**, create an array of two objects with three properties: `name`, `language`, and `country`, where the property `country` has two sub-properties `code` and `name`.
-	- Fill out the values of these properties with the information of two characters from the Customer Database.

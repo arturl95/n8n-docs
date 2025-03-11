@@ -1,2 +1,0 @@
-- Create an [API integration](https://docs.venafi.com/Docs/current/TopNav/Content/API-ApplicationIntegration/c-APIAppIntegrations-about.php){:target=_blank .external-link} in **API > Integrations**. Refer to [Integrating other systems with Venafi products](https://docs.venafi.com/Docs/current/TopNav/Content/API-ApplicationIntegration/t-APIAppIntegrations-creating.php){:target=_blank .external-link} for detailed instructions.
-    - Take note of the Client ID for your integration.

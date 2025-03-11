@@ -1,9 +1,0 @@
-* Core: Fix broken API permissions in public API.
-* Core: Fix paired item returning wrong data.
-* Core: Improve SAML connection test result views.
-* Core: Make getExecutionId available on all nodes types.
-* Core: Skip SAML onboarding for users with first- and lastname.
-* Editor: Add padding to prepend input.
-* Editor: Clean up demo/video experiment.
-* Editor: Enterprise features missing with user management.
-* Editor: Fix moving canvas on middle click preventing lasso selection.

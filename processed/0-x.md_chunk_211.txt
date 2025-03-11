@@ -1,2 +1,0 @@
-* Gmail Trigger Node: trigger node missing some emails.
-* Local File Trigger Node: fix issue that causes a crash if the ignore field is empty.

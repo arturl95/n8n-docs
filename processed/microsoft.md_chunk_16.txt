@@ -1,4 +1,0 @@
-1. Paste it into n8n as the **Client Secret**.
-1. If you see other fields in the n8n credential, refer to [Service-specific settings](#service-specific-settings) below for guidance on completing those fields.
-1. Select **Connect my account** in n8n to finish setting up the connection.
-1. Log in to your Microsoft account and allow the app to access your info.

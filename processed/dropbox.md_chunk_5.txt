@@ -1,3 +1,0 @@
-8. In the **OAuth 2** section, in **Generated access token**, select **Generate**.
-9. Copy the access token and enter it as the **Access Token** in your n8n credential.
-10. In n8n, select the same **App Access Type** you selected for your app.

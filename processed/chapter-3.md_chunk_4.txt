@@ -1,1 +1,0 @@
-In n8n, you can merge data from two different nodes using the [Merge node](/integrations/builtin/core-nodes/n8n-nodes-base.merge/){:target="_blank"}, which provides several merging options:

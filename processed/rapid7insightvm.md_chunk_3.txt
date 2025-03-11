@@ -1,2 +1,0 @@
-* A **URL**: The API endpoint URL where the resource or data you are requesting lives. You can find more information about the expected format in the [endpoint section of the Rapid7's API overview](https://docs.rapid7.com/insight/api-overview/#endpoint).
-* An **API Key**: Refer to [Rapid7's Managing Platform API Keys documentation](https://docs.rapid7.com/insight/managing-platform-api-keys/) to create an API key.

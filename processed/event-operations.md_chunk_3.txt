@@ -1,2 +1,0 @@
-- **End Time**: The end time for the event. By default, this uses an expression evaluating to an hour from now (`{{ $now.plus(1, 'hour') }}`).
-- **Use Default Reminders**: Whether to enable default reminders for the event according to the calendar configuration.

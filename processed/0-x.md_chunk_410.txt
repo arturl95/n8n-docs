@@ -1,2 +1,0 @@
-* [PagerDuty node](/integrations/builtin/app-nodes/n8n-nodes-base.pagerduty/): now supports more detail in incidents.
-* [Slack node](/integrations/builtin/app-nodes/n8n-nodes-base.slack/): added support for blocks in Slack message update.

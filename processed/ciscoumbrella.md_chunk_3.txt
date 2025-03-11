@@ -1,1 +1,0 @@
-Refer to the [Cisco Umbrella Manage API Keys documentation](https://developer.cisco.com/docs/cloud-security/authentication/#manage-api-keys){:target=_blank .external-link} for instructions on creating an Umbrella API key.

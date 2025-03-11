@@ -1,9 +1,0 @@
-### Node enhancements
-
-* Filter Node: Show discarded items.
-* HTTP Request Node: Follow redirects by default.
-* Postgres Node: Overhaul node.
-* ServiceNow Node: Add support for work notes when updating an incident.
-* SSH Node: Hide the private key within the SSH credential.
-
-### Bug fixes

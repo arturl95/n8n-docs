@@ -1,1 +1,0 @@
-* [Wise node](/integrations/builtin/app-nodes/n8n-nodes-base.wise/): respect the time parameter on `get: exchangeRate`.

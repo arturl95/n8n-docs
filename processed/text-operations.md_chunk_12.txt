@@ -1,5 +1,0 @@
-Refer to [Message a Model | OpenAI](https://platform.openai.com/docs/api-reference/text-completion/create){:target=_blank .external-link} documentation for more information.
-
-## Classify Text for Violations
-
-Use this operation to identify and flag content that might be harmful. OpenAI model will analyze the text and return a response containing:

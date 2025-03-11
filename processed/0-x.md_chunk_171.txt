@@ -1,2 +1,0 @@
-* Upgrade class-validator to address CVE-2019-18413.
-* Zoom Node: Add notice about deprecation of Zoom JWT app support.

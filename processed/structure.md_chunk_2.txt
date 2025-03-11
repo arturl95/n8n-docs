@@ -1,9 +1,0 @@
-export class ExampleNode implements INodeType {
-	description: INodeTypeDescription = {
-		// Basic node details here
-		properties: [
-			// Resources and operations here
-		]
-	};
-}
-```

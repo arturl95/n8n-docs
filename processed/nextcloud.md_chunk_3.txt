@@ -1,2 +1,0 @@
-1. To create your **Web DAV URL**: If Nextcloud is in the root of your domain: Enter the URL you use to access Nextcloud and add `/remote.php/dav/`. For example, if you access Nextcloud at `https://cloud.n8n.com`, your WebDAV URL is `https://cloud.n8n.com/remote.php/dav`.
-    - If you have Nextcloud installed in a subdirectory, enter the URL you use to access Nextcloud and add `/<subdirectory>/remote.php/dav/`. Replace `<subdirectory>` with the subdirectory Nextcloud's installed in.

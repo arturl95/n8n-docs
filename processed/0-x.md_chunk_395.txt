@@ -1,9 +1,0 @@
-This release adds support for node versioning, along with node enhancements and bug fixes.
-
-
-
-### New features
-
-<div class="n8n-new-features" markdown>
-
-#### Node versioning

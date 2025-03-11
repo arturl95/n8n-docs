@@ -1,6 +1,0 @@
-## Prerequisites
-
-<!-- vale off -->
-- Create a [Mistral](https://mistral.ai/){:target=_blank .external-link} La Plateforme account.
-- You must add payment information in **Workspace >** [**Billing**](https://console.mistral.ai/billing/){:target=_blank .external-link} and activate payments to enable API keys. Refer to [Account setup](https://docs.mistral.ai/getting-started/quickstart/#account-setup){:target=_blank .external-link} for more information.
-<!-- vale on -->

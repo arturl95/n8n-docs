@@ -1,9 +1,0 @@
-- Extract results from a LinkedIn search (employees in a company)
-- Get members in a LinkedIn group
-- Get 'Search LinkedIn Contacts' URL
-- Extract the last 80 connections from your LinkedIn profile
-- Extract the last 80 invitations sent from your LinkedIn
-- Get users who comment on a post on LinkedIn
-- Get users who like a post on LinkedIn
-- Extract a LinkedIn profile
-- Extract results from a LinkedIn search (profiles)

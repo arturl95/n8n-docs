@@ -1,7 +1,0 @@
-Learn more about [Language models in LangChain](https://js.langchain.com/docs/concepts/chat_models){:target=_blank .external-link}.
-
-#### Memory
-
-Memory retains information about previous queries in a series of queries. For example, when a user interacts with a chat model, it's useful if your application can remember and call on the full conversation, not just the most recent query entered by the user.
-
-Available nodes:

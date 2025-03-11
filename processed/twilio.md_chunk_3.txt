@@ -1,6 +1,0 @@
-To set up the credential:
-
-1. In n8n, select **Auth Token** as the **Auth Type**.
-2. In Twilio, go to **Console Dashboard > Account Info**.
-3. Copy your **Account SID** and enter this in your n8n credential. This acts as a username.
-4. Cop your **Auth Token** and enter this in your n8n credential. This acts as a password.

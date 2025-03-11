@@ -1,8 +1,0 @@
-### Text courses
-
-Build more complex workflows while learning key concepts along the way. Earn a badge and an avatar in your community profile. 
-
-- [Level 1: Beginner Course](https://blog.n8n.io/announcing-the-n8n-certification-course-for-beginners-level-1/){:target=_blank .external-link}
-- [Level 2: Intermediate Course](https://blog.n8n.io/announcing-course-level-two/){:target=_blank .external-link}
-
-## Self-hosting n8n

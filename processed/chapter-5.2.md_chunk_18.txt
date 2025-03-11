@@ -1,9 +1,0 @@
-/// question | Quiz questions
-* What's the lowest order price in the first batch of items?
-* What's the formatted date of customer 7?
-* How many items does the **Convert to File node** return?
-///
-
-??? note "Show me the solution"
-
-	To check the configuration of the nodes, you can copy the JSON workflow code below and paste it into your Editor UI:

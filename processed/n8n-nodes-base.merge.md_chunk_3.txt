@@ -1,7 +1,0 @@
-## Node parameters
-
-You can specify how the Merge node should combine data from different data streams by choosing a **Mode**: 
-
-### Append
-
-Keep data from all inputs. Choose a **Number of Inputs** to output items of each input, one after another. The node waits for the execution of all connected inputs.

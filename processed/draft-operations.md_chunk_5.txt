@@ -1,1 +1,0 @@
-* **To Email**: Enter one or more email addresses for recipients. Separate multiple email addresses with a comma, for example `jay@gatsby.com, jon@smith.com`.

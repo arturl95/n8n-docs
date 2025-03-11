@@ -1,4 +1,0 @@
-| `$input.item` | The input item of the current node that's being processed. Refer to [Item linking](/data/data-mapping/data-item-linking/) for more information on paired items and item linking. | :white_check_mark: |
-	| `$input.all()` | All input items in current node. | :white_check_mark: |
-	| `$input.first()` | First input item in current node. | :white_check_mark: |
-	| `$input.last()` | Last input item in current node. | :white_check_mark: |

@@ -1,5 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Username**: Enter your Wekan username.
-- A **Password**: Enter your Wekan password.
-- A **URL**: Enter your Wekan domain.

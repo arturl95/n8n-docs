@@ -1,2 +1,0 @@
-* [Spotify:](/integrations/builtin/app-nodes/n8n-nodes-base.spotify/) Added the Position parameter to the Add operation of the Playlist resource
-* [WooCommerce:](/integrations/builtin/app-nodes/n8n-nodes-base.woocommerce/) Added the Include Credentials in Query parameter

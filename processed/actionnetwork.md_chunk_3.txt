@@ -1,7 +1,0 @@
-Refer to the [Action Network API Authentication instructions](https://actionnetwork.org/docs/v2/#auth){:target=_blank .external-link} for more information.
-
-## Request API access
-
-Each user account and group on the Action Network has a separate API key to access that user or group's data.
-
-You must explicitly request API access from Action Network, which you can do in one of two ways:

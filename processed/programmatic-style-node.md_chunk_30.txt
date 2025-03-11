@@ -1,5 +1,0 @@
-### Step 6: Add node metadata
-
-Metadata about your node goes in the JSON file at the root of your node. n8n refers to this as the codex file. In this example, the file is `FriendGrid.node.json`.
-
-Add the following code to the JSON file:

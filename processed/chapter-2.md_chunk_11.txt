@@ -1,2 +1,0 @@
-- Use the [**Date & Time node**](/integrations/builtin/core-nodes/n8n-nodes-base.datetime/) to convert date and time data to different formats and calculate dates.
-- Use [**Schedule Trigger node**](/integrations/builtin/core-nodes/n8n-nodes-base.scheduletrigger/) to schedule workflows to run at a specific time, interval, or duration.

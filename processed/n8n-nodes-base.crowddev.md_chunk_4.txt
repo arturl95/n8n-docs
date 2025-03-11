@@ -1,3 +1,0 @@
-Refer to [crowd.dev's documentation](https://docs.crowd.dev/reference/getting-started-with-crowd-dev-api){:target=_blank .external-link} for more information about the service.
-
---8<-- "_snippets/integrations/builtin/app-nodes/operation-not-supported.md"

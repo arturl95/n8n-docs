@@ -1,3 +1,0 @@
-- An **API Token**: Go to your **user menu > Settings > API tokens** to generate an API token. Enter the generated API key in your n8n credential. Refer to [Getting started with the API](https://wise.com/help/articles/2958107/getting-started-with-the-api){:target=_blank .external-link} for more information.
-- Your **Environment**: Select the environment that best matches your Wise account environment.
-    - If you're using a Wise test sandbox account, select **Test**.

@@ -1,3 +1,0 @@
-- A **Tracking API Key**: For use with the [Track API](https://customer.io/docs/api/track/){:target=_blank .external-link} at `https://track.customer.io/api/v1/`. See the FAQs below for more details.
-- Your **Region**: Customer.io uses different API subdomains depending on the region you select. Options include:
-    - **Global region**: Keeps the default URLs for both APIs; for use in all non-EU countries/regions.

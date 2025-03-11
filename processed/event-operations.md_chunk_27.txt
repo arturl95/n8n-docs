@@ -1,6 +1,0 @@
-<!-- vale from-write-good.TooWordy = NO -->
-	- **Guests Can Modify**: Whether attendees other than the organizer can make changes to the event.
-	<!-- vale from-write-good.TooWordy = YES -->
-	- **Guests Can See Other Guests**: Whether attendees other than the organizer can see who the event's attendees are.
-	- **ID**: Opaque identifier of the event.
-	- **Location**: Geographic location of the event as free-form text.

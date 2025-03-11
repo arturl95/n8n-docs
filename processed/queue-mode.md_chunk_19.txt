@@ -1,9 +1,0 @@
-/// note | Migrate data
-If you want to migrate data from one database to another, you can use the Export and Import commands. Refer to the [CLI commands for n8n](/hosting/cli-commands/#export-workflows-and-credentials) documentation to learn how to use these commands.
-///
-
-## Webhook processors
-
-/// note | Keep in mind
-Webhook processes rely on Redis too. Follow the [configure the workers](#configuring-workers) section above to setup webhook processor nodes.
-///

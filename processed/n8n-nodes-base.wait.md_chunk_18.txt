@@ -1,7 +1,0 @@
-#### Form Description
-
-Enter a form description to display beneath the title. This description can help prompt the user on how to complete the form.
-
-#### Form Fields
-
-Set up each field you want to appear on your form using these parameters:

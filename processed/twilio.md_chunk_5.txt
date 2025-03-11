@@ -1,6 +1,0 @@
-1. In n8n, select **API Key** as the **Auth Type**.
-2. In Twilio, go to **Console Dashboard > Account Info**.
-3. Copy your **Account SID** and enter it in your n8n credential.
-4. In Twilio, go to your account's [**API keys & tokens**](https://www.twilio.com/console/project/api-keys) page.
-5. Select **Create API Key**.
-6. Enter a **Friendly name** for your API key, like `n8n integration`.

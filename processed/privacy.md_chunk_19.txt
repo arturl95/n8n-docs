@@ -1,3 +1,0 @@
-- **General Workflow Information**: This includes details about which nodes are present in your workflow, the number of items currently in the workflow, and whether the workflow is active.
-- **Input & Output Schemas of Nodes**: This includes the schema of all nodes with incoming data and the output schema of a node in question. We do not send the actual data value of the schema.
-- **Node Configuration**: This includes the operations, options, and settings chosen in the referenced node.

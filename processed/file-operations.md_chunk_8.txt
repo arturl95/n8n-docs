@@ -1,3 +1,0 @@
-## Common issues
-
-For common errors or issues and suggested resolution steps, refer to [Common Issues](/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/common-issues/).

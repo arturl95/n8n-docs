@@ -1,4 +1,0 @@
-- Refer to [Sharing Access to Buckets with Access Keys](https://docs.digitalocean.com/products/spaces/how-to/manage-access/#access-keys){:target="_blank" .external-link} for more information on generating the key and secret.
-9. Keep the **Force Path Style** toggle turned off unless you want to use subdomain/virtual calling format.
-10. Decide how you want the n8n credential to handle SSL:
-    - To respect SSL certificate validation, keep the default of **Ignore SSL Issues** turned off.

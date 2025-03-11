@@ -1,8 +1,0 @@
-### Enhanced nodes
-
-
-* [Agile CRM:](/integrations/builtin/app-nodes/n8n-nodes-base.agilecrm/) Added Filters to Get All operation of Contact and Company resources.
-* [Date & Time:](/integrations/builtin/core-nodes/n8n-nodes-base.datetime/) Ensuring the return values are always of type string.
-* [IF:](/integrations/builtin/core-nodes/n8n-nodes-base.if/) Added support for moment types to Date & Time condition.
-
-### Core Functionality

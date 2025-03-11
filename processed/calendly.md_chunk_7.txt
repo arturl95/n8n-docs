@@ -1,1 +1,0 @@
-1. Select **Connect my account** in n8n and follow the on-screen prompts to finish authorizing the credential.

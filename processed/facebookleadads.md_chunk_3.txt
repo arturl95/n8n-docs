@@ -1,6 +1,0 @@
-- A **Client ID**
-- A **Client Secret**
-
-To get both, [create a Meta app](https://developers.facebook.com/docs/development/create-an-app){:target=_blank .external-link} with either the Facebook Login product or the Facebook Login for Business product.
-
-To create your app and set up the credential with **Facebook Login for Business**:

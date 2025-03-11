@@ -1,7 +1,0 @@
-Refer to [Assistants | OpenAI](https://platform.openai.com/docs/api-reference/assistants){:target=_blank .external-link} documentation for more information. 
-
-## Update an Assistant
-
-Use this operation to update the details of an existing assistant.
-
-Enter these parameters:

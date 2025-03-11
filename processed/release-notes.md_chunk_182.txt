@@ -1,1 +1,0 @@
-this, the credential creator needs to [share the credential](/credentials/credential-sharing/) with you.

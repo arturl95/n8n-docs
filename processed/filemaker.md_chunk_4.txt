@@ -1,3 +1,0 @@
-- Refer to [Test the FileMaker Data API solution](https://help.claris.com/en/data-api-guide/content/test-data-api-app.html){:target=_blank .external-link} for more information.
-    1. Monitor your hosted solution using Admin Console.
-        - Refer to [Monitor FileMaker Data API solutions](https://help.claris.com/en/data-api-guide/content/monitor-data-api-app.html){:target=_blank .external-link} for more information.

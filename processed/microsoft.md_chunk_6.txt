@@ -1,7 +1,0 @@
-## Supported authentication methods
-
-- OAuth2
-
-## Related resources
-
-Refer to the linked Microsoft API documentation below for more information about each service's API:

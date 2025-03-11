@@ -1,4 +1,0 @@
-- A **Warehouse**: Enter the name of the default virtual [warehouse](https://docs.snowflake.com/en/sql-reference/sql/use-warehouse){:target=_blank .external-link} to use for the session after connecting. n8n uses this warehouse for performing queries, loading data, and so on.
-- A **Username**
-- A **Password**
-- A **Schema**: Enter the [schema](https://docs.snowflake.com/en/sql-reference/sql/use-schema){:target=_blank .external-link} you want to use after connecting.

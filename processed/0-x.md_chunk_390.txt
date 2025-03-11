@@ -1,1 +1,0 @@
-* [Pipedrive Node](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/){:target="_blank"}: Fix resolve properties when using multi option field.

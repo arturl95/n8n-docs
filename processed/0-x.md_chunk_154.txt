@@ -1,7 +1,0 @@
-* Core: don't crash express app on unhandled rejected promises.
-* Core: handle missing binary metadata in download URLs.
-* Core: upsert (update and insert) credentials and workflows in the `import:` commands.
-* Core: validate numeric IDs in the public API.
-* Editor: don't request workflow data twice when opening a workflow.
-* Editor: execution list micro optimization.
-* Editor: fix node authentication options ordering and hiding options based on node version.

@@ -1,1 +1,0 @@
-3. Copy the **URL** from the **Project URL** section and enter it as your n8n **Host**. Refer to [API URL and keys](https://supabase.com/docs/guides/api#api-url-and-keys){:target=_blank .external-link} for more detailed instruction.

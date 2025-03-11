@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Token**: Create new or access existing API tokens from your [**Automizy dashboard**](https://app.automizy.com/dashboard){:target=_blank .external-link} **> Settings > API Token**.

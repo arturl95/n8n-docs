@@ -1,5 +1,0 @@
-/// note | LangChain Code node only
-These variables are for use in expressions in the LangChain Code node. You can't use them in other nodes.
-///
-
---8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-root-nodes/langchaincode/builtin-methods.md"

@@ -1,9 +1,0 @@
-<figure markdown="span">
-![Sample Combine mode inputs and output. Two separate data sources are on the left. The final data source combines these data sources by matching fields.](/_images/integrations/builtin/core-nodes/merge/merge-by-field-diagram.png)
-<figcaption>Combine by Matching Fields mode inputs and output</figcaption>
-</figure>
-
-
-#### Position
-
-Combine items based on their order. The item at index 0 in Input 1 merges with the item at index 0 in Input 2, and so on.

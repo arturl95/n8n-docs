@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [WooCommerce credentials](/integrations/builtin/credentials/woocommerce/) for guidance on setting up authentication. 
-///
-
-## Operations

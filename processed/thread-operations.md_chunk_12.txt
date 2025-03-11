@@ -1,2 +1,0 @@
-* **Search**: Enter Gmail search refine filters, like `from:`, to filter the threads returned. Refer to [Refine searches in Gmail](https://support.google.com/mail/answer/7190?hl=en){:target=_blank .external-link} for more information.
-* **Read Status**: Choose whether to receive **Unread and read emails**, **Unread emails only** (default), or **Read emails only**.

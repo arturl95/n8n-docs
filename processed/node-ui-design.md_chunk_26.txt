@@ -1,1 +1,0 @@
-* If the user needs to get an ID from a URL, handle the user pasting in the entire URL.

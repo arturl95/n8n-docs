@@ -1,3 +1,0 @@
-To receive error messages for a failed workflow, set the **Error Workflow** in the [Workflow Settings](/workflows/settings/) to an Error Workflow that uses an **Error Trigger node**.
-
-The only difference between a regular workflow and an Error Workflow is that the latter contains an **Error Trigger node**. Make sure to create this node before you set this as another workflow's designated Error Workflow.

@@ -1,2 +1,0 @@
-| `N8N_PREVIEW_MODE` | Boolean | `false` | Set to `true` to run in preview mode. |
-| `N8N_TEMPLATES_ENABLED` | Boolean | `false` | Enables workflow templates (true) or disable (false). |

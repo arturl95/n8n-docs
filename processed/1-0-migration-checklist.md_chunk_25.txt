@@ -1,5 +1,0 @@
-### Remove Node 16 support
-
-n8n now requires Node 18.17.0 or above.
-
-## Updating to n8n 1.0

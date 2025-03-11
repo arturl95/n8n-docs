@@ -1,4 +1,0 @@
-### Node updates
-
-- [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/): Added the option to choose between the default memory connector to provide memory to the assistant or to specify a thread ID    
-- [Gmail](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) and [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/): Added custom approval operations to have a human in the loop of a workflow

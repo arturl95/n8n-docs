@@ -1,6 +1,0 @@
-- Get professional emails of decision-makers by company domain and area
-- Discover up to ten decision-makers using search engines (Bing) by company name and area
-- Get a company's domain by company name
-- Get employees by company name or domain, area, seniority, and country
-- Get a company's Facebook profile by name without manually searching on Google or Facebook
-- Get geocoded company data by IP address

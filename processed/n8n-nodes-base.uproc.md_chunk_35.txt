@@ -1,8 +1,0 @@
-- Returns driving routing time, distance, fuel consumption, and cost between two zip codes, using city and province of every zip code
-- Discover date-time data by IPv4 or IPv6 address
-- Get USNG coordinates by latitude and longitude
-- Get UTM coordinates by latitude and longitude
-- Discover the zip code if you have an IP address
-- Get the first zip code by prefix, only for Spain
-- Get multiple zip codes by prefix, with worldwide coverage
-- Get time data by coordinates

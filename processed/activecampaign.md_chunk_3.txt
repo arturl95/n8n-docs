@@ -1,1 +1,0 @@
-Refer to [How to obtain your ActiveCampaign API URL and Key](https://help.activecampaign.com/hc/en-us/articles/207317590-Getting-started-with-the-API#h_01HJ6REM2YQW19KYPB189726ST){:target=_blank .external-link} for more information or for instructions on resetting your API key.

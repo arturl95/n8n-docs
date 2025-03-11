@@ -1,1 +1,0 @@
-* The node expects the `chatInput` field. If your previous node doesn't have this field, add an [Edit Fields (Set)](/integrations/builtin/core-nodes/n8n-nodes-base.set/) node to edit an incoming field name to `chatInput`.

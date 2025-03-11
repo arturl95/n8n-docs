@@ -1,8 +1,0 @@
-`getInputData()`, and the subsequent loop, allows the node to handle situations where data comes from a previous node. This includes supporting multiple inputs. This means that if, for example, the previous node outputs contact information for five people, your FriendGrid node can create five contacts.
-
-
-### Step 5: Set up authentication
-
-The SendGrid API requires users to authenticate with an API key.
-
-Add the following to `FriendGridApi.credentials.ts`

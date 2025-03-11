@@ -1,5 +1,0 @@
-This code creates two operations: one to get today's APOD image, and another to send a get request for photos from one of the Mars Rovers. The object named `roverName` requires the user to choose which Rover they want photos from. The `routing` object in the Mars Rover operation references this to create the URL for the API call.
-
-#### Step 3.6: Optional fields
-
-Most APIs, including the NASA API that you're using in this example, have optional fields you can use to refine your query.

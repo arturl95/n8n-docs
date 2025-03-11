@@ -1,1 +1,0 @@
-Refer to the [Asana OAuth register an application documentation](https://developers.asana.com/docs/oauth#register-an-application){:target=_blank .external-link} for more information.

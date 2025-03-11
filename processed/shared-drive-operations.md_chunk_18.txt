@@ -1,6 +1,0 @@
-- **Credential to connect with**: Create or select an existing [Google Drive credentials](/integrations/builtin/credentials/google/).
-- **Resource**: Select **Shared Drive**.
-- **Operation**: Select **Get Many**.
-- **Return All**: Choose whether to return all results or only up to a given limit.
-- **Limit**: The maximum number of items to return when **Return All** is disabled.
-- **Shared Drive**: Choose the shared drive want to get.

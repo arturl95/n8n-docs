@@ -1,3 +1,0 @@
-### XML to JSON options
-
-These options only appear if you select **XML to JSON** as the **Mode**:

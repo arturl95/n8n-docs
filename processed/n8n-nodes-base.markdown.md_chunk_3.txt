@@ -1,4 +1,0 @@
-| Option | Description | Default |
-| ------ | ----------- | ------- |
-| **Add Blank To Links** | Whether to open links a new window (enabled) or not (disabled). | Disabled |
-| **Automatic Linking To URLs** | Whether to automatically link to URLs (enabled) or not (disabled). If enabled, n8n converts any string that it identifies as a URL to a link. | Disabled |

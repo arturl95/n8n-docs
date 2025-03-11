@@ -1,9 +1,0 @@
-The n8n API comes with a built-in Swagger UI playground in self-hosted versions. This provides interactive documentation, where you can try out requests. The path to access the playground depends on your hosting.
-
-n8n constructs the path from values set in your environment variables:
-
-```shell
-N8N_HOST:N8N_PORT/N8N_PATH/api/v<api-version-number>/docs
-```
-
-The API version number is `1`. There may be multiple versions available in the future.

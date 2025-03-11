@@ -1,6 +1,0 @@
-* **Messaging Handover**
-    * **Mentions**: Notifies you whenever an Instagram user @mentions an Instagram Business or Creator Account in a comment or caption.
-    * **Messages**: Notifies you when anyone messages your app's Instagram user.
-    * **Messaging Seen**: Notifies you when someone sees a message sent by your app's Instagram user.
-    * **Standby**
-    * **Story Insights**: Notifies you one hour after a story expires with metrics describing interactions on a story.

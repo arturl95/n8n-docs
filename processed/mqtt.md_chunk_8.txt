@@ -1,1 +1,0 @@
-Refer to your MQTT broker provider's documentation for more detailed configuration instructions.

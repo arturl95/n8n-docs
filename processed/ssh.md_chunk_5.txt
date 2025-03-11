@@ -1,8 +1,0 @@
-To configure this credential, you'll need to:
-
-1. Enter the IP address of the server you're connecting to as the **Host**.
-2. Enter the **Port** to use for the connection. SSH uses port `22` by default.
-3. Enter the **Username** of the account that generated the private key.
-4. Enter the entire contents of your SSH **Private Key**.
-5. If you created a **Passphrase** for the **Private Key**, enter the passphrase.
-    - If you didn't create a passphrase for the key, leave blank.

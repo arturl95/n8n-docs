@@ -1,5 +1,0 @@
-* [TheHive 5 node](/integrations/builtin/app-nodes/n8n-nodes-base.thehive5/)
-* [TheHive 5 Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.thehive5trigger/)
-* [TheHive 5 credentials](/integrations/builtin/credentials/thehive5/)
-
-#### `N8N_PERSISTED_BINARY_DATA_TTL` removed

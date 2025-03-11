@@ -1,6 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Client ID**: Generated when you [create a Strava app](https://developers.strava.com/docs/getting-started/#account){:target=_blank .external-link}.
-- A **Client Secret**: Generated when you [create a Strava app](https://developers.strava.com/docs/getting-started/#account){:target=_blank .external-link}.
-
-Use these settings for your Strava app:

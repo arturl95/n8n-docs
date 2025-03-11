@@ -1,3 +1,0 @@
-- Select **Add Option** and select **Filter** from the dropdown list.
-- You can add filters for any number of columns. The result will only include records which match all the columns.
-- For each column, you can enter any number of values separated by commas. The result will include records which match any of the values for that column.

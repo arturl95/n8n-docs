@@ -1,2 +1,0 @@
-6. If the **Private Key** is encrypted, enter the **Passphrase** used to decrypt it.
-    - If the **Private Key** doesn't use a passphrase, leave this field blank.

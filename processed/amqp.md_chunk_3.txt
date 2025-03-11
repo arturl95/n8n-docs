@@ -1,5 +1,0 @@
-Refer to your provider's documentation for more information about the service. Refer to [ActiveMQ's API documentation](https://activemq.apache.org/components/classic/documentation/rest){:target=_blank .external-link} as one example.
-
-## Using AMQP connection
-
-To configure this credential, you'll need:

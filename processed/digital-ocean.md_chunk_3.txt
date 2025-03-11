@@ -1,3 +1,0 @@
-1. [Log in](https://cloud.digitalocean.com/login){:target=_blank .external-link} to DigitalOcean. 
-2. Select the project to host the Droplet, or [create a new project](https://docs.digitalocean.com/products/projects/how-to/create/){:target=_blank .external-link}.
-3. In your project, select **Droplets** from the **Manage** menu.

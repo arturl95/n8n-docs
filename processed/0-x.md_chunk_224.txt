@@ -1,9 +1,0 @@
-* Core: deduplicate error handling in nodes.
-* Editor: show back mapping hint when parameter is focused.
-* Editor: add **Stop execution** button to execution preview.
-* Editor: curb direct item access linting.
-* Editor: fix expression editor variable selector filter.
-* Editor: fix for execution retry dropdown not closing.
-* Editor: fix for logging error on user logout.
-* Editor: fix zero treated as missing value in resource locator.
-* Editor: hide pin data in production executions.

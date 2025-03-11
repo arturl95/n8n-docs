@@ -1,5 +1,0 @@
---8<-- "_snippets/integrations/builtin/cluster-nodes/sub-node-expression-resolution.md"
-	
-Supabase provides a [quickstart for setting up your vector store](https://supabase.com/docs/guides/ai/langchain?database-method=sql){:target=_blank .external-link}. If you use settings other than the defaults in the quickstart, this may affect parameter settings in n8n. Make sure you understand what you're doing.
-
-## Node usage patterns

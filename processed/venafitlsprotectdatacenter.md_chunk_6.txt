@@ -1,7 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Domain**: Enter your Venafi TLS Protect Datacenter domain.
-- A **Client ID**: Enter the **Client ID** from your API integration. Refer to the information and links in [Prerequisites](#prerequisites) for more information on creating an API integration.
-- A **Username**: Enter your username.
-- A **Password**: Enter your password.
-- **Allow Self-Signed Certificates**: If turned on, the credential will allow self-signed certificates.

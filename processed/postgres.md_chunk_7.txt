@@ -1,2 +1,0 @@
-- **Require**: Sets the `ssl-mode` parameter to `require`. Only try an SSL connection. If a root CA file is present, verify that a trusted certificate authority (CA) issued the server certificate.
-7. Enter the **Port** number to use for the connection. You can either run the `/conninfo` command to confirm the host name or run this query:

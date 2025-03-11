@@ -1,7 +1,0 @@
-# KoboToolbox Trigger node
-
-[KoboToolbox](https://www.kobotoolbox.org/){:target=_blank .external-link} is a field survey and data collection tool to design interactive forms to be completed offline from mobile devices. It's available both as a free cloud solution or as a self-hosted version.
-
-/// note | Credentials
-You can find authentication information for this node [here](/integrations/builtin/credentials/kobotoolbox/).
-///

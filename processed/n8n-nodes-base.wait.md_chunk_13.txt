@@ -1,2 +1,0 @@
-* **Binary Property**: Enter the name of the binary property to write the data of the received file to. This option's only relevant if binary data is received.
-* **Ignore Bots**: Set whether to ignore requests from bots like link previewers and web crawlers (turned on) or not (turned off).

@@ -1,3 +1,0 @@
-* [DeepL node](/integrations/builtin/app-nodes/n8n-nodes-base.deepl/): Add support for longer text fields, and add credentials tests.
-* [Facebook Graph API node](/integrations/builtin/app-nodes/n8n-nodes-base.facebookgraphapi/): Add support for Facebook Graph API 14.
-* [JIRA node](/integrations/builtin/app-nodes/n8n-nodes-base.jira/): Add support for the simplified option with rendered fields.

@@ -1,1 +1,0 @@
-When using the Sort operation, configure the following parameters and options:

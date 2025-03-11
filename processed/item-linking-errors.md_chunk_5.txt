@@ -1,7 +1,0 @@
-You can avoid `.item` by using `.first()`, `.last()` or `.all()[index]` instead. They require you to know the position of the item that you’re targeting within the target node's output items. Refer to [Built in methods and variables | Output of other nodes](/code/builtin/output-other-nodes/) for more detail on these methods.
-
-The fix for the root cause depends on the exact error.
-
-### Fix for 'Info for expressions missing from previous node'
-
-If you see this error message:

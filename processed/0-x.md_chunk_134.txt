@@ -1,6 +1,0 @@
-* Core: disable transactions on SQLite migrations that use PRAGMA foreign_keys.
-* Core: ensure expression extension doesn't fail with optional chaining.
-* Core: fix import command for workflows with old format (affects workflows created before user management was introduced).
-* Core: stop copying icons to cache.
-* Editor: prevent creation of input connections for nodes without input slot.
-* Error workflow now correctly checks for subworkflow permissions.

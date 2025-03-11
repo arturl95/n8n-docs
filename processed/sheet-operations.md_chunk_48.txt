@@ -1,3 +1,0 @@
-- You can find the `sheetId` in a Google Sheets URL: `https://docs.google.com/spreadsheets/d/aBC-123_xYz/edit#gid=sheetId`.
-- **Mapping Column Mode**: 
-	- **Map Each Column Manually**: Enter **Values to Send** for each column.

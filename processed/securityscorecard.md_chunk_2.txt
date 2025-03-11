@@ -1,9 +1,0 @@
-- API key
-
-## Related resources
-
-Refer to [SecurityScorecard's Developer documentation](https://securityscorecard.readme.io/docs/integrate-ratings-platform-services){:target=_blank .external-link} and [API documentation](https://securityscorecard.readme.io/reference/introduction){:target=_blank .external-link} for more information about the service.
-
-## Using API key
-
-To configure this credential, you'll need:

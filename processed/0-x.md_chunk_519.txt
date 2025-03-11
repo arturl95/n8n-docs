@@ -1,6 +1,0 @@
-### Enhanced nodes
-
-
-* [Telegram Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.telegramtrigger/) Added support for downloading images to channel_post updates.
-
-### Core Functionality

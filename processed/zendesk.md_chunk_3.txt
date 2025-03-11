@@ -1,2 +1,0 @@
-- Your **Subdomain**: Your Zendesk subdomain is the portion of the URL between `https://` and `.zendesk.com`. For example, if the Zendesk URL is `https://n8n-example.zendesk.com/agent/dashboard`, the subdomain is `n8n-example`.
-- An **Email** address: Enter the email address you use to log in to Zendesk.

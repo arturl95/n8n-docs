@@ -1,6 +1,0 @@
-/// warning | App unavailable
-    You may receive a warning that the app isn't available. Once you take an app live, there may be a few minutes' delay before you can generate an access token.
-    ///
-
-5. Copy the token and enter it in your n8n credential as the **Access Token**. Save this token somewhere else, too, since you'll need it for the Webhooks configuration.
-6. Save your n8n credential.

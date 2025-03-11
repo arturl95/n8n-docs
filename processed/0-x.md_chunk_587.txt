@@ -1,7 +1,0 @@
-## n8n@0.135.1
-
-For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n%400.135.0...n8n@0.135.1) for this version.<br />
-**Release date:** 2021-08-23
-
-### Core Functionality
-- Fixed an issue where if n8n was shutdown during database migration while upgrading versions, errors would result upon next startup.

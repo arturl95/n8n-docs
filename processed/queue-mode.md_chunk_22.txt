@@ -1,9 +1,0 @@
-n8n doesn't recommend adding the main process to the load balancer pool. If you add the main process to the pool, it will receive requests and possibly a heavy load. This will result in degraded performance for editing, viewing, and interacting with the n8n UI.
-
-You can start the webhook processor by executing the following command from the root directory:
-
-```
-./packages/cli/bin/n8n webhook
-```
-
-If you're using Docker, use the following command:

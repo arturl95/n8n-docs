@@ -1,3 +1,0 @@
-## Trigger configuration
-
-To configure the trigger with this Object:

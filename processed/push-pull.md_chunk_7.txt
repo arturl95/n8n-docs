@@ -1,5 +1,0 @@
-n8n's implementation of source control is opinionated. It resolves merge conflicts for credentials and variables automatically. n8n can't detect conflicts on workflows.
-
-### Workflows
-
-You have to explicitly tell n8n what to do about workflows when pushing or pulling. The Git repository acts as the source of truth.

@@ -1,3 +1,0 @@
-| **Customized Header ID** | Whether to support custom heading IDs (enabled) or not (disabled). When enabled, you can add custom heading IDs using `{header ID here}` after the heading text. | Disabled |
-| **Emoji Support** | Whether to support emojis (enabled) or not (disabled). | Disabled. |
-| **Encode Emails** | Whether to transform ASCII character emails into their equivalent decimal entities (enabled) or not (disabled). | Enabled |

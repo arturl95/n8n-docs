@@ -1,7 +1,0 @@
-* **Separator**: Select the separator you want to insert between concatenated values.
-	* **Count**: Count the total number of values in your input data.
-	* **Count Unique**: Count the number of unique values in your input data.
-	* **Max**: Find the highest numeric value in your input data.
-	* **Min**: Find the lowest numeric value in your input data.
-	* **Sum**: Add together the numeric values in your input data.
-* **Field**: Enter the name of the field you want to perform the aggregation on.

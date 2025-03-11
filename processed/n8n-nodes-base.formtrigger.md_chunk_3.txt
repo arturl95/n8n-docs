@@ -1,7 +1,0 @@
-## Production workflows
-
-When your workflow is ready, switch to using the **Production URL**. You can then activate your workflow, and n8n runs it automatically when a user submits the form.
-
-When working with a production URL, ensure that you have saved and activated the workflow. Data flowing through the Form trigger isn't visible in the editor UI with the production URL.
-
-## Set default selections with query parameters

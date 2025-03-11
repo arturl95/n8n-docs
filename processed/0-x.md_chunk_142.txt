@@ -1,3 +1,0 @@
-* Core: export OpenAPI spec for external tools.
-* Core: set custom Cache-Control headers for static assets.
-* Core: simplify pagination in declarative node design.

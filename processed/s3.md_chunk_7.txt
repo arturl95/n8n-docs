@@ -1,6 +1,0 @@
-3. From your DigitalOceans control panel, go to [**API**](https://cloud.digitalocean.com/account/api/spaces){:target="_blank" .external-link}.
-4. Open the **Spaces Keys** tab.
-5. Select **Generate New Key**.
-6. Enter a **Name** for your key, like `n8n integration` and select the checkmark.
-7. Copy the **Key** displayed next to the name and enter this as the **Access Key ID** in n8n.
-8. Copy the **Secret** value and enter this as the **Secret Access Key** in n8n.

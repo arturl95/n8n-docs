@@ -1,3 +1,0 @@
-* [Google Cloud Firestore:](/integrations/builtin/app-nodes/n8n-nodes-base.googlecloudfirestore/) Added the functionality for GeoPoint parsing and added ISO-8601 format for date validation
-* [IMAP Email:](/integrations/builtin/core-nodes/n8n-nodes-base.emailimap/) Added the Force reconnect option
-* [Paddle:](/integrations/builtin/app-nodes/n8n-nodes-base.paddle/) Added the Use Sandbox environment API parameter

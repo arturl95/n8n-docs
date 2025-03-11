@@ -1,1 +1,0 @@
-* Save and activate the workflow, ensuring the production URL is selected for the Webhook node. Refer to [webhook node](/integrations/builtin/core-nodes/n8n-nodes-base.webhook/) for more information.

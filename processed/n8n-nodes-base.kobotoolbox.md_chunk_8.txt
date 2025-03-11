@@ -1,4 +1,0 @@
-- Download options lets you download any attachment linked to each particular form submissions, such as pictures and videos. It also lets you select the naming pattern, and the file size to download (if available - typically for images). 
-- Formatting options perform some reformatting as described in [About reformatting](#about-reformatting).
-
-#### About reformatting

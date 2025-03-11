@@ -1,1 +1,0 @@
-* **Download**: download the version as JSON.

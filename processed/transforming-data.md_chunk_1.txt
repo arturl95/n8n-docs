@@ -1,5 +1,0 @@
-For example, the image below shows the output of an [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) node that returns data incompatible with n8n's data structure. The node returns the data and displays that only one item was returned.
-
-![HTTP Request node output](/_images/data/transforming-data/HTTPRequest_output.png)
-
-To transform this kind of structure into the n8n data structure you can use the data transformation nodes:

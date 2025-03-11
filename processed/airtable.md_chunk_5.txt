@@ -1,5 +1,0 @@
-- `data.records:read`
-    - `data.records:write`
-    - `schema.bases:read`
-1. Select the **Access** for your token. Choose from a single base, multiple bases (even bases from different workspaces), all of the current and future bases in a workspace you own, or all of the bases from any workspace that you own including bases/workspace added in the future.
-1. Select **Create token**.

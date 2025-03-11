@@ -1,9 +1,0 @@
-For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
-
-### Node enhancements
-
-* An overhaul of the Microsoft Excel 365 node, improve the UI making it easier to configure, improve error handling, and fix issues.
-
-### Deprecations
-
-This release deprecates the following:

@@ -1,1 +1,0 @@
-Once you **Save** your app, open the app details and [edit your app configuration](https://developer.pagerduty.com/docs/dd91fbd09a1a1-register-an-app#editing-your-app-configuration){:target=_blank .external-link} to use these settings:

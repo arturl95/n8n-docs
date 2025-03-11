@@ -1,3 +1,0 @@
-| 8      | Rihanna       | Pop star          | 2024-10-01T11:50:22.493Z |
-| 9      | Tom Hanks     | Actor             | 2024-10-17T13:58:31.493Z |
-<!-- vale on -->

@@ -1,1 +1,0 @@
-* [Salesforce Node:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Fix issue that 'status' did not get used for Case => Create & Update

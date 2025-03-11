@@ -1,7 +1,0 @@
-If you're new to Kafka, refer to the [Apache Kafka Quickstart](https://kafka.apache.org/quickstart){:target=_blank .external-link} for initial setup.
-
-Refer to [Encryption and Authentication using SSL](https://kafka.apache.org/documentation/#security_ssl){:target=_blank .external-link} for working with SSL in Kafka.
-
-## Using client ID
-
-To configure this credential, you'll need a running Kafka environment and:

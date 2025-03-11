@@ -1,5 +1,0 @@
-## Binary data
-
-Up to now, you have mainly worked with text data. But what if you want to process data that's not text, like images or PDF files? These types of files are represented in the binary numeral system, so they're considered binary data. In this form, binary data doesn't offer you useful information, so you'll need to convert it into a readable form.
-
-In n8n, you can process binary data with the following nodes:

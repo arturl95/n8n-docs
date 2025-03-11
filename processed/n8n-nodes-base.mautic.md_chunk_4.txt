@@ -1,9 +1,0 @@
-* Get data of a contact
-    * Get data of all contacts
-    * Send email to contact
-    * Update a contact
-* Contact Segment
-    * Add contact to a segment
-    * Remove contact from a segment
-* Segment Email
-    * Send

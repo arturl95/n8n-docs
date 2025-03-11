@@ -1,5 +1,0 @@
-## Using OAuth2
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-If you're [self-hosting n8n](/hosting/), create a new GitHub [OAuth app](https://docs.github.com/en/apps/oauth-apps){:target=_blank .external-link}:

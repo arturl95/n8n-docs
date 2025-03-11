@@ -1,3 +1,0 @@
-n8n dynamically loads models from the Google Gemini API and you'll only see the models available to your account.
-
-## Node options

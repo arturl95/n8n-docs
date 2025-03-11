@@ -1,9 +1,0 @@
-### Core Functionality
-- Fixed error messages for the text area field
-- Added the missing `winston` dependency
-- Fixed an issue with adding values using the Variable selector. The deleted values don't reappear
-- Fixed an issue with the Error Workflows not getting executed in the queue mode
-
-### Bug fixes
-
-* [Notion:](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Fixed an issue with parsing the last edited time

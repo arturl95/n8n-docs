@@ -1,6 +1,0 @@
-* **Compress**: Create a compressed file from your input data.
-* **Decompress**: Decompress an existing compressed file.
-
-Refer to the sections below for parameters specific to each **Operation**.
-
-### Compress

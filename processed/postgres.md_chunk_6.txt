@@ -1,3 +1,0 @@
-6. **SSL**: Choose whether to use SSL in your connection. Refer to Postgres [SSL Support](https://www.postgresql.org/docs/16/libpq-ssl.html){:target=_blank .external-link} for more information. Options include:
-    - **Allow**: Sets the `ssl-mode` parameter to `allow`. First try a non-SSL connection; if that fails, try an SSL connection.
-    - **Disable**: Sets the `ssl-mode` parameter to `disable`. Only try a non-SSL connection.

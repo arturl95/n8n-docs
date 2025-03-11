@@ -1,8 +1,0 @@
-* **Limit Type**: Select what type of limit to enforce from these options:
-	* **After Time Interval**: Wait for a certain amount of time.
-		* Enter the limit's **Amount** of time.
-		* Select the limit's **Unit** of time.
-	* **At Specified Time**: Wait until a specific date and time to resume.
-		* **Max Date and Time**: Use the date and time picker to set the specified time the node should resume.
-
-#### On Webhook Call options

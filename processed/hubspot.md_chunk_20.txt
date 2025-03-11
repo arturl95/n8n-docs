@@ -1,3 +1,0 @@
-## Required scopes for HubSpot node
-
-If you're creating an app for use with the [HubSpot](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) node, n8n recommends starting with these scopes:

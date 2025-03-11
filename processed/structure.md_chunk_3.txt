@@ -1,6 +1,0 @@
-// Resources and operations here
-		]
-	};
-}
-```
-Refer to [Standard parameters](/integrations/creating-nodes/build/reference/node-base-files/standard-parameters/) for information on parameters available to all node types. Refer to [Declarative-style parameters](/integrations/creating-nodes/build/reference/node-base-files/declarative-style-parameters/) for the parameters available for declarative-style nodes.

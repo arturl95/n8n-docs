@@ -1,1 +1,0 @@
-- Duplicated workflows now open in a new window.

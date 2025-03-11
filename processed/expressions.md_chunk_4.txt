@@ -1,2 +1,0 @@
-1. Hover over the parameter where you want to use an expression.
-2. Select **Expressions** in the **Fixed/Expression** toggle.

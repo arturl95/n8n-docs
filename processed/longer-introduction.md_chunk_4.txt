@@ -1,6 +1,0 @@
-1. Select **Add first step**.
-2. Search for **Schedule**. n8n shows a list of nodes that match the search.
-3. Select **Schedule Trigger** to add the node to the canvas. n8n opens the node.
-4. For **Trigger Interval**, select **Weeks**.
-5. For **Weeks Between Triggers**, enter `1`.
-6. Enter a time and day. For this example, select **Monday** in **Trigger on Weekdays**, select **9am** in **Trigger at Hour**, and enter `0` in **Trigger at Minute**.

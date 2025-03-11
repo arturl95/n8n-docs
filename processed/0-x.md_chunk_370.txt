@@ -1,8 +1,0 @@
-</div>
-
-### Node enhancements
-
-* [GitHub node](/integrations/builtin/app-nodes/n8n-nodes-base.github/){:target=_blank}: add the Get All operation to the Organization resource.
-* [QuickBooks node](/integrations/builtin/app-nodes/n8n-nodes-base.quickbooks/){:target=_blank}: add a new optional field for tax items.
-
-### Bug fixes

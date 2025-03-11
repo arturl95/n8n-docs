@@ -1,2 +1,0 @@
-- Node properties now load on demand
-- Updated the Node.js version for the Docker images

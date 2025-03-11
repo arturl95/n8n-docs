@@ -1,9 +1,0 @@
---8<-- "_snippets/integrations/managed-google-oauth.md"
-
-## Prerequisites
-
-* Create a [Google Cloud](https://cloud.google.com/){:targe=_blank .external-link} account.
-
-## Set up OAuth
-
-There are five steps to connecting your n8n credential to Google services:

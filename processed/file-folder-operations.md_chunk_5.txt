@@ -1,3 +1,0 @@
-- **Folder**: The folder to search in. Select **From list** to choose the folder from the dropdown list, **By URL** to enter the URL of the folder, or **By ID** to enter the `folderId`. 
-		- You can find the `folderId` by visiting the shared folder in your browser and copying the last URL component: `https://drive.google.com/drive/u/1/folders/folderId`.
-	- **What to Search**: Whether to search for **Files and Folders**, **Files**, or **Folders**.

@@ -1,7 +1,0 @@
-To set up the database connection:
-
-1. Enter the **Host** or domain name for the Postgres server. You can either run the `/conninfo` command to confirm the host name or run this query:
-
-    ```
-    SELECT inet_server_addr();
-    ```

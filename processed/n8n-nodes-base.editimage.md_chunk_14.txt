@@ -1,8 +1,0 @@
-### Multi Step parameters
-
-* **Property Name**: Enter the name of the binary property that stores the image data.
-* **Operations**: Add the operations you want the multi step operation to perform. You can use any of the other operations.
-
-Refer to [Node options](#node-options) for optional configuration options.
-
-### Resize parameters

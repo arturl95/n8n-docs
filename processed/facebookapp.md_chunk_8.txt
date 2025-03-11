@@ -1,5 +1,0 @@
-1. Select **Save changes**.
-1. At the top of the page, toggle the **App Mode** from **Development** to **Live**.
-1. In the left menu, select **Add Product**.
-6. The **Add products to your app** page appears. Select **Webhooks**.
-7. The **Webhooks** product opens.

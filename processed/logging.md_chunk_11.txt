@@ -1,4 +1,0 @@
-- Craft log messages to be as human-readable as possible. For example, always wrap names in quotes.
-- Duplicating information in the log message and metadata, like workflow name in the above example, can be useful as messages are easier to search and metadata enables easier filtering.
-- Include multiple IDs (for example, `executionId`, `workflowId`, and `sessionId`) throughout all logs.
-- Use node types instead of node names (or both) as this is more consistent, and so easier to search.

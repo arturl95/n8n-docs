@@ -1,3 +1,0 @@
-* [Date & Time:](/integrations/builtin/core-nodes/n8n-nodes-base.datetime/) Added Calculate a Date action that allows you to add or subtract time from a date
-* [GitLab:](/integrations/builtin/app-nodes/n8n-nodes-base.gitlab/) Added Get, Get All, Update, and Delete operations to the Release resource
-* [Microsoft OneDrive:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftonedrive/) Added Delete operation to the Folder resource

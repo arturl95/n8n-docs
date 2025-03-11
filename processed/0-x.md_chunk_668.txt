@@ -1,3 +1,0 @@
-* [CrateDB:](/integrations/builtin/app-nodes/n8n-nodes-base.cratedb/) Added query parameters. The Execute Query operation returns the result from all queries executed instead of just one of the results.
-* [ERPNext:](/integrations/builtin/app-nodes/n8n-nodes-base.erpnext/) Added support for self-hosted ERPNext instances
-* [FTP:](/integrations/builtin/core-nodes/n8n-nodes-base.ftp/) Added the functionality to delete folders

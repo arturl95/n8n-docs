@@ -1,2 +1,0 @@
-- A **Role**: Enter the security [role](https://docs.snowflake.com/en/sql-reference/sql/use-role){:target=_blank .external-link} you want to use after connecting.
-- **Client Session Keep Alive**: By default, client connections typically time out three or four hours after the most recent query execution. Turning this setting on sets the `clientSessionKeepAlive` parameter to true: the server will keep the client's connection alive indefinitely, even if the connection doesn't execute any queries.

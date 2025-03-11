@@ -1,5 +1,0 @@
-## Multiple instances, multiple branches
-
-This pattern involves having multiple n8n instances, each one linked to its own branch. 
-
-You can use this pattern for environments. For example, create two n8n instances, development and production. Link them to their own branches. Push work from your development instance to its branch, do a pull request to move work to the production branch, then pull to the production instance.

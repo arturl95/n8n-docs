@@ -1,9 +1,0 @@
-#### Resources and operations
-
-APIs usually involve doing something to data. For example, "get all tasks." In this example, "task" is the resource, and "get all" is the operation.
-
-When your node has this resource and operation pattern, your first field should be **Resource**, and your second field should be **Operation**.
-
-#### Required fields
-
-Order fields by:

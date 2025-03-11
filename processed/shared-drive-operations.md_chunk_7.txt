@@ -1,5 +1,0 @@
-- **Can Rename Drive**: Whether the current user can rename this shared drive.
-	- **Can Share**: Whether the current user can share files or folders in this shared drive.
-	- **Can Trash Children**: Whether the current user can trash children from folders in this shared drive.
-- **Color RGB**: The color of this shared drive as an RGB hex string.
-- **Hidden**: Whether to hide this shared drive in the default view.

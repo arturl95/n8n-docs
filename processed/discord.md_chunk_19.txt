@@ -1,3 +1,0 @@
-Refer to the [Discord Making a Webhook documentation](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks){:target=_blank .external-link} for more information.
-
-## Choose an authentication method

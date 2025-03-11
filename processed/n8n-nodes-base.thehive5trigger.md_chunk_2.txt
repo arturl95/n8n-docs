@@ -1,3 +1,0 @@
-/// note | TheHive and TheHive 5
-n8n provides two nodes for TheHive. Use this node (TheHive 5 Trigger) if you want to use TheHive's version 5 API. If you want to use version 3 or 4, use [TheHive Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.thehivetrigger/).
-///

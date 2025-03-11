@@ -1,7 +1,0 @@
-To turn LDAP off:
-
-1. Log in to n8n as the instance owner.
-2. Select **Settings** <span class="inline-image">![Settings icon](/_images/common-icons/settings.png){.off-glb}</span> > **LDAP**.
-3. Toggle off **Enable LDAP Login**.
-
-If you turn LDAP off, n8n converts existing LDAP users to email users on their next login. The users must reset their password.

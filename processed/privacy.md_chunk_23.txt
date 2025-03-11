@@ -1,9 +1,0 @@
-PID (personal identifiable data) is data that's personal to you and would identify you as an individual.
-
-### n8n Cloud
-
-#### PID retention
-
-n8n only retains data for as long as necessary to provide the core service. 
-
-For n8n Cloud, n8n stores your workflow code, credentials, and other data indefinitely, until you choose to delete it or close your account. The platform stores execution data according to the retention rules on your account.

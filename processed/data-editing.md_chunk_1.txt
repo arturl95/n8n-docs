@@ -1,6 +1,0 @@
-/// note | For development only
-Data editing isn't available for production workflow executions. It's a feature to help test workflows during development.
-///
-## Edit output data
-
-To edit output data:

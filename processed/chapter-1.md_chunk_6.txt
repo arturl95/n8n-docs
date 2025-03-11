@@ -1,4 +1,0 @@
-<figure><img src="/_images/flow-logic/looping/customer_datastore_node.png"><figcaption align = "center"><i>Items in the Customer Datastore node</i></figcaption></figure>
-
-
-## Creating data sets with the Code node

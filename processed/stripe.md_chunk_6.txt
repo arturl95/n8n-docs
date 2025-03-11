@@ -1,7 +1,0 @@
-Refer to Stripe's [Create a secret API key](https://docs.stripe.com/keys#create-api-secret-key){:target=_blank .external-link} for more information.
-
-## Test mode and live mode
-
-All Stripe API requests happen within either [test mode](https://docs.stripe.com/test-mode) or live mode. Each mode has its own API key. 
-
-Use test mode to access simulated test data and live mode to access actual account data. Objects in one mode aren’t accessible to the other.

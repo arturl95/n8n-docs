@@ -1,3 +1,0 @@
-* **Get Time Between Dates**: Calculate the amount of time in specific units between two dates.
-* **Round a Date**: Round a date up or down to the nearest unit of your choice, such as month, day, or hour.
-* **Subtract From a Date**: Subtract a specified amount of time from a date.

@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Agile CRM credentials](/integrations/builtin/credentials/agilecrm/) for guidance on setting up authentication. 
-///
-
-## Operations

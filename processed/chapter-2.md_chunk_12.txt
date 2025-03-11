@@ -1,3 +1,0 @@
-Sometimes, you might need to pause the workflow execution. This might be necessary if you know that a service doesn't process the data instantly or it's slow to return all the results. In these cases, you don't want n8n to pass incomplete data to the next node.
-
-If you run into situations like this, use the [**Wait node**](/integrations/builtin/core-nodes/n8n-nodes-base.wait/) after the node that you want to delay. The **Wait node** pauses the workflow execution and will resume execution:

@@ -1,3 +1,0 @@
-## Setup resources for common IdPs
-
-Documentation links for common IdPs.

@@ -1,6 +1,0 @@
-### Exercise
-
-Let's build on the previous exercise, in which you used the Code node to create a data set of two contacts with their names and emails. Now, connect a second Code node to the first one. In the new node, write code to create a new column named `workEmail` that references the work email of the first contact.
-
-??? note "Show me the solution"
-	In the **Code node**, in the JavaScript Code field you have to write the following code:

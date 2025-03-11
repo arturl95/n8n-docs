@@ -1,4 +1,0 @@
-* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Fixed an issue with pagination for Deals resource
-* [Keap:](/integrations/builtin/app-nodes/n8n-nodes-base.keap/) Fixed an issue with the data type of the Order Title field
-* [Orbit:](/integrations/builtin/app-nodes/n8n-nodes-base.orbit/) Fixed an issue with the activity type in Post operation
-* [Slack:](/integrations/builtin/app-nodes/n8n-nodes-base.slack/) Fixed an issue with the Get Profile operation

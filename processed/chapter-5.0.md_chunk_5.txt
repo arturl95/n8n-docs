@@ -1,3 +1,0 @@
-* An [Airtable](https://airtable.com/){:target="_blank" .external-link} account and [credentials](/integrations/builtin/credentials/airtable/).
-* A [Google](https://www.google.com/account/about/){:target="_blank" .external-link} account and [credentials](/integrations/builtin/credentials/google/) to access Gmail.
-* A [Discord](https://discord.com/){:target="_blank" .external-link} account and webhook URL (you receive this using email when you sign up for this course).

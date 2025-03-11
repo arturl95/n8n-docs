@@ -1,4 +1,0 @@
-/// note | Credentials
-Workflow sharing allows editors to use all credentials used in the workflow. This includes credentials that aren't explicitly shared with them using [credential sharing](/credentials/credential-sharing/).
-///
-### Permissions

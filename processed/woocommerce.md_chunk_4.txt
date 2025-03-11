@@ -1,5 +1,0 @@
-1. Go to **WooCommerce > Settings > Advanced > Rest API > Add key**.
-2. Select **Read/Write** from the **Permissions** dropdown.
-3. Copy the generated **Consumer Key** and **Consumer Secret** and enter them into your n8n credentials.
-4. Enter your WordPress site URL as the **WooCommerce URL**.
-5. By default, n8n passes your credential details in the Authorization header. If you need to pass them as query string parameters instead, turn on **Include Credentials in Query**.

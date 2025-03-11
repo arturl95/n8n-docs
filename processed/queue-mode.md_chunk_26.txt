@@ -1,7 +1,0 @@
-You have webhook processors to execute the workflows. You can disable the webhook processing in the main process. This will make sure to execute all webhook executions in the webhook processors. In the configuration file set `endpoints.disableProductionWebhooksOnMainProcess` to `true` so that n8n doesn't process webhook requests on the main process.
-
-Alternatively, you can use the following command:
-
-```bash
-export N8N_DISABLE_PRODUCTION_MAIN_PROCESS=true
-```

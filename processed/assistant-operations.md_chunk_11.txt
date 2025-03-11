@@ -1,7 +1,0 @@
-Refer to [Create assistant | OpenAI](https://platform.openai.com/docs/api-reference/assistants/createAssistant){:target=_blank .external-link} documentation for more information. 
-
-## Delete an Assistant
-
-Use this operation to delete an existing assistant from your account.
-
-Enter these parameters:

@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Reddit credentials](/integrations/builtin/credentials/reddit/) for guidance on setting up authentication. 
-///
-
-## Operations

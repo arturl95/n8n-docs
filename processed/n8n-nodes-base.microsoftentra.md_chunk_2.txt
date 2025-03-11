@@ -1,6 +1,0 @@
-///  note  | Credentials
-You can find authentication information for this node [here](/integrations/builtin/credentials/microsoftentra/).
-///
-
-
-## Operations

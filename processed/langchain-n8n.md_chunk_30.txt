@@ -1,6 +1,0 @@
-Learn more about [Text embeddings in LangChain](https://js.langchain.com/docs/concepts/embedding_models/){:target=_blank .external-link}.
-
-
-#### Miscellaneous
-
-* [Chat Memory Manager](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorymanager/)

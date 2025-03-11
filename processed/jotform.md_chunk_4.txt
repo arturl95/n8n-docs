@@ -1,1 +1,0 @@
-Refer to the [JotForm API documentation](https://api.jotform.com/docs/) for more information on creating keys and API domains.

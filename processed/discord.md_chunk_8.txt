@@ -1,2 +1,0 @@
-- Refer to Discord's [Choosing installation contexts](https://discord.com/developers/docs/quick-start/getting-started#choosing-installation-contexts){:target=_blank .external-link} documentation for more information about these installation contexts.
-9. In **Installation > Install Link**, select **Discord Provided Link** if it's not already selected.

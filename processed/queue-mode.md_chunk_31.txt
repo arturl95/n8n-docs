@@ -1,8 +1,0 @@
-To deploy n8n in multi-main setup, ensure: 
-
-- All `main` processes are running in queue mode and are connected to Postgres and Redis.
-- All `main` and `worker` processes are running the same version of n8n.
-- All `main` processes have set the environment variable `N8N_MULTI_MAIN_SETUP_ENABLED` to `true`.
-- All `main` processes are running behind a load balancer with session persistence (sticky sessions) enabled.
-
-If needed, you can adjust the leader key options:

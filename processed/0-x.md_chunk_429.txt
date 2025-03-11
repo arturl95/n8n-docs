@@ -1,1 +1,0 @@
-* [Zendesk Node:](/integrations/builtin/app-nodes/n8n-nodes-base.zendesk/) Add ticket status On-hold.

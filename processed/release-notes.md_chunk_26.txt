@@ -1,6 +1,0 @@
-### Node updates
-
-- [AI Transform](/integrations/builtin/core-nodes/n8n-nodes-base.aitransform/): The `maximum context length` error now retries with reduced payload size
-- [Redis](/integrations/builtin/app-nodes/n8n-nodes-base.redis/): Added support for `continue on fail`
-
-### Improved commit modal

@@ -1,6 +1,0 @@
-To resolve this error, you can:
-
-- Update the `guest` user to allow it remote host access.
-- Create or use a different user to connect to the remote host. The `guest` user is the only user limited by default.
-
-Refer to ["guest" user can only connect from localhost](https://www.rabbitmq.com/docs/access-control#loopback-users){:target=_blank .external-link} for more information.

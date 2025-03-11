@@ -1,2 +1,0 @@
-- Star n8n on [GitHub](https://github.com/n8n-io/n8n){:target=_blank class=.external-link} and [Docker Hub](https://hub.docker.com/r/n8nio/n8n){:target=_blank class=.external-link}.
-- Follow us on [Twitter](https://twitter.com/n8n_io){:target=_blank class=.external-link}, [LinkedIn](https://www.linkedin.com/company/28491094), and [Facebook](https://www.facebook.com/n8nio/){:target=_blank class=.external-link}.

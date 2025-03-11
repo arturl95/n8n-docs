@@ -1,5 +1,0 @@
-### New nodes
-
-* [Form.io Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.formiotrigger/)
-* [Formstack Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.formstacktrigger/)
-* [Wait](/integrations/builtin/core-nodes/n8n-nodes-base.wait/)

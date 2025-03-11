@@ -1,3 +1,0 @@
-* [Deploy your node](/integrations/creating-nodes/deploy/).
-* View an example of a programmatic node: n8n's [Mattermost node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Mattermost){:target=_blank .external-link}. This is an example of a more complex programmatic node structure.
-* Learn about [node versioning](/integrations/creating-nodes/build/reference/node-versioning/).

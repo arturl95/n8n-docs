@@ -1,4 +1,0 @@
-| **Ignored Elements** | Ignore given HTML elements, and their children. | None |
-| **Keep Images With Data** | Whether to keep images with data (enabled) or not (disabled). Support files up to 1MB. | Disabled |
-| **Line Start Escape Pattern** | Overrides the default character escape settings. You may want to use Text Replacement Pattern instead. | None |
-| **Max Consecutive New Lines** | Number. Specify the maximum number of consecutive new lines allowed. | 3 |

@@ -1,3 +1,0 @@
-* [Airtable:](/integrations/builtin/app-nodes/n8n-nodes-base.airtable/) Added Bulk Size option to all Operations.
-* [Box:](/integrations/builtin/app-nodes/n8n-nodes-base.box/) Added Share operation to File and Folder resources.
-* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added Last Name field to Update operation on Contact resource.

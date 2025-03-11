@@ -1,8 +1,0 @@
-The language model uses the [**Sentiment Categories**](#node-options) in the node options to determine each item's sentiment.
-
-## Node parameters
-
-* **Text to Analyze** defines the input text for sentiment analysis. This is an expression that references a field from the input items. For example, this could be 
-`{{ $json.chatInput }}` if the input is from a chat or message source. By default, it expects a `text` field.
-
-## Node options

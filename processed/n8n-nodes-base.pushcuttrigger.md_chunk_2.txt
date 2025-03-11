@@ -1,9 +1,0 @@
-1. In your Pushcut app, select a notification from the **Notifications** screen.
-2. Select the **Add Action** button.
-3. Enter an action name in the **Label** field.
-4. Select the **Server** tab.
-5. Select the **Integration** tab.
-6. Select **Integration Trigger**.
-7. In n8n, enter a name for the action and select **Test step**.
-8. Select this action under the **Select Integration Trigger** screen in your Pushcut app.
-9. Select **Done** in the top right to save the action.

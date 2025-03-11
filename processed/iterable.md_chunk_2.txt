@@ -1,5 +1,0 @@
-## Using API key
-
-To configure this credential, you'll need:
-
-- An **API Key**: Refer to [Iterable's Creating API keys documentation](https://support.iterable.com/hc/en-us/articles/360043464871-API-Keys#creating-api-keys){:target=_blank .external-link} for instructions on creating API keys.

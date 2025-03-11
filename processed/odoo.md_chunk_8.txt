@@ -1,2 +1,0 @@
-Refer to [Odoo Pricing Plans](https://www.odoo.com/pricing-plan){:target=_blank .external-link} for more information.
-///

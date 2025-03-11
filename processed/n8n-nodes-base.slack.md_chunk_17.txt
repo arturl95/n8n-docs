@@ -1,4 +1,0 @@
-| Message | Delete | [chat.delete](https://api.slack.com/methods/chat.delete){:target=blank .external-link} |
-| Message | Get Permalink | [chat.getPermalink](https://api.slack.com/methods/chat.getPermalink){:target=blank .external-link} |
-| Message | Search | [search.messages](https://api.slack.com/methods/search.messages){:target=blank .external-link} |
-| Message | Send | [chat.postMessage](https://api.slack.com/methods/chat.postMessage){:target=blank .external-link} |

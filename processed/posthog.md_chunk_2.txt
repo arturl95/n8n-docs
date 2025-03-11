@@ -1,5 +1,0 @@
-- The API **URL**: Enter the correct domain for your API requests:
-    - On US Cloud, use `https://us.i.posthog.com` for public POST-only endpoints or `https://us.posthog.com` for private endpoints.
-    - On EU Cloud, use `https://eu.i.posthog.com` for public POST-only endpoints or `https://eu.posthog.com` for private endpoints.
-    - For self-hosted instances, use your self-hosted domain. 
-    - Confirm yours by checking your PostHog instance URL.

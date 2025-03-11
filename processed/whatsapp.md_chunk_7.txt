@@ -1,1 +1,0 @@
-To generate an access token, create a Meta app with WhatsApp as the product. To create the app:

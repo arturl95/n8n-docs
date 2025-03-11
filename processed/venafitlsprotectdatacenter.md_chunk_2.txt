@@ -1,2 +1,0 @@
-- Create a Venafi [TLS Protect Datacenter](https://venafi.com/){:target=_blank .external-link} account.
-- Set the expiration and refresh time for tokens. Refer to [Setting up token authentication](https://docs.venafi.com/Docs/current/TopNav/Content/SDK/AuthSDK/t-SDKa-Setup-OAuth.php){:target=_blank .external-link} for more information.

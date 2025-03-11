@@ -1,7 +1,0 @@
-## Related resources
-
-Refer to [Mailchimp's API documentation](https://mailchimp.com/developer/marketing/api/){:target=_blank .external-link} for more information about the service.
-
-## Using API key
-
-To configure this credential, you'll need:

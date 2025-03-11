@@ -1,7 +1,0 @@
-### Node enhancements
-
-* Edit Image node: add support for WebP image format.
-* HubSpot Trigger node: add conversation events.
-
-
-### Bug fixes

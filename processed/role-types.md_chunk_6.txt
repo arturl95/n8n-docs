@@ -1,1 +1,0 @@
-[Variables](/code/variables/) and [tags](/workflows/tags/) aren't affected by RBAC: they're global across the n8n instance.

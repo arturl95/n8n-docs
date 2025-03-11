@@ -1,2 +1,0 @@
-* [VirusTotal](/integrations/builtin/credentials/virustotal/)
-* [Zscaler ZIA](/integrations/builtin/credentials/zscalerzia/)

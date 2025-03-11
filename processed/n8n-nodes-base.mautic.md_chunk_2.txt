@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Mautic credentials](/integrations/builtin/credentials/mautic/) for guidance on setting up authentication. 
-///
-
-## Operations

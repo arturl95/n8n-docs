@@ -1,1 +1,0 @@
-Refer to [SolarWinds IPAM's API documentation](https://github.com/solarwinds/OrionSDK/wiki/REST){:target=_blank .external-link} for more information about authenticating to the service.

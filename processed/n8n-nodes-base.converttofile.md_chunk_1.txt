@@ -1,5 +1,0 @@
-/// note | Extract From File
-To extract data from a file and convert it to JSON, use the [Extract from File](/integrations/builtin/core-nodes/n8n-nodes-base.extractfromfile/) node.
-///
-
-## Operations

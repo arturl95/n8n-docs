@@ -1,2 +1,0 @@
-* [HubSpot Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.hubspottrigger/) Fixed authentication for new HubSpot applications by using granular scopes when authenticating against the HubSpot Developer API.
-* [Jira Software:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Fixed an issue where the Reporter field would not work as expected on Jira Server instances.

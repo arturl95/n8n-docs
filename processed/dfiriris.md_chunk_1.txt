@@ -1,7 +1,0 @@
-## Prerequisites
-
-An accessible instance of [DFIR-IRIS](https://docs.dfir-iris.org/latest/getting_started/){:target=_blank .external-link}.
-
-## Related resources
-
-Refer to [DFIR-IRIS's API documentation](https://docs.dfir-iris.org/operations/api/){:target=_blank .external-link} for more information about authenticating with the service.

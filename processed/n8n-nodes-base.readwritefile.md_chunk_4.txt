@@ -1,1 +1,0 @@
-- `[]`: Matches any characters inside the brackets. For example, `[abc]` would match the characters `a`, `b`, or `c`, and nothing else.

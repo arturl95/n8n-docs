@@ -1,1 +1,0 @@
-- **Ignore SSL Issues**: When turned on, n8n will connect even if SSL certificate validation fails.

@@ -1,6 +1,0 @@
-- Enhanced Fixes
-- Matrix: Added support for specifying a Matrix Homeserver URL
-- Salesforce: Added Custom Object resource and Custom Fields and Sort options
-- Bug Fixes
-- AWS SES: Fixed an issue with the Send Template operation for the Email resource
-- AWS SNS Trigger: Fixed an issue with the Subscriptions topic

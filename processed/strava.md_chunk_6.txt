@@ -1,1 +1,0 @@
-Refer to [Authentication](https://developers.strava.com/docs/authentication/){:target=_blank .external-link} for more information about Strava's OAuth flow.

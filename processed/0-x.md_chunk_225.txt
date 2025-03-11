@@ -1,6 +1,0 @@
-* Editor: hide pin data in production executions.
-* Editor: skip optional chaining operators in Code Node editor linting.
-* Editor: update to **Expression/Fixed** toggle - keep expression when switching to **Fixed**.
-* Editor: fix foreign credentials being shown for new nodes.
-* Editor: store copy of workflow in `workflowsById` to prevent node data bugs.
-* Editor: fix user redirect to signin bug.

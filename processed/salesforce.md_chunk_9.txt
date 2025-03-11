@@ -1,1 +1,0 @@
-These steps are what's required on the n8n side. Salesforce recommends setting refresh token policies, session policies, and OAuth policies too:

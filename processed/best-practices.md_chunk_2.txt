@@ -1,2 +1,0 @@
-* To move workflows between accounts, export the workflow as JSON, then import it to the new account. Note that this action loses the workflow history.
-* Webhook paths must be unique across the entire instance. This means each webhook path must be unique for all workflows and all users. By default, n8n generates a long random value for the webhook path, but users can edit this to their own custom path. If two users set the same path value:

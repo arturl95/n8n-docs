@@ -1,9 +1,0 @@
-- Check if a string contains a character
-- Check if a string ends with a character
-- Check if a string has no content
-- Check if a string contains random characters
-- Check if a string contains a value that matches with a regular expression
-- Check if the length of a string is between two numbers
-- Check if the length of a string is equal to a number
-- Check if the length of a string is greater than a number
-- Check if the length of a string is greater or equal to a number

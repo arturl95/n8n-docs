@@ -1,8 +1,0 @@
-- Get geocoded company data by IP address
-- Get a company's LinkedIn profile by name without manually searching on Google or LinkedIn
-- Allows normalizing a CIF number, removing non-allowed characters
-- Get a company's phone by company domain
-- Get a company's sales data by a company's DUNS number
-- Get a company's sales data by a company's domain name
-- Get a company's sales data by a company's name
-- Get a company's sales data by a company's tax ID (CIF)

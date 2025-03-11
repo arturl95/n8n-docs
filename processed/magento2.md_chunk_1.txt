@@ -1,7 +1,0 @@
-## Prerequisites
-
-- Create a [Magento](https://magento.com/){:target=_blank .external-link} account.
-- Set your store to **Allow OAuth Access Tokens to be used as standalone Bearer tokens**.
-    - Go to **Admin > Stores > Configuration > Services > OAuth > Consumer Settings**.
-    - Set the **Allow OAuth Access Tokens to be used as standalone Bearer tokens** option to **Yes**.
-    - You can also enable this setting from the CLI by running the following command:

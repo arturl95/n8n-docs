@@ -1,2 +1,0 @@
-* Provide examples: if possible, give a sample expected output. This helps the AI to better understand the transformation or logic you’re aiming for.
-* Describe the processing steps: if there are specific processing steps or logic that should apply to the data, list them in sequence. For example: "First, filter out all users under 18. Then, sort the remaining users by their last name."

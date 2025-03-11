@@ -1,5 +1,0 @@
-## Configure binary data mode when self-hosting
-
-You can configure how your self-hosted n8n instance handles binary data using the [Binary data environment variables](/hosting/configuration/environment-variables/binary-data). This includes tasks such as setting the storage path and choosing how to store binary data.
-
-Your configuration affects how well n8n scales: [Scaling | Binary data filesystem mode](/hosting/scaling/binary-data/).

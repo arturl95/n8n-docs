@@ -1,4 +1,0 @@
-1. Go to the Airtable Builder Hub [Personal access tokens](https://airtable.com/create/tokens){:target=_blank .external-link} page.
-1. Select **+ Create new token**. Airtable opens the **Create personal access token** page.
-1. Enter a **Name** for your token, like `n8n credential`.
-1. Add **Scopes** to your token. Refer to Airtable's [Scopes](https://airtable.com/developers/web/api/scopes){:target=_blank .external-link} guide for more information. n8n recommends using these scopes:

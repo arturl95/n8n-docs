@@ -1,6 +1,0 @@
-1. From the Meta for Developers [Apps dashboard](https://developers.facebook.com/apps/){:target=_blank .external-link}, select **Create App**.
-2. Select **Business**. If you don't see that option:
-    1. Select **Other**.
-    2. For **App type**, select **Business**, then select **Next**.
-3. Enter a **name** for your app.
-4. Enter a contact **email address**.

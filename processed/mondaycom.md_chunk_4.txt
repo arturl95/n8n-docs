@@ -1,7 +1,0 @@
-1. In your monday.com account, select your profile picture in the top right corner.
-2. Select **Developers**. The Developer Center opens in a new tab.
-3. In the Developer Center, select **Build app**. The app details open.
-4. Enter a **Name** for your app, like `n8n integration`.
-5. Copy the **Client ID** and enter it in your n8n credential.
-6. **Show** the **Client Secret**, copy it, and enter it in your n8n credential.
-7. In the left menu, select **OAuth**.

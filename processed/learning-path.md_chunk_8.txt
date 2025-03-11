@@ -1,3 +1,0 @@
-## Build a node
-
-If you can't find a node for a specific app or a service, you can build a node yourself and share with the community. See what others have built on [npm website](https://www.npmjs.com/search?q=keywords:n8n-community-node-package){:target=_blank .external-link}.

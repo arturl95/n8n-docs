@@ -1,1 +1,0 @@
-* **Max Line Length**: Enter the maximum amount of characters in a line before adding a line break.

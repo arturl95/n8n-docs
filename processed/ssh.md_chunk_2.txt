@@ -1,6 +1,0 @@
-## Supported authentication methods
-
-- [Password](#using-password): Use this method if you have a user account that can `ssh` into the server using their own password.
-- [Private key](#using-private-key): Use this method if you have a user account that uses an SSH key for the server or service.
-
-## Related resources

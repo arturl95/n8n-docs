@@ -1,3 +1,0 @@
-* You don't have to provide a tooltip for every field. Only add one if it contains useful information. 
-  * When writing tooltips, think about what the user needs. Don't just copy-paste API parameter descriptions. If the description doesn't make sense, or has errors, improve it.
-* Placeholder text: n8n can display placeholder text in a field where the user hasn't entered a value. This can help the user know what's expected in that field.

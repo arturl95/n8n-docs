@@ -1,4 +1,0 @@
-9. Add all the scopes listed in [Required scopes for HubSpot Trigger node](#required-scopes-for-hubspot-trigger-node) to your app.
-10. Select **Update**.
-11. Copy the n8n **OAuth Redirect URL** and enter it as the **Redirect URL** in your HubSpot app.
-12. Select **Create app** to finish creating the HubSpot app.

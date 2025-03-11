@@ -1,5 +1,0 @@
-![Decimal](/_images/integrations/creating-nodes/decimal.png)
-
-## Collection
-
-Use the `collection` type when you need to display optional fields.

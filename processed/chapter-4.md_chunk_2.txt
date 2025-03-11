@@ -1,5 +1,0 @@
-Open the Executions log by selecting [**Executions**](/editor-ui/#executions) in the left-side panel. 
-
-To investigate a specific failed execution from the list, select the name or the **View** button that appears when you hover over the row of the respective execution.
-
-<figure><img src="/_images/courses/level-two/chapter-four/explanation_workflowexecutions.png" alt="Executions log" style="width:100%"><figcaption align = "center"><i>Executions log</i></figcaption></figure>

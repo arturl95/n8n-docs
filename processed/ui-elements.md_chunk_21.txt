@@ -1,5 +1,0 @@
-![Options](/_images/integrations/creating-nodes/options.png)
-
-## Multi-options
-
-The `multiOptions` type adds an options list. Users can select more than one value.

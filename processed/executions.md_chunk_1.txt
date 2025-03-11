@@ -1,3 +1,0 @@
-| Variable | Type  | Default  | Description |
-| :------- | :---- | :------- | :---------- |
-| `EXECUTIONS_MODE` | Enum string: `regular`, `queue` | `regular` | Whether executions should run directly or using queue.<br><br>Refer to [Queue mode](/hosting/scaling/queue-mode/) for more details. |

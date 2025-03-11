@@ -1,8 +1,0 @@
-/// note | TheHive and TheHive 5
-n8n provides two nodes for TheHive. Use this node (TheHive) if you want to use TheHive's version 3 or 4 API. If you want to use version 5, use [TheHive 5](/integrations/builtin/app-nodes/n8n-nodes-base.thehive5/).
-///
-/// note | Credentials
-Refer to [TheHive credentials](/integrations/builtin/credentials/thehive/) for guidance on setting up authentication. 
-///
-
-## Operations

@@ -1,5 +1,0 @@
-Refer to the [HubSpot Private Apps documentation](https://developers.hubspot.com/docs/api/private-apps){:target=_blank .external-link} for more information.
-
-## Using Developer API key
-
-To configure this credential, you'll need a [HubSpot developer](https://developers.hubspot.com/){:target=_blank .external-link} account and:

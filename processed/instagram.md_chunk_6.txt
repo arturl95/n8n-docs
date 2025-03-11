@@ -1,1 +1,0 @@
-1. In **Options**, turn on the toggle to **Include Values**. This Object type fails without the option enabled.

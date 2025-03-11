@@ -1,7 +1,0 @@
-### Bug fixes
-
-* [Microsoft SQL:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftsql/) Fixed an issue with sending the connectionTimeout parameter, and creating and updating data using columns with spaces.
-
-### Contributors
-
-[Kaito Udagawa](https://github.com/umireon), [Rodrigo Correia](https://github.com/rodrigoscdc)

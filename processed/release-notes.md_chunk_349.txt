@@ -1,7 +1,0 @@
-* [AlienVault](/integrations/builtin/credentials/alienvault/)
-* [Auth0 Management](/integrations/builtin/credentials/auth0management/)
-* [Carbon Black API](/integrations/builtin/credentials/carbonblack/)
-* [Cisco Meraki API](/integrations/builtin/credentials/ciscomeraki/)
-* [Cisco Secure Endpoint](/integrations/builtin/credentials/ciscosecureendpoint/)
-* [Cisco Umbrella API](/integrations/builtin/credentials/ciscoumbrella/)
-* [CrowdStrike](/integrations/builtin/credentials/crowdstrike/)

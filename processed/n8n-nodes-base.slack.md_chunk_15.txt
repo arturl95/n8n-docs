@@ -1,3 +1,0 @@
-| Channel | Replies | [conversations.replies](https://api.slack.com/methods/conversations.replies){:target=blank .external-link} |
-| Channel | Set Purpose | [conversations.setPurpose](https://api.slack.com/methods/conversations.setPurpose){:target=blank .external-link} |
-| Channel | Set Topic | [conversations.setTopic](https://api.slack.com/methods/conversations.setTopic){:target=blank .external-link} |

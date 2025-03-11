@@ -1,3 +1,0 @@
-- [AI Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/): Updated descriptions for Chat Trigger options
-- [Facebook Graph API](/integrations/builtin/app-nodes/n8n-nodes-base.facebookgraphapi/): Updated for API v21.0
-- [Gmail](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/): Added two new options for the `Send and wait` operation, free text and custom form

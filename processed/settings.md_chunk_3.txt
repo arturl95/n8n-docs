@@ -1,3 +1,0 @@
-* **Error Workflow**: select a workflow to trigger if the current workflow fails. See [Error workflows](/flow-logic/error-handling/) for more details.
-* **This workflow can be called by**: choose whether other workflow can call this workflow.
-* **Timezone**: sets the timezone for the workflow to use. The default timezone is EDT (New York). The timezone setting is  important for the Schedule Trigger node.

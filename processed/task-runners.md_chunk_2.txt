@@ -1,7 +1,0 @@
-Task runners connect to the task broker using a websocket connection. A task requester submits a task request to the broker where an available task runner can pick it up for execution.
-
-The runner executes the task and submits the results to the task requester. The task broker coordinates communication between the runner and the requester.
-
-The n8n instance (main and worker) acts as the broker. The Code node in this case is the task requester.
-
-## Task runner modes

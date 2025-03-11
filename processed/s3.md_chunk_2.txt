@@ -1,9 +1,0 @@
-- S3 endpoint
-
-## Related resources
-
-Refer to your S3-compatible provider's documentation for more information on the services. For example, refer to [Wasabi's REST API documentation](https://docs.wasabi.com/docs/rest-api-introduction){:target="_blank" .external-link} or [DigitalOcean's Spaces API Reference Documentation](https://docs.digitalocean.com/reference/api/spaces-api/){:target="_blank" .external-link}.
-
-## Using S3 endpoint
-
-To configure this credential, you'll need:

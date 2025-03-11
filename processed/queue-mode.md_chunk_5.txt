@@ -1,7 +1,0 @@
-!["Diagram showing the flow of data between the main n8n instance, Redis, the n8n workers, and the n8n database"](/_images/hosting/scaling/queue-mode-flow.png)
-
-## Configuring workers
-
-Workers are n8n instances that do the actual work. They receive information from the main n8n process about the workflows that have to get executed, execute the workflows, and update the status after each execution is complete.
-
-### Set encryption key

@@ -1,9 +1,0 @@
-To connect to an SFTP server, use an SFTP credential. Refer to [FTP credentials](/integrations/builtin/credentials/ftp/) for more information.
-
-## Operations
-
-- [**Delete**](#delete) a file or folder
-- [**Download**](#download) a file
-- [**List**](#list) folder content
-- [**Rename**](#rename) or move a file or folder
-- [**Upload**](#upload) a file

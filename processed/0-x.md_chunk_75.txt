@@ -1,8 +1,0 @@
-* Core: Prevent `augmentObject` from creating infinitely deep proxies.
-* Core: Use table-prefixes in queries in import commands.
-* Editor: Fix focused state in Code node editor.
-* Editor: Fix loading executions in long execution list.
-* Editor: Show correct status on canceled executions.
-* Gmail Node: Gmail Luxon object support, fix for timestamp.
-* HTTP Request Node: Detect mime-type from streaming responses.
-* HubSpot Trigger Node: Developer API key is required for webhooks.

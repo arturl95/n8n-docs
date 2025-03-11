@@ -1,2 +1,0 @@
-* `description`: String.
-	* `routing`: Object containing request details.

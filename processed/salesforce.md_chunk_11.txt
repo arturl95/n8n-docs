@@ -1,3 +1,0 @@
-20. Select **Save**.
-21. Select **Manage Profiles**, select the profiles that are pre-authorized to use this connected app, and select **Save**.
-22. Select **Manage Permission Sets** to select the permission sets. Create permission sets if necessary.

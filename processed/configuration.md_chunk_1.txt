@@ -1,7 +1,0 @@
-### Credential overwrites
-
-To offer OAuth login to users, it's possible to overwrite credentials on a global basis. This credential data isn't visible to users but the backend uses it automatically.
-
-In the Editor UI, n8n hides all overwritten fields by default. This means that users are able to authenticate using  OAuth by pressing the "connect" button on the credentials.
-
-n8n offers two ways to apply credential overwrites: using Environment Variable and using the REST API.

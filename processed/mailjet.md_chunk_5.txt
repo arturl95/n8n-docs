@@ -1,4 +1,0 @@
-For this credential, you can use either:
-
-- Mailjet's primary API key and secret key
-- A subaccount API key and secret key

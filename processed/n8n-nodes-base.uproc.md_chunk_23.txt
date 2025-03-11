@@ -1,5 +1,0 @@
-- Get Swift code lookup
-- Get VAT by IP address
-- Get VAT value by country ISO code
-- Get VAT by phone number, with worldwide coverage
-- Get VAT by zip code

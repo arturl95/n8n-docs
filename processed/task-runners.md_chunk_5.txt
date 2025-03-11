@@ -1,9 +1,0 @@
-When using the [Queue mode](/hosting/scaling/queue-mode), each n8n container (main and workers) needs to have its own task runner.
-
-## Setting up external mode
-
-Use the following details to configure task runners in external mode
-
-### Configuring n8n instance in external mode
-
-You can configure n8n to use external task runners by setting the following environment variables:

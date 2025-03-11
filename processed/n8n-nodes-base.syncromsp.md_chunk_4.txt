@@ -1,3 +1,0 @@
-* Retrieve ticket
-    * Retrieve all tickets
-    * Update ticket

@@ -1,5 +1,0 @@
-### AI in n8n
-
-To provide enhanced assistance, n8n integrates AI-powered features that leverage Large Language Models (LLMs).
-
-#### How n8n uses AI

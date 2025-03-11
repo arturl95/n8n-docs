@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Key**: Once you've created an APITemplate.io account, go to **API Integration** to copy the **API Key**.

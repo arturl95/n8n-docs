@@ -1,7 +1,0 @@
-## Node parameters
-
-Configure the SQL Agent using the following parameters.
-
-### Data Source
-
-Choose the database to use as a data source for the node. Options include:

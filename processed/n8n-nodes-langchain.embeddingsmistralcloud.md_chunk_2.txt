@@ -1,8 +1,0 @@
-Learn more about available models in [Mistral's models documentation](https://docs.mistral.ai/platform/pricing/){:target=_blank .external-link}.
-
-## Node options
-
-* **Batch Size**: Enter the maximum number of documents to send in each request.
-* **Strip New Lines**: Select whether to remove new line characters from input text (turned on) or not (turned off). n8n enables this by default.
-
-## Templates and examples

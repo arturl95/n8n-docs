@@ -1,5 +1,0 @@
-/// info | Use Wait for complex approvals
-The **Send and Wait for Approval** operation is well-suited for simple approval processes. For more complex approvals, consider using the [Wait node](/integrations/builtin/core-nodes/n8n-nodes-base.wait/).
-///
-
-Enter these parameters:

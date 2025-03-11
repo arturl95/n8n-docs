@@ -1,1 +1,0 @@
-7. Check the box for **Allow this account to generate personal access tokens** and **Save**.

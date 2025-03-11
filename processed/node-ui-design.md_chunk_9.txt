@@ -1,4 +1,0 @@
-Fields can either be:
-
-* Displayed when the node opens: use this for resources and operations, and required fields.
-* Hidden in the **Optional fields** section until a user clicks on that section: use this for optional fields.

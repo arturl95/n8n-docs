@@ -1,5 +1,0 @@
-- **Full Dropbox** grants access to all files and folders in your user's Dropbox.
-    - Refer to the [DBX Platform developer guide](https://www.dropbox.com/developers/reference/developer-guide){:target=_blank .external-link} for more information.
-5. In **Name your app**, enter a name for your app, like `n8n integration`.
-6. Check the box to agree to the **Dropbox API Terms and Conditions**.
-7. Select **Create app**. The app's **Settings** open.

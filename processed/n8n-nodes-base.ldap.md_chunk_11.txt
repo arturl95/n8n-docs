@@ -1,5 +1,0 @@
-Refer to [The LDAP Search Operation](https://ldap.com/the-ldap-search-operation/){:target="_blank" .external-link} for more information on search scopes.
-
-## Update
-
-Configure this operation using these parameters:

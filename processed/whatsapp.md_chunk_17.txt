@@ -1,4 +1,0 @@
-6. In **Add products to your app**, select **Set up** in the WhatsApp tile. Refer to [Add the WhatsApp Product](https://developers.facebook.com/docs/whatsapp/solution-providers/get-started-for-tech-providers#step-3--add-the-whatsapp-product){:target=_blank .external-link} for more detail.
-7. This opens the WhatsApp **Quickstart** page. Either select an existing business portfolio or create a new one.
-8. Select **Continue**.
-9. Go to **App settings** > **Basic**.

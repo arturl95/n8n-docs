@@ -1,3 +1,0 @@
-* [Redis:](/integrations/builtin/app-nodes/n8n-nodes-base.redis/) Added support for publish operations.
-* [Strapi:](/integrations/builtin/app-nodes/n8n-nodes-base.strapi/) Added support for Strapi 4.
-* [WordPress:](/integrations/builtin/app-nodes/n8n-nodes-base.wordpress/) Added status as an option to getAll post requests.

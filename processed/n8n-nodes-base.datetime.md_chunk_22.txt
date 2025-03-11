@@ -1,5 +1,0 @@
-## Related resources
-
-The Date & Time node uses [Luxon](https://moment.github.io/luxon){:target=_blank .external-link}. You can also use Luxon in the [Code](/code/code-node/) node and [expressions](/code/expressions/). Refer to [Date and time with Luxon](/code/cookbook/luxon/) for more information.
-
-### Supported date formats

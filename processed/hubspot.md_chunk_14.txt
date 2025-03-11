@@ -1,5 +1,0 @@
-Refer to the [HubSpot Public Apps documentation](https://developers.hubspot.com/docs/api/creating-an-app){:target=_blank .external-link} for more detailed instructions.
-
-### Required scopes for HubSpot Trigger node
-
-If you're creating an app for use with the [HubSpot Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.hubspottrigger/) node, n8n recommends starting with these scopes:

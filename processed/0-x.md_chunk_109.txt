@@ -1,4 +1,0 @@
-* Core: add SAML feature flag. This is preparatory for an upcoming feature.
-* Editor: improvements to the nodes panel search. When searching in root view, n8n now displays results from both trigger and regular nodes. When searching in a category view, n8n shows results from the category, and also suggests results from other categories.
-* Hide sensitive value in authentication header credentials and authentication query credentials.
-* Support feature flag evaluation server side.

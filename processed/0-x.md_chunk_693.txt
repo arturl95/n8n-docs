@@ -1,7 +1,0 @@
-### Enhanced nodes
-
-* [GitHub:](/integrations/builtin/app-nodes/n8n-nodes-base.github/) Added Release resource
-* [TheHive:](/integrations/builtin/app-nodes/n8n-nodes-base.thehive/) Added support to fetch observable data types
-* [RabbitMQ:](/integrations/builtin/app-nodes/n8n-nodes-base.rabbitmq/) Added header parameters
-
-### Core Functionality

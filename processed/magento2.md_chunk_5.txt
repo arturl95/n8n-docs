@@ -1,1 +1,0 @@
-5. Select **Allow** to display your access token so you can copy it and enter it in n8n.

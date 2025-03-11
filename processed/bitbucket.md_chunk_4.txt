@@ -1,1 +1,0 @@
-See the [Bitbucket App password permissions documentation](https://support.atlassian.com/bitbucket-cloud/docs/app-password-permissions/){:target=_blank .external-link} for more information on working with these permissions.

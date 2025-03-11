@@ -1,1 +1,0 @@
-Refer to the [Flow API Getting Started documentation](https://developer.getflow.com/#getting-started){:target=_blank .external-link} for instructions on generating your Access Token and viewing your Organization ID.

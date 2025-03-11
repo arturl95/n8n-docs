@@ -1,8 +1,0 @@
-1. In your Okta admin panel, select **Applications** > **Applications**.
-1. Select **Create App Integration**. Okta opens the app creation modal.
-1. Select **SAML 2.0**, then select **Next**.
-1. On the **General Settings** tab, enter `n8n` as the **App name**. 
-1. Select **Next** .
-1. On the **Configure SAML** tab, complete the following **General** fields:
-	* **Single sign-on URL**: the **Redirect URL** from n8n.
-	* **Audience URI (SP Entity ID)**: the **Entity ID** from n8n.

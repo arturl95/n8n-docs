@@ -1,8 +1,0 @@
-### Core Functionality
-
-- Added a hook after workflow creation.
-- Fixed a build issue with npm v7 by overriding unwanted behaviour through the .npmrc file.
-- Fixed an issue preventing unknown node types from being imported.
-- Fixed an issue with the UI falsely indicating a credential can't be selected when using SQLite and multiple credentials with the same name exist.
-
-### Bug fixes

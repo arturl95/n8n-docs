@@ -1,5 +1,0 @@
-- To use all functionality in the [Shopify](/integrations/builtin/app-nodes/n8n-nodes-base.shopify/) node, add the `read_orders`, `write_orders`, `read_products`, and `write_products` scopes.
-    - Refer to [Shopify API Access Scopes](https://shopify.dev/docs/api/usage/access-scopes){:target=_blank .external-link} for more information on the available scopes.
-9. Select **Save**.
-10. Select **Install app**.
-11. In the modal window, select **Install app**.

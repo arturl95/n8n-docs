@@ -1,3 +1,0 @@
-When you search for the Discord node, look for **Message Actions** and select **Send a message** to add the node.
-
-In the Discord node window, configure these parameters:

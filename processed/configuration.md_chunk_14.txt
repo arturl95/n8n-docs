@@ -1,4 +1,0 @@
-| `workflow.activate` | `[workflowData: IWorkflowDb]` | Called before a workflow gets activated. Use to restrict the number of active workflows. |
-| `workflow.afterDelete` | `[workflowId: string]` | Called after a workflow gets deleted. |
-| `workflow.afterUpdate` | `[workflowData: IWorkflowBase]` | Called after an existing workflow gets saved. |
-| `workflow.create` | `[workflowData: IWorkflowBase]` | Called before a workflow gets created. Use to restrict the number of saved workflows. |

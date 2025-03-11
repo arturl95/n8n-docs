@@ -1,6 +1,0 @@
-1. In GitLab, select your avatar, then select **Edit profile**.
-2. In the left sidebar, select **Access tokens**.
-3. Select **Add new token**.
-4. Enter a **Name** for the token, like `n8n integration`.
-5. Enter an **expiry date** for the token. If you don't enter an expiry date, GitLab automatically sets it to 365 days later than the current date.
-    - The token expires on that expiry date at midnight UTC.

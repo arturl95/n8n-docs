@@ -1,1 +1,0 @@
-Refer to [External storage](/hosting/scaling/external-storage/) for more information on using external storage for binary data.

@@ -1,8 +1,0 @@
-A programmatic-style node also has an `execute()` method, which reads incoming data and parameters, then builds a request. The declarative style handles this using the `routing` key in the `properties` object, within `descriptions`.
-
-## Outline structure for a declarative-style node
-
-This code snippet gives an outline of the node structure. 
-
-```js
-import { INodeType, INodeTypeDescription } from 'n8n-workflow';

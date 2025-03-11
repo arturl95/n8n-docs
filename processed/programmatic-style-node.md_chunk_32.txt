@@ -1,3 +1,0 @@
-### Step 7: Update the npm package details
-
-Your npm package details are in the `package.json` at the root of the project. It's essential to include the `n8n` object with links to the credentials and base node file. Update this file to include the following information:

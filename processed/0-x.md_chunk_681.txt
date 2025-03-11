@@ -1,2 +1,0 @@
-* [TimescaleDB:](/integrations/builtin/app-nodes/n8n-nodes-base.timescaledb/) Added the Mode option that allows you to execute queries as transactions
-* [Zendesk Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.zendesktrigger/) Added support to retrieve custom fields

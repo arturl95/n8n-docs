@@ -1,2 +1,0 @@
-* **By URL**: Enter the URL of the channel you want to watch, formatted as `https://app.slack.com/client/<channel-address>`.
-* **Download Files**: Whether to download files and use them in the node's output (turned on) or not (turned off, default). Use this parameter with the **File Made Public** and **File Shared** events.

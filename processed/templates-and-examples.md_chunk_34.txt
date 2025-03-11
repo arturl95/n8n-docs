@@ -1,7 +1,0 @@
-<!-- vale off -->
-| **id** | **name**  | **job**     | **last_updated**         |
-|--------|-----------|-------------|--------------------------|
-| 15     | Bob Dylan | Folk singer | 2024-09-24T08:03:16.493Z |
-<!-- vale on -->
-
-The **Discarded** tab contains the 13 items with an `id` column value equal to or less than the previous maximum value (9). Even though it's new, this table includes the entry for "Madonna" because its `id` value isn't larger than the previous maximum value:

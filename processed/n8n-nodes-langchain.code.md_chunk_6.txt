@@ -1,1 +1,0 @@
-![Screenshot of a workflow with four LangChain nodes, configured as different node types](/_images/integrations/builtin/cluster-nodes/langchaincode/create-node-types.png)

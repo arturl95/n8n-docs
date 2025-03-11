@@ -1,6 +1,0 @@
-- **Attendees**: Attendees to invite to the event. You can choose to either add attendees or replace the existing attendee list.
-	- **Color Name or ID**: The color of the event. Choose from the list or specify the ID using an expression.
-	- **Description**: A description for the event.
-	- **End**: The end time of the event.
-	- **Guests Can Invite Others**: Whether attendees other than the organizer can invite others to the event.
-	<!-- vale from-write-good.TooWordy = NO -->

@@ -1,3 +1,0 @@
-- A **Consumer Key**: Also known as the client key, like a username. This specifies the `oauth_consumer_key` to use for the call.
-- A **Consumer Secret**: Also known as the client secret, like a password.
-- A **Request Token URL**: This is the URI used to switch from temporary credentials to long-lived credentials after authorization. This URL typically ends in `/oauth1/access`.

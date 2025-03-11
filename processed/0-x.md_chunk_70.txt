@@ -1,2 +1,0 @@
-* LinkedIn Node: Update the version of the API.
-* Redis Node: Fix issue with hash set not working as expected.

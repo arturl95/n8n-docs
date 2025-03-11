@@ -1,3 +1,0 @@
-```
-    SELECT inet_server_port();
-    ```

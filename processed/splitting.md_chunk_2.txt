@@ -1,1 +1,0 @@
-Refer to the [IF](/integrations/builtin/core-nodes/n8n-nodes-base.if/) or [Switch](/integrations/builtin/core-nodes/n8n-nodes-base.switch/) documentation for usage details.

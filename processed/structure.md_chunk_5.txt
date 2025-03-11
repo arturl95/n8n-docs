@@ -1,5 +1,0 @@
-async execute(this: IExecuteFunctions): Promise<INodeExecutionData[][]> {
-    // Process data and return
-  }
-};
-```

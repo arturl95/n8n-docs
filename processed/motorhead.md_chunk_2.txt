@@ -1,5 +1,0 @@
-- Your **Host** URL
-- An **API Key**
-- A **Client ID**
-
-To set it up, you'll generate an API key:

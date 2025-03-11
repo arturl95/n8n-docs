@@ -1,3 +1,0 @@
-- **Field Label**: Enter the label that appears above the input field. 
-- **Field Type**: Choose from **Date**, **Dropdown List**, **Email**, **File**, **Number**, **Password**, **Text**, or **Textarea**.
-    - Select **Date** to include a date picker in the form. Refer to [Date and time with Luxon](/code/cookbook/luxon/) for more information on formatting dates.

@@ -1,7 +1,0 @@
-## Related resources
-
-Refer to Storyblok's [Content v1 API documentation](https://www.storyblok.com/docs/api/content-delivery/v1){:target=_blank .external-link} and [Management API documentation](https://www.storyblok.com/docs/api/management/getting-started/introduction){:target=_blank .external-link} for more information about the services.
-
-## Using Content API key
-
-To configure this credential, you'll need:

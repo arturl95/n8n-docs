@@ -1,2 +1,0 @@
-- Upvote n8n on [AlternativeTo](https://alternativeto.net/software/n8n-io/){:target=_blank class=.external-link} and [Alternative.me](https://alternative.me/n8n-io){:target=_blank class=.external-link}.
-- Add n8n to your stack on [Stackshare](https://stackshare.io/n8n){:target=_blank class=.external-link}.

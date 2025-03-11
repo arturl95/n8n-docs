@@ -1,4 +1,0 @@
-8. Copy the **App key** and enter it as the **Client ID** in your n8n credential.
-9. Copy the **Secret** and enter it as the **Client Secret** in your n8n credential.
-10. In n8n, copy the **OAuth Redirect URL** and enter it in the Dropbox **Redirect URIs**.
-11. In n8n, select the same **App Access Type** you selected for your app.

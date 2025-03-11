@@ -1,9 +1,0 @@
-These features are available on the Enterprise Cloud plan, including the self-hosted Enterprise edition. Some of these features are available on the Starter and Pro Cloud plan. 
-
-See [pricing](https://n8n.io/pricing/){:target=_blank .external-link} for reference.
-
-## Registered Community Edition
-
-You can unlock extra features by registering your n8n community edition. You register with your email and receive a license key.
-
-Registering unlocks these features for the community edition:

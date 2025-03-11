@@ -1,9 +1,0 @@
-#### Improved execution queue handling
-
-We are [exposing new execution queue metrics](/hosting/configuration/configuration-examples/prometheus/) to give users more visibility of the queue length. This helps to inform decisions on horizontal scaling, based on queue status. We have also made querying executions faster.
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### New credentials for the HTTP Request node

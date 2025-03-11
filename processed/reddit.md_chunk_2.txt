@@ -1,8 +1,0 @@
-- A **Client ID**
-- A **Client Secret**
-
-/// note | Developer program
-Reddit's developer program is in a closed beta. The instructions below are for regular Reddit users, not members of the developer platform.
-///
-
-Generate both by creating a [third-party app](https://www.reddit.com/prefs/apps){:target=_blank .external-link}. Visit the previous link or go to your **profile > Settings > Safety & Privacy > Manage third-party app authorization > are you a developer? create an app**.

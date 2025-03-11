@@ -1,2 +1,0 @@
-* [Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/): the Agent node interacts with other components of the workflow and makes decisions about what tools to use.
-* [Basic LLM Chain](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.chainllm/): the Basic LLM Chain node supports chatting with a connected LLM, but doesn't support memory or tools.

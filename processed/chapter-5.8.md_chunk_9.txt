@@ -1,2 +1,0 @@
-- **Timezone**: The timezone to use in the current workflow. If not set, the global timezone (by default "New York") is used. This setting is particularly important for the [Schedule Trigger node](/integrations/builtin/core-nodes/n8n-nodes-base.scheduletrigger/), as you want to make sure that the workflow gets executed at the right time.
-- **Save failed production executions**: If the Execution data of the workflow should be saved when it fails. Default is to save.

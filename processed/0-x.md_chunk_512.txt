@@ -1,5 +1,0 @@
-- Added frontend for value surveys
-- Fixed an issue preventing the recommendation logic from working as expected after selecting a work area
-- Fixed an issue where a wrong exit code was sent when running n8n on an unsupported version of Node.js
-- Fixed an issue where node options would disappear on hovering when a node isn't selected
-- Fixed an issue where the execution id was missing when running n8n in queue mode

@@ -1,9 +1,0 @@
-/// question | Quiz questions
-* How many orders are assigned to the `Americas` region?
-* What's the total price of the orders in the `Americas` region?
-* How many items does the **Write Binary File node** return?
-///
-
-## Part 3: Generating files for total sales
-
-The third part of the workflow consists of five nodes:

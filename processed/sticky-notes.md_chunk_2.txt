@@ -1,9 +1,0 @@
-## Edit a Sticky Note
-
-1. Double click the Sticky Note you want to edit.
-2. Write your note. [This guide](https://commonmark.org/help/) explains how to format your text with Markdown. n8n uses [markdown-it](https://github.com/markdown-it/markdown-it), which implements the CommonMark specification. 
-3. Click away from the note, or press `Esc`, to stop editing.
-
-## Change the color
-
-To change the Sticky Note color:

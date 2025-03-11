@@ -1,9 +1,0 @@
-3. Replace `TESTING_WEBHOOK_URL` and `PRODUCTION_WEBHOOK_URL` with the URLs you copied in the previous step.
-4. Replace `TESTING_WEBHOOK_NAME` and `PRODUCTION_WEBHOOK_NAME` with your preferred endpoint names.
-5. Replace `ORGANIZATION_NAME` with your organization name.
-6. Execute the following cURL command to enable notifications:
-	```sh
-	curl -XPUT -uTHEHIVE_USERNAME:THEHIVE_PASSWORD -H 'Content-type: application/json' THEHIVE_URL/api/config/organisation/notification -d '
-	{
-		"value": [
-			{

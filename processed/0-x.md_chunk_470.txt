@@ -1,3 +1,0 @@
-* [Function:](/integrations/builtin/core-nodes/n8n-nodes-base.function/) Fixed a bug leaving the code editor size unchanged after resizing the window.
-* [Function Item:](/integrations/builtin/core-nodes/n8n-nodes-base.functionitem/) Fixed a bug leaving the code editor size unchanged after resizing the window.
-* [IF:](/integrations/builtin/core-nodes/n8n-nodes-base.if/) Removed the empty sections left after removing a condition.

@@ -1,9 +1,0 @@
-- Enhanced nodes
-- Twitter: Added support for auto mention of users in reply tweets
-- Bug Fixes
-- Google Sheets: Fixed issue with non-Latin sheet names
-- HubSpot: Fixed naming of credentials
-- Microsoft: Fixed naming of credentials
-- Mandrill: Fixed attachments with JSON parameters
-- Expressions now use short variables when selecting input data for the current node
-- Fixed issue with renaming credentials for active workflows

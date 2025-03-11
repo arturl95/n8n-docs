@@ -1,5 +1,0 @@
-| CRM | Contacts | Read <br> Write | `crm.objects.contacts.read` <br> `crm.objects.contacts.write`|
-| CRM | Deals | Read <br> Write | `crm.objects.deals.read` <br> `crm.objects.deals.write`|
-| CRM | Deals schemas | Read | `crm.schemas.deals.read` |
-| CRM | Owners | Read | `crm.objects.owners.read` |
-| CRM | Lists | Write | `crm.lists.write` |

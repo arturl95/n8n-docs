@@ -1,2 +1,0 @@
-- **Save execution progress**: If the execution data of each node should be saved. If set to Save, you can resume the workflow from where it stopped in case of an error, though keep in mind that this might make the execution slower. Default is not to save.
-- **Timeout Workflow**: Whether to cancel a workflow execution after a specific period of time. Default is not to timeout.

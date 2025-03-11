@@ -1,1 +1,0 @@
-Notice that Combine > Merge by Fields requires you enter input fields to match on. These fields should contain identical values between the data sources so n8n can properly match data together. In the **Merge node**, they're called `Input 1 Field` and `Input 2 Field`.

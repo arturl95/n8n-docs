@@ -1,6 +1,0 @@
-## The Docker Compose file
-
-The Docker Compose file (`docker-compose.yml`) defines the services the application needs, in this case Caddy and n8n.
-
-- The Caddy service definition defines the ports it uses and the local volumes to copy to the containers.
-- The n8n service definition defines the ports it uses, the environment variables n8n needs to run (some defined in the `.env` file), and the volumes it needs to copy to the containers.

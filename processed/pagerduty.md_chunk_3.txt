@@ -1,6 +1,0 @@
-If you need to configure OAuth2 from scratch, [register a new Pagerduty app](https://developer.pagerduty.com/docs/dd91fbd09a1a1-register-an-app){:target=_blank .external-link}.
-
-Use these settings for registering your app:
-
-- In the **Category** dropdown list, select **Infrastructure Automation**.
-- In the **Functionality** section, select **OAuth 2.0**.

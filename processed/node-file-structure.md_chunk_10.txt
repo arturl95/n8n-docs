@@ -1,8 +1,0 @@
-* One node in one npm package.
-* More than one node in a single npm package.
-
-n8n supports both approaches. If you include more than one node, each node should have its own directory in the `nodes` directory.
-
-## A best-practice example for programmatic nodes
-
-n8n's built-in [Airtable node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Airtable){:target=_blank .external-class} implements a modular structure and versioning, following recommended patterns.

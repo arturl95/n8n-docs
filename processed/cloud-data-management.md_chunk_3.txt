@@ -1,7 +1,0 @@
-## How to reduce memory consumption in your workflow
-
-The way you build workflows affects how much data they consume when executed. Although these guidelines aren't applicable to all cases, they provide a baseline of best practices to avoid exceeding instance memory.
-
---8<-- "_snippets/self-hosting/scaling/reduce-memory-consumption.md"
-
-Note that n8n itself consumes memory to run. On average, the software alone uses around 180MiB RAM.

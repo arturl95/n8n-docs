@@ -1,3 +1,0 @@
-/// note | Environment selection
-If you're creating a new app from scratch, start with the **Sandbox** environment. Production apps need to fulfill all Intuit's requirements. Refer to Intuit's [Publish your app documentation](https://developer.intuit.com/app/developer/qbo/docs/go-live/publish-app){:target=_blank .external-link} for more information.
-///

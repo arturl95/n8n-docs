@@ -1,9 +1,0 @@
-<figure markdown="span">
-![Sample Combine mode inputs and output. Two separate data sources are on the left. The final data source combines these data sources by index position.](/_images/integrations/builtin/core-nodes/merge/merge-by-position-diagram.png)
-<figcaption>Combine by Position mode inputs and output</figcaption>
-</figure>
-
-
-#### All Possible Combinations
-
-Output all possible item combinations, while merging fields with the same name.

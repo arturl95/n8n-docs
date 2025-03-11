@@ -1,3 +1,0 @@
-- A **Base URL**: Enter the base URL of your Zscaler ZIA cloud name. To get your base URL, log in to the ZIA Admin Portal and go to **Administration > Cloud Service API Security**. The base URL is displayed in both the **Cloud Service API Key** tab and the **OAuth 2.0 Authorization Servers** tab.
-- A **Username**: Enter your ZIA admin username.
-- A **Password**: Enter your ZIA admin password.

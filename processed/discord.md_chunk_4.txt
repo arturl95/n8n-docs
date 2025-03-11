@@ -1,5 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Bot Token**: Generated once you create an application with a bot.
-
-To create an application with a bot and generate the **Bot Token**:

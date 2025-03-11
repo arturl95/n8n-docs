@@ -1,7 +1,0 @@
-### Round a Date options
-
-This operation has one option: **Include Input Fields**. If you'd like to include all of the input fields in the output, turn this option on. If turned off, only the **Output Field Name** and its contents are output.
-
-## Subtract From a Date
-
-Configure the node for this operation using these parameters:

@@ -1,8 +1,0 @@
-* Core: Handle `Date` and `RegExp` correctly in `jsonStringify`.
-* Core: Handle `Date` and `RegExp` objects in `augmentObject`.
-* Core: Improve Axios error handling in nodes.
-* Core: Improve community nodes loading.
-* Core: Initialize queue in the webhook server as well.
-* Core: Persist `CurrentAuthenticationMethod` setting change.
-* Core: Remove circular references from Code and push message.
-* Core: Require authentication on icons and nodes/credentials types static files.

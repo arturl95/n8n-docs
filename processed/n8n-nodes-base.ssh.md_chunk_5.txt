@@ -1,5 +1,0 @@
-#### Download File options
-
-You can further configure this operation with the **File Name** option. Use this option to override the binary data file name to a name of your choice.
-
-### Upload File

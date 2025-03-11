@@ -1,3 +1,0 @@
-### Create a Google Cloud Console project
-
-First, create a Google Cloud Console project. If you already have a project, jump to the next section:

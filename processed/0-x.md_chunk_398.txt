@@ -1,9 +1,0 @@
-</div>
-
-### Node enhancements
-
-* [Google Sheets node](/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/): n8n now handles header names formatted as JSON paths.
-* [Microsoft Dynamics CRM node](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftdynamicscrm/): add support for regions other than North America.
-* [Telegram node](/integrations/builtin/app-nodes/n8n-nodes-base.telegram/): add support for querying chat administrators.
-
-### Bug fixes

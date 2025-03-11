@@ -1,1 +1,0 @@
-* **Use Document Loader**: summarize data provided by a document loader sub-node.

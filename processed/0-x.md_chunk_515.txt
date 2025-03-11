@@ -1,2 +1,0 @@
-* [APITemplate.io:](/integrations/builtin/app-nodes/n8n-nodes-base.apitemplateio/) Fixed a bug where the Create operation on the Image resource would fail when the Download option isn't enabled.
-* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Fixed authentication for new HubSpot applications by using granular scopes when authenticating against the HubSpot OAuth2 API.

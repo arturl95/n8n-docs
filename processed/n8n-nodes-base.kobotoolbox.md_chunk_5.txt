@@ -1,2 +1,0 @@
-* **Query** lets you specify filter predicates in MongoDB's JSON query format. For example: `{"status": "success", "_submission_time": {"$lt": "2021-11-01T01:02:03"}}` queries for all submissions with the value `success` for the field `status`, and submitted before November 1st, 2021, 01:02:03.
-    * **Fields** lets you specify the list of fields you want to fetch, to make the response lighter.

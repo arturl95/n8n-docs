@@ -1,6 +1,0 @@
-1. In the Twitter [developer portal](https://developer.x.com/en/portal/dashboard){:target=_blank .external-link}, open your project.
-2. On the project's **Overview** tab, find the **Apps** section and select **Add App**.
-3. Give your app a **Name** and select **Next**.
-1. Go to the **App Settings**.
-4. In the **User authentication settings**, select **Set Up**.
-1. Set the **App permissions**. Choose **Read and write and Direct message** if you want to use all functions of the n8n X node.

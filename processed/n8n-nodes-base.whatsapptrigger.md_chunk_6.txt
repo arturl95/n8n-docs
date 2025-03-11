@@ -1,5 +1,0 @@
-To work around this, you can disable your workflow when testing:
-
-/// warning | Halts production traffic
-This workaround temporarily disables your production workflow for testing. Your workflow will no longer receive production traffic while it's deactivated.
-///

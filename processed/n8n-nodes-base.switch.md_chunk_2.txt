@@ -1,2 +1,0 @@
-* Create **Routing Rules** to define comparison conditions.
-    * Use the data type dropdown to select the data type and comparison operation type for your condition. For example, to create a rules for dates after a particular date, select **Date & Time > is after**.

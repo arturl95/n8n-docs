@@ -1,1 +1,0 @@
-the version in your `execute` function using `const nodeVersion = this.getNode().typeVersion;`.

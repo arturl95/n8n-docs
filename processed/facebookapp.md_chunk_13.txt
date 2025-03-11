@@ -1,5 +1,0 @@
-Refer to the Meta instructions for [Your First Request](https://developers.facebook.com/docs/graph-api/get-started#get-started){:target=_blank .external-link} for more information on generating the token.
-
-### Configure the Facebook Trigger
-
-Now that you have a token, you can configure the Facebook Trigger node:

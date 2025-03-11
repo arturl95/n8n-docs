@@ -1,2 +1,0 @@
-- **Assistant**: Tells the model to adopt a specific tone or personality. 
-    - **System**: By default, the system message is `"You are a helpful assistant"`. You can define instructions in the user message, but the instructions set in the system message are more effective. You can only set one system message per conversation. Use this to set the model's behavior or context for the next user message.

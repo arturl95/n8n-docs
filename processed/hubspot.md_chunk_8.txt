@@ -1,1 +1,0 @@
-11. Copy this token and enter it in your n8n credential.

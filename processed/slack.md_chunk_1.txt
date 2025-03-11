@@ -1,4 +1,0 @@
-- [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/)
-- [Slack Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.slacktrigger/)
-
-## Supported authentication methods

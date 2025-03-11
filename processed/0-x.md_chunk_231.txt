@@ -1,6 +1,0 @@
-* HTTP Request Node: Use the data in **Put Output in Field** field.
-* HubSpot Node: Add notice to HubSpot credentials about API Key Sunset.
-* Notion Trigger (Beta) Node: Fix Notion trigger polling strategy.
-* Raindrop Node: Update access token URL.
-* SendInBlue Trigger Node: Fix typo in credential name.
-* Update E2E testing ENV variables.

@@ -1,1 +1,0 @@
-n8n removes the items that have the same data across all fields. Your output in table view should look like this:

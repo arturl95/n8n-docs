@@ -1,4 +1,0 @@
-* Add new event hooks to support telemetry around the new onboarding experience.
-* Update nodes to set required path type.
-* Core: add configurable execution history limit. Use this to improve performance when self-hosting. Refer to [Execution Data | Enable data pruning ](/hosting/scaling/execution-data#enable-data-pruning) for more information.
-* Core: add execution runData recovery and status field. This allows us to show execution statuses on the **Executions** list.

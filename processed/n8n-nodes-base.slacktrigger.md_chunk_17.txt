@@ -1,3 +1,0 @@
-### Token expired
-
---8<-- "_snippets/integrations/builtin/credentials/slack/token-rotation.md"

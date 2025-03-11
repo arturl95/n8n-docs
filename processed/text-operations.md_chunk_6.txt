@@ -1,2 +1,0 @@
-- **Simplify Output**: Turn on to return a simplified version of the response instead of the raw data. 
-- **Output Content as JSON**: Turn on to attempt to return the response in JSON format. Compatible with `GPT-4 Turbo` and all `GPT-3.5 Turbo` models newer than `gpt-3.5-turbo-1106`.

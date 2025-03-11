@@ -1,5 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Webhook URL**: Generated once you create a webhook.
-
-To get a Webhook URL, you create a webhook and copy the URL that gets generated:

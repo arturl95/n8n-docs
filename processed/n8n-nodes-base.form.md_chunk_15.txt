@@ -1,5 +1,0 @@
-### Form Ending
-
-Use the **Form Ending** Page Type to end a form and either show a completion page or redirect the user to a URL. Only one Form Ending page is displayed per execution, even when n8n executes [multiple branches](#forms-with-branches) that contain Form Ending nodes.
-
-Choose between these options when using **On n8n Form Submission**:

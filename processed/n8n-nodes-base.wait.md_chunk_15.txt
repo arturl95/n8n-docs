@@ -1,3 +1,0 @@
-* **Raw Body**: Set whether to return the body in a raw format like JSON or XML (turned on) or not (turned off).
-* **Response Data**: Enter any custom data you want to send in the response.
-* **Response Headers**: Send more headers in the webhook response. Refer to [MDN Web Docs | Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){:target=_blank .external-link} to learn more about response headers.

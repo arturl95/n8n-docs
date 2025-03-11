@@ -1,4 +1,0 @@
-* **Property Name**: Enter the name of the property you want to write the hash to.
-* **Encoding**: Select the encoding type to use. Choose from:
-	* **BASE64**
-	* **HEX**

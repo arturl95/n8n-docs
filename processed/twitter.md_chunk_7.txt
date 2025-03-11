@@ -1,7 +1,0 @@
-Refer to X's [OAuth 2.0 Authentication documentation](https://developer.x.com/en/docs/authentication/oauth-2-0){:target=_blank .external-link} for more information on working with this authentication method.
-
-/// note | X rate limits
-This credential uses the OAuth 2.0 Bearer Token authentication method, so you'll be subject to app rate limits. Refer to [X rate limits](#x-rate-limits) below for more information.
-///
-
-## X rate limits

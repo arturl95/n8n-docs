@@ -1,4 +1,0 @@
-On this page, you'll find the node parameters for the Information Extractor node,
-and links to more resources.
-
-## Node parameters

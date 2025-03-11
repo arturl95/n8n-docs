@@ -1,5 +1,0 @@
-* **Field to Return**: `data`. This is the name of the item created in the Aggregate node in the example workflow.
-1. Select **Add Value** in **Workflow Values** to pass information to the workflow you're calling. Configure the value as follows:
-	* **Name**: `visibility`
-	* **Type**: String
-	* **Value**: `public`

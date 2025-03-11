@@ -1,4 +1,0 @@
-We encourage anyone who wants to use the Sustainable Use License. If you are building something out in the open, it makes sense to think about licensing earlier in order to avoid problems later. Contact us at [license@n8n.io](mailto:license@n8n.io) if you would like to ask any questions about it. 
-
-
-### What is and isn't allowed under the license in the context of n8n's product?

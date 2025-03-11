@@ -1,8 +1,0 @@
-- Check if a house number exists by a partial address search
-- Check if coordinates have a valid format
-- Discover if a zip code number prefix exists (only for Spain)
-- Discover if a zip code number has a valid format (only for Spain)
-- Get cartesian coordinates(X, Y, Z/WGS84) by Latitude and Longitude
-- Get location by parameters
-- Get multiple cities by phone prefix (only for Spain)
-- Get multiple cities by partial initial text (only for Spain)

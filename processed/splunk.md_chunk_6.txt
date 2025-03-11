@@ -1,8 +1,0 @@
-## Required capabilities
-
-Your Splunk platform account and role must have certain capabilities to create authentication tokens:
-
-- `edit_tokens_own`: Required if you want to create tokens for yourself.
-- `edit_tokens_all`: Required if you want to create tokens for any user on the instance.
-
-Refer to [Define roles on the Splunk platform with capabilities](https://docs.splunk.com/Documentation/Splunk/9.2.1/Security/Rolesandcapabilities){:target=_blank .external-link} for more information.

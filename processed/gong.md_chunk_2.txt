@@ -1,8 +1,0 @@
-- An **Access Key**
-- An **Access Key Secret**
-
-You can create both of these items on the [Gong API Page](https://app.gong.io/company/api) (you must be a technical administrator in Gong to access this resource).
-
-Refer to [Gong's API documentation](https://gong.app.gong.io/settings/api/documentation){:target=_blank .external-link} for more information about authenticating to the service.
-
-## Using OAuth2

@@ -1,3 +1,0 @@
-* **First Entry Binary**: Return the binary data of the first entry of the last node in a binary file.
-		* **No Response Body**: Return with no body.
-* **Using 'Respond to Webhook' Node**: Respond as defined in the [Respond to Webhook](/integrations/builtin/core-nodes/n8n-nodes-base.respondtowebhook/) node.

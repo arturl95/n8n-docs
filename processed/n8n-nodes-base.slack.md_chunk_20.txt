@@ -1,4 +1,0 @@
-| User | Get | [users.info](https://api.slack.com/methods/users.info){:target=blank .external-link} |
-| User | Get Many | [users.list](https://api.slack.com/methods/users.list){:target=blank .external-link} |
-| User | Get User's Profile | [users.profile.get](https://api.slack.com/methods/users.profile.get){:target=blank .external-link} |
-| User | Get User's Status | [users.getPresence](https://api.slack.com/methods/users.getPresence){:target=blank .external-link} |

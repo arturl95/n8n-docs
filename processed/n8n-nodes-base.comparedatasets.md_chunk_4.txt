@@ -1,1 +1,0 @@
-4. Decide whether to use **Fuzzy Compare**. When turned on, the comparison will tolerate small type differences when comparing fields. For example, the number 3 and the string `3` are treated as the same with **Fuzzy Compare** turned on, but wouldn't be treated the same with it turned off.

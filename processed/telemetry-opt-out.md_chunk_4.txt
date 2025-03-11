@@ -1,5 +1,0 @@
-## Related resources
-
-Refer to [Deployment environment variables](/hosting/configuration/environment-variables/deployment/) for more information on these environment variables.
-
-Refer to [Configuration](/hosting/configuration/configuration-methods/) for more information on setting environment variables.

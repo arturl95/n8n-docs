@@ -1,1 +1,0 @@
-To complete all of the operations in the UptimeRobot node, use the **Main** or **Account-specific** API key type. Refer to [API authentication](https://uptimerobot.com/api/#auth){:target=_blank .external-link} for more information.

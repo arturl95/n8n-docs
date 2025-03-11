@@ -1,3 +1,0 @@
-For information on errors with mapping and linking items, refer to [Item linking errors](/data/data-mapping/data-item-linking/item-linking-errors/).
-
-## How to drag and drop data

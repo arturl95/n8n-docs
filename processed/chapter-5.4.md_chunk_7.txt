@@ -1,7 +1,0 @@
-At this stage, your workflow should now look like this:
-
-<figure><img src="/_images/courses/level-one/chapter-five/l1-c5-4-workflow-with-set-node.png" alt="Workflow with the Edit Fields node" style="width:100%"><figcaption align = "center"><i>Workflow with the Edit Fields node</i></figcaption></figure>
-
-## What's next?
-
-**Nathan 🙋**: You've already automated half of my work! Now I still need to calculate the booked orders for my colleagues. Can that be automated as well?

@@ -1,2 +1,0 @@
-* **Text** defines the input text to extract information from. This is usually an expression that references a field from the input items. For example, this could be `{{ $json.chatInput }}` if the input is a chat trigger, or `{{ $json.text }}` if a previous node is Extract from PDF.
-* Use **Schema Type** to choose how you want to describe the desired output data format. You can choose between:

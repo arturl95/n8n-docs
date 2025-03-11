@@ -1,8 +1,0 @@
-Suppose that in a vector store `0.1` represents `automation tool`, `0.2` represents `source available`, and `0.3` represents `can be self-hosted`. You could end up with the following vectors:
-
-| Sentence | Vector (array of dimensions) |
-| -------- | ------ |
-| n8n is a source-available automation tool that you can self-host | [0.1, 0.2, 0.3] |
-| Zapier is an automation tool | [0.1] |
-| Make is an automation tool | [0.1] |
-| Confluence is a wiki tool that you can self-host | [0.3] |

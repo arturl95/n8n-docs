@@ -1,3 +1,0 @@
-* **End Position X**: Enter the x axis position (horizontal) to stop drawing at.
-* **End Position Y**: Enter the y axis position (vertical) to start drawing at.
-* **Corner Radius**: Enter a number to set the corner radius. Adding a corner radius will round the corners of the drawn primitive.

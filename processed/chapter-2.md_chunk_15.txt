@@ -1,3 +1,0 @@
-3. Add the **If node** to check if that new rounded date is after `1960-01-01 00:00:00`.
-4. Add the **Wait node** to the True output of that node and set it to wait for one minute.
-5. Add the **Edit Fields (Set) node** to set a new field called outputValue to a String containing new-date. Include all input fields.

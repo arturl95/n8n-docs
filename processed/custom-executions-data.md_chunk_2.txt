@@ -1,5 +1,0 @@
-This section describes how to set and access data using the Code node. Refer to [Execution Data node](/integrations/builtin/core-nodes/n8n-nodes-base.executiondata/) for information on using the Execution Data node to set data. You can't retrieve custom data using the Execution Data node.
-
-### Set custom executions data
-
-Set a single piece of extra data:

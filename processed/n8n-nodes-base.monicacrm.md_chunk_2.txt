@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Monica CRM credentials](/integrations/builtin/credentials/monicacrm/) for guidance on setting up authentication. 
-///
-
-## Operations

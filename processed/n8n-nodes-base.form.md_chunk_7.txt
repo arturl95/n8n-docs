@@ -1,3 +1,0 @@
-### Defining the form using JSON
-
-Use **Define Form** > **Using JSON** to define the fields of your form with a [JSON array of objects](/data/data-structure). Each object defines a single field by using a combination of these keys:

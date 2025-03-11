@@ -1,5 +1,0 @@
-### Enhanced nodes
-
-* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Added support for arrays in Querystring. Any parameter appearing multiple times with the same name is grouped into an array.
-* [Mautic:](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/) Added Contact Segment resource.
-* [Telegram:](/integrations/builtin/app-nodes/n8n-nodes-base.telegram/) Added Delete operation to the Message resource.

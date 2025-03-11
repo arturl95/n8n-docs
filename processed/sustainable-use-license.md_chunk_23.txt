@@ -1,4 +1,0 @@
-It's easy to get started contributing code to n8n [here](https://github.com/n8n-io), and we've listed broader ways of participating in our community [here](https://docs.n8n.io/reference/contributing.html).
-
-
-### Why did you switch to the Sustainable Use License from your previous license arrangement (Apache 2.0 with Commons Clause)?

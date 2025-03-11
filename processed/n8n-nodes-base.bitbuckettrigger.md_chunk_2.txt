@@ -1,3 +1,0 @@
-///  note  | Examples and templates
-For usage examples and templates to help you get started, refer to n8n's [Bitbucket Trigger integrations](https://n8n.io/integrations/bitbucket-trigger/){:target=_blank .external-link} page.
-///

@@ -1,4 +1,0 @@
-* If the tag, variable or credential doesn't exist, n8n creates it.
-* If the tag, variable or credential already exists, n8n doesn't update it, unless:
-	* You set the value of a variable using the API or externally. The new value overwrites any existing value.
-	* The credential name has changed. n8n uses the version in Git.

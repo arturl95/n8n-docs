@@ -1,9 +1,0 @@
-The [connections flow](https://n8n.io/workflows/2464-scale-deal-flow-with-a-pitch-deck-ai-vision-chatbot-and-qdrant-vector-store/) in this case would look like this: AI agent (tools connector) -> Vector Store Question Answer Tool (Vector Store connector) -> Qdrant Vector store.
-	
-## Node parameters
-
---8<-- "_snippets/integrations/builtin/cluster-nodes/vector-store-mode.md"
-
-<!-- vale from-write-good.Weasel = NO -->
-### Get Many parameters
-<!-- vale from-write-good.Weasel = YES -->

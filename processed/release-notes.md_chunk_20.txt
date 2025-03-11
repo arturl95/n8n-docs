@@ -1,1 +1,0 @@
-We also added credential support for [SolarWinds IPAM](/integrations/builtin/credentials/solarwindsipam/) and [SolarWinds Observability](/integrations/builtin/credentials/solarwindsobservability/).

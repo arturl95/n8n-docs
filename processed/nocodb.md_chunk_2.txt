@@ -1,8 +1,0 @@
-## Using API token
-
-To configure this credential, you'll need a [NocoDB](https://www.nocodb.com/){:target=_blank .external-link} instance and:
-
-- An **API Token**
-- Your database **Host**
-
-To generate an API token:

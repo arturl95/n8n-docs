@@ -1,3 +1,0 @@
-To try the example yourself, [download the example workflow](/_workflows/ai-code/summarize-data.json) and import it into n8n.
-
-In the **Summarize** Code node, enter this prompt:

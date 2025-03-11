@@ -1,4 +1,0 @@
-* **Presence Penalty**: Use this option to control the chances of the model talking about new topics. Higher values increase the chance of the model talking about new topics.
-* **Sampling Temperature**: Use this option to control the randomness of the sampling process. A higher temperature creates more diverse sampling, but increases the risk of hallucinations.
-* **Timeout**: Enter the maximum request time in milliseconds.
-* **Max Retries**: Enter the maximum number of times to retry a request.

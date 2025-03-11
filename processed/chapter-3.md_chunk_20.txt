@@ -1,5 +1,0 @@
-However, there are some [exceptions of nodes and operations](/flow-logic/looping/#node-exceptions){:target="_blank"} that will require you to build a loop into your workflow.
-
-To [create a loop in an n8n workflow](/flow-logic/looping/#using-loops-in-n8n){:target="_blank"}, you need to connect the output of one node to the input of a previous node, and add an **If node** to check when to stop the loop.
-
-## Splitting data in batches

@@ -1,5 +1,0 @@
-* **Credential to connect with**: Create or select an existing [Telegram credential](/integrations/builtin/credentials/telegram/).
-* **Resource**: Select **Callback**.
-* **Operation**: Select **Answer Query**.
-* **Query ID**: Enter the unique identifier of the query you want to answer.
-    * To feed a Query ID directly into this node, use the [Telegram Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.telegramtrigger/) node triggered on the **Callback Query**.

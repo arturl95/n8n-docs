@@ -1,6 +1,0 @@
-</div>
-
-### New node: Microsoft Entra ID
-Microsoft Entra ID (formerly known as Microsoft Azure Active Directory or Azure AD) is used for cloud-based identity and access management. [The new node](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftentra/) supports a wide range of Microsoft Entra ID features, which includes creating, getting, updating, and deleting users and groups, as well as adding users to and removing them from groups. 
-
-### Node updates

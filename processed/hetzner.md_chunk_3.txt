@@ -1,7 +1,0 @@
-/// note | Type
-When creating the server, Hetzner asks you to choose a plan. For most usage levels, the CPX11 type is enough.
-///
-/// note | SSH keys
-Hetzner lets you choose between SSH and password-based authentication. SSH is more secure. The rest of this guide assumes you are using SSH.
-///
-## Log in to your server

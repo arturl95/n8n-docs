@@ -1,1 +1,0 @@
-n8n was licensed under Apache 2.0 with Commons Clause until 17 March 2022. Commons Clause was initiated by various software companies wanting to protect their rights against cloud providers. The concept involved adding a commercial restriction on top of an existing open source license.

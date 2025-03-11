@@ -1,2 +1,0 @@
-/// note | Paid account required
-Mistral requires you to add payment information and activate payments to use API keys. Refer to the [Prerequisites](#prerequisites) section above for more information.

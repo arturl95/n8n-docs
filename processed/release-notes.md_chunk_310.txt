@@ -1,9 +1,0 @@
-#### Form Trigger node
-
-This releases introduces a new node, the [n8n Form Trigger](/integrations/builtin/core-nodes/n8n-nodes-base.formtrigger/). Use this node to start a workflow based on a user submitting a form. It provides a configurable form interface.
-
-</div>
-
-For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
-
-### Contributors

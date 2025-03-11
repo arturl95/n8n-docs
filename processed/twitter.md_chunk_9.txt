@@ -1,4 +1,0 @@
-- If you're using the deprecated OAuth method, user rate limits apply. You'll have one limit per time window for each set of users' access tokens.
-- If you're [Using OAuth2](#using-oauth2), app rate limits apply. You'll have a limit per time window for requests made by your app.
-
-X calculates user rate limits and app rate limits independently.

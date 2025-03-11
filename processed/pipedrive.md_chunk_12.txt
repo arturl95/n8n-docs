@@ -1,4 +1,0 @@
-| Lead | Create <br> Delete <br> Update | **Leads: Full access** | `leads:full` |
-| Note | Get data of a note <br> Get data of all notes | Refer to note below | Refer to note below |
-| Note | Create <br> Delete <br> Update | Refer to note below | Refer to note below |
-| Organization | Get data of an organization <br> Get data of all organizations <br> Search | **Contacts: Read Only** or <br> **Contacts: Full Access** | `contacts:read` or <br> `contacts:full` |

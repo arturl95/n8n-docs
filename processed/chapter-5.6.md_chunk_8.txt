@@ -1,5 +1,0 @@
-## What's next?
-
-**Nathan 🙋**: Incredible, you've saved me so many hours of tedious work already! Now I can execute this workflow when I need it. I just need to remember to run it every Monday morning at 9 AM...
-
-**You 👩‍🔧**: Don't worry about that, you can actually schedule the workflow to run on a specific day, time, or interval. I'll set this up in the next step.

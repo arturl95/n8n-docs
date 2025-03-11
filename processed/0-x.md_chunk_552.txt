@@ -1,3 +1,0 @@
-* [Jira Software:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Fixed an issue with the Expand option for the Issue resource. Also fixed an issue with using custom fields on Jira Server.
-* [Slack:](/integrations/builtin/app-nodes/n8n-nodes-base.slack/) Fixed an issue with pagination when loading more than 1,000 channels.
-* [Strapi:](/integrations/builtin/app-nodes/n8n-nodes-base.strapi/) Fixed an issue using the Where option of the Get All operation.

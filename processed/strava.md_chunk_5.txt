@@ -1,1 +1,0 @@
-- Copy the **Client ID** and **Client Secret** from your app and add them to your n8n credential.

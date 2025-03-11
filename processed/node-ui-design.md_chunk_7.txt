@@ -1,3 +1,0 @@
-* Sometimes a service has different terms for something in its API and in its GUI. Use the GUI language in your node, as this is what most users are familiar with. If you think some users may need to refer to the service's API docs, consider including this information in a hint.
-* Don't use technical jargon when there are simpler alternatives.
-* Be consistent when naming things. For example, choose one of `directory` or `folder` then stick to it.

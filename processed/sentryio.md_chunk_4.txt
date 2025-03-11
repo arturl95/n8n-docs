@@ -1,5 +1,0 @@
-Refer to [Public integrations](https://docs.sentry.io/organization/integrations/integration-platform/public-integration/){:target=_blank .external-link} for more information on creating the integration.
-
-## Using Server API token
-
-To configure this credential, you'll need:

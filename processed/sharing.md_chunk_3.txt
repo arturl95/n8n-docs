@@ -1,5 +1,0 @@
-## Workflow roles and permissions
-
-There are two workflow roles: creator and editor. The creator is the user who created the workflow. Editors are other users with access to the workflow.
-
-You can't change the workflow owner, except when deleting the user.

@@ -1,9 +1,0 @@
-* Manage project settings: Change name, delete project.
-* Manage project members: Invite members and remove members, change members' roles.
-* View, create, update, and delete any workflows, credentials, or executions within a project. 
-
-## Project Editor
-
-A Project Editor can view, create, update, and delete any workflows, credentials, or executions within a project. 
-
-## Project Viewer

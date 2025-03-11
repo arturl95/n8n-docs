@@ -1,8 +1,0 @@
-- Check if the length of a string is lower than a number
-- Check if the length of a string is lower or equal to a number
-- Check if a string starts with a character
-- Check if a string contains only lowercase characters
-- Check if a string contains only uppercase characters
-- Check if a list consists of unique elements
-- Check if the supplied values form a valid list of elements
-- Check if the number of words in a sentence is between two determined quantities

@@ -1,4 +1,0 @@
-1. In the HTTP Request node **Settings**, turn on **SSL Certificates**.
-2. On the **Parameters** tab, add an existing SSL Certificate credential to **Credential for SSL Certificates** or create a new one.
-
-To configure your SSL Certificates credential, you'll need to add:

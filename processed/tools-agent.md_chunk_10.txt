@@ -1,6 +1,0 @@
-* [NocoDB](/integrations/builtin/app-nodes/n8n-nodes-base.nocodb/)
-* [Notion](/integrations/builtin/app-nodes/n8n-nodes-base.notion/)
-* [Postgres](/integrations/builtin/app-nodes/n8n-nodes-base.postgres/)
-* [Redis](/integrations/builtin/app-nodes/n8n-nodes-base.redis/)
-* [Send Email](/integrations/builtin/core-nodes/n8n-nodes-base.sendemail/)
-* [SerpApi (Google Search)](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolserpapi/)

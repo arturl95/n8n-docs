@@ -1,1 +1,0 @@
-* [RabbitMQ:](/integrations/builtin/app-nodes/n8n-nodes-base.rabbitmq/) Added the functionality to close the connection after use and added support for AMPQS

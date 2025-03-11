@@ -1,1 +1,0 @@
-1. You can send some **Test** events from Meta to confirm things are working. If you send a test event, verify its receipt in n8n.

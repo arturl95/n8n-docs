@@ -1,2 +1,0 @@
-8. Configure RSS Feed Read: map `url` from the input to the **URL** field. You can do this by dragging and dropping from the **INPUT** panel, or using this expression: `{{ $json.url }}`.
-9. Select **Test Workflow** to run the workflow and see the resulting data.

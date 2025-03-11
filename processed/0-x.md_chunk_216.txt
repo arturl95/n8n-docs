@@ -1,8 +1,0 @@
-* Google Sheets Node: fix for append operation if no empty rows in sheet.
-* Microsoft Outlook Node: fix binary attachment upload.
-* Pipedrive Node: resolve properties not working.
-* Lazy load nodes for credentials testing.
-* Credential overwrites should take precedence over credential default values.
-* Remove background for resource ownership selector.
-* Update padding for resource filters dropdown.
-* Update size of select components in filters dropdown.

@@ -1,5 +1,0 @@
-## Using OAuth2
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-If you need to configure OAuth2 from scratch, [register an application](https://mailchimp.com/developer/marketing/guides/access-user-data-oauth-2/#register-your-application){:target=_blank .external-link}. Refer to the [Mailchimp OAuth2 documentation](https://mailchimp.com/developer/marketing/guides/access-user-data-oauth-2/){:target=_blank .external-link} for more information.

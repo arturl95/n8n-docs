@@ -1,4 +1,0 @@
-- **Number of Rows to Delete**: Enter the number of rows to clear. `1` clears data only the row in the **Start Row Number**.
-    - **Specific Columns**: Clear data from specific columns. Also enter:
-        - **Start Column**: Enter the first column you want to clear using the letter notation.
-        - **Number of Columns to Delete**: Enter the number of columns to clear. `1` clears data only in the **Start Column**.

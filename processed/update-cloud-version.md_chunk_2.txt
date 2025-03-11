@@ -1,9 +1,0 @@
-## Best practices for updating
-
---8<-- "_snippets/manage-cloud/updating-best-practices.md"
-
-## Automatic update
-
-n8n automatically updates outdated Cloud instances. 
-
-If you don't update you instance for 120 days, n8n emails you to warn you to update. After a further 30 days, n8n automatically updates your instance.

@@ -1,3 +1,0 @@
-```locations.readonly contacts.readonly contacts.write opportunities.readonly opportunities.write users.readonly```
-
-Refer to HighLevel's [API Authorization documentation](https://highlevel.stoplight.io/docs/integrations/a04191c0fabf9-authorization){:target=_blank .external-link} for more details. Refer to HighLevel's [API Scopes documentation](https://highlevel.stoplight.io/docs/integrations/vcctp9t1w8hja-scopes){:target=_blank .external-link} for more information about available scopes.

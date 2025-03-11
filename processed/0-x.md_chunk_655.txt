@@ -1,1 +1,0 @@
-* [Strava:](/integrations/builtin/app-nodes/n8n-nodes-base.strava/) Fixed an issue with the paging parameter

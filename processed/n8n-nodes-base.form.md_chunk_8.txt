@@ -1,3 +1,0 @@
-- `fieldLabel`: The label that appears above the input field. 
-- `fieldType`: Choose from `date`, `dropdown`, `email`, `file`, `number`, `password`, `text`, or `textarea`.
-    - Use `date` to include a date picker in the form. Refer to [Date and time with Luxon](/code/cookbook/luxon/) for more information on formatting dates.

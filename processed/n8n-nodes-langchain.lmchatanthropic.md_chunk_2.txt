@@ -1,3 +1,0 @@
-Learn more in the [Anthropic model documentation](https://docs.anthropic.com/claude/reference/selecting-a-model){:target=_blank .external-link}.
-
-## Node options

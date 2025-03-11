@@ -1,3 +1,0 @@
-7. Select **Create personal access token**.
-8. Copy the access token this creates and enter it in your n8n credential as the **Access Token**.
-9. Enter the URL of your **GitLab Server** in your n8n credential.

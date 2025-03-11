@@ -1,1 +1,0 @@
-Refer to Pinecone's API [Authentication documentation](https://docs.pinecone.io/guides/get-started/authentication){:target=_blank .external-link} for more information.

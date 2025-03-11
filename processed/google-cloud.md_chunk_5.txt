@@ -1,7 +1,0 @@
-## Enable the Kubernetes Engine API
-
-GKE isn't enabled by default. Search for "Kubernetes" in the top search bar and select "Kubernetes Engine" from the results.
-
-Select **ENABLE** to enable the Kubernetes Engine API for this project.
-
-## Create a cluster

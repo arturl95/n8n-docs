@@ -1,9 +1,0 @@
-* Core: Fix curl import error when no data.
-* Core: Handle Date and RegExp correctly in `jsonStringify`.
-* Core: Handle Date and RegExp objects in `augmentObject`.
-* Core: Prevent `augmentObject` from creating infinitely deep proxies.
-* Core: Service account private key as a password field.
-* Core: Update lock file.
-* Core: Waiting workflows not stopping.
-* Date & Time Node: Add info box at top of date and time explaining expressions.
-* Date & Time Node: Convert Luxon DateTime object to ISO.

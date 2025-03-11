@@ -1,7 +1,0 @@
-## Using OAuth2
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-Some Microsoft services require extra information for OAuth2. Refer to [Service-specific settings](#service-specific-settings) for more guidance on those services.
-
-For self-hosted users, there are two main steps to configure OAuth2 from scratch:

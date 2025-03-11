@@ -1,3 +1,0 @@
-- **Group**: Grant permission to a specific group, defined by entering its **Email Address**.
-		- **Domain**: Grant permission to a complete domain, defined by the **Domain**.
-		- **Anyone**: Grant permission to anyone. Can optionally **Allow File Discovery** to make the file discoverable through search.

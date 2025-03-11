@@ -1,4 +1,0 @@
-* [Mapping in the UI](/data/data-mapping/data-mapping-ui/)
-* [Mapping in the expressions editor](/data/data-mapping/data-mapping-expressions/)
-* [Item linking in the Code node](/data/data-mapping/data-item-linking/item-linking-code-node/)
-* [Item linking errors](/data/data-mapping/data-item-linking/item-linking-errors/)

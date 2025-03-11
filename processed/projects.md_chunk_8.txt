@@ -1,3 +1,0 @@
-1. Select **Next**.
-1. Confirm you understand the impact of the move: workflows may stop working if the credentials they need aren't available in the target project, and n8n removes any current individual sharing.
-1. Select **Confirm move to new project**.

@@ -1,4 +1,0 @@
-- Create a [Discord](https://www.discord.com/){:target=_blank .external-link} account.
-- For Bot and OAuth2 credentials:
-    - [Set up your local developer environment](https://discord.com/developers/docs/quick-start/getting-started#step-0-project-setup){:target=_blank .external-link}.
-    - [Create an application and a bot user](https://discord.com/developers/docs/quick-start/getting-started#step-1-creating-an-app){:target=_blank .external-link}.

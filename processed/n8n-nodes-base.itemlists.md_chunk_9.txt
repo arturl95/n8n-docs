@@ -1,5 +1,0 @@
-### Concatenate Items
-
-The Concatenate Items operations is useful when you want to take separate items, or portions of them, and group them together into individual items.
-
-When using the Concatenate Items operation, configure the following parameters and options:

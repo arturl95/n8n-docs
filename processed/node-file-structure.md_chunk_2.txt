@@ -1,3 +1,0 @@
-* A `package.json` file at the root of the project. This is required for any npm module.
-* A `nodes` directory, containing the code for your node:
-    * This directory must contain the [base file](/integrations/creating-nodes/build/reference/node-base-files/), in the format `<node-name>.node.ts`. For example, `MyNode.node.ts`.

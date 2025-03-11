@@ -1,7 +1,0 @@
-## Using API key
-
-To configure this credential, you'll need a registered [Wolfram ID](https://account.wolfram.com){:target=_blank .external-link} and:
-
-- An **App ID**
-
-To get an App ID:

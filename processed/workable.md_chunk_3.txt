@@ -1,1 +1,0 @@
-- An **Access Token**: Go to your **profile >** [**Integrations**](https://workable.com/backend/settings/integrations){:target=_blank .external-link} **> Apps** and select **Generate API token**. Refer to [Generate a new token](https://help.workable.com/hc/en-us/articles/115015785428-Generating-revoking-access-tokens-for-Workable-s-API#Generateanewtoken) for more information.

@@ -1,3 +1,0 @@
-1. In the HTTP Request node, go to **Settings** and enable **Retry on Fail**.
-1. Set **Max Tries** to the maximum number of times n8n should retry the node.
-1. Set **Wait Between Tries (ms)** to the desired delay in milliseconds between retries. For example, to wait one second before retrying the request again, set **Wait Between Tries (ms)** to `1000`.

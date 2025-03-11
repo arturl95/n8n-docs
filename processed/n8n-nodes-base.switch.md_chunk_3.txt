@@ -1,2 +1,0 @@
-* The fields and values to enter into the condition change based on the data type and comparison you select. Refer to [Available data type comparisons](#available-data-type-comparisons) for a full list of all comparisons by data type.
-* **Rename Output**: Turn this control on to rename the output field to put matching data into. Enter your desired **Output Name**.

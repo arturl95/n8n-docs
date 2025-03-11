@@ -1,8 +1,0 @@
-* [npm with tunnel](/hosting/installation/npm/#n8n-with-tunnel)
-* [Docker with tunnel](/hosting/installation/docker/#n8n-with-tunnel)
-
-<video src="/_video/integrations/builtin/core-nodes/webhook/webhook-node-intro.mp4" controls width="100%"></video>
-
-## Production workflows
-
-When your workflow is ready, switch to using the **Production** webhook URL. You can then activate your workflow, and n8n runs it automatically when an external service calls the webhook URL.

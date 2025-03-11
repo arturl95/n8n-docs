@@ -1,2 +1,0 @@
-1. In **Resource**, select **Bin**.
-2. Choose an **Operation**. You can create, delete, or get a bin.

@@ -1,5 +1,0 @@
-* [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/)
-* [Supabase](/integrations/builtin/app-nodes/n8n-nodes-base.supabase/)
-* [Telegram](/integrations/builtin/app-nodes/n8n-nodes-base.telegram/)
-* [Vector Store](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolvectorstore/)
-* [Wikipedia](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolwikipedia/)

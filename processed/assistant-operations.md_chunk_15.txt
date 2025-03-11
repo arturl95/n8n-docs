@@ -1,6 +1,0 @@
-- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
-- **Resource**: Select **Assistant**.
-- **Operation**: Select **Message an Assistant**.
-- **Assistant**: Select the assistant you want to message.
-- **Prompt**: Enter the text prompt or message that you want to send to the assistant.
-    - **Connected Chat Trigger Node**: Automatically use the input from a previous node's `chatInput` field.

@@ -1,9 +1,0 @@
-### Related resources
-
-Pluralsight offer a short guide on [How to use ChatGPT to write code](https://www.pluralsight.com/blog/software-development/how-use-chatgpt-programming-coding){:target=_blank .external-link}, which includes example prompts.
-
-
-
-## Fixing the code
-
-The AI-generated code may work without any changes, but you may have to edit it. You need to be aware of n8n's [Data structure](/data/data-structure/). You may also find n8n's built-in methods and variables useful.

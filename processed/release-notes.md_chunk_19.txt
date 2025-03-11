@@ -1,3 +1,0 @@
-- [Linear Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.lineartrigger/): Added support for admin scope  
-- [MailerLite](/integrations/builtin/app-nodes/n8n-nodes-base.mailerlite/): Now supports the new API  
-- [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/):  Added two new options for the `Send and wait` operation, free text and custom form

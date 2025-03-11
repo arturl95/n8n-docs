@@ -1,3 +1,0 @@
-* [AWS DynamoDB:](/integrations/builtin/app-nodes/n8n-nodes-base.awsdynamodb/) Added Scan option to Item > Get All operation.
-* [Google Drive:](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) Added File Name option to File > Update operation.
-* [Mautic:](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/) Added the following fields to Company resource: Address, Annual Revenue, Company Email, Custom Fields, Description, Fax, Industry, Number of Employees, Phone, Website.

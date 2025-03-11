@@ -1,5 +1,0 @@
-| View and share all workflows | :white_check_mark: | :white_check_mark: | :x: |
-| View, edit, and share all credentials | :white_check_mark: | :white_check_mark: | :x: |
-| Set up and use [Source control](/source-control-environments/) | :white_check_mark: | :white_check_mark: | :x: |
-| Create [projects](/user-management/rbac/projects/) | :white_check_mark: | :white_check_mark: | :x: |
-| View all projects | :white_check_mark: | :white_check_mark: | :x: |

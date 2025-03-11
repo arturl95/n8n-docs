@@ -1,6 +1,0 @@
-* Core: update OAuth endpoints to use the instance base URL.
-* Nodes: resolved an issue that was preventing versioned nodes from loading.
-* Public API: better error handling for bad requests.
-* AWS nodes: fixed an issue with credentials testing.
-* GoogleBigQuery node: fix for empty responses when creating records.
-* HubSpot node: correct the node name on the canvas.

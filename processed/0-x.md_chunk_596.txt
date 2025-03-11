@@ -1,7 +1,0 @@
-### Bug fixes
-
-* [AWS SES:](/integrations/builtin/app-nodes/n8n-nodes-base.awsses/) Fixed issue where special characters in the message were not encoded.
-* [Baserow:](/integrations/builtin/app-nodes/n8n-nodes-base.baserow/) Fixed issue where Create operation inserted null values.
-* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Fixed issue when sending context parameter.
-
-### Contributors

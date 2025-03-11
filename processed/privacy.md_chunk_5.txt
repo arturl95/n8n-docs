@@ -1,3 +1,0 @@
-| Sub-processor name | Contact details | Geographic location of processing |
-| ------------------ | --------------- | --------------------------------- |
-| Microsoft Azure | Microsoft Azure <br /> 1 Microsoft Way <br /> Redmond <br /> WA 98052 <br /> USA <br /> Contact information: https://privacy.microsoft.com/en-GB/privacystatement#mainhowtocontactusmodule | Germany (West Central Region) |

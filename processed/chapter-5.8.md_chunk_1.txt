@@ -1,5 +1,0 @@
-To activate your workflow, set the **Inactive** toggle in the top navigation of the Editor UI to be **Activated**. Nathan's workflow will now be executed automatically every Monday at 9 AM:
-
-<figure><img src="/_images/courses/level-one/chapter-five/l1-c5-5-8-activated-workflow.png" alt="Activated workflow" style="width:100%"><figcaption align = "center"><i>Activated workflow</i></figcaption></figure>
-
-## Workflow Executions

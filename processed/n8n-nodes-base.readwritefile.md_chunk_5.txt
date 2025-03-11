@@ -1,5 +1,0 @@
-Refer to [Picomatch's Basic globbing](https://github.com/micromatch/picomatch#basic-globbing){:target=_blank .external-link} documentation for more information on these characters and their expected behavior.
-
-### Read File(s) From Disk options
-
-You can also configure this operation with these **Options**:

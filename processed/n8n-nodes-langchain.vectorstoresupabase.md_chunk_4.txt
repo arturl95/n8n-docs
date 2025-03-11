@@ -1,7 +1,0 @@
-## Node usage patterns
-
-You can use the Supabase Vector Store node in the following patterns.
-
-### Use as a regular node to insert, update, and retrieve documents
-
-You can use the Supabase Vector Store as a regular node to insert, update, or get documents. This pattern places the Supabase Vector Store in the regular connection flow without using an agent.

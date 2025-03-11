@@ -1,9 +1,0 @@
-Refer to TheHive's [documentation](https://docs.strangebee.com/){:target=_blank .external-link} for more information about the service.
-
-
-## Configure a webhook in TheHive
-
-To configure the webhook for your TheHive instance:
-
-1. Copy the testing and production webhook URLs from TheHive Trigger node.
-2. Add the following lines to the `application.conf` file. This is TheHive configuration file:

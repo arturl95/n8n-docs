@@ -1,7 +1,0 @@
-n8n has moved support for iCalendar, PDF, and spreadsheet formats into these nodes, and removed the iCalendar, Read PDF, and Spreadsheet File nodes. There are still standalone nodes for [HTML](/integrations/builtin/core-nodes/n8n-nodes-base.html/) and [XML](/integrations/builtin/core-nodes/n8n-nodes-base.xml/).
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### New node: Qdrant vector store

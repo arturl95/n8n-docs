@@ -1,5 +1,0 @@
-Learn more about [Agents in LangChain](https://js.langchain.com/docs/concepts/agents){:target=_blank .external-link}.
-
-#### Vector stores
-
-Vector stores store embedded data, and perform vector searches on it.

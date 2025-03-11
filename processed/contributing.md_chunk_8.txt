@@ -1,7 +1,0 @@
-## Contribute to the docs
-
-You can contribute to the n8n documentation, for example by documenting nodes or fixing issues.
-
-The repository for the docs is [here](https://github.com/n8n-io/n8n-docs){:target=_blank class=.external-link} and the guidelines for contributing to the docs are [here](https://github.com/n8n-io/n8n-docs/blob/master/CONTRIBUTING.md){:target=_blank class=.external-link}.
-
-## Contribute to the blog

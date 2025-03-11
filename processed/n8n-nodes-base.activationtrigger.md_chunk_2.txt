@@ -1,7 +1,0 @@
-/// note | Keep in mind
-If you want to use the Activation Trigger node for a workflow, add the node to the workflow. You don't have to create a separate workflow.
-///
-
-The Activation Trigger node gets triggered for the workflow that it gets added to. You can use the Activation Trigger node to trigger a workflow to notify the state of the workflow.
-
-## Node parameters

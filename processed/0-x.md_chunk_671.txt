@@ -1,2 +1,0 @@
-* [QuestDB:](/integrations/builtin/app-nodes/n8n-nodes-base.questdb/) Added query parameters. The Execute Query operation returns the result from all queries executed instead of just one of the results.
-* [QuickBase:](/integrations/builtin/app-nodes/n8n-nodes-base.quickbase/) Added option to use Field IDs

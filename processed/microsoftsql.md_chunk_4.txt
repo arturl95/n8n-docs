@@ -1,4 +1,0 @@
-1. Enter the SQL Server Host Name as the **Server**. In an existing SQL Server connection, the host name comes before the instance name in the format `HOSTNAME\INSTANCENAME`. Find the host name:
-    - In the **Object Explorer** pane as the top-level object for your database.
-    - In the footer of a query window.
-    - Viewing the current connection **Properties** and looking for **Name** or **Display Name**.

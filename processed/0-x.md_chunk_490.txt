@@ -1,8 +1,0 @@
-### New nodes
-
-
-* [Microsoft Graph Security](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftgraphsecurity/)
-* [SyncroMSP](/integrations/builtin/app-nodes/n8n-nodes-base.syncromsp/)
-* [Supabase](/integrations/builtin/app-nodes/n8n-nodes-base.supabase/)
-
-### Enhanced nodes

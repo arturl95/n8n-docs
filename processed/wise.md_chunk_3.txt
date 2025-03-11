@@ -1,2 +1,0 @@
-- Otherwise, select **Live**.
-- **Private Key (Optional)**: For live endpoints requiring Strong Customer Authentication (SCA), generate a public and private key. Enter the private key here. Refer to [Add a private key](#add-a-private-key) for more information.

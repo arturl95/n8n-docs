@@ -1,3 +1,0 @@
-- **Explicit Array**: Set whether to put child nodes in an array (turned on) or create an array only if there's more than one child node (turned off).
-- **Explicit Root**: Set whether to get the root node in the resulting object (turned on) or not (turned off).
-- **Ignore Attributes**: Set whether to ignore all XML attributes and only create text nodes (turned on) or not (turned off).

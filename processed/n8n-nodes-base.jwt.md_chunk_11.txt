@@ -1,2 +1,0 @@
-* **Clock Tolerance**: Enter the number of seconds to tolerate when checking the `nbf` and `exp` claims. This allows you to deal with small clock differences among different servers. Refer to ["exp" (Expiration Time) Claim](https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.4){:target=_blank .external-link} for more information.
-* **Override Algorithm**: The algorithm to use for verifying the token. This algorithm will override the algorithm selected in the credentials.

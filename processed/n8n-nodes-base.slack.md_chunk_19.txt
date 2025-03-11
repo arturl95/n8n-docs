@@ -1,4 +1,0 @@
-| Reaction | Remove | [reactions.remove](https://api.slack.com/methods/reactions.remove){:target=blank .external-link} |
-| Star | Add | [stars.add](https://api.slack.com/methods/stars.add){:target=blank .external-link} |
-| Star | Delete | [stars.remove](https://api.slack.com/methods/stars.remove){:target=blank .external-link} |
-| Star | Get Many | [stars.list](https://api.slack.com/methods/stars.list){:target=blank .external-link} |

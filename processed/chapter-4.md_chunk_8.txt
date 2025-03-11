@@ -1,3 +1,0 @@
-### Exercise
-
-In the previous chapters, you've built several small workflows. Now, pick one of them that you want to monitor and create an Error Workflow for it:

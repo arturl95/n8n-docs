@@ -1,8 +1,0 @@
-| Hook     | Description |
-| :------- | :---------- |
-| `credentialsEdit.credentialTypeChanged` | Called when an existing credential's type changes. |
-| `credentials.create` | Called when someone creates a new credential. |
-| `credentialsList.dialogVisibleChanged` |  |
-| `dataDisplay.nodeTypeChanged` |  |
-| `dataDisplay.onDocumentationUrlClick` | Called when someone selects the help documentation link. |
-| `execution.open` | Called when an existing execution opens. |

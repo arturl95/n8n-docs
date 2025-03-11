@@ -1,1 +1,0 @@
-- Compare and merge data: Use the [Compare Datasets](/integrations/builtin/core-nodes/n8n-nodes-base.comparedatasets/) node to compare, merge, and output data streams based on the comparison.

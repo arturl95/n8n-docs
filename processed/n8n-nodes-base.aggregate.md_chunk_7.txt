@@ -1,5 +1,0 @@
-Refer to [Node options](#node-options) for more configuration options.
-
-## Node options
-
-You can further configure this node using these **Options**:

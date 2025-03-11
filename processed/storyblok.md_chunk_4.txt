@@ -1,5 +1,0 @@
-Refer to [Content v1 API Authentication](https://www.storyblok.com/docs/api/content-delivery/v1#topics/authentication){:target=_blank .external-link} for more information about supported operations with each Access Level.
-
-## Using Management API key
-
-To configure this credential, you'll need:

@@ -1,3 +1,0 @@
-6. Select **Save application**.
-7. Copy the **Application ID** and enter it as the **Client ID** in your n8n credential.
-8. Copy the **Secret** and enter it as the **Client Secret** in your n8n credential.

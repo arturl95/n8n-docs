@@ -1,7 +1,0 @@
-/// warning | Execution of Loop Over Items node
-The **Loop Over Items node** stops executing after all the incoming items get divided into batches and passed on to the next node in the workflow, so it's not necessary to add an **If node** to stop the loop.
-///
-
-### Loop/Batch Exercise
-
-Build a workflow that reads the RSS feed from Medium and dev.to. The workflow should consist of three nodes:

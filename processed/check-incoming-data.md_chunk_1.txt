@@ -1,5 +1,0 @@
-```javascript
-{{$json["variable_name"]? $json["variable_name"] :"not found"}}
-```
-
-The above expression uses the ternary operator. You can learn more about the ternary operator [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator).

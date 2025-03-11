@@ -1,7 +1,0 @@
-# GetResponse Trigger node
-
-[GetResponse](https://www.getresponse.com/){:target=_blank .external-link} is an online platform that offers email marketing software, landing page creator, webinar hosting, and much more.
-
-/// note | Credentials
-You can find authentication information for this node [here](/integrations/builtin/credentials/getresponse/).
-///

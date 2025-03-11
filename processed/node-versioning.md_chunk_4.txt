@@ -1,1 +1,0 @@
-As an example, say you want to add versioning to the NasaPics node from the [Declarative node tutorial](/integrations/creating-nodes/build/declarative-style-node/), then configure a resource so that n8n only displays it in version 2 of the node. In your base `NasaPics.node.ts` file:

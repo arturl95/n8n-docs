@@ -1,5 +1,0 @@
-Install these extensions:
-
-* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint){:target=_blank class=.external-link}
-* [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig){:target=_blank class=.external-link}
-* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode){:target=_blank class=.external-link}

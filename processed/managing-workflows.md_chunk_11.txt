@@ -1,9 +1,0 @@
-### 3. Create the workflow
-
-Best practice is to have a “base” workflow that you then duplicate and customize for each new user with their credentials (and any other details).
-
-You can duplicate and customize your template workflow using either the Editor UI or API call.
-
-#### Using the Editor UI
-
-1. From the menu select **Workflows** > **Open** to open the template workflow to be duplicated.

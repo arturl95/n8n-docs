@@ -1,6 +1,0 @@
-- HelpScout: Fixed an issue with sending tags when creating a conversation
-- HTTP Request: Fixed an issue with the raw data and file response
-- HubSpot: Fixed an issue with the OAuth2 credentials
-- Added support for Date & Time in the IF node and the Switch node
-- Fixed an issue with mouse selection when zooming in or out
-- Fixed an issue with current executing workflows when using queues for Postgres

@@ -1,8 +1,0 @@
-* Workflow
-	* [**Activate** a workflow](#activate-deactivate-delete-and-get-workflow)
-	* [**Create** a workflow](#create-workflow)
-	* [**Deactivate** a workflow](#activate-deactivate-delete-and-get-workflow)
-	* [**Delete** a workflow](#activate-deactivate-delete-and-get-workflow)
-	* [**Get** a workflow](#activate-deactivate-delete-and-get-workflow)
-	* [**Get Many** workflows](#get-many-workflows)
-	* [**Update** a workflow](#update-workflow)

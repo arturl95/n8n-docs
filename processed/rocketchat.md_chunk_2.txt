@@ -1,7 +1,0 @@
-## Using API access token
-
-To configure this credential, you'll need:
-
-- Your **User ID**: Displayed when you generate an access token.
-- An **Auth Key**: Your personal access token. To generate an access token, go to your **avatar > Account > Personal Access Tokens**. Copy the token and add it as the n8n **Auth Key**.
-- Your Rocket.Chat **Domain**: Also known as your default URL or workspace URL.

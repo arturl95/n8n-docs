@@ -1,8 +1,0 @@
-/// note | Password compatibility
-If you try a password credential and it doesn't work for a specific node function, try switching to an API key. Odoo requires an API key for certain modules or based on certain settings.
-///
-
-## Required plan type
-
-/// note | Required plan type
-Access to the external API is only available on a **Custom** Odoo plan. (The One App Free or Standard plans won't give you access.)

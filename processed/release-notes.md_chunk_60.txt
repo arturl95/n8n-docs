@@ -1,4 +1,0 @@
-<div class="n8n-new-features" markdown>
-
-### New node: n8n Form
-Use the [n8n Form node](/integrations/builtin/core-nodes/n8n-nodes-base.form/) to create user-facing forms with multiple pages. You can add other nodes with custom logic between to process user input. Start the workflow with a [n8n Form Trigger](/integrations/builtin/core-nodes/n8n-nodes-base.formtrigger/).

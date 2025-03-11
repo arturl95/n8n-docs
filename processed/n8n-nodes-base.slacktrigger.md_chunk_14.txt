@@ -1,7 +1,0 @@
-You may have trouble with this if you try to test a workflow that's also active in production. Slack will only send events to one of the two webhook URLs, so the other will never receive event notifications.
-
-To work around this, you can disable your workflow when testing:
-
-/// warning | Halts production traffic
-This temporarily disables your production workflow for testing. Your workflow will no longer receive production traffic while it's deactivated.
-///

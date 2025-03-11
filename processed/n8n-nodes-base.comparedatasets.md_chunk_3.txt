@@ -1,2 +1,0 @@
-* Enter input fields that are exceptions to **For Everything Except** to pull from the other input source. To add multiple input fields, enter a comma-separated list.
-	* **Include Both Versions** to include both input streams in the output, which may make the structure more complex.

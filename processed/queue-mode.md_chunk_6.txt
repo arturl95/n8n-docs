@@ -1,5 +1,0 @@
-### Set encryption key
-
-n8n automatically generates an encryption key upon first startup. You can also provide your own custom key using [environment variable](/hosting/configuration/environment-variables/) if desired.
-
-The encryption key of the main n8n instance must be shared with all worker and webhooks processor nodes to ensure these worker nodes are able to access credentials stored in the database.

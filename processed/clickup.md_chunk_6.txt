@@ -1,1 +1,0 @@
-Refer to the [ClickUp Oauth flow documentation](https://clickup.com/api/developer-portal/authentication#oauth-flow){:target=_blank .external-link} for more information.

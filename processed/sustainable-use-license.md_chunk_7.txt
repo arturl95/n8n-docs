@@ -1,6 +1,0 @@
-Our license restricts use to "internal business purposes". In practice this means all use is allowed unless you are selling a product, service, or module in which the value derives entirely or substantially from n8n functionality. Here are some examples that wouldn't be allowed:
-
-* White-labeling n8n and offering it to your customers for money.
-* Hosting n8n and charging people money to access it.
-
-All of the following examples are allowed under our license:

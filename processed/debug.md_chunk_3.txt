@@ -1,3 +1,0 @@
-/// note | Check which executions you save
-The executions available on the **Executions** list depends on your [Workflow settings](/workflows/settings/).
-///

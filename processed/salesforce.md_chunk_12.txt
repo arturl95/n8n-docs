@@ -1,8 +1,0 @@
-Refer to Salesforce's [Create a Connected App in Your Org](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_connected_app.htm){:target=_blank .external-link} documentation for more information.
-
-
-## Using OAuth2
-
-To configure this credential, you'll need a [Salesforce](https://www.salesforce.com/){:target=_blank .external-link} account.
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"

@@ -1,9 +1,0 @@
-- Get personal and social data by social profile
-- Get personal data by email
-- Get personal data by first name, last name, company, and location
-- Get personal data by mobile
-- Get personal data by social network profile
-- Generate random fake data
-- Get first personal surname matching by prefix from INE data source (only for Spain)
-- Get personal surname matching by prefix from INE data source (only for Spain)
-- Get Twitter profile by first name, last name, and company

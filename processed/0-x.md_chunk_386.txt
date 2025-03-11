@@ -1,5 +1,0 @@
-### Node enhancements
-
-* [Google Drive Node](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/){:target="_blank"}: Drive upload, delete, and share operations now support shared Drives.
-* [Microsoft OneDrive](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftonedrive/){:target="_blank"}: Add the rename operation for files and folders.
-* [Trello](/integrations/builtin/app-nodes/n8n-nodes-base.trello/){:target="_blank"}: Add support for operations relating to board members.

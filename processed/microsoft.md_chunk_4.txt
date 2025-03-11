@@ -1,2 +1,0 @@
-- Create a [Microsoft Azure](https://azure.microsoft.com/){:target=_blank .external-link} account.
-- Create at least one user account with access to the appropriate service.

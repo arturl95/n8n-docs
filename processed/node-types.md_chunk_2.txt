@@ -1,5 +1,0 @@
-## Credentials
-
-External services need a way to identify and authenticate users. This data can range from an API key over an email/password combination to a long multi-line private key. You can save these in n8n as credentials.
-
-Nodes in n8n can then request that credential information. As another layer of security, only node types with specific access rights can access the credentials.

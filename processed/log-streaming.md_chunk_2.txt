@@ -1,6 +1,0 @@
-/// note | Self-hosted users
-If you self-host n8n, you can configure additional log streaming behavior using [Environment variables](/hosting/configuration/environment-variables/logs/#log-streaming).
-///
-## Events
-
-The following events are available. You can choose which events to stream in **Settings** > **Log Streaming** > **Events**.

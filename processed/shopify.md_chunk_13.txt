@@ -1,3 +1,0 @@
-8. Select **Save and release**.
-1. Select **Overview** from the left menu. At this point, you can choose to **Test your app** by installing it to one of your stores, or **Choose distribution** to distribute it publicly.
-1. In n8n, enter the **Shop Subdomain** of the store you installed the app to, either as a test or as a distribution.

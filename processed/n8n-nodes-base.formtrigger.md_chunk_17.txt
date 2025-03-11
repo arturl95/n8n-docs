@@ -1,5 +1,0 @@
-- **Append n8n Attribution**: Turn off to hide the **Form automated with n8n** attribute at the bottom of the form.
-- **Form Response**: Choose how to respond when the user submits the form. 
-    - **Respond With** > **Form Submitted Text**: Show a message to the user.
-    - **Respond With** > **Redirect URL**: Send the user to a new page.
-- **Ignore Bots**: Turn on to ignore requests from bots like link previewers and web crawlers.

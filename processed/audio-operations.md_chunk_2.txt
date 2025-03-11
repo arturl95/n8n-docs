@@ -1,6 +1,0 @@
-- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
-- **Resource**: Select **Audio**.
-- **Operation**: Select **Generate Audio**.
-- **Model**: Select the model you want to use to generate the audio. Refer to [TTS | OpenAI](https://platform.openai.com/docs/models/tts){:target=_blank .external-link} for more information.
-    - **TTS-1**: Use this to optimize for speed.
-    - **TTS-1-HD**:	Use this to optimize for quality.

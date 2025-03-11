@@ -1,4 +1,0 @@
-- Select the **Signature Method** the auth handshake uses. This specifies the `oauth_signature_method` to use for the call. Options include:
-	- **HMAC-SHA1**
-	- **HMAC-SHA256**
-	- **HMAC-SHA512**

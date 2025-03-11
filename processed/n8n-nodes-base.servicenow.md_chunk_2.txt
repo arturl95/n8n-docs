@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [ServiceNow credentials](/integrations/builtin/credentials/servicenow/) for guidance on setting up authentication. 
-///
-
-## Operations

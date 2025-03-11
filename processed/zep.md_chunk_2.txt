@@ -1,7 +1,0 @@
-- API key
-
-## Related resources
-
-Refer to [Zep's Cloud SDK documentation](https://help.getzep.com/sdks){:target=_blank .external-link} and [Open Source SDK documentation](https://docs.getzep.com/sdk/){:target=_blank .external-link} for more information about the service. Refer to [Zep's REST API documentation](https://getzep.github.io/zep/){:target=_blank .external-link} for information about the API.
-
---8<-- "_snippets/integrations/builtin/cluster-nodes/langchain-overview-link.md"

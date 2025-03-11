@@ -1,3 +1,0 @@
-- Refer to [Data API | Authentication](https://manual.bubble.io/core-resources/api/the-bubble-api/the-data-api/authentication){:target=_blank .external-link} for more information on generating API tokens.
-1. In n8n, select the **Environment** that best matches your app:
-    - Select **Development** for an app that you haven't deployed, accessed at `https://appname.bubbleapps.io/version-test` or `https://www.mydomain.com/version-test`.

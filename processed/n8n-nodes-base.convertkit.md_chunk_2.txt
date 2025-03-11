@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [ConvertKit credentials](/integrations/builtin/credentials/convertkit/) for guidance on setting up authentication. 
-///
-
-## Operations

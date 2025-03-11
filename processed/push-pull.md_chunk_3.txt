@@ -1,5 +1,0 @@
-If the original owner is a user:
-
-If the same owner is available on both instances (matching email), the owner remains the same. If the original owner isn't on the new instance, n8n sets the user performing the pull as the workflow owner.
-
-If the original owner is a [project](/user-management/rbac/):

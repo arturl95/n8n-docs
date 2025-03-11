@@ -1,9 +1,0 @@
-To generate your Client ID and Client Secret, [create an OAuth2 custom connection app](https://developer.xero.com/documentation/guides/oauth2/custom-connections/){:target=_blank .external-link} in your Xero developer portal [**My Apps**](https://developer.xero.com/app/manage){:target=_blank .external-link}.
-
-Use these settings for your app:
-
-/// note | Xero App Name
-
-Xero doesn't support app instances within the Xero Developer Centre that contain `n8n` in their name.
-
-///

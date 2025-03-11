@@ -1,3 +1,0 @@
-<figure><img src="/_images/courses/level-two/chapter-two/exercise_binarydata_httprequest_file.png" alt="HTTP Request node to get PDF" style="width:100%"><figcaption align = "center"><i>HTTP Request node to get PDF</i></figcaption></figure>
-
-	When you convert the PDF from binary to JSON using the **Extract From File node**, the result should look like this:

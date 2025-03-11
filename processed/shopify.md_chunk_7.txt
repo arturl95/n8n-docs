@@ -1,4 +1,0 @@
-11. In the modal window, select **Install app**.
-12. Open the app's **API Credentials** section.
-13. Copy the **Admin API Access Token**. Enter this in your n8n credential as the **Access Token**.
-14. Copy the **API Secret Key**. Enter this in your n8n credential as the **APP Secret Key**.

@@ -1,1 +1,0 @@
-8. Configure the rest of your Todoist app as it makes sense for your use case.

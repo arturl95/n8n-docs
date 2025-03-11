@@ -1,8 +1,0 @@
-### New nodes
-
-* [Elastic Security](/integrations/builtin/app-nodes/n8n-nodes-base.elasticsecurity/)
-* [Misp](/integrations/builtin/app-nodes/n8n-nodes-base.misp/)
-* [Netlify](/integrations/builtin/app-nodes/n8n-nodes-base.netlify/)
-* [Netlify Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.netlifytrigger/)
-
-### Enhanced nodes

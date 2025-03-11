@@ -1,3 +1,0 @@
-* Wherever possible, provide two ways to specify a record:
-    * By choosing from a pre-populated list. You can generate this list using the `loadOptions` parameter. Refer to [Base files](/integrations/creating-nodes/build/reference/node-base-files/) for more information.
-    * By entering an ID.

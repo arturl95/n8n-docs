@@ -1,2 +1,0 @@
-* [Google Tasks:](/integrations/builtin/app-nodes/n8n-nodes-base.googletasks/) Fixed an issue where the Due Date field had no effect (Update operation) or was unavailable (Create operation).
-* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Fixed an issue where the Content-Length header was not calculated and sent when using the a Body Content Type of Form-Data Multipart.

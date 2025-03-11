@@ -1,9 +1,0 @@
-This error displays when the endpoint **URL** you entered is invalid.
-
-This may be due to a typo in the URL or a deprecated API. Refer to your service's API documentation to verify you have a valid endpoint.
-
-## JSON parameter need to be an valid JSON
-
-This error displays when you've passed a parameter as JSON and it's not formatted as valid JSON.
-
-To resolve, review the JSON you've entered for these issues:

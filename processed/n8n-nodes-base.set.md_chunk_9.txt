@@ -1,8 +1,0 @@
-"name": "Edmund Pevensie",
-    "email": "edmund@narnia.gov",
-    "notes": "Passionate sailor",
-    "country": "UK",
-    "created": "1950-10-16"
-  }
-]
-```

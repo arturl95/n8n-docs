@@ -1,7 +1,0 @@
-The `postgres-deployment.yaml` manifest then uses the values from this manifest file to send to the application pods.
-
-## Configure n8n
-
-### Create a volume for file storage
-
-While not essential for running n8n, using persistent volumes is required for:

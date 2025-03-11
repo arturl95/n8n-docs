@@ -1,8 +1,0 @@
-- Facebook Graph API: Added new API versions
-- Google Drive: Added Update operation to the File resource
-- HubSpot: Added the Deal Description option
-- Kafka: Added the SASL mechanism
-- Monday.com: Added Move operation to Board Item resource
-- MongoDB: Added Date field to the Insert and Update operations
-- Micrsoft SQL: Added connection timeout parameter to credentials
-- Salesforce: Added Mobile Phone field to the Lead resource

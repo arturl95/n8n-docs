@@ -1,6 +1,0 @@
-- A **Client ID**: Generated once you create a public app. 
-- A **Client Secret**: Generated once you create a public app.
-- A **Developer API Key**: Generated from your Developer Apps dashboard.
-- An **App ID**: Generated once you create a public app.
-
-To create the public app and set up the credential:

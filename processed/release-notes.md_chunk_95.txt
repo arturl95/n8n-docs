@@ -1,8 +1,0 @@
-### Node updates
-
-- [Brandfetch](/integrations/builtin/app-nodes/n8n-nodes-base.brandfetch/): Updated to use the new API
-- [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/): Made adding or removing the workflow link to a message easier
-
-Big datasets now render faster thanks to virtual scrolling and execution annotations are harder to delete.
-
-For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.

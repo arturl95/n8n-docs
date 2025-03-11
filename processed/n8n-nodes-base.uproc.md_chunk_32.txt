@@ -1,8 +1,0 @@
-- Discover network data by IPv4 or IPv6 address
-- Allow normalizing an address by removing non allowed characters
-- Allow normalizing a city by removing non allowed characters
-- Allow normalizing a country by removing non allowed characters
-- Allow normalizing a province by removing non allowed characters
-- Allow normalizing a zip code by removing non allowed characters
-- Get normalized country
-- Parse postal address into separated fields, getting a basic resolution

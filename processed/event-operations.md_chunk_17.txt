@@ -1,1 +1,0 @@
-- **Before**: Retrieve events that occur before this time. At least part of the event must be before this time. By default, this uses an expression evaluating to the current time plus a week (`{{ $now.plus({ week: 1 }) }}`). Switch the field to "fixed" to select a date from a date widget.

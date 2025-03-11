@@ -1,2 +1,0 @@
-* **Put Output in Field**: the name of the output field.
-	* **Include**: choose from **All fields**, **Specified Fields**, or **All Fields Except**.

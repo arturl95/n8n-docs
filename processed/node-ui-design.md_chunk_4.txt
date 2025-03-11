@@ -1,2 +1,0 @@
-| Subtitle | Title case |
-| Tooltip | Sentence case. Don't use a period (`.`) for one-sentence tooltips. Always use a period if there's more than one sentence. This field can include links, which should open in a new tab. |

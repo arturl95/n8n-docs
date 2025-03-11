@@ -1,4 +1,0 @@
-DB_POSTGRESDB_SSL_CERT_FILE=/path/to/ssl_cert
-DB_POSTGRESDB_SSL_KEY_FILE=/path/to/ssl_key
-DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED_FILE=/path/to/ssl_reject_unauth
-```

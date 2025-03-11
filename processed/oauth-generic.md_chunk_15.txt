@@ -1,6 +1,0 @@
-1. From Google's **OAuth client created** modal, copy the **Client ID**. Enter this in your n8n credential.
-2. From the same Google modal, copy the **Client Secret**. Enter this in your n8n credential.
-3. You must provide the scopes for this credential. Refer to [Scopes](#scopes) for more information. Enter multiple scopes in a space-separated list, for example:
-	```
-	https://www.googleapis.com/auth/gmail.labels https://www.googleapis.com/auth/gmail.addons.current.action.compose
-	```

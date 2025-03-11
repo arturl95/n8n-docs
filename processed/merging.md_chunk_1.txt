@@ -1,2 +1,0 @@
-- Merge data from different data streams or nodes: Use the [Merge](/integrations/builtin/core-nodes/n8n-nodes-base.merge/) node to combine data from various sources into one.
-- Merge data from multiple node executions: Use the [Code](/integrations/builtin/core-nodes/n8n-nodes-base.code/) node for complex scenarios where you need to merge data from multiple executions of a node or multiple nodes.

@@ -1,1 +1,0 @@
-* A `credentials` directory, containing your credentials code. This code lives in a single [credentials file](/integrations/creating-nodes/build/reference/credentials-files/). The filename format is `<node-name>.credentials.ts`. For example, `MyNode.credentials.ts`.

@@ -1,5 +1,0 @@
-Refer to the [Gmail API Method: users.drafts.list](https://developers.google.com/gmail/api/reference/rest/v1/users.drafts/list){:target=_blank .external-link} documentation for more information.
-
-## Common issues
-
-For common errors or issues and suggested resolution steps, refer to [Common Issues](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/common-issues/).

@@ -1,5 +1,0 @@
-- **Fallback Output**: Choose how to route the workflow when an item doesn't match any of the rules or conditions.
-    - **None**: Ignore the item. This is the default behavior.
-    - **Extra Output**: Send items to an extra, separate output.
-    - **Output 0**: Send items to the same output as those matching the first rule.
-- **Ignore Case**: Set whether to ignore letter case when evaluating conditions (turned on) or enforce letter case (turned off).

@@ -1,3 +1,0 @@
-This Operation Mode includes one **Node option**, the [Metadata Filter](#metadata-filter).
-
-### Retrieve Documents (As Tool for AI Agent) parameters

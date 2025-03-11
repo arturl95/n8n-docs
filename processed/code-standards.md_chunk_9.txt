@@ -1,1 +1,0 @@
-the Get operation selected, and not lose it if they switch to Edit.

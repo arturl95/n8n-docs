@@ -1,2 +1,0 @@
-- Use the [**Aggregate node**](/integrations/builtin/core-nodes/n8n-nodes-base.aggregate/) to take separate items, or portions of them, and group them together into individual items.
-- Use the **Code node** to write JavaScript functions to modify the data structure of incoming data using the **Run Once for All Items** mode:

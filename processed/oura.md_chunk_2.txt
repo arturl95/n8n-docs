@@ -1,5 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Personal Access Token**: To generate a personal access token, go to the [Personal Access Tokens](https://cloud.ouraring.com/personal-access-tokens){:target=_blank .external-link} page and select **Create A New Personal Access Token**.
-
-Refer to [How to Generate Personal Access Tokens](https://support.ouraring.com/hc/en-us/articles/4415266939155-The-Oura-API#h_01H5B94SP4P9YHG9ZKN1H69E7Z){:target=_blank .external-link} for more information.

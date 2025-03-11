@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Clockify credentials](/integrations/builtin/credentials/clockify/) for guidance on setting up authentication. 
-///
-
-## Operations

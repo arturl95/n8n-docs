@@ -1,5 +1,0 @@
-### Limit
-
-If you want to keep and process a specific number of items from your incoming data, the Limit operation allows you to select the number of items to keep and whether n8n should take them from the beginning or end of the data.
-
-When using the Limit operation, configure the following parameters and options:

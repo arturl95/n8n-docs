@@ -1,8 +1,0 @@
-If you are setting up MongoDB from scratch, create a cluster and a database. Refer to the [MongoDB Atlas documentation](https://www.mongodb.com/docs/atlas/){:target=_blank .external-link} for more detailed instructions on these steps.
-
-## Supported authentication methods
-
-- Database connection - Connection string
-- Database connection - Values
-
-## Related resources

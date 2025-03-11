@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [GoToWebinar credentials](/integrations/builtin/credentials/gotowebinar/) for guidance on setting up authentication. 
-///
-
-## Operations

@@ -1,5 +1,0 @@
-///  note  | Examples and templates
-For usage examples and templates to help you get started, refer to n8n's [TheHive 5 Trigger integrations](https://n8n.io/integrations/thehive-5-trigger/){:target=_blank .external-link} page.
-///
-
-## Events

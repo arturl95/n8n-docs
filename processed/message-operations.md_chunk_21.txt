@@ -1,9 +1,0 @@
-<!-- vale off -->
-Refer to the [Gmail API Method: users.messages.modify](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/modify){:target=_blank .external-link} documentation for more information.
-<!-- vale on -->
-
-## Reply to a message
-
-Use this operation to send a message as a reply to an existing message.
-
-Enter these parameters:

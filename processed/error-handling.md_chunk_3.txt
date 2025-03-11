@@ -1,7 +1,0 @@
-## Error data
-
---8<-- "_snippets/integrations/builtin/core-nodes/error-trigger/error-data.md"
-
-## Cause a workflow execution failure using Stop And Error
-
-When you create and set an error workflow, n8n runs it when an execution fails. Usually, this is due to things like errors in node settings, or the workflow running out of memory.

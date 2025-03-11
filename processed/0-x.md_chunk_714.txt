@@ -1,4 +1,0 @@
-- Fixed an issue with queue mode for the executions that shouldn't be saved
-- Fixed an issue with workflows crashing and displaying `Unknown` status in the execution list
-- Fixed an issue to prevent crashing while saving execution data when the `data` field has over 64KB in MySQL
-- Updated `jws-rsa` to version `1.12.1`

@@ -1,6 +1,0 @@
-- Bug fixes
-- GitLab: Fixed an issue with GitLab OAuth credentials. You can now specify your GitLab server to configure the credentials
-- Mautic: Fixed an issue with the OAuth credentials
-- If a workflow is using the Error Trigger node, by default, the workflow will use itself as the Error Workflow
-- Fixed a bug that caused the Editor UI to display an incorrect (save) state upon activating or deactivating a workflow
-## n8n@0.97.0

@@ -1,2 +1,0 @@
-| **GitHub Compatible Header IDs** | Whether to generate GitHub Flavored Markdown heading IDs (enabled) or not (disabled). GitHub Flavored Markdown generates heading IDs with `-` in place of spaces and removes non-alphanumeric characters. | Disabled |
-| **GitHub Mention Link** | Change the link used with **GitHub Mentions**.  | Disabled |

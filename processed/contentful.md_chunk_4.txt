@@ -1,1 +1,0 @@
-- A **Content Delivery API Access Token**: Required if you want to use the [Content Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/){:target=_blank .external-link}. Leave blank if you don't intend to use this API.

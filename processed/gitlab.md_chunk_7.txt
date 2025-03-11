@@ -1,5 +1,0 @@
-1. In GitLab, select your avatar, then select **Edit profile**.
-2. In the left sidebar, select **Applications**.
-3. Select **Add new application**.
-4. Enter a **Name** for your application, like `n8n integration`.
-5. In n8n, copy the **OAuth Redirect URL**. Enter it as the GitLab **Redirect URI**.

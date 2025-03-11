@@ -1,7 +1,0 @@
-Refer to [Create an API key](https://www.twilio.com/docs/iam/api-keys#create-an-api-key){:target=_blank .external-link} for more detailed instructions.
-
-### Selecting an API key type
-
-When you create a Twilio API key, you must select a key type. The n8n credential works with **Main** and **Standard** key types.
-
-Here are more details on the different API key types:

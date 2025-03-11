@@ -1,1 +1,0 @@
-<figure><img src="/_images/courses/level-two/chapter-five/workflow2_3.png" alt="Workflow 3: Generating files for total sales" style="width:100%"><figcaption align = "center"><i>Workflow 3: Generating files for total sales</i></figcaption></figure>

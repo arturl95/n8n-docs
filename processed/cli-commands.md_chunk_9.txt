@@ -1,7 +1,0 @@
-Export all the credentials to a specific directory using the `--backup` flag (details above):
-
-```bash
-n8n export:credentials --backup --output=backups/latest/
-```
-
-Export all the credentials in plain text format. You can use this to migrate from one installation to another that has a different secret key in the configuration file.

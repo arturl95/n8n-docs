@@ -1,7 +1,0 @@
-### Bug fixes
-
-* [MySQL:](/integrations/builtin/app-nodes/n8n-nodes-base.mysql/) Fixed an issue where n8n was unable to save data due to collation, resulting in workflows ending with Unknown status.
-
-### Contributors
-
-[Amudhan Manivasagam](https://github.com/smamudhan), [Carlos Alexandro Becker](https://github.com/caarlos0), [Kaito Udagawa](https://github.com/umireon)

@@ -1,8 +1,0 @@
-## Find the job ID
-
-1. Access your Rundeck dashboard.
-2. Open the project that contains the job you want to use with n8n.
-3. In the sidebar, select **JOBS**.
-4. Under **All Jobs**, select the name of the job you want to use with n8n.
-5. In the top left corner, under the name of the job, copy the string that's displayed in smaller font below the job name. This is your job ID.
-6. Paste this job ID in the **Job Id** field in n8n.

@@ -1,1 +1,0 @@
-HaloPSA uses both the application permissions and the agent's permissions to determine API access.

@@ -1,5 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Write Key**: To get a Write Key, go to **Sources > Add Source**. Add a **Node.js** source and copy that write key to add to your n8n credential.
-
-Refer to [Locate your Write Key](https://segment.com/docs/connections/find-writekey/){:target=_blank .external-link} for more information.

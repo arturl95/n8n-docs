@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An **Auth Token**: Get your auth token from your Vero account [settings](https://app.getvero.com/settings/project){:target=_blank .external-link}. Refer to [API authentication](https://developers.getvero.com/track-api-reference/#/#authentication){:target=_blank .external-link} for more information.

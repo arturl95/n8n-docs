@@ -1,2 +1,0 @@
-| `$execution.resumeUrl` | The webhook URL to call to resume a workflow waiting at a [Wait node](/integrations/builtin/core-nodes/n8n-nodes-base.wait/). | :white_check_mark: |
-	| `$getWorkflowStaticData(type)` | View an [example](/code/cookbook/builtin/get-workflow-static-data/). Static data doesn't persist when testing workflows. The workflow must be active and called by a trigger or webhook to save static data. This gives access to the static workflow data. | :white_check_mark: |

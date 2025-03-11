@@ -1,2 +1,0 @@
-```
-- **Code Interpreter**: Turn on to enable the code interpreter for the assistant, where it can write and execute code in a sandbox environment. Enable this tool for tasks that require computations, data analysis, or any logic-based processing.

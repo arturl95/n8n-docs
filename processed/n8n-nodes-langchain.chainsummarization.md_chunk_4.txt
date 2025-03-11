@@ -1,5 +1,0 @@
-## Node Options
-
-You can configure the summarization method and prompts. Select **Add Option** > **Summarization Method and Prompts**.
-
-Options in **Summarization Method**:

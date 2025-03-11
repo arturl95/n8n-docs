@@ -1,8 +1,0 @@
-To get your PAT:
-
-1. Open the Asana [developer console](https://app.asana.com/0/my-apps){:target=_blank .external-link}.
-2. In the **Personal access tokens** section, select **Create new token**.
-3. Enter a **Token name**, like `n8n integration`.
-4. Check the box to agree to the **Asana API terms**.
-5. Select **Create token**.
-6. Copy the token and enter it as the **Access Token** in your n8n credential.

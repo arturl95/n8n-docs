@@ -1,8 +1,0 @@
-9. Add these **OAuth scopes**:
-	- **Full access (full)**
-	- **Perform requests at any time (refresh_token, offline_access)**
-10. Make sure the following settings are unchecked:
-	- **Require Proof Key for Code Exchange (PKCE) Extension for Supported Authorization Flows**
-	- **Require Secret for Web Server Flow**
-	- **Require Secret for Refresh Token Flow**
-10. Select **Save**, then **Continue**. The **Manage Connected Apps** page should open to the app you just created.

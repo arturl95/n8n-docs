@@ -1,5 +1,0 @@
-## Upload a File
-
-Use this operation to upload a file. This can be used across various operations. 
-
-Enter these parameters:

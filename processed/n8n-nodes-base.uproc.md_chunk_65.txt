@@ -1,5 +1,0 @@
-- Replace all values found in a string with another
-- Translate a text into any language
-- Return a single list with no repeating elements
-- Convert all letters to uppercase
-- Count total words in a text

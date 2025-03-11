@@ -1,6 +1,0 @@
-Scopes determine what permissions an app has.
-
-* If you want your app to act on behalf of users who authorize the app, add the required scopes under the **User Token Scopes** section.
-* If you're building a bot, add the required scopes under the **Bot Token Scopes** section.
-
-Here's the list of scopes the OAuth credential requires, which are a good starting point:

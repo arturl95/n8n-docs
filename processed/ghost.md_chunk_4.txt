@@ -1,1 +1,0 @@
-- An **API Key**: To generate a new API key, create a new Custom Integration. Refer to the [Ghost Admin API Token Authentication Key documentation](https://ghost.org/docs/admin-api/#token-authentication){:target=_blank .external-link} for more detailed instructions. Copy the **Admin API Key** and use this as the **API Key** in the Ghost Admin n8n credential.

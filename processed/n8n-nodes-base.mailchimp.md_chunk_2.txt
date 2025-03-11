@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Mailchimp credentials](/integrations/builtin/credentials/mailchimp/) for guidance on setting up authentication. 
-///
-
-## Operations

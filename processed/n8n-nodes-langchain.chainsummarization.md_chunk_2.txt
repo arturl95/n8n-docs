@@ -1,4 +1,0 @@
-* **Use Node Input (JSON)** and **Use Node Input (Binary)**: summarize the data coming into the node from the workflow. 
-	* You can configure the **Chunking Strategy**: choose what strategy to use to define the data chunk sizes.
-		* If you choose **Simple (Define Below)** you can then set **Characters Per Chunk** and **Chunk Overlap (Characters)**.
-		* Choose **Advanced** if you want to connect a splitter sub-node that provides more configuration options.

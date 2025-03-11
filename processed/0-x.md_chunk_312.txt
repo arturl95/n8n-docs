@@ -1,9 +1,0 @@
-### Bug fixes
-
-* CLI: fix the community node tests on Postgres and MySQL.
-* Core: fix an issue preventing child workflow executions from displaying.
-* Editor: handle errors when opening settings and executions.
-* Editor: improve expression and parameters performance.
-* Public API: fix executions pagination for n8n instances using Postgres and MySQL.
-
-## n8n@0.190.0

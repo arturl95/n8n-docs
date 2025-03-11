@@ -1,4 +1,0 @@
-1. From the menu select **Credentials** > **New**.
-1. Use the drop-down to select the **Credential type** to create, for example *Airtable*.
-    ![Create New Credentials drop-down](/_images/embed/managing-workflows/create_new_credentials.png)
-1. In the **Create New Credentials** modal, enter the corresponding credentials details for the user, and select the nodes that will have access to these credentials.

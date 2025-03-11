@@ -1,4 +1,0 @@
-### Enhanced nodes
-
-* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added support for getting activities from deal ID.
-* [Facebook Graph API:](/integrations/builtin/app-nodes/n8n-nodes-base.facebookgraphapi/) Added support for Facebook Graph API versions 11 and 12.

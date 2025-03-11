@@ -1,4 +1,0 @@
-- **Can Change Domain Users Only Restriction**: Whether the current user can change the `domainUsersOnly` restriction on this shared drive.
-	- **Can Change Drive Background**: Whether the current user can change the background on this shared drive.
-	- **Can Change Drive Members Only Restriction**: Whether the current user can change the `driveMembersOnly` restriction on this shared drive.
-	- **Can Comment**: Whether the current user can comment on files in this shared drive.

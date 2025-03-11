@@ -1,8 +1,0 @@
-#### Upload File options
-
-You can further configure this operation with the **File Name** option. Use this option to override the binary data file name to a name of your choice.
-
-## Templates and examples
-
-<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
-[[ templatesWidget(page.title, 'ssh') ]]

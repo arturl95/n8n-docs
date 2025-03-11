@@ -1,5 +1,0 @@
-!["Screenshot of an n8n code node, highlighting how to reference data with dot notation in an AI query"](/_images/code/ai-code/reference-data-dot-notation.png)
-
-To try the example yourself, [download the example workflow](/_workflows/ai-code/reference-incoming-data-explicitly.json) and import it into n8n.
-
-In the second Code node, enter this prompt:

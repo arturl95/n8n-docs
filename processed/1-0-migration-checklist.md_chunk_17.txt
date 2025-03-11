@@ -1,9 +1,0 @@
-[PR #6396](https://github.com/n8n-io/n8n/pull/6396){:target=_blank .external link}
-
-### WebSockets
-
-The `N8N_PUSH_BACKEND` environment variable can be used to configure one of two available methods for pushing updates to the user interface: `sse` and `websocket`. Starting with n8n 1.0, `websocket` is the default method.
-
-[PR #6196](https://github.com/n8n-io/n8n/pull/6196){:target=_blank .external link}
-
-### Date transformation functions

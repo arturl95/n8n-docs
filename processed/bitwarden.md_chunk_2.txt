@@ -1,9 +1,0 @@
-- API key
-
-## Related resources
-
-Refer to [Bitwarden's Public API documentation](https://bitwarden.com/help/public-api/){:target=_blank .external-link} for more information about the service.
-
-## Using API key
-
-To configure this credential, you'll need:

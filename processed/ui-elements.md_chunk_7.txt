@@ -1,7 +1,0 @@
-![Multiple rows](/_images/integrations/creating-nodes/multiple-rows.png)
-
-### Support drag and drop for data keys
-
-Users can drag and drop data values to map them to fields. Dragging and dropping creates an expression to load the data value. n8n supports this automatically.
-
-You need to add an extra configuration option to support dragging and dropping data keys:

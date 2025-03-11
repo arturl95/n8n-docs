@@ -1,5 +1,0 @@
-/// warning | Keep in mind
-To ensure accurate scheduling with the Schedule Trigger node, be sure the timezone is set correctly for your [n8n instance](/manage-cloud/set-cloud-timezone/) or the [workflow's settings](/workflows/settings/). The Schedule Trigger node will use the workflow's timezone if it's set; it will fall back to the n8n instance's timezone if it's not.
-///
-
-## Connect the Schedule Trigger node

@@ -1,1 +1,0 @@
-These steps outline the basic functionality needed to set up your n8n credential. Refer to the [Discord Creating an App](https://discord.com/developers/docs/quick-start/getting-started#step-1-creating-an-app){:target=_blank .external-link} guide for more information on creating an app, especially:

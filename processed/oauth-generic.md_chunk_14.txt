@@ -1,3 +1,0 @@
-### Finish your n8n credential
-
-With the Google project and credentials fully configured, finish the n8n credential:

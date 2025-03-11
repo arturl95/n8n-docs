@@ -1,1 +1,0 @@
-- Added variable `$mode` to check the mode in which the workflow is being executed

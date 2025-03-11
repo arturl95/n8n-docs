@@ -1,3 +1,0 @@
-Luxon provides functions to handle conversions for a range of formats. Refer to Luxon's guide to [Parsing technical formats](https://moment.github.io/luxon/#/parsing?id=parsing-technical-formats) for details.
-
-#### If you have a date as a string that doesn't use a standard format:

@@ -1,4 +1,0 @@
-#### Additional nodes as tools
-
-We have made additional nodes usable with the [Tools AI Agent node](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/tools-agent/). 
-<br /><br />

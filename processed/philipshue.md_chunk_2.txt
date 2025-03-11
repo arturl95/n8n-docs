@@ -1,7 +1,0 @@
-If you're using the built-in OAuth connection, you don't need to enter an **APP ID**.
-
-If you need to configure OAuth2 from scratch, you'll need a [Philips Hue developer](https://developers.meethue.com/){:target=_blank .external-link} account
-
-Create a new remote app on the [Add new Hue Remote API app](https://developers.meethue.com/add-new-hue-remote-api-app/) page.
-
-Use these settings for your app:

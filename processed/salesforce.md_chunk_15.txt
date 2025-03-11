@@ -1,4 +1,0 @@
-4. Enter the required **Basic Info** for your connected app, including a **Name** and **Contact Email address**. Refer to Salesforce's [Configure Basic Connected App Settings](https://help.salesforce.com/s/articleView?id=sf.connected_app_create_basics.htm&type=5){:target=_blank .external-link} documentation for more information.
-5. Check the box to **Enable OAuth Settings**.
-6. For the **Callback URL**, enter `http://localhost:1717/OauthRedirect`.
-9. Add these **OAuth scopes**:

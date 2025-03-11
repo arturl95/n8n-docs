@@ -1,2 +1,0 @@
-1. Select **Create token**.
-1. Airtable opens a modal with your token displayed. Copy this token and enter it in your n8n credential as the **Access Token**.

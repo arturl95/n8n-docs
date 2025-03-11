@@ -1,8 +1,0 @@
-#### Required fields
-
-Order fields by:
-
-* Most important to least important.
-* Scope: from broad to narrow. For example, you have fields for **Document**, **Page**, and **Text to insert**, put them in that order.
-
-#### Optional fields

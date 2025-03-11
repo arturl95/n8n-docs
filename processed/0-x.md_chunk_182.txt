@@ -1,7 +1,0 @@
-* Editor: make node title non-editable in executions view.
-* Editor: prevent scrim on executable triggers.
-* Editor: support tabbing away from inline expression editor.
-* Fix executions bulk deletion.
-* Google Sheets Node: fix exception when no **Values to Send** are set.
-* Respond to Webhook Node: fix issue that caused the content-type header to be overwritten.
-* Slack Node: add missing channels:read OAuth2 scope.

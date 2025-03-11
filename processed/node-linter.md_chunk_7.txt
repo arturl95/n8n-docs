@@ -1,1 +1,0 @@
-To make a lint exception from VS Code: hover over the issue and click on `Quick fix` (or `cmd+.` in macOS) and select **Disable {rule} for this line**. Only disable rules for a line where you have good reason to. If you think the linter is incorrectly reporting an issue, please [report it in the linter repository](https://github.com/ivov/eslint-plugin-n8n-nodes-base/issues).

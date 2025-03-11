@@ -1,2 +1,0 @@
-<!-- vale on -->
-6. Select **Install**. n8n installs the node, and returns to the **Community Nodes** list in **Settings**.

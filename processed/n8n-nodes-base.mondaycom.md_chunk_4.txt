@@ -1,5 +1,0 @@
-* Delete an item
-    * Get an item
-    * Get all items
-    * Get items by column value
-    * Move item to group

@@ -1,6 +1,0 @@
-- Check if a country's ISO code exists
-- Discover if the distance between two coordinates is equal to another
-- Discover if the distance (kilometers) between two coordinates is greater than the given input
-- Discover if the distance (kilometers) between two coordinates is greater or equal to the given input
-- Discover if the distance(kilometers) between two coordinates is lower than the given input
-- Check if an address exists by a partial address search

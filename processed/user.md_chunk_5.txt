@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to Meta's [User](https://developers.facebook.com/docs/graph-api/webhooks/reference/user/){:target=_blank .external-link} Graph API reference for more information.

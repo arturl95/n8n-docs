@@ -1,6 +1,0 @@
-6. Select **Create app**.
-7. This should open the **Products** tab. Select the products/APIs you want to enable for your app. For the LinkedIn node to work properly, you must include:
-	- **Share on LinkedIn**
-	- **Sign In with LinkedIn using OpenID Connect**
-8. Once you've requested access to the products you need, open the **Auth** tab.
-9. Copy the **Client ID** and enter it in your n8n credential.

@@ -1,1 +1,0 @@
-- An **API Key**: Get your API key from the [Wufoo Form Manager](https://app.wufoo.com/#/form-manager){:target=_blank .external-link}. To the right of a form, select **More > API Information**. Refer to [Using API Information and Webhooks](https://help.surveymonkey.com/en/wufoo/integrations/wufoo-api/){:target=_blank .external-link} for more information.

@@ -1,9 +1,0 @@
-#### Template creator hub
-
-Built a template you want to share? This release introduces the n8n Creator hub. Refer to the [creator hub Notion doc](https://www.notion.so/n8n-Creator-hub-7bd2cbe0fce0449198ecb23ff4a2f76f){:target=_blank .external-link} for more information on this project.
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### Node input and output search filter

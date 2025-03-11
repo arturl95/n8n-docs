@@ -1,3 +1,0 @@
-### 1. Install Docker
-
-This can vary depending on the Linux distribution used. You can find detailed instructions in the [Docker documentation](https://docs.docker.com/engine/install/){:target=_blank .external-link}. The following example is for Ubuntu:

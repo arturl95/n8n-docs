@@ -1,1 +1,0 @@
-| `queue.bull.gracefulShutdownTimeout:30` | `N8N_GRACEFUL_SHUTDOWN_TIMEOUT` | A graceful shutdown timeout for workers to finish executing jobs before terminating the process. The default value is `30` seconds. |

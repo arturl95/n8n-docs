@@ -1,5 +1,0 @@
-| Hook     | Arguments | Description |
-| :------- | :---------| :---------- |
-| `credentials.create` | `[credentialData: ICredentialsDb]` | Called before new credentials get created. Use to restrict the number of credentials. |
-| `credentials.delete` | `[id: credentialId]` | Called before credentials get deleted. |
-| `credentials.update` | `[credentialData: ICredentialsDb]` | Called before existing credentials are saved. |

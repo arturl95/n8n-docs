@@ -1,2 +1,0 @@
-* **From Attribute Description**: This option allows you to define the schema by specifying the list of attributes and their descriptions.
-    * **Generate From JSON Example**: Input an example JSON object to automatically generate the schema. The node uses the object property types and names. It ignores the actual values.

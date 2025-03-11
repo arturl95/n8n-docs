@@ -1,2 +1,0 @@
-1. If you haven't done so already, verify your email address with GitHub. Refer to [Verifying your email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/verifying-your-email-address){:target=_blank .external-link} for more information.
-2. Open your GitHub profile [Settings](https://github.com/settings/profile){:target=_blank .external-link}.

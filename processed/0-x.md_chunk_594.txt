@@ -1,3 +1,0 @@
-* [Notion:](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Added Timezone option when inserting Date fields.
-* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added the following Filters options to the Deal > Get All operation: Predefined Filter, Stage ID, Status, and User ID.
-* [QuickBooks:](/integrations/builtin/app-nodes/n8n-nodes-base.quickbooks/) Added the Transaction resource and Get Report operation.

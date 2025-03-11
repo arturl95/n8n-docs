@@ -1,9 +1,0 @@
-</div>
-
-### Node enhancements
-
-* Citrix ADC node: add Certificate Install operation.
-* Kafka node: add a **Use key** option for messages.
-* MySQL node: use the resource locator component for table parameters, making it easier for users to browse and select their database fields from within n8n.
-
-### Bug fixes

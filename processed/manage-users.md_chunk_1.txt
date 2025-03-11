@@ -1,3 +1,0 @@
-## Resend an invitation to a pending user
-
-Click the menu icon by the user, then click **Resend invite**.

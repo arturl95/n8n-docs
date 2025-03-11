@@ -1,2 +1,0 @@
-- Get a domain's WHOIS data by fields
-- Get WHOIS data fields by IP address provided

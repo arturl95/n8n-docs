@@ -1,7 +1,0 @@
-1. Open the Line Notify page to [add a new service](https://notify-bot.line.me/my/services/new){:target=_blank .external-link}.
-1. Enter a **Service name**. This name displays when someone tries to connect to the service.
-1. Enter a **Service description**.
-1. Enter a **Service URL**
-1. Enter your **Company/Enterprise**.
-1. Select your **Country/region**.
-1. Enter your name or team name as the **Representative**.

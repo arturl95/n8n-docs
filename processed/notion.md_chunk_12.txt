@@ -1,7 +1,0 @@
-- `User information without email addresses`
-6. Select **Save changes**.
-7. Go to the **Distribution** tab.
-8. Turn on the **Do you want to make this integration public?** control.
-9. Enter your company name and website in the **Organization Information** section.
-10. Copy the n8n **OAuth Redirect URL** and add it to as a **Redirect URI** in the Notion integration's **OAuth Domain & URLs** section.
-11. Go to the **Secrets** tab.

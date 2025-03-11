@@ -1,5 +1,0 @@
-[[ workflowDemo("file:///advanced-ai/examples/let_your_ai_call_an_api.json") ]]
-
-## Key features
-
-This workflow uses:

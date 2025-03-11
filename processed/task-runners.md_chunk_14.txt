@@ -1,1 +1,0 @@
-For full list of environment variables see [task runner environment variables](/hosting/configuration/environment-variables/task-runners/).

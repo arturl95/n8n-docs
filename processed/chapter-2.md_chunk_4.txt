@@ -1,9 +1,0 @@
-??? note "Show me the solution"
-
-	1. Configure the HTTP Request node with the following parameters:
-		- **Authentication**: None
-		- **Request Method**: GET
-		- **URL**: https://blog.n8n.io/
-	The result should look like this:
-
-	<figure><img src="/_images/courses/level-two/chapter-two/exercise_html_httprequestnode.png" alt="Result of HTTP Request node" style="width:100%"><figcaption align = "center"><i>Result of HTTP Request node</i></figcaption></figure>

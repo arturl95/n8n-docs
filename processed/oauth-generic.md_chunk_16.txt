@@ -1,3 +1,0 @@
-```
-4. In n8n, select **Sign in with Google** to complete your Google authentication.
-5. **Save** your new credentials.

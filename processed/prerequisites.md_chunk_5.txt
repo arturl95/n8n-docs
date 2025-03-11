@@ -1,3 +1,0 @@
-For Postgres, the database must already exist on the DB-instance. The database user for the n8n process needs to have full permissions on all tables that they're using or creating. n8n creates and maintains the database schema.
-
-### Best practices

@@ -1,3 +1,0 @@
-/// note | Account owner required
-You must log in as an Unleashed account owner to view the API ID and API Key.
-///

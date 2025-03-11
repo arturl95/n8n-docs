@@ -1,1 +1,0 @@
-* [TheHive:](/integrations/builtin/app-nodes/n8n-nodes-base.thehive/) Added Custom Fields option to the available Additional Fields.

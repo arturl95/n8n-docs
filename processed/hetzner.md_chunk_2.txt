@@ -1,7 +1,0 @@
-## Create a server
-
-1. [Log in](https://console.hetzner.cloud/){:target=_blank .external-link} to the Hetzner Cloud Console.
-2. Select the project to host the server, or create a new project by selecting **+ NEW PROJECT**.
-3. Select **+ CREATE SERVER** on the project tile you want to add it to.
-
-You can change most of the settings to suit your needs, but as this guide uses Docker to run the application, under the **Image** section, select "Docker CE" from the **APPS** tab.

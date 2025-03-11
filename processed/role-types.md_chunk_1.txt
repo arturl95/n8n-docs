@@ -1,5 +1,0 @@
-Within projects, there are three user roles: Admin, Editor, and Viewer. These roles control what the user can do in a project. A user can have different roles within different projects.
-
-## Project Admin
-
-A Project Admin role has the highest level of permissions. Project admins can:

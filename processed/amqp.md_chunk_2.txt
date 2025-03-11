@@ -1,5 +1,0 @@
-- AMQP connection
-
-## Related resources
-
-Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented middleware. The defining features of AMQP are message orientation, queuing, routing, reliability and security. Refer to the [OASIS AMQP Version 1.0 Standard](http://docs.oasis-open.org/amqp/core/v1.0/amqp-core-overview-v1.0.html){:target=_blank .external-link} for more information.

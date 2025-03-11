@@ -1,3 +1,0 @@
-This outputs `"There are <number of days> days to Christmas!"`. For example, on 9th March, it outputs "There are 291 days to Christmas!".
-
-	A detailed explanation of what the expression does:

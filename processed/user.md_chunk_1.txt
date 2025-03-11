@@ -1,7 +1,0 @@
-# Facebook Trigger User object
-
-Use this object to receive updates when changes to a user's profile occur. Refer to [Facebook Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/) for more information on the trigger itself.
-
-/// note | Credentials
-You can find authentication information for this node [here](/integrations/builtin/credentials/facebookapp/).
-///

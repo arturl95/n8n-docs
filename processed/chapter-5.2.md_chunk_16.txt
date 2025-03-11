@@ -1,2 +1,0 @@
-5. Use the [**Discord node**](/integrations/builtin/app-nodes/n8n-nodes-base.discord/) to send a message in the n8n Discord channel `#course-level-two`. In the node, configure the following parameters:
-    * **Webhook URL**: The Discord URL you received in the email when you signed up for this course.

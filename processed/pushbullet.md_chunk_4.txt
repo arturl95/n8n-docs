@@ -1,3 +1,0 @@
-/// note | Pushbullet OAuth test link
-Pushbullet offers a test link during the client creation process described above. This link isn't compatible with n8n. To verify the authentication works, use the **Connect my account** button in n8n.
-///

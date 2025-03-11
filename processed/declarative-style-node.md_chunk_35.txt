@@ -1,7 +1,0 @@
-You need to update the `package.json` to include your own information, such as your name and repository URL. For more information on npm `package.json` files, refer to [npm's package.json documentation](https://docs.npmjs.com/cli/v8/configuring-npm/package-json){:target=_blank .external-link}.
-
-## Test your node
-
---8<-- "_snippets/integrations/creating-nodes/testing.md"
-
-## Next steps

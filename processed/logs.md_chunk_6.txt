@@ -1,3 +1,0 @@
-## Log streaming
-
-Refer to [Log streaming](/log-streaming/) for more information on this feature.

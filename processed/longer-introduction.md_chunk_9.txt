@@ -1,5 +1,0 @@
-5. Select **Save**.
-    6. Close the credentials screen. n8n returns to the node. The new credentials should be automatically selected in **Credential for NASA API**.
-6. By default, DONKI Solar Flare provides data for the past 30 days. To limit it to just the last week, use **Additional Fields**:
-    1. Select **Add field**.
-    2. Select **Start date**.

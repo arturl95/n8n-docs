@@ -1,7 +1,0 @@
-### Disable Dot Notation
-
-Whether to disallow referencing child fields using `parent.child` in the field name (turned on) or allow it (turned off, default).
-
-### Multiple Matches
-
-Choose how to handle duplicate data. The default is **Include All Matches**. You can choose **Include First Match Only**.

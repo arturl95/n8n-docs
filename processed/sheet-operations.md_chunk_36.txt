@@ -1,4 +1,0 @@
-- You can find the `sheetId` in a Google Sheets URL: `https://docs.google.com/spreadsheets/d/aBC-123_xYz/edit#gid=sheetId`.
-- **Filters**: By default, the node returns all rows in the sheet. Set filters to return a limited set of results: 
-  	- **Column**: Select the column in your sheet to search against.
-  	- **Value**: Enter a cell value to search for. You can drag input data parameters here.

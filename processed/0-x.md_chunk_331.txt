@@ -1,7 +1,0 @@
-#### Other new features
-
-* Added a `preAuthentication` method to credentials.
-* Added more credentials tests.
-* Introduce automatic fixing for paired item information in some scenarios.
-
-### Node enhancements

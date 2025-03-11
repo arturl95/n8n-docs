@@ -1,2 +1,0 @@
-* [Baserow:](/integrations/builtin/app-nodes/n8n-nodes-base.baserow/) Added the following filter options: Contains, Contains Not, Date Before Date, Date After Date, Filename Contains, Is Empty, Is Not Empty, Link Row Has, Link Row Does Not Have, Single Select Equal, and Single Select Not Equal.
-* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added support for Notes on Leads.

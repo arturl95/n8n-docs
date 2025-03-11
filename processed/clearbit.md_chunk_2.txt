@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Key**: Refer to [Clearbit's API Authentication documentation](https://dashboard.clearbit.com/docs#authentication) for more information on creating and viewing API keys.

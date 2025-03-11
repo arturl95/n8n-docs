@@ -1,3 +1,0 @@
-## Using database connection
-
-To configure this credential, you'll need:

@@ -1,9 +1,0 @@
-- API key
-
-## Related resources
-
-Refer to [Mailgun's API documentation](https://documentation.mailgun.com/docs/mailgun/api-reference/intro/){:target=_blank .external-link} for more information about the service.
-
-## Using API key
-
-To configure this credential, you'll need:

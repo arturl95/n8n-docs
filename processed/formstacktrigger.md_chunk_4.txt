@@ -1,3 +1,0 @@
-Once you've created the application, copy the access token either from the applications list or by selecting the application to view its details.
-
-Refer to [Formstack's API Authorization documentation](https://developers.formstack.com/reference/api-overview#obtaining-an-api-key-oauth2-access-token){:target=_blank .external-link} for more detailed instructions.

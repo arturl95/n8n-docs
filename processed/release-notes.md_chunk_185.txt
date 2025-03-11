@@ -1,4 +1,0 @@
-With projects and roles, you can give your team access to collections of workflows and credentials, rather than having to share each workflow and credential individually. Simultaneously, you tighten security by limiting access to people on the relevant team.
-<br /><br />
-Refer to the [RBAC](/user-management/rbac/) documentation for information on creating projects and using roles.
-<br /><br />

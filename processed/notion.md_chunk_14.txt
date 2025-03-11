@@ -1,9 +1,0 @@
-Refer to Notion's [public integration auth flow setup](https://developers.notion.com/docs/authorization#public-integration-auth-flow-set-up){:target=_blank .external-link} for more information about authenticating to the service.
-
-## Internal vs. public integrations
-
-**Internal** integrations are:
-
-* Specific to a single workspace.
-* Accessible only to members of that workspace.
-* Ideal for custom workspace enhancements.

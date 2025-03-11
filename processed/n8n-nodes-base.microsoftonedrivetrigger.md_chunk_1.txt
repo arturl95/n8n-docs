@@ -1,5 +1,0 @@
-# Microsoft OneDrive Trigger node
-
-Use the Microsoft OneDrive Trigger node to respond to events in [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage){:target=_blank .external-link} and integrate Microsoft OneDrive with other applications. n8n has built-in support for file and folder events in OneDrive.
-
-On this page, you'll find a list of events the Microsoft OneDrive Trigger node can respond to and links to more resources.

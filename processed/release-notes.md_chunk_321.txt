@@ -1,3 +1,0 @@
-* This is a beta release, and not yet available in the main product. Follow the instructions in [Access LangChain in n8n](/langchain/access-langchain/) to try it out. Self-hosted and Cloud options are available.
-* Learn how LangChain concepts map to n8n nodes in [LangChain concepts in n8n](/langchain/langchain-n8n/).
-* Browse n8n's new [Cluster nodes](/integrations/builtin/cluster-nodes/). This is a new set of node types that allows for multiple nodes to work together to configure each other.

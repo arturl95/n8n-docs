@@ -1,4 +1,0 @@
-| Google Sheets | https://www.googleapis.com/auth/drive.file <br /> https://www.googleapis.com/auth/spreadsheets |
-	| Google Slide | https://www.googleapis.com/auth/drive.file <br /> https://www.googleapis.com/auth/presentations |
-	| Google Tasks | https://www.googleapis.com/auth/tasks |
-	| Google Translate | https://www.googleapis.com/auth/cloud-translation |

@@ -1,6 +1,0 @@
-## Using account login
-
-To configure this credential, you'll need:
-
-- A **Username**: Use the username you use to log in to F5 Big-IP.
-- A **Password**: Use the user password you use to log in to F5 Big-IP.

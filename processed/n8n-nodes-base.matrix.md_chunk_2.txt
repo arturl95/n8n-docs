@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Matrix credentials](/integrations/builtin/credentials/matrix/) for guidance on setting up authentication. 
-///
-
-## Operations

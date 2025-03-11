@@ -1,2 +1,0 @@
-* **Attachment Prefix**: Enter a prefix for the name of the binary property the node should write any attachments to. n8n adds an index starting with `0` to the prefix. For example, if you enter `attachment_' as the prefix, the first attachment saves to 'attachment_0'.
-* **Download Attachments**: Select whether the node should download the draft's attachments (turned on) or not (turned off).

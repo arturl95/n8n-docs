@@ -1,8 +1,0 @@
-## Operations
-
-The Wait node can **Resume** on the following conditions:
-
-* [**After Time Interval**](#after-time-interval): The node waits for a certain amount of time.
-* [**At Specified Time**](#at-specified-time): The node waits until a specific time.
-* [**On Webhook Call**](#on-webhook-call): The node waits until it receives an HTTP call.
-* [**On Form Submitted**](#on-form-submitted): The node waits until it receives a form submission.

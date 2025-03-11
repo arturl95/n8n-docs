@@ -1,5 +1,0 @@
-- A **URL**:
-    - If your crowd.dev instance is hosted on crowd.dev, keep the default of `https://app.crowd.dev`.
-    - If your crowd.dev instance is [self-hosted](https://docs.crowd.dev/docs/technical-docs/self-hosting){:target=_blank .external-link}, use the URL you use to access your crowd.dev instance.
-- Your crowd.dev **Tenant ID**: Displayed in the **Settings** section of the crowd.dev app
-- An API **Token**: Displayed in the **Settings** section of the crowd.dev app

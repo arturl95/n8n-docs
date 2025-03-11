@@ -1,7 +1,0 @@
-<figure><img src="/_images/courses/level-one/chapter-five/l1-c5-5-6-discord-output.png" alt="Discord node output" style="width:100%"><figcaption align = "center"><i>Discord node output</i></figcaption></figure>
-
-And your message should appear in the Discord channel #course-level-1:
-
-<figure><img src="/_images/courses/level-one/chapter-two/discord-output.png" alt="Discord message" style="width:100%"><figcaption align = "center"><i>Discord message</i></figcaption></figure>
-
-## What's next?

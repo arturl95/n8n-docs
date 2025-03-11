@@ -1,4 +1,0 @@
-## Prerequisites
-
-- [Download and install](https://www.splunk.com/en_us/download/splunk-enterprise.html){:target=_blank .external-link} Splunk Enterprise.
-- [Enable token authentication](https://docs.splunk.com/Documentation/Splunk/9.2.1/Security/EnableTokenAuth){:target=_blank .external-link} in **Settings > Tokens**.

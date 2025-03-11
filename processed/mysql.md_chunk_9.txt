@@ -1,4 +1,0 @@
-8. If you want to use **SSH Tunnel** for the connection, turn this option on in the credential. Otherwise, skip it. If you turn it on:
-    1. Select the **SSH Authenticate with** to set the SSH Tunnel type to build:
-        - Select **Password** if you want to connect to SSH using a password.
-        - Select **Private Key** if you want to connect to SSH using an identity file (private key) and a passphrase.

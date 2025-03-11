@@ -1,2 +1,0 @@
-- `placeholder`: Specify placeholder data for the field. You can use this for every `fieldType` except `dropdown`, `date`, and `file`.
-- `requiredField`: Require users to complete this field on the form.

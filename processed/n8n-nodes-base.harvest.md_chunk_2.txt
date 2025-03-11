@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Harvest credentials](/integrations/builtin/credentials/harvest/) for guidance on setting up authentication. 
-///
-
-## Operations

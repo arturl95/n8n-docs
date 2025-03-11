@@ -1,7 +1,0 @@
-Refer to the [Gmail API Method: users.messages.send](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/send){:target=_blank .external-link} documentation for more information.
-
-## Trash a thread
-
-Use this operation to move a thread and all its messages to the trash.
-
-Enter these parameters:

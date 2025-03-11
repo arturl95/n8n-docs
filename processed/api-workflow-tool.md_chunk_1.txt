@@ -1,3 +1,0 @@
-# Call an API to fetch data
-
-Use n8n to bring data from any API to your AI. This workflow uses the [Chat Trigger](/integrations/builtin/core-nodes/n8n-nodes-langchain.chattrigger/) to provide the chat interface, and the [Custom n8n Workflow Tool](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolworkflow/) to call a second workflow that calls the API. The second workflow uses AI functionality to refine the API request based on the user's query.

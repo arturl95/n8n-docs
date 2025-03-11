@@ -1,8 +1,0 @@
-4. Add a **Wait node** to the True output of the **If node**.
-		- Set **Resume** to `After Time interval`.
-		- Set **Wait Amount** to `1.00`.
-		- Set **Wait Unit** to `Minutes`.
-	5. Add an **Edit Fields (Set) node** to the **Wait node**.
-		- Use either JSON or Manual Mapping **Mode**.
-		- Set a new field called `outputValue` to be the value of the new-date field.
-		- Select the option to **Include Other Input Fields** and include **All** fields.

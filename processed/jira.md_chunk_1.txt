@@ -1,8 +1,0 @@
-- [Jira](/integrations/builtin/app-nodes/n8n-nodes-base.jira/)
-- [Jira Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.jiratrigger/)
-
-## Prerequisites
-
-Create a [Jira](https://www.atlassian.com/software/jira){:target=_blank .external-link} Software Cloud or Server account.
-
-## Supported authentication methods

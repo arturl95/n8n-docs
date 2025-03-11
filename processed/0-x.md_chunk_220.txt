@@ -1,5 +1,0 @@
-* Editor: fix broken n8n-info-tip slots.
-* IF Node: fix "Is Empty" and "Is Not Empty" operation failures for date objects.
-* Remove redundant `await` in nodes API request functions without try/catch.
-* Schedule Trigger Node: fixes inconsistent behavior with cron and weekly intervals.
-* Workflow activation shouldn't crash if one of the credential is invalid.

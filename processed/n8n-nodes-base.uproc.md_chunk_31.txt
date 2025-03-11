@@ -1,8 +1,0 @@
-- Discover the city name, zip code, province, country, latitude, and longitude from an IPv4 or IPv6 address
-- Discover the city and the province from a landline phone number (only Spain)
-- Discover location data by name
-- Discover the city and the province from a zip code number (only Spain)
-- Get the most relevant locations by name
-- Get the most relevant locations by name, category, location, and radius
-- Get multiple personal names by a prefix
-- Discover network data by IPv4 or IPv6 address

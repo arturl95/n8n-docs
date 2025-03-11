@@ -1,8 +1,0 @@
-* Editor: Fix workflow back button navigation.
-* Editor: Prevent adding of the start node when importing workflow in the demo mode.
-* Editor: Show string numbers and null properly in JSON view.
-* Editor: Switch CodeNodeEditor linter parser to esprima-next.
-* Editor: Tweak dragged mapping state.
-* Editor: Update workflow buttons spacings.
-* Editor: Use base path in workflow preview component URL.
-* HTTP Request Node: Show error cause in the output.

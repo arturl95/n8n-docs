@@ -1,6 +1,0 @@
-### New nodes
-
-
-* [Google Chat](/integrations/builtin/app-nodes/n8n-nodes-base.googlechat/)
-
-### Enhanced nodes

@@ -1,5 +1,0 @@
-* Select the **Credential to connect with** or create a new one.
-* **Resource**: Select **Thread**.
-* **Operation**: Select **Get**.
-* **Thread ID**: Enter the ID of the thread you wish to retrieve.
-* **Simplify**: Choose whether to return a simplified version of the response (turned on) or the raw data (turned off). Default is on.

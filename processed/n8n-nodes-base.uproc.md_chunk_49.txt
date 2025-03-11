@@ -1,8 +1,0 @@
-- Allow normalizing an NIE number by removing non allowed characters
-- Normalize name by removing non allowed characters
-- Normalize surname
-- Get parsed date-time
-- Normalize full name, fixing abbreviations, sorting if necessary, and returning first name, last name, and gender
-- Get prospect's contact data and the company's location and social data by email
-- Get contact, location, and social data by email and company name and location
-- Get personal and social data by social profile

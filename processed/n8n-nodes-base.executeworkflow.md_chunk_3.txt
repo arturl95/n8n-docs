@@ -1,5 +1,0 @@
-- **Local File**: Select this option to load the workflow from a locally saved JSON file. You must also enter:
-	- **Workflow Path**: Enter the path to the local JSON workflow file you want the node to execute.
-- **Parameter**: Select this option to load the workflow from a parameter. You must also enter:
-	- **Workflow JSON**: Enter the JSON code you want the node to execute.
-- **URL**: Select this option to load the workflow from a URL. You must also enter:

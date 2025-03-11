@@ -1,7 +1,0 @@
-* Add droppable state for booleans when mapping.
-* Compare Datasets Node: Fuzzy comparen't comparing keys missing in one of the inputs.
-* Compare Datasets Node: Fix support for dot notation in skip fields.
-* Core: Deactivate active workflows during import.
-* Core: Stop marking duplicates as circular references in `jsonStringify`.
-* Core: Stop using `util.types.isProxy` for tracking of augmented objects.
-* Core: Fix curl import error when no data.

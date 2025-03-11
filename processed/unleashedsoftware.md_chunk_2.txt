@@ -1,6 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API ID**: Go to **Integrations > Unleashed API Access** to find your **API ID**.
-- An **API Key**: Go to **Integrations > Unleashed API Access** to find your **API Key**.
-
-Refer to [Unleashed API Access](https://support.unleashedsoftware.com/hc/en-us/articles/4402393233689-Unleashed-API-Access){:target=_blank .external-link} for more information.

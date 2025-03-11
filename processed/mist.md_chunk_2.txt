@@ -1,5 +1,0 @@
-- API token
-
-## Related resources
-
-Refer to [Mist's documentation](https://www.mist.com/documentation/mist-api-introduction/){:target=_blank .external-link} for more information about the service. If you're logged in to your Mist account, go to [https://api.mist.com/api/v1/docs/Home](https://api.mist.com/api/v1/docs/Home){:target=_blank .external-link} to view the full API documentation.

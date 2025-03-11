@@ -1,7 +1,0 @@
-## Using loops in n8n
-
-n8n nodes take any number of items as input, process these items, and output the results. You can think of each item as a single data point, or a single row in the output table of a node.
-
-![The Customer Datastore node output](/_images/flow-logic/looping/customer_datastore_node.png)
-
-Nodes usually run once for each item. For example, if you wanted to send the name and notes of the customers in the Customer Datastore node as a message on Slack, you would:

@@ -1,5 +1,0 @@
-## Related resources
-
-View [example workflows and related content](https://n8n.io/integrations/workable-trigger/){:target=_blank .external-link} on n8n's website.
-
-Refer to [Workable's API documentation](https://developers.workable.com/){:target=_blank .external-link} for details about using the service.

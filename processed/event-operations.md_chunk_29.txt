@@ -1,8 +1,0 @@
-<!-- vale from-write-good.Weasel = NO -->
-	- **RRULE**: Recurrence rule. When set, ignores the Repeat Frequency, Repeat How Many Times, and Repeat Until parameters.
-	<!-- vale from-write-good.Weasel = YES -->
-	- **Send Updates**: Whether to send notifications about the creation of the new event.
-	- **Show Me As**: Whether the event blocks time on the calendar.
-	- **Start**: The start time of the event.
-	- **Summary**: The title of the event.
-	- **Visibility**: The visibility of the event:

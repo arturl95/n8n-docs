@@ -1,4 +1,0 @@
-In declarative style:
-
-```js
-import { INodeType, INodeTypeDescription } from 'n8n-workflow';

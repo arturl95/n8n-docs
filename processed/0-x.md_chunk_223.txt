@@ -1,7 +1,0 @@
-### Node enhancements
-
-* Compare Datasets: UI copy changes to improve usability.
-* Google Sheets: n8n has overhauled this node, including improved lookup for document and sheet selection.
-* Notion (beta) node: use the resource locator component for database and page parameters.
-
-### Bug fixes

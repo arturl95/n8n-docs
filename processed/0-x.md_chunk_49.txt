@@ -1,7 +1,0 @@
-</div>
-
-* Core: Add support for Google Service account authentication in the HTTP Request node.
-* GitLab Node: Add **Additional Parameters** for the file list operation.
-* MySQL Node: This node has been overhauled.
-
-### Bug fixes

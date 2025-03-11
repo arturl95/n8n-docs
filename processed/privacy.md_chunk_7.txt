@@ -1,9 +1,0 @@
-Subscribe [here](https://n8n-community.typeform.com/to/FdeRxSkH?typeform-source=n8n.io){:target=_blank .external-link} to receive updates when n8n adds or changes a sub-processor.
-
-### GDPR for self-hosted users
-
---8<-- "_snippets/privacy-security/gdpr-self-hosted.md"
-
-
-
-## Data collection

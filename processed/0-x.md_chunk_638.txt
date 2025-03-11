@@ -1,2 +1,0 @@
-* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added Upsert operation to Account, Contact, Custom Object, Lead, and Opportunity resources
-* [Todoist:](/integrations/builtin/app-nodes/n8n-nodes-base.todoist/) Added the Description option to the Task resource

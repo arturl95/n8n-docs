@@ -1,8 +1,0 @@
-* [Execute Command](/integrations/builtin/core-nodes/n8n-nodes-base.executecommand/)
-* [Read/Write Files from Disk](/integrations/builtin/core-nodes/n8n-nodes-base.readwritefile/)
-
-## Related resources
-
-Refer to [Nodes environment variables](/hosting/configuration/environment-variables/nodes/) for more information on this environment variable.
-
-Refer to [Configuration](/hosting/configuration/configuration-methods/) for more information on setting environment variables.

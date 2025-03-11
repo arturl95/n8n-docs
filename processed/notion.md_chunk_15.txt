@@ -1,9 +1,0 @@
-Internal integrations use a simpler authentication process (the integration secret) and don't require any security review before publishing.
-
-**Public** integrations are:
-
-* Usable across multiple, unrelated Notion workspaces.
-* Accessible by any Notion user, regardless of their workspace.
-* Ideal for catering to broad use cases.
-
-Public integrations use the OAuth 2.0 protocol for authentication. They require a Notion security review before publishing.

@@ -1,7 +1,0 @@
-Refer to the [Method: drives.get | Google Drive](https://developers.google.com/drive/api/reference/rest/v2/drives/get){:target=_blank .external-link} API documentation for more information.
-
-## Update a shared drive
-
-Use this operation to update a shared drive.
-
-Enter these parameters:

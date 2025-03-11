@@ -1,3 +1,0 @@
-/// note | Mapping and matching
-Mapping is the process of setting the input data to use as values when updating row(s). Matching is the process of using column names to identify the row(s) to update. 
-///

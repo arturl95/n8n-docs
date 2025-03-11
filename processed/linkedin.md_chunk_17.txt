@@ -1,5 +1,0 @@
-/// note | Posting from organization accounts
-To post as an organization, you need to put your app through LinkedIn's [Community Management App Review](https://learn.microsoft.com/en-us/linkedin/marketing/community-management-app-review){:target=_blank .external-link} process.
-///
-
-Refer to [Getting Access to LinkedIn APIs](https://learn.microsoft.com/en-us/linkedin/shared/authentication/getting-access){:target=_blank .external-link} for more information on scopes and permissions.

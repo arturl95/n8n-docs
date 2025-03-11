@@ -1,6 +1,0 @@
-## Using OAuth2
-
-To configure this credential, you'll need a [Gong](https://app.gong.io/welcome/sign-in) account, a [Gong developer](https://gong.partnerfleet.app/application_forms/become-a-gong-technology-partner/partner_applications/new) account and:
-
-* A **Client ID**: Generated when you create an Oauth app for Gong.
-* A **Client Secret**: Generated when you create an Oauth app for Gong.

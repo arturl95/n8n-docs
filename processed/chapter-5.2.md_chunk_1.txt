@@ -1,7 +1,0 @@
-<figure><img src="/_images/courses/level-two/chapter-five/workflow2.png" alt="Workflow 2 for aggregating data and generating files" style="width:100%"><figcaption align = "center"><i>Workflow 2 for aggregating data and generating files</i></figcaption></figure>
-
-To make things easier, let's split the workflow into three parts.
-
-## Part 1: Getting data from different sources
-
-The first part of the workflow consists of five nodes:

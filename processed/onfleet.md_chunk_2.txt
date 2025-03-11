@@ -1,9 +1,0 @@
-- API key
-
-## Related resources
-
-Refer to [Onfleet's API documentation](https://docs.onfleet.com/reference/introduction){:target=_blank .external-link} for more information about the service.
-
-## Using API key
-
-To configure this credential, you'll need:

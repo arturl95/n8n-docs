@@ -1,4 +1,0 @@
-- `meeting:read`
-    - `meeting:write`
-    - Refer to [OAuth scopes | Meeting scopes](https://developers.zoom.us/docs/integrations/oauth-scopes/#meeting-scopes){:target=_blank .external-link} for more information on meeting scopes.
-- Copy the **Client ID** and **Client Secret** provided in the Zoom app and enter them in your n8n credential.

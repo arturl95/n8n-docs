@@ -1,5 +1,0 @@
-n8n's text splitter nodes implements parts of [LangChain's text_splitter API](https://js.langchain.com/docs/concepts/text_splitters/){:target=_blank .external-link}.
-
-#### Tools
-
-Utility tools.

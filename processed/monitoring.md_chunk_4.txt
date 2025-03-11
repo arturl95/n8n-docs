@@ -1,1 +1,0 @@
-Refer to [Configuration methods](/hosting/configuration/configuration-methods/) for more information on how to configure your instance using environment variables.

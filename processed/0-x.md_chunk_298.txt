@@ -1,7 +1,0 @@
-* GraphQL node: fix issue with return items.
-* Postgres node: fix issue with Postgres insert and paired item.
-* Kafka Trigger node: fix Kafka trigger not working with default max requests value.
-* MonicaCrm node: fix pagination when using return all.
-* Gmail node: fix bug related to paired items.
-* Raindrop node: fix issue refreshing OAuth2 credentials.
-* Shopify node: fix pagination when empty fields are sent.

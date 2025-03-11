@@ -1,4 +1,0 @@
-5. In the modal window, enter the **App name**.
-6. Select an **App developer**. The app developer can be the store owner or any account with the **Develop apps** permission.
-7. Select **Create app**.
-8. Select **Select scopes**. In the **Admin API access scopes** section, select the API scopes you want for your app.

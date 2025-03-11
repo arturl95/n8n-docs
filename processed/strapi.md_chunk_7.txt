@@ -1,1 +1,0 @@
-For the n8n credential, the user must have a role that grants them API permissions on the collection type. For the role, you can either:

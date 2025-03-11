@@ -1,2 +1,0 @@
-6. Select **Generate token**.
-7. Copy the token and enter it in your n8n credential.

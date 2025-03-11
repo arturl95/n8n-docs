@@ -1,5 +1,0 @@
-The example walks through building the workflow, but assumes you are already familiar with n8n. To build your first workflow, including learning how to add nodes to a workflow, refer to [Try it out](/try-it-out/).
-
-The final workflow looks like this:
-
-![A workflow with the Loop Over Items node](/_images/integrations/builtin/core-nodes/splitinbatches/workflow.png)

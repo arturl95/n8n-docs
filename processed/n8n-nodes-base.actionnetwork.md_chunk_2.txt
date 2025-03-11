@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Action Network credentials](/integrations/builtin/credentials/actionnetwork/) for guidance on setting up authentication. 
-///
-
-## Operations

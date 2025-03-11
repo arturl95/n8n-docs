@@ -1,7 +1,0 @@
-- Added a plus (+) connector to end nodes
-- Allowed opening workflows and executions in a new window when using Ctrl + Click
-- Enforced type checking for all node parameters
-- Fixed a build issue in the custom n8n docker image
-- Fixed a memory leak in the UI which could occur when renaming nodes or navigate to another workflow
-- Improved stability of internal test workflows
-- Improved expression security

@@ -1,1 +1,0 @@
-* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added Account Number field.

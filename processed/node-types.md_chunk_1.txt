@@ -1,9 +1,0 @@
-## Core nodes
-
-Core nodes can be actions or triggers. Whereas most nodes connect to a specific external service, core nodes provide functionality such as logic, scheduling, or generic API calls.
-
-## Cluster nodes
-
---8<-- "_snippets/integrations/builtin/cluster-nodes/cluster-nodes-summary.md"
-
-## Credentials

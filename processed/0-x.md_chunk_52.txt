@@ -1,3 +1,0 @@
-* NocoDB Node: Fix for updating or deleting rows with not default primary keys.
-* OpenAI Node: Update models to only show those supported.
-* OpenAI Node: Update OpenAI Text Moderate input placeholder text.

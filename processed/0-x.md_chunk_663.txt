@@ -1,4 +1,0 @@
-* [Mailjet:](/integrations/builtin/app-nodes/n8n-nodes-base.mailjet/) Added Reply To parameter
-* [Redis:](/integrations/builtin/app-nodes/n8n-nodes-base.redis/) Added the Increment operation
-* [Spreadsheet File:](/integrations/builtin/core-nodes/n8n-nodes-base.spreadsheetfile/) Added the Header Row option
-* [Webflow Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.webflowtrigger/) Added Collection Item Created, Collection Item Updated, and Collection Item Deleted events

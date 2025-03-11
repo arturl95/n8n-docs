@@ -1,1 +1,0 @@
-**You 👩‍🔧**: Yes! In the next step, I'll use some JavaScript code in a node to calculate the booked orders.

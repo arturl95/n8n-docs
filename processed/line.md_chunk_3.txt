@@ -1,4 +1,0 @@
-- A **Client ID**
-- A **Client Secret**
-
-To generate both, connect Line with [Line Notify](https://notify-bot.line.me/en/){:target=_blank .external-link}. Then:

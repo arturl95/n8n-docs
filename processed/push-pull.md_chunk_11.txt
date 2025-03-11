@@ -1,5 +1,0 @@
-### Credentials, variables and workflow tags
-
-Credentials and variables can't have merge issues, as n8n chooses the version to keep.
-
-On pull:

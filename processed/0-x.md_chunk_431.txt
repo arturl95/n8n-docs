@@ -1,4 +1,0 @@
-* **core:** Add logs and error catches for possible failures in queue mode.<br>
-* [AWS Lambda Node:](/integrations/builtin/app-nodes/n8n-nodes-base.awslambda/) Fix Invocation Type > Continue Workflow.
-* [Supabase Node:](/integrations/builtin/app-nodes/n8n-nodes-base.supabase/) Send token also using Authorization Bearer; fix Row > Get operation.
-* [Xero Node:](/integrations/builtin/app-nodes/n8n-nodes-base.xero/) Fix some operations and add support for setting address and phone number.

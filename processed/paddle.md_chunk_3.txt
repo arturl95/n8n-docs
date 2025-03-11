@@ -1,5 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Vendor Auth Code**: Created when you generate an API key.
-- A **Vendor ID**: Displayed when you generate an API key.
-- **Use Sandbox Environment API**: When turned on, nodes using this credential will hit the Sandbox API endpoint instead of the live API endpoint.

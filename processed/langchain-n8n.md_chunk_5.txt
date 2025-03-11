@@ -1,3 +1,0 @@
-Learn more about [chaining in LangChain](https://js.langchain.com/docs/concepts/lcel){:target=_blank .external-link}.
-
-#### Agents

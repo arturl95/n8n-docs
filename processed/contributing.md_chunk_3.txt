@@ -1,1 +1,0 @@
-- Write a review about n8n on [G2](https://www.g2.com/products/n8n/reviews){:target=_blank class=.external-link}, [Slant](https://www.slant.co/improve/options/37977/~n8n-review){:target=_blank class=.external-link}, and [Capterra](https://www.capterra.com/p/198028/n8n-io/){:target=_blank class=.external-link}.

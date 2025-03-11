@@ -1,9 +1,0 @@
-/// note | Facebook Graph API credentials
-If you want to create credentials for the [Facebook Graph API](/integrations/builtin/app-nodes/n8n-nodes-base.facebookgraphapi/) node, follow the instructions in the [Facebook Graph API credentials](/integrations/builtin/credentials/facebookgraph/) documentation.
-///
-
-## Supported authentication methods
-
-- App access token
-
-## Related resources

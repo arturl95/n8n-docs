@@ -1,5 +1,0 @@
-- Fixed an issue where execution data was missing when waiting for a webhook in queue mode
-- Improved error handling when the n8n port is already in use
-- Improved diagnostic events
-- Removed toast notification on webhook deletion, added toast notification after node is copied
-- Removed default trigger tooltip for polling trigger nodes

@@ -1,8 +1,0 @@
-* Changes to the data output display in nodes.
-
-### Node enhancements
-<br>
-[Magento 2 Node:](/integrations/builtin/app-nodes/n8n-nodes-base.magento2/) Added credential tests.
-[PayPal Node:](/integrations/builtin/app-nodes/n8n-nodes-base.paypal/) Added credential tests and updated the API URL.
-
-### Bug fixes

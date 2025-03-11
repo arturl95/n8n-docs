@@ -1,4 +1,0 @@
-* [Emelia Node:](/integrations/builtin/app-nodes/n8n-nodes-base.emelia/) Add Campaign > Duplicate functionality.
-* [FTP Node:](/integrations/builtin/core-nodes/n8n-nodes-base.ftp/) Add option to recursively create directories on rename.
-* [Mautic Node:](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/) Add credential test and allow trailing slash in host.
-* [Microsoft Teams Node:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftteams/) Add chat message support.

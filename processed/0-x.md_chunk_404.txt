@@ -1,3 +1,0 @@
-* An option to get all tasks from a plan instead of just a group member.
-    * Autocompletion for plans, buckets, labels, and members in update fields for tasks.
-* [MongoDB node](/integrations/builtin/app-nodes/n8n-nodes-base.mongodb/): you can now parse dates using dot notation.

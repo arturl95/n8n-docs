@@ -1,6 +1,0 @@
-* Editor: remove `crashed` status from filter.
-* Fix typo in error messages when a property doesn't exist.
-* Fixes an issue when saving an active workflow without triggers would cause n8n to be stuck.
-* Google Calendar Node: fix incorrect labels for start and end times when getting all events.
-* Postgres Node: fix for tables containing field named JSON.
-* AWS S3 Node: fix issue with get many buckets not outputting data.

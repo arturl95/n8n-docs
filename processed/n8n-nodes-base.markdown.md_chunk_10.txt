@@ -1,4 +1,0 @@
-| **Middle Word Underscores** | Whether n8n should treat underscores in words as Markdown (disabled) or render them as literal underscores (enabled). | Disabled |
-| **No Header ID** | Disable automatic generation of header IDs (enabled). | Disabled |
-| **Parse Image Dimensions** | Support setting maximum image dimensions in Markdown syntax (enabled). | Disabled |
-| **Prefix Header ID** | Define a prefix to add to header IDs. | None |

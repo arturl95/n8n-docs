@@ -1,4 +1,0 @@
-- An **API Key**
-- An **API Secret**
-
-Get your **API Key** and **API Secret** from your [developer dashboard](https://dashboard.nexmo.com/){:target=_blank .external-link} **user account > Settings > API Settings**. Refer to [Retrieve your account information](https://developer.vonage.com/en/account/guides/dashboard-management#retrieve-your-account-information){:target=_blank .external-link} for more information.

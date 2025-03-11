@@ -1,1 +1,0 @@
-It works the same way as the Get Submission operation in the [KoboToolbox](/integrations/builtin/app-nodes/n8n-nodes-base.kobotoolbox/) node, including supporting the same reformatting options.

@@ -1,6 +1,0 @@
-In both cases, VS Code lints in the background as you work on your project. Hover over a detected issue to see a full description of the linting and a link to further information.
-
-You can also run the linter manually:
-
-* Run `npm run lint` to lint and view detected issues in your console. 
-* Run `npm run lintfix` to lint and automatically fix issues. The linter fixes violations of rules [marked as automatically fixable](https://github.com/ivov/eslint-plugin-n8n-nodes-base#ruleset).

@@ -1,3 +1,0 @@
-* **Form Response**: Choose how and what you want the form to **Respond With** from these options:
-	* **Form Submitted Text**: The form displays whatever text is entered in **Text to Show** after a user fills out the form. Use this option if you want to display a confirmation message.
-	* **Redirect URL**: The form will redirect the user to the **URL to Redirect to** after they fill out the form. This must be a valid URL.

@@ -1,5 +1,0 @@
-* **core**: fixed an issue that was causing n8n to apply authentication checks, even when user management was disabled.
-* **core**: n8n now skips credentials checks for disabled nodes.
-* **editor**: fix a bug affecting touchscreen monitors.
-* [HubSpot node](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/): fix for search operators.
-* [SendGrid node](/integrations/builtin/app-nodes/n8n-nodes-base.sendgrid/): fixed an issue with sending attachments.

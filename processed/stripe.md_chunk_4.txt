@@ -1,5 +1,0 @@
-Refer to Stripe's [Create a secret API key](https://docs.stripe.com/keys#create-api-secret-key){:target=_blank .external-link} for more information.
-
-### Test mode Secret key
-
-To use a Secret key in test mode, you must copy the existing one:

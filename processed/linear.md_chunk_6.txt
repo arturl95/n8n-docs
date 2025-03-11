@@ -1,1 +1,0 @@
-Refer to the [Linear OAuth2 Authentication documentation](https://developers.linear.app/docs/oauth/authentication){:target=_blank .external-link} for more detailed instructions and explanations. Use the n8n **OAuth Redirect URL** as the **Redirect callback URL** in your Linear OAuth2 application.

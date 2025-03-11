@@ -1,9 +1,0 @@
-// Sort submissions by votes and take the top 5
-const topSubmissions = submissions
-  .sort((a, b) => b.json.property_votes - a.json.property_votes)
-  .slice(0, 5);
-
-let topSubmissionText = "";
-topSubmissions.forEach((submission) => {
-  topSubmissionText += `<${submission.json.url}|${submission.json.name}> with ${submission.json.property_votes} votes\n`;
-});

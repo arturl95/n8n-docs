@@ -1,4 +1,0 @@
-1. Do work in your developments instance.
-1. Push the work to the development branch in Git.
-1. Merge your development branch into your production branch.	Refer to the documentation for your Git provider for guidance on doing this:  
-	* [GitHub: Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request){:target=_blank .external-link}

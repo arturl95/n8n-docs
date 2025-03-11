@@ -1,5 +1,0 @@
-2. Enter the **SSH Host**. n8n uses this host to create the SSH URI formatted as: `[user@]host:port`.
-    3. Enter the **SSH Port**. n8n uses this port to create the SSH URI formatted as: `[user@]host:port`.
-    4. Enter the **SSH User** to connect with. n8n uses this user to create the SSH URI formatted as: `[user@]host:port`.
-    5. If you selected **Password** for **SSH Authenticate with**, add the **SSH Password**.
-    6. If you selected **Private Key** for **SSH Authenticate with**:

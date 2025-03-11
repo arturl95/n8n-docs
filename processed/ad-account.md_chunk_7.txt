@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to [Webhooks for Ad Accounts](https://developers.facebook.com/docs/graph-api/webhooks/getting-started/webhooks-for-ad-accounts){:target=_blank .external-link} and Meta's [Ad Account](https://developers.facebook.com/docs/graph-api/webhooks/reference/ad-account/){:target=_blank .external-link} Graph API reference for more information.

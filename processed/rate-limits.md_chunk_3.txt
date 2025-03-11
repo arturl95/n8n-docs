@@ -1,6 +1,0 @@
-* Retry On Fail adds a pause between API request attempts.
-* With Loop Over Items and Wait you can break you request data into smaller chunks, as well as pausing between requests.
-
-### Enable Retry On Fail
-
-When you enable Retry On Fail, the node automatically tries the request again if it fails the first time.

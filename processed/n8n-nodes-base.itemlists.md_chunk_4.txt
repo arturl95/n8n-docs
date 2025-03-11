@@ -1,8 +1,0 @@
-* Concatenate Items: merge multiple items into a single new item.
-* Limit: remove items beyond a defined maximum number.
-* Remove Duplicates: remove extraneous items.
-* Sort: change the ordering of items.
-* Split Out Items: create separate items from a list of data within an item.
-* Summarize: aggregate items together. Similar to a pivot table.
-
-### Split Out Items

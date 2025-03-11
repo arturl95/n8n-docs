@@ -1,2 +1,0 @@
-* **Property Name**: Enter the name of the binary property that stores the image data.
-* **Rotate**: Enter the number of degrees to rotate the image, from --360 to 360.

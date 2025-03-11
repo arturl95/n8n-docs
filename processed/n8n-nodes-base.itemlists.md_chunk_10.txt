@@ -1,4 +1,0 @@
-* **Aggregate**: choose whether to aggregate **Individual Fields** or **All Item Data**.
-* If you choose **Individual Fields**, you can then set:
-	* **Field To Aggregate**: the name of the field in the input data to be aggregated together.
-	* **Rename Field**: enable this toggle to enter a field name for the aggregated output data. When aggregating multiple fields you must provide new output field names. You can't leave multiple fields undefined.

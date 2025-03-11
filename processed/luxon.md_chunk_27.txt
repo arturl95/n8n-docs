@@ -1,4 +1,0 @@
-* `{{`: indicates the start of the expression.
-	* `"There are "`: a string. 
-	* `+`: used to join two strings.
-	* `$today.diff()`: This is similar to the example in [Get the time between two dates](#get-the-time-between-two-dates), but it uses n8n's custom `$today` variable.

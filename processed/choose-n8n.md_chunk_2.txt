@@ -1,1 +1,0 @@
-* [Embed](/embed/): n8n Embed allows you to white label n8n and build it into your own product. Contact n8n on the [Embed website](https://n8n.io/embed/){:target=_blank .external-link} for pricing and support.

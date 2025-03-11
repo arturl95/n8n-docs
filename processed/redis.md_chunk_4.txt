@@ -1,1 +1,0 @@
-Refer to [Connecting to Redis | Generic client](https://redis.readthedocs.io/en/stable/connections.html){:target=_blank .external-link} for more information.

@@ -1,7 +1,0 @@
-1. To get the quotes from the Quotable API, execute the **HTTP Request node** with the following parameters:
-		- **Authentication**: None
-		- **Request Method**: GET
-		- **URL**: https://api.quotable.io/quotes
-	2. To transform the data with the **Split Out node**, connect this node to the **HTTP Request node** and set the following parameters:
-		- **Field To Split Out**: results
-		- **Include**: No Other Fields

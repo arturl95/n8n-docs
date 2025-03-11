@@ -1,1 +1,0 @@
-6. Add the **Schedule Trigger node** at the beginning of the workflow to trigger it every 30 minutes. (You can keep the [Manual Trigger node](/integrations/builtin/core-nodes/n8n-nodes-base.manualworkflowtrigger/) for testing!)

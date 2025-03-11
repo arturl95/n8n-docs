@@ -1,8 +1,0 @@
-The result should look like this:
-
-	<figure><img src="/_images/courses/level-two/chapter-two/exercise_html_xmlnode_table.png" alt="Table view of XML Node (JSON to XML)" style="width:100%"><figcaption align = "center"><i>XML node (JSON to XML) – Table View</i></figcaption></figure>
-
-	To transform data the other way around, select the mode **XML to JSON**.
-
-
-## Date, time, and interval data

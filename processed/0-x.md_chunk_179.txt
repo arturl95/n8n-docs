@@ -1,9 +1,0 @@
-#### Log streaming
-
-This release introduces [log streaming](/log-streaming/) for users on Enterprise self-hosted plans and custom Cloud plans. Log streaming allows you to send events from n8n to your own logging tools. This allows you to manage your n8n monitoring in your own alerting and logging processes.
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### Security audit

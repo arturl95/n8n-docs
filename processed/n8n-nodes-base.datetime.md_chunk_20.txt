@@ -1,6 +1,0 @@
-* **Date to Subtract From**: Enter the date you'd like to subtract from.
-* **Time Unit to Subtract**: Select the unit for the **Duration** amount you want to subtract.
-* **Duration**: Enter the amount of the time units you want to subtract from the **Date to Subtract From**.
-* **Output Field Name**: Enter the name of the field to output the rounded date to.
-
-### Subtract From a Date options

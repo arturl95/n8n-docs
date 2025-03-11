@@ -1,7 +1,0 @@
-* Select the **Credential to connect with** or create a new one.
-* **Resource**: Select **Thread**.
-* **Operation**: Select **Reply**.
-* **Thread ID**: Enter the ID of the thread you want to reply to.
-* **Message Snippet or ID**: Select the Message you want to reply to or enter an expression to specify its ID. The dropdown populates based on the **Credential** you selected.
-* Select the **Email Type**. Choose from **Text** or **HTML**.
-* **Message**: Enter the email message body.

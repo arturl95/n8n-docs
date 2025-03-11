@@ -1,3 +1,0 @@
-- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
-- **Resource**: Select **Assistant**.
-- **Operation**: Select **Create an Assistant**.

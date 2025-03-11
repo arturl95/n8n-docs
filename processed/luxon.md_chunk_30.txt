@@ -1,3 +1,0 @@
-* `.toString().substring(1)` turns the number into a string and removes the `-`.
-	* `+ " days to Christmas!"`: another string, with a `+` to join it to the previous string.
-	* `}}`: indicates the end of the expression.

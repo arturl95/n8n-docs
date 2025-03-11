@@ -1,5 +1,0 @@
-* **Keep Matches**: Merge items that match. This is like an inner join.
-* **Keep Non-Matches**: Merge items that don't match.
-* **Keep Everything**: Merge items together that do match and include items that don't match. This is like an outer join.
-* **Enrich Input 1**: Keep all data from Input 1, and add matching data from Input 2. This is like a left join.
-* **Enrich Input 2**: Keep all data from Input 2, and add matching data from Input 1. This is like a right join.

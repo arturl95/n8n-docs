@@ -1,1 +1,0 @@
-For details of the Cloud plans and contact details for Enterprise Self-hosted, refer to [Pricing](https://n8n.io/pricing/){:target=_blank .external-link} on the n8n website.

@@ -1,6 +1,0 @@
-Refer to the [API Quickstart Account Setup documentation](https://platform.openai.com/docs/quickstart/account-setup){:target=_blank .external-link} for more information.
-
-To find your Organization ID:
-
-1. Go to your [Organization Settings](https://platform.openai.com/account/organization){:target=_blank .external-link} page.
-2. Copy your Organization ID and add it as the **Organization ID** in n8n.

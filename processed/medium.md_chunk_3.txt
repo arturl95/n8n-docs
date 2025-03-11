@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An API **Access Token**: Generate a token in **Settings >** [**Security and apps**](https://medium.com/me/settings/security){:target=_blank .external-link} **> Integration tokens**. Use the integration token this generates as your n8n **Access Token**.

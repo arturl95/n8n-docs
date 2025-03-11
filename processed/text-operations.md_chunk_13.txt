@@ -1,5 +1,0 @@
-- `flagged`: A boolean field indicating if the content is potentially harmful.
-- `categories`: A list of category-specific violation flags.
-- `category_scores`: Scores for each category.
-
-Enter these parameters:

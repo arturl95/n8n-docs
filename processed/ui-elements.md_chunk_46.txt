@@ -1,8 +1,0 @@
-title: 'Custom matching columns title',
-				description: 'Help text for custom matching columns',
-				hint: 'Below-field hint for custom matching columns',
-			},
-		},
-	},
-},
-```

@@ -1,2 +1,0 @@
-3. Use the [**Merge node**](/integrations/builtin/core-nodes/n8n-nodes-base.merge/) to merge data from Airtable and the Countries API by country name, represented as `customerCountry` in Airtable and `name.common` in the Countries API, respectively.
-4. Use another Airtable node to update the fields `region` and `subregion` in Airtable with the data from the Countries API.

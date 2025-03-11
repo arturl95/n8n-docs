@@ -1,9 +1,0 @@
-#### Can I use n8n to act as the back-end to power a feature in my app?
-
-Usually yes, as long as the back-end process doesn't use users' own credentials to access their data.
-
-Here are two examples to clarify:
-
-##### Example 1: Sync ACME app with HubSpot
-
-Bob sets up n8n to collect a user's HubSpot credentials to sync data in the ACME app with data in HubSpot.

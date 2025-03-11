@@ -1,1 +1,0 @@
-* [QuickBooks:](/integrations/builtin/app-nodes/n8n-nodes-base.quickbooks/) Added Purchase resource with Get and Get All operations.

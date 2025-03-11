@@ -1,4 +1,0 @@
-- **Credential to connect with**: Create or select an existing [Google Calendar credentials](/integrations/builtin/credentials/google/).
-- **Resource**: Select **Calendar**.
-- **Operation**: Select **Availability**.
-- **Calendar**: Choose a calendar you want to check against. Select **From list** to choose the title from the dropdown list or **By ID** to enter a calendar ID.

@@ -1,3 +1,0 @@
-If your filter matches multiple rows, n8n returns the first result. If you want all matching rows: 
-    	1. Under **Options**, select **Add Option** > **When Filter Has Multiple Matches**.
-        2. Change **When Filter Has Multiple Matches** to **Return All Matches**.

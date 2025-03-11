@@ -1,3 +1,0 @@
-| `users.profile:read` | |
-| `users.profile:write` | Not available as a bot token scope |
-| `users:read` | |

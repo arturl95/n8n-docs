@@ -1,8 +1,0 @@
-1. In the **APIs & Services** section, select **Credentials**.
-2. Select **+ CREATE CREDENTIALS > OAuth client ID**.
-3. In the **Application type** dropdown, select **Web application**.
-4. Google automatically generates a **Name**. Update the **Name** to something you'll recognize in your console.
-5. From your n8n credential, copy the **OAuth Redirect URL**. Paste it into the **Authorized redirect URIs** in Google Console.
-6. Select **CREATE**.
-
-### Finish your n8n credential

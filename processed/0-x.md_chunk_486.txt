@@ -1,8 +1,0 @@
-### Core Functionality
-
-- Added support for executing workflows without an ID through the CLI.
-- Fixed a build problem.
-- Fixed a bug preventing the tag description from being shown on the canvas.
-- Improved build performance by skipping the `node-dev` package during build.
-
-### Bug fixes

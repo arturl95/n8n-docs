@@ -1,9 +1,0 @@
-## n8n@0.79.3
-For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.79.2...n8n@0.79.3) for this version.<br />
-**Release date:** 2020-08-30
-
-- The bug that caused the workflows to not get activated correctly has been fixed
-
-## n8n@0.79.2
-For a comprehensive list of changes, check out the [commits](https://github.com/n8n-io/n8n/compare/n8n@0.79.1...n8n@0.79.2) for this version.<br />
-**Release date:** 2020-08-28

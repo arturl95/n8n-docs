@@ -1,9 +1,0 @@
-## Templates and examples
-
-Refer to the main AI Agent node's [Templates and examples](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index/#templates-and-examples) section.
-
-## Dynamic parameters for tools with `$fromAI()`
-
-To learn how to dynamically populate parameters for app node tools, refer to [Let AI specify tool parameters with `$fromAI()`](/advanced-ai/examples/using-the-fromai-function/).
-
-## Common issues

@@ -1,6 +1,0 @@
-* Editor: fix for broken tab navigation.
-* Editor: schema view shows checkbox in case of empty data.
-* Editor: Stop returning UNKNOWN ERROR in the response if an actual error message is available.
-* Editor: update duplicate workflow action.
-* Move Binary Data Node: stringify objects before encoding them in MoveBinaryData.
-* Split In Batches Node: fix issue with pairedItem.

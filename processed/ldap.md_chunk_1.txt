@@ -1,9 +1,0 @@
-LDAP allows users to sign in to n8n with their organization credentials, instead of an n8n login.
-
-## Enable LDAP
-
-1. Log in to n8n as the instance owner.
-2. Select **Settings** <span class="inline-image">![Settings icon](/_images/common-icons/settings.png){.off-glb}</span> > **LDAP**.
-3. Toggle on **Enable LDAP Login**.
-4. Complete the fields with details from your LDAP server.
-5. Select **Test connection** to check your connection setup, or **Save connection** to create the connection.

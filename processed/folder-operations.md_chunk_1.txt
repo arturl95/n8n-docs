@@ -1,7 +1,0 @@
-# Google Drive Folder operations
-
-Use this operation to create, delete, and share folders in Google Drive. Refer to [Google Drive](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) for more information on the Google Drive node itself.
-
-## Create a folder
-
-Use this operation to create a new folder in a drive.

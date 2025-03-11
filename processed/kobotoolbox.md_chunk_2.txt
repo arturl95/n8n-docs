@@ -1,9 +1,0 @@
-- API token
-
-## Related resources
-
-Refer to [KoboToolbox's API documentation](https://support.kobotoolbox.org/api.html){:target=_blank .external-link} for more information about the service.
-
-## Using API token
-
-To configure this credential, you'll need:

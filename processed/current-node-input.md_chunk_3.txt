@@ -1,2 +1,0 @@
-| `$input.params` | Object containing the query settings of the previous node. This includes data such as the operation it ran, result limits, and so on.  | :white_check_mark: |
-	| `$json` | Shorthand for `$input.item.json`. Incoming JSON data from a node. Refer to [Data structure](/data/data-structure/) for information on item structure. | :white_check_mark: (when running once for each item) |

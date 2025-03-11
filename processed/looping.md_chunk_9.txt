@@ -1,3 +1,0 @@
-* [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/): you must handle pagination yourself. If your API call returns paginated results you must create a loop to fetch one page at a time.
-* [Microsoft SQL](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftsql/) executes once for `insert`, `update`, and `delete`.
-* [MongoDB](/integrations/builtin/app-nodes/n8n-nodes-base.mongodb/) executes once for `insert` and `update`.

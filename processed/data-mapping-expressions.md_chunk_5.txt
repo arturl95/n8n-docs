@@ -1,3 +1,0 @@
-```js
-{{$input.item.json.name}}
-```

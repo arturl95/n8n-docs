@@ -1,7 +1,0 @@
-- Webhook: Fixed logic for static route matching
-- Added the functionality to sort the values that you add in the IF node, Rename node, and the Set node
-- Added the functionality to optionally save execution data after each node
-- Added queue mode to scale workflow execution
-- Separated webhook from the core to scale webhook separately
-- Fixed an issue with current execution query for unsaved running workflows
-- Fixed an issue with the regex that detected node names

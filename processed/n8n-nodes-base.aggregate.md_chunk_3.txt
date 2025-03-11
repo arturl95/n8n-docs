@@ -1,1 +1,0 @@
-* **Output Field Name**: This field is displayed when you turn on **Rename Field**. Enter the field name for the aggregated output data.

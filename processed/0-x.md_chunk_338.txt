@@ -1,3 +1,0 @@
-* [Elasticsearch node](/integrations/builtin/app-nodes/n8n-nodes-base.elasticsearch/): add 'Source Excludes' and 'Source Includes' options to the Document: getAll operation. Add credential tests, index pipelines, and index refresh.
-* [Freshworks CRM node](/integrations/builtin/app-nodes/n8n-nodes-base.freshworkscrm/): add search and lookup functionality.
-* [JIRA node](/integrations/builtin/trigger-nodes/n8n-nodes-base.jiratrigger/): add optional query authentication.

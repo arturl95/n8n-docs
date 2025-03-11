@@ -1,9 +1,0 @@
-# Google Calendar Event operations
-
-Use these operations to create, delete, get, and update events in Google Calendar. Refer to [Google Calendar](/integrations/builtin/app-nodes/n8n-nodes-base.googlecalendar/) for more information on the Google Calendar node itself.
-
-## Create
-
-Use this operation to add an event to a Google Calendar.
-
-Enter these parameters:

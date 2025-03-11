@@ -1,6 +1,0 @@
-1. If you don't have one already, create an app in the [developer portal](https://discord.com/developers/applications?new_application=true){:target=_blank .external-link}.
-2. Enter a **Name** for your app.
-3. Select **Create**.
-4. Select **Bot** from the left menu.
-5. Under **Token**, select **Reset Token** to generate a new bot token. 
-6. Copy the token and add it to your n8n credential.

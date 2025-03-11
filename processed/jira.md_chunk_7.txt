@@ -1,9 +1,0 @@
-## Using SW Server account
-
-To configure this credential, you'll need an account on [Jira Software Server](https://www.atlassian.com/software/jira/download.){:target=_blank .external-link}.
-
-Then:
-
-1. Enter the **Email** address associated with your Jira account.
-2. Enter your Jira account **Password**.
-3. Enter the **Domain** you access Jira on.

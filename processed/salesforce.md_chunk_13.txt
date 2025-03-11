@@ -1,3 +1,0 @@
-Cloud and hosted users will need to select your **Environment Type**. Choose between **Production** and **Sandbox**.
-
-If you're [self-hosting](/hosting) n8n, you'll need to configure OAuth2 from scratch by creating a connected app:

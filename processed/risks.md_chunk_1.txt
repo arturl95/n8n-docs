@@ -1,2 +1,0 @@
-* System security: community nodes have full access to the machine that n8n runs on, and can do anything, including malicious actions.
-* Data security: any community node that you use has access to data in your workflows.

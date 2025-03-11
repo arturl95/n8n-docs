@@ -1,8 +1,0 @@
----
-#https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
-contentType: howto
----
-
-# Get the binary data buffer
-
-The binary data buffer contains all the binary file data processed by a workflow. You need to access it if you want to perform operations on the binary data, such as:

@@ -1,7 +1,0 @@
-* Baserow Node: fix issue with **Get All** not correctly using filters.
-* Compare Datasets Node: UI tweaks and fixes.
-* Core: don't allow arbitrary path traversal in BinaryDataManager.
-* Core: don't allow arbitrary path traversal in the credential-translation endpoint.
-* Core: don't explicitly bypass authentication on URLs containing `.svg`.
-* Core: don't remove empty output connections arrays in PurgeInvalidWorkflowConnections migration.
-* Core: fix execution status filters.

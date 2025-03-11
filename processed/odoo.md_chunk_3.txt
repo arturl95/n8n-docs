@@ -1,6 +1,0 @@
-1. Enter your Odoo server or site URL as the **Site URL**.
-2. Enter your **Username** as it's displayed on your **Change password** screen in Odoo.
-4. To use an API key, go to **Your Profile > Preferences > Account Security > Developer API Keys**.
-    - If you don't have this option, you may need to upgrade your Odoo plan. Refer to [Required plan type](#required-plan-type) for more information.
-5. Select **New API Key**.
-6. Enter a **Description** for the key, like `n8n integration`.

@@ -1,1 +1,0 @@
-- Refer to [List of ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes){:target=_blank .external link} and [List of ISO 3166 country codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes){:target=_blank .external link} for language and country codes. Note that Google doesn't support all locales/languages.

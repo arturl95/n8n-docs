@@ -1,9 +1,0 @@
-///  note  | Examples and templates
-For usage examples and templates to help you get started, refer to n8n's [Trello Trigger integrations](https://n8n.io/integrations/trello-trigger/){:target=_blank .external-link} page.
-///
-
-## Find the Model ID
-
-The model ID is the ID of any model in Trello. Depending on the use-case, it could be the User ID, List ID, and so on.
-
-For this specific example, the List ID would be the Model ID:

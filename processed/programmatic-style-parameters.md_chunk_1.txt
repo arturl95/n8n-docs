@@ -1,1 +1,0 @@
-This document gives short code snippets to help understand the code structure and concepts. For a full walk-through of building a node, including real-world code examples, refer to [Build a programmatic-style node](/integrations/creating-nodes/build/programmatic-style-node/).

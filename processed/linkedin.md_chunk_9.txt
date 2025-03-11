@@ -1,7 +1,0 @@
-## Using OAuth2
-
-Only use this method for older LinkedIn apps and user accounts.
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-All users must select:

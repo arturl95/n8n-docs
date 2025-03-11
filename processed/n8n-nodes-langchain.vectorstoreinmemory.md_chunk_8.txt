@@ -1,6 +1,0 @@
-* **Memory Key**: Enter the key to use to store the vector memory in the workflow data. n8n prefixes the key with the workflow ID to avoid collisions.
-* **Prompt**: Enter the search query.
-* **Limit**: Enter how many results to retrieve from the vector store. For example, set this to `10` to get the ten best results.
-
-
-### Insert Documents parameters

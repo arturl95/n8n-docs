@@ -1,5 +1,0 @@
-## Reporting issues
-
-If you encounter any issues during the process of updating to n8n 1.0, please seek help in the community [forum](https://community.n8n.io/){:target=_blank .external link}.
-
-## Thank you

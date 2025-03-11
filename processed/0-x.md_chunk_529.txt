@@ -1,1 +1,0 @@
-* [Xero:](/integrations/builtin/app-nodes/n8n-nodes-base.xero/) Fixed an issue causing the node to only fetch the first page when querying the Xero API.

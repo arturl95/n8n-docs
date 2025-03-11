@@ -1,3 +1,0 @@
-9. After you've added scopes, go up to the **OAuth Tokens** section and select **Install to Workspace**. You must be a Slack workspace admin to complete this action.
-10. Select **Allow**.
-12. Copy the **Bot User OAuth Token** and enter it as the **Access Token** in your n8n credential.

@@ -1,6 +1,0 @@
-- An **API Key**: Create an API key from **Organization > Create API Key**. Refer to [API Authentication](https://docs.thehive-project.org/thehive/legacy/thehive3/api/authentication/){:target=_blank .external-link} for more information.
-- Your **URL**: The URL of your TheHive server.
-- An **API Version**: Choose between:
-    - **TheHive 3 (api v0)**
-    - **TheHive 4 (api v1)**
-    - For TheHive 5, use [TheHive 5 credentials](/integrations/builtin/credentials/thehive5/) instead.

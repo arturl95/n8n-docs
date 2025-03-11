@@ -1,4 +1,0 @@
-- Refer to [Write FileMaker Data API calls](https://help.claris.com/en/data-api-guide/content/write-data-api-calls.html){:target=_blank .external-link} for more information.
-    1. Host your solution with FileMaker Data API access enabled.
-        - Refer to [Host a FileMaker Data API solution](https://help.claris.com/en/data-api-guide/content/host-data-api-app.html){:target=_blank .external-link} for more information.
-    1. Test that FileMaker Data API access is working.

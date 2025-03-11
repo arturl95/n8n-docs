@@ -1,4 +1,0 @@
-* [ERPNext node](/integrations/builtin/app-nodes/n8n-nodes-base.erpnext/): add credential tests, and add support for unauthorized certs.
-* [Google Drive node](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/): add support for move to trash.
-* [Mindee node](/integrations/builtin/app-nodes/n8n-nodes-base.mindee/): support new version.
-* [Notion node](/integrations/builtin/app-nodes/n8n-nodes-base.notion/): support ignoring the Notion URL property if empty.

@@ -1,3 +1,0 @@
-1. Enter the `CLIENT-ID` of the client or consumer group in the **Client ID** field in your credential.
-2. Enter a comma-separated list of relevant **Brokers** for the credential to use in the format `<broker-service-name>:<port>`. Use the name you gave the broker when you defined it in the `services` list. For example, `kafka-1:9092,kafka-2:9092` would add the brokers `kafka-1` and `kafka-2` on port `9092`.
-3. If your Kafka environment doesn't use SSL, turn off the **SSL** toggle.

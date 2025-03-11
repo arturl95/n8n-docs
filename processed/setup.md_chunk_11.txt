@@ -1,3 +1,0 @@
-| Keycloak | Choose a [Getting Started](https://www.keycloak.org/guides#getting-started){:target=_blank .external-link} guide depending on your hosting. |
-| Okta | n8n provides a [Workforce Identity setup guide](/user-management/saml/okta/) |
-| PingIdentity | [PingOne SSO](https://docs.pingidentity.com/r/en-us/pingone/pingone_p1sso_start){:target=_blank .external-link} |

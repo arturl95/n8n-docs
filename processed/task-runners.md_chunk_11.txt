@@ -1,5 +1,0 @@
-| Environment variables | Description |
-| ------ | ----- |
-| `N8N_RUNNERS_AUTH_TOKEN=<random secure shared secret>` | The shared secret the task runner uses to connect to the broker. |
-| `N8N_RUNNERS_MAX_CONCURRENCY=5` | The number of concurrent tasks the runner can execute. |
-| `N8N_RUNNERS_TASK_BROKER_URI=localhost:5679` | The address of the task broker server within the n8n instance. |

@@ -1,6 +1,0 @@
-## Using OAuth2
-
-To configure this credential, you'll need:
-
-- A **Client ID**: Provided once you create an OAuth client
-- A **Client Secret**: Provided once you create an OAuth client

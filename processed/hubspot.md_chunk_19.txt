@@ -1,3 +1,0 @@
-Refer to the [HubSpot Public Apps documentation](https://developers.hubspot.com/docs/api/creating-an-app){:target=_blank .external-link} for more detailed instructions. If you need more detail on what's happening in the OAuth web flow, refer to the [HubSpot Working with OAuth documentation](https://developers.hubspot.com/docs/api/working-with-oauth){:target=_blank .external-link}.
-
-## Required scopes for HubSpot node

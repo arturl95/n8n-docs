@@ -1,6 +1,0 @@
-* Core: Assign `properties.success` earlier to set `executionStatus` correctly.
-* Core: Don't mark duplicates as circular references in `jsonStringify`.
-* Core: Don't use `util.types.isProxy` for tracking of augmented objects.
-* Core: Ensure that all non-lazy-loaded community nodes get post-processed correctly.
-* Core: Force-upgrade decode-uri-component to address CVE-2022-38900.
-* Core: Force-upgrade http-cache-semantics to address CVE-2022-25881.

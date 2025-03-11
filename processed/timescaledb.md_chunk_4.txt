@@ -1,2 +1,0 @@
-- **Require**: Sets the `ssl-mode` parameter to `require`, which is the default for TimescaleDB connection strings. Only try an SSL connection. If a root CA file is present, verify that a trusted certificate authority (CA) issued the server certificate.
-- **Port**: The port number of the TimescaleDB server.

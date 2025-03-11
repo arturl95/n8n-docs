@@ -1,6 +1,0 @@
-* Core: fix for Google and Microsoft generic OAuth2 credentials.
-* Core: fix HTTP Digest Auth for responses without an opaque parameter.
-* Disqus node: fix thread parameter for "Get All Threads" operation.
-* Don't crash the server when Telemetry is blocked using DNS.
-* Editor: allow mapping onto expression editor with selection range.
-* Editor: don't show actions dialog for actionless triggers when selected using keyboard.

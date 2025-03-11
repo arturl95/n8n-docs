@@ -1,8 +1,0 @@
-To configure this credential, you'll need:
-
-- A Personal **Access Token**: Refer to the [Harvest Personal Access Token Authentication documentation](https://help.getharvest.com/api-v2/authentication-api/authentication/authentication/#personal-access-tokens){:target=_blank .external-link} for instructions on creating a personal access token.
-
-
-## Using OAuth2
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"

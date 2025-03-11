@@ -1,5 +1,0 @@
-## Create project
-
-GCP encourages you to create projects to logically organize resources and configuration. Create a new project for your n8n deployment from your Google Cloud Console: select the project dropdown menu and then the **NEW PROJECT** button. Then select the newly created project. As you follow the other steps in this guide, make sure you have the correct project selected.
-
-## Enable the Kubernetes Engine API

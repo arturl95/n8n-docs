@@ -1,3 +1,0 @@
-#### Help
-
-There are five types of help built in to the GUI:

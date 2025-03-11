@@ -1,9 +1,0 @@
-| Permissions | Creator | Editor | 
-| ----------- | ------- | ------ | 
-| View workflow (read-only) | :white_check_mark: | :white_check_mark: |
-| View executions | :white_check_mark: | :white_check_mark: |
-| Update (including tags) | :white_check_mark: | :white_check_mark: |
-| Run | :white_check_mark: | :white_check_mark: |
-| Share | :white_check_mark: | :x: |
-| Export | :white_check_mark: | :white_check_mark: |
-| Delete | :white_check_mark: | :x: |

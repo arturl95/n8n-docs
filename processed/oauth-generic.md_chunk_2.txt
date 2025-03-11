@@ -1,7 +1,0 @@
-1. [Create a Google Cloud Console project](#create-a-google-cloud-console-project).
-1. [Enable APIs](#enable-apis).
-1. [Configure your OAuth consent screen](#configure-your-oauth-consent-screen).
-1. [Create your Google OAuth client credentials](#create-your-google-oauth-client-credentials).
-1. [Finish your n8n credential](#finish-your-n8n-credential).
-
-### Create a Google Cloud Console project

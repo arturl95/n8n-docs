@@ -1,5 +1,0 @@
-<!-- vale Vale.Spelling = YES -->
-- **Max Attendees**: The maximum number of attendees to include in the response. If there are more than the specified number of attendees, only returns the participant.
-- **Order By**: The order to use for the events in the response.
-- **Query**: Free text search terms to find events that match. This searches all fields except for extended properties.
-- **Recurring Event Handling**: What to do for recurring events:

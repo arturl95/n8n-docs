@@ -1,2 +1,0 @@
-2. **Referral**: Once you've identified a potential candidate, send an email to [Jobs at n8n](mailto:jobs@n8n.io) with the subject line *Employee referral - [job title]* and a short description of the person you're referring (and the reason why). Also, tell your referral to apply for the job through our [careers page](https://n8n.io/careers){:target=_blank class=.external-link}.
-3. **Evaluation**: We'll screen the application and inform you about the next steps of the hiring process.

@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to Meta's [Application](https://developers.facebook.com/docs/graph-api/webhooks/reference/application/){:target=_blank .external-link} Graph API reference for more information.

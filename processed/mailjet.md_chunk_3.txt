@@ -1,2 +1,0 @@
-- An **API Key**: View and generate API keys in your Mailjet [API Key Management](https://app.mailjet.com/account/api_keys){:target=_blank .external-link} page.
-- A **Secret Key**: View your API Secret Keys in your Mailjet [API Key Management](https://app.mailjet.com/account/api_keys){:target=_blank .external-link} page.

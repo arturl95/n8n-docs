@@ -1,7 +1,0 @@
-### Bug fixes
-
-
-* [Orbit:](/integrations/builtin/app-nodes/n8n-nodes-base.orbit/) Fixed a bug causing API requests to use an incorrect workspace identifier.
-* [TheHive:](/integrations/builtin/app-nodes/n8n-nodes-base.thehive/)  Fixed a bug causing the Ignore SSL Issues option to be applied incorrectly.
-
-### Contributors

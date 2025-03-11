@@ -1,1 +1,0 @@
-* **Reply to Sender Only**: Choose whether to reply all (turned off) or reply to the sender only (turned on).

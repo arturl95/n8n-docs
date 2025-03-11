@@ -1,8 +1,0 @@
-* List
-    * Get all lists
-* Tag
-    * Create a tag
-    * Delete a tag
-    * Get data of a tag
-    * Get data of all tags
-    * Update a tag

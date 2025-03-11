@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An API **Access Token**: Generate an API access token in your Coda [**Account settings**](https://coda.io/@oleg/getting-started-guide-coda-api/start-here-5#_luxC4){:target=_blank .external-link}.

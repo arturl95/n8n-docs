@@ -1,6 +1,0 @@
-### New nodes
-
-* [Action Network](/integrations/builtin/app-nodes/n8n-nodes-base.actionnetwork/)
-* [Google Docs](/integrations/builtin/app-nodes/n8n-nodes-base.googledocs/)
-
-### Enhanced nodes

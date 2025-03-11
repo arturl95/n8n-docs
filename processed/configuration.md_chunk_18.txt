@@ -1,2 +1,0 @@
-async function (workflowData) {
-                const activeWorkflows = await this.dbCollections.Workflow.count({ active: true });

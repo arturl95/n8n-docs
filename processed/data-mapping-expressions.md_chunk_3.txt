@@ -1,8 +1,0 @@
-In this case, the item linking is within the node: find the input item that the node links to an output item.
-
-```js
-// Returns the linked item
-{{$input.item}}
-```
-
-As a longer example, consider a scenario where the current node has the following input data:

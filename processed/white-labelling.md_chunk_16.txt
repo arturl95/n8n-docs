@@ -1,7 +1,0 @@
-$titleReset() {
-	// replace n8n prefix
-	document.title = `My Brand - Workflow Automation`;
-},
-```
-
-![Example Window Title Localization](/_images/embed/white-label/window-title.png)

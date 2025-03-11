@@ -1,2 +1,0 @@
-* Connected fields: if one optional fields is dependent on another, bundle them together. They should both be under a single option that shows both fields when selected.
-* If you have a lot of optional fields, consider grouping them by theme.

@@ -1,9 +1,0 @@
-<!-- vale off -->
-Refer to the [Gmail API Method: users.threads.modify](https://developers.google.com/gmail/api/reference/rest/v1/users.threads/modify){:target=_blank .external-link} documentation for more information.
-<!-- vale on -->
-
-## Reply to a message
-
-Use this operation to reply to a message.
-
-Enter these parameters:

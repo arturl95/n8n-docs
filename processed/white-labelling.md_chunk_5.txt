@@ -1,4 +1,0 @@
-- [packages/design-system/src/css/_tokens.scss](https://github.com/n8n-io/n8n/blob/master/packages/design-system/src/css/_tokens.scss){:target=_blank .external-link}
-- [packages/design-system/src/css/_tokens.dark.scss](https://github.com/n8n-io/n8n/blob/master/packages/design-system/src/css/_tokens.dark.scss){:target=_blank .external-link}
-
-At the top of `_tokens.scss` you will find `--color-primary` variables as HSL colors:

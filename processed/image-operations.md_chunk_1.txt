@@ -1,9 +1,0 @@
-# OpenAI Image operations
-
-Use this operation to analyze or generate an image in OpenAI. Refer to [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-base.openai/) for more information on the OpenAI node itself.
-
-## Analyze Image
-
-Use this operation to take in images and answer questions about them.
-
-Enter these parameters:

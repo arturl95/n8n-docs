@@ -1,9 +1,0 @@
-- **regular tasks**, such as running the API, serving the UI, and listening for webhooks, and 
-- **at-most-once tasks**, such as running non-HTTP triggers (timers, pollers, and persistent connections like RabbitMQ and IMAP), and pruning executions and binary data.
-
-In a multi-main setup, there are two kinds of `main` processes:
-
-- **followers**, which run **regular tasks**, and
-- the **leader**, which runs **both regular and at-most-once tasks**.
-
-### Leader designation

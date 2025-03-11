@@ -1,4 +1,0 @@
-- **File Commented**: Triggers when someone comments on a file.
-- **File Deleted**: Triggers when someone deletes an individual file, but not when someone deletes an entire folder with all files.
-- **File Updated**: Triggers when someone saves or deletes a file. A save occurs when someone closes a file within 30 seconds after making changes.
-- **File Version Updated**: Triggers when someone creates a named version in the version history of a file.

@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Key**: Generate an API key in **Settings > Autopilot API**. Refer to [Autopilot API authentication](https://autopilot.docs.apiary.io/#reference/authentication){:target=_blank .external-link} for more information.

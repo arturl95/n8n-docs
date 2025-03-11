@@ -1,4 +1,0 @@
-* **core:** Fix crash on webhook when last node did not return data
-* [EmailReadImap Node:](/integrations/builtin/core-nodes/n8n-nodes-base.emailimap/) Fix issue that crashed process if node was configured wrong.
-* [Google Tasks Node:](/integrations/builtin/app-nodes/n8n-nodes-base.googletasks/) Fix 'Show Completed' option and hide title field where not needed.
-* [NocoDB Node:](/integrations/builtin/app-nodes/n8n-nodes-base.nocodb/) Fix pagination.

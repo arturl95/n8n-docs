@@ -1,7 +1,0 @@
-1. A workflow that merges the company data with external information.
-2. A workflow that generates the reports.
-3. A workflow that monitors errors in the second workflow.
-
-## Workflow prerequisites
-
-To build the workflows, you will need the following:

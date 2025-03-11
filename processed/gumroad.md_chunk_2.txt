@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An API **Access Token**: Create an application to generate an access token. Refer to the [Gumroad Create an application for the API documentation](https://help.gumroad.com/article/280-create-application-api){:target=_blank .external-link} for detailed instructions on creating a new application and generating an access token.

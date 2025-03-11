@@ -1,3 +1,0 @@
-## Storing n8n's binary data in S3
-
-n8n supports [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html){:target=_blank .external-link} as an external store for binary data produced by workflow executions. You can use other S3-compatible services like Cloudflare R2 and Backblaze B2, but n8n doesn't officially support these.

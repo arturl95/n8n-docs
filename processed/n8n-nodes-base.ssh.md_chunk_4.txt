@@ -1,1 +1,0 @@
-- **File Property**: Enter the name of the object property that holds the binary data you want to download.

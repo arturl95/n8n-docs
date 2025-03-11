@@ -1,2 +1,0 @@
-- [Build a declarative-style node](/integrations/creating-nodes/build/declarative-style-node/)
-- [Learn how to build your own n8n nodes (Youtube Video)](https://www.youtube.com/live/OI6zHJ56eW0?si=SMD7L1J5fZ2mf79W){:target=_blank .external-link}

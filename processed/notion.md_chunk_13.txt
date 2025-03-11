@@ -1,2 +1,0 @@
-11. Go to the **Secrets** tab.
-12. Copy the **Client ID** and **Client Secret** and add them to your n8n credential.

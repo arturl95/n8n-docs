@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Splunk credentials](/integrations/builtin/credentials/splunk/) for guidance on setting up authentication. 
-///
-
-## Operations

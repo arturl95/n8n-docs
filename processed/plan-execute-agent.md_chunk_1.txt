@@ -1,3 +1,0 @@
-# Plan and Execute Agent node
-
-The Plan and Execute Agent is like the [ReAct agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/react-agent/) but with a focus on planning. It first creates a high-level plan to solve the given task and then executes the plan step by step. This agent is most useful for tasks that require a structured approach and careful planning.

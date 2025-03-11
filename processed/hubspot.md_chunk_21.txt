@@ -1,8 +1,0 @@
-| **Element** | **Object** | **Permission** | **Scope name(s)** |
-| --- | --- | --- | --- |
-| n/a | n/a | n/a |  `oauth` |
-| n/a | n/a | n/a |  `forms` |
-| n/a | n/a | n/a |  `tickets` |
-| CRM | Companies | Read <br> Write | `crm.objects.companies.read` <br> `crm.objects.companies.write`|
-| CRM | Companies schemas | Read | `crm.schemas.companies.read` |
-| CRM | Contacts schemas | Read | `crm.schemas.contacts.read` |

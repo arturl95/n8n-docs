@@ -1,9 +1,0 @@
-- Check if a name contains accepted characters
-- Discover if a NIF exists in the Robinson list (only for Spain)
-- Check if surname contains accepted characters
-- Check if a personal surname appears in INE data source (only for Spain)
-- Discover if a DNI card number is valid
-- Discover the age of a birth date
-- Discover the age range of a person by birth date
-- Get the difference between two dates
-- Discover the gender of a person by the email

@@ -1,4 +1,0 @@
-![Password](/_images/integrations/creating-nodes/password.png)
-
-
-String field with more than one row:

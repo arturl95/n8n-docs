@@ -1,3 +1,0 @@
-* [HTTP Request Node:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Allow Delete requests with body.
-* [KoBoToolbox Node:](/integrations/builtin/app-nodes/n8n-nodes-base.kobotoolbox/) Add KoBoToolbox Regular and Trigger Node.
-* [Mailjet Node:](/integrations/builtin/app-nodes/n8n-nodes-base.mailjet/) Add credential tests and support for sandbox, JSON parameters & variables.

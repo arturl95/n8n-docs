@@ -1,8 +1,0 @@
-* [Zep](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memoryzep/)
-* [Zep Vector Store](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstorezep/)
-
-## Supported authentication methods
-
-- API key
-
-## Related resources

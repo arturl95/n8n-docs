@@ -1,6 +1,0 @@
---8<-- "_snippets/integrations/creating-nodes/node-icons.md"
-
-
-### Step 3: Create the node
-
-Every node must have a base file. Refer to [Node base file](/integrations/creating-nodes/build/reference/node-base-files/) for detailed information about base file parameters.

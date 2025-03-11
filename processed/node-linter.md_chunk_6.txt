@@ -1,5 +1,0 @@
-Both commands can run in the root directory of your community package, or in `/packages/nodes-base/` in the main repository.
-
-### Exceptions
-
-Instead of fixing a rule violation, you can also make an exception for it, so the linter doesn't flag it.

@@ -1,7 +1,0 @@
-To generate an App Secret:
-
-1. In Meta while viewing your app, select **App settings > Basic** from the left menu.
-1. Select **Show** next to the **App secret** field.
-1. The page prompts you to re-enter your Facebook account credentials. Once you do so, Meta shows the App Secret.
-1. Highlight it to select it, copy it, and paste this into your n8n credential as the **App Secret**.
-1. **Save** your n8n credential.

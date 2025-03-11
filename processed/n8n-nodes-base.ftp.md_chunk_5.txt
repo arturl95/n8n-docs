@@ -1,8 +1,0 @@
-Configure this operation with these parameters:
-
-* **Path**: Enter the remote path that you would like to connect to.
-* **Recursive**: Select whether to return an object representing all directories / objects recursively found within the FTP/SFTP server (turned on) or not (turned off).
-
-## Rename
-
-Configure this operation with these parameters:

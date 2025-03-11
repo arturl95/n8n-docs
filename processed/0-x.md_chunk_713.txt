@@ -1,6 +1,0 @@
-- Spotify: Added Create a Playlist operation to Playlist resource and Get New Releases to the Album resource
-- Bug fixes
-- Airtable: Fixed a bug with updating and deleting records
-- Added the functionality to expose metrics to Prometheus. Read more about that [here](/hosting/configuration/environment-variables/)
-- Updated fallback values to match the value type
-- Added the functionality to display debugging information for pending workflows on exit

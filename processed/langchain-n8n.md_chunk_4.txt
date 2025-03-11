@@ -1,1 +1,0 @@
-* [Text Classifier](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.text-classifier/)

@@ -1,4 +1,0 @@
-* Editor: add the [HTML editor component](/integrations/creating-nodes/build/reference/ui-elements#html) for use in parameters. This means node builders can now use the HTML editor that n8n uses in the HTML node as a UI component.
-* Editor: append expressions in fixed values when mapping to string and JSON inputs.
-* Editor: continue to show mapping tooltip after dismiss.
-* Editor: roll out schema view.

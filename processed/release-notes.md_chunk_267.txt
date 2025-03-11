@@ -1,9 +1,0 @@
-#### New node: Qdrant vector store
-
-This release adds support for [Qdrant](https://qdrant.tech/){:target=_blank .external-link} with the Qdrant vector store node.
-
-Read n8n's [Qdrant vector store node documentation](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstoreqdrant/)
-
-</div>
-
-### Contributors

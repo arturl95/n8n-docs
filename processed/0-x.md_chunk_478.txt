@@ -1,4 +1,0 @@
-* [Airtable:](/integrations/builtin/app-nodes/n8n-nodes-base.airtable/) Improved field description.
-* [Airtable Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.airtabletrigger/) Improved field description.
-* [erpNext:](/integrations/builtin/app-nodes/n8n-nodes-base.erpnext/) Prevented the node from throwing an error when no data is found.
-* [Gmail:](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) Fixed a bug causing the BCC field to be ignored.

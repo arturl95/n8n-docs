@@ -1,5 +1,0 @@
-* The **Regular Expression** you'd like to use.
-* **Replace With**: Enter the new name you want to assign to the key(s) that match the **Regular Expression**.
-* You can also choose these Regex-specific options:
-    * **Case Insensitive**: Set whether the regular expression should match case (turned off) or be case insensitive (turned on).
-    * **Max Depth**: Enter the maximum depth to replace keys, using `-1` for unlimited and `0` for top-level only.

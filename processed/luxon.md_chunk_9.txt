@@ -1,9 +1,0 @@
-## Setting the timezone in n8n
-
-Luxon uses the n8n timezone. This value is either:
-
-* Default: `America/New York`
-* A custom timezone for your n8n instance, set using the `GENERIC_TIMEZONE` environment variable.
-* A custom timezone for an individual workflow, configured in workflow settings.
-
-## Common tasks

@@ -1,2 +1,0 @@
-* **Phishing**: Notifies you when someone issues a new certificate that may be phishing one of your legitimate subscribed domains.
-1. In **Options**, turn on the toggle to **Include Values**. This Object type fails without the option enabled.

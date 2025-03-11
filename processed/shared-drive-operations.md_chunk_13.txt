@@ -1,7 +1,0 @@
-Refer to the [Method: drives.delete | Google Drive](https://developers.google.com/drive/api/reference/rest/v2/drives/delete){:target=_blank .external-link} API documentation for more information.
-
-## Get a shared drive
-
-Use this operation to get a shared drive.
-
-Enter these parameters:

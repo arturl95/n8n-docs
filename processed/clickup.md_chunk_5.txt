@@ -1,7 +1,0 @@
-1. In ClickUp, select your avatar and select **Integrations**.
-2. Select **ClickUp API**.
-3. Select **Create an App**.
-4. Enter a **Name** for your app.
-5. In n8n, copy the **OAuth Redirect URL**. Enter this as your ClickUp app's **Redirect URL**.
-6. Once you create your app, copy the **client_id** and **secret** and enter them in your n8n credential.
-7. Select **Connect my account** and follow the on-screen prompts to finish connecting the credential.

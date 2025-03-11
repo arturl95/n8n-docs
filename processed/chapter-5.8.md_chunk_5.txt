@@ -1,7 +1,0 @@
-/// note | Workflow execution status
-You can filter the displayed **Executions** by workflow and by status (**Any Status**, **Failed**, **Cancelled**, **Running**, **Success**, or **Waiting**).
-The information displayed here depends on which executions are configured to be saved in the [**Workflow Settings**](/workflows/settings/).
-///
-
-
-## Workflow Settings

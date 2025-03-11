@@ -1,9 +1,0 @@
-## Using basic auth
-
-To configure this credential, you'll need:
-
-* A **URL**: Enter the URL of your NetScaler/Citrix ADC instance.
-* A **Username**: Enter your NetScaler/Citrix ADC username.
-* A **Password**: Enter your NetScaler/Citrix ADC password.
-
-Refer to [Performing Basic Netscaler ADC Operations](https://developer-docs.netscaler.com/en-us/adc-nitro-api/current-release/performing-basic-netscaler-operations){:target=_blank .external-link} for more information.

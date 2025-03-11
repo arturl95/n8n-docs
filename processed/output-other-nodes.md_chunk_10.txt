@@ -1,1 +1,0 @@
-| `_("<node-name>").itemMatching(currentNodeInputIndex)` | Use instead of `_("<node-name>").item` in the Code node if you need to trace back from an input item. Refer to [Retrieve linked items from earlier in the workflow](/code/cookbook/builtin/itemmatching/) for an example. | :white_check_mark: |

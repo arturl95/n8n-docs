@@ -1,6 +1,0 @@
-For these alerts, you'll need to subscribe your domain to the relevant alerts:
-
-* Refer to [Certificate Alerts](https://developers.facebook.com/docs/certificate-transparency-api#certificate-alerts-subscribing){:target=_blank .external-link} for Certificate Alerts subscriptions.
-* Refer to [Phishing Alerts](https://developers.facebook.com/docs/certificate-transparency-api#phishing-alerts-subscribing){:target=_blank .external-link} for Phishing Alerts subscriptions.
-
-## Related resources

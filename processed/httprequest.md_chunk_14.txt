@@ -1,6 +1,0 @@
-- An **Authorization URL**
-- An **Access Token URL**
-- A **Client ID**: The ID or username to log in with.
-- A **Client Secret**: The secret or password used to log in with.
-- _Optional:_ Enter one or more **Scope**s for the credential. If unspecified, the credential will request all scopes available to the client.
-- _Optional:_ Some services require more query parameters. If your service does, add them as **Auth URI Query Parameters**.

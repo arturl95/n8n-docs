@@ -1,7 +1,0 @@
-The release also includes improvements to the nodes view, giving better detail about incoming data, as well as some bug fixes.
-
-### New features
-
-<div class="n8n-new-features" markdown>
-
-#### Credential reuse for custom API operations

@@ -1,7 +1,0 @@
-* **Operation Mode**: Choose between **Get Many Messages**, **Insert Messages**, and **Delete Messages** operations.
-* **Insert Mode**: Available in **Insert Messages** mode. Choose from:
-    * **Insert Messages**: Insert messages alongside existing messages.
-    * **Override All Messages**: Replace current memory.
-* **Delete Mode**: available in **Delete Messages** mode. Choose from:
-    * **Last N**: Delete the last N messages.
-    * **All Messages**: Delete messages from memory.

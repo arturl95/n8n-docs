@@ -1,5 +1,0 @@
-## Using API key
-
-To configure this credential, you'll need:
-
-- An **API Key**: Get your API key from the **Settings** page.

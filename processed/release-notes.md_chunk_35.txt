@@ -1,6 +1,0 @@
-The Task runner comes in two modes:
-
-- Internal mode (default): Perfect for getting started, automatically managing task runners as child processes  
-- External mode: For advanced hosting scenarios requiring maximum isolation and security
-
-Currently, this feature is opt-in and can be enabled using [environment variables](/hosting/configuration/environment-variables/task-runners/). Once stable, it will become the default execution method for Code nodes.

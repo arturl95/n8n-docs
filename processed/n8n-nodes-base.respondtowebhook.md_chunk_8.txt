@@ -1,5 +1,0 @@
-## Return more than one data item (deprecated)
-
-/// note | Deprecated in 1.22.0
-n8n 1.22.0 added support for returning all data items using the **All Incoming Items** option. n8n recommends upgrading to the latest version of n8n, instead of using the workarounds described in this section.
-///

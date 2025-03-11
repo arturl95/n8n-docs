@@ -1,1 +1,0 @@
-- **Define Below**: Manually define the prompt by entering static text or using an expression to reference data from previous nodes.

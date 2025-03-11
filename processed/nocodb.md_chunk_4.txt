@@ -1,5 +1,0 @@
-Refer to the NocoDB [API Tokens documentation](https://docs.nocodb.com/account-settings/api-tokens/){:target=_blank .external-link} for more detailed instructions.
-
-## Using user auth token
-
-Before NocoDB deprecated it, user auth token was a temporary token designed for quick experiments with the API, valid for a session until the user logs out or for 10 hours.

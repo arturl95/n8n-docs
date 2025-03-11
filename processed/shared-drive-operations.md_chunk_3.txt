@@ -1,3 +1,0 @@
-- **Capabilities**: The capabilities to set for the new shared drive (see [REST Resources: drives | Google Drive](https://developers.google.com/drive/api/reference/rest/v3/drives) for more details):
-	- **Can Add Children**: Whether the current user can add children to folders in this shared drive.
-	- **Can Change Copy Requires Writer Permission Restriction**: Whether the current user can change the `copyRequiresWriterPermission` restriction on this shared drive.

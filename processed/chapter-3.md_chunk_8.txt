@@ -1,1 +1,0 @@
-<figure><img src="/_images/courses/level-two/chapter-three/explanation_mergepropertyinput.png" alt="Property Input fields in the Merge node" style="width:100%"><figcaption align = "center"><i>Property Input fields in the Merge node</i></figcaption></figure>

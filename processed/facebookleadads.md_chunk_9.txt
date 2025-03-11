@@ -1,2 +1,0 @@
-1. Complete the steps for [business verification](https://www.facebook.com/business/tools/meta-verified-for-business/){:target=_blank .external-link}.
-1. Use the [Lead Ads Testing Tool](https://developers.facebook.com/tools/lead-ads-testing){:target=_blank .external-link} to trigger some demo form submissions and test your workflow.

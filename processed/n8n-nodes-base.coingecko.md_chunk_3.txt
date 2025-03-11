@@ -1,4 +1,0 @@
-* Get the current price of any cryptocurrencies in any other supported currencies that you need
-    * Get coin tickers
-* Event
-    * Get all events

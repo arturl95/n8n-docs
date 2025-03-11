@@ -1,9 +1,0 @@
-[Read more about user roles](/user-management/account-types/)
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### New data transformation nodes
-
-This release replaces the Item Lists node with a collection of nodes for data transformation tasks:

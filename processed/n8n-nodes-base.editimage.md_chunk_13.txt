@@ -1,9 +1,0 @@
-Refer to [Node options](#node-options) for optional configuration options.
-
-### Get Information parameters
-
-For this operation, you only need to add the **Property Name** of the binary property that stores the image data.
-
-Refer to [Node options](#node-options) for optional configuration options.
-
-### Multi Step parameters

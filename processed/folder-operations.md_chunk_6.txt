@@ -1,5 +1,0 @@
-- **Credential to connect with**: Create or select an existing [Google Drive credentials](/integrations/builtin/credentials/google/).
-- **Resource**: Select **Folder**.
-- **Operation**: Select **Delete**.
-- **Folder**: Choose a folder you want to delete. 
-    - Select **From list** to choose the folder from the dropdown list, **By URL** to enter the URL of the folder, or **By ID** to enter the `folderId`.

@@ -1,5 +1,0 @@
-### Bug fixes
-
-* [FTP:](/integrations/builtin/core-nodes/n8n-nodes-base.ftp/) Fixed issue where incorrect paths were displayed when using the node.
-* [Wait:](/integrations/builtin/core-nodes/n8n-nodes-base.wait/) Fixed issue when receiving multiple files using On Webhook Call operation.
-* [Webhook:](/integrations/builtin/core-nodes/n8n-nodes-base.webhook/) Fixed issue when receiving multiple files.

@@ -1,3 +1,0 @@
-## Options
-
-The `options` type adds an options list. Users can select a single value.

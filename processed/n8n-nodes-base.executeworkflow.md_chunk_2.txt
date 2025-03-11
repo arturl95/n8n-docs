@@ -1,3 +1,0 @@
-- **Database**: Select this option to load the workflow from the database by ID. You must also enter either:
-	- **From list**: Select the workflow from a list of workflows available to your account.
-	- **Workflow ID**: Enter the ID for the workflow. The URL of the workflow contains the ID after `/workflow/`. For example, if the URL of a workflow is `https://my-n8n-acct.app.n8n.cloud/workflow/abCDE1f6gHiJKL7`, the **Workflow ID** is `abCDE1f6gHiJKL7`.

@@ -1,3 +1,0 @@
-<figure><img src="/_images/courses/level-two/chapter-four/explanation_workflowexecutions_readonly.png" alt="Workflow execution view" style="width:100%"><figcaption align = "center"><i>Workflow execution view</i></figcaption></figure>
-
-## Catching erroring workflows

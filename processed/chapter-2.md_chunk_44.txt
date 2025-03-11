@@ -1,7 +1,0 @@
-??? note "Show me the solution"
-
-	The workflow for this exercise looks like this:
-
-	<figure><img src="/_images/courses/level-two/chapter-two/exercise_binarydata.png" alt="Workflow for moving JSON to binary data" style="width:100%"><figcaption align = "center"><i>Workflow for moving JSON to binary data</i></figcaption></figure>
-
-	To check the configuration of the nodes, you can copy the JSON workflow code below and paste it into your Editor UI:

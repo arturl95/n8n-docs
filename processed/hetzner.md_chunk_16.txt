@@ -1,7 +1,0 @@
-## Updating
-
---8<-- "_snippets/self-hosting/installation/docker-compose-updating.md"
-
-## Next steps
-
---8<-- "_snippets/self-hosting/installation/server-setups-next-steps.md"

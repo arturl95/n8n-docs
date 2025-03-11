@@ -1,3 +1,0 @@
-| Deal | Get data of a deal <br> Get data of all deals <br> Search a deal | **Deals: Read only** or <br> **Deals: Full Access** | `deals:read` or <br> `deals:full` |
-| Deal | Create <br> Delete <br> Duplicate <br> Update | **Deals: Full Access** | `deals:full` |
-| Deal Activity | Get all activities of a deal | **Activities: Read only** or <br> **Activities: Full Access** | `activities:read` or <br> `activities:full` |

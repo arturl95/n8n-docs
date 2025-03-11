@@ -1,6 +1,0 @@
-/// note | Specialized storage classes
-If you have specialised or higher requirements for storage classes, [read more on the options Azure offers in the documentation](https://learn.microsoft.com/en-us/azure/aks/concepts-storage#storage-classes){:target="_blank" .external-link}.
-///
-### Postgres environment variables
-
-Postgres needs some environment variables set to pass to the application running in the containers.

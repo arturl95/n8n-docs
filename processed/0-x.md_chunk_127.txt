@@ -1,8 +1,0 @@
-### Node enhancements
-
-* GitHub node: update code to use resource locator component.
-* GitHub Trigger node: update code to use resource locator component.
-* Notion node: add option to set icons when creating pages or database pages.
-* Slack node: add support for manually inputting a channel name for channel operations.
-
-### Bug fixes

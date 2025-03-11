@@ -1,5 +1,0 @@
-### Retrieve Documents (As Vector Store for Chain/Tool) parameters
-
-* **Collection Name**: Enter the collection name to retrieve the data from.
-
-### Retrieve Documents (As Tool for AI Agent) parameters

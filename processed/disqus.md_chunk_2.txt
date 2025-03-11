@@ -1,5 +1,0 @@
-## Using API access token
-
-To configure this credential, you'll need:
-
-- An **Access Token**: Once you've registered an API application, copy the **API Key** and add it to n8n as the **Access Token**.

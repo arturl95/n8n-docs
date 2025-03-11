@@ -1,2 +1,0 @@
-* [One Simple API:](/integrations/builtin/app-nodes/n8n-nodes-base.onesimpleapi/) Added support for Social Profile resources.
-* [PagerDuty:](/integrations/builtin/app-nodes/n8n-nodes-base.pagerduty/) Write scope is now requested upon authentication against the PagerDuty OAuth2 API.

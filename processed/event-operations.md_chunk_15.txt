@@ -1,5 +1,0 @@
-- **Credential to connect with**: Create or select an existing [Google Calendar credentials](/integrations/builtin/credentials/google/).
-- **Resource**: Select **Event**.
-- **Operation**: Select **Get Many**.
-- **Calendar**: Choose a calendar you want to get an event from. Select **From list** to choose the title from the dropdown list or **By ID** to enter a calendar ID.
-- **Return All**: Whether to return all results or only up to a given limit.

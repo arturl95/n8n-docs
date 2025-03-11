@@ -1,8 +1,0 @@
-<figure markdown="span">
-![Sample Append mode inputs and output. Two separate data sources are on the left, one with items A, B, C and one with items D, E, F. The final data source combines both and lists A, B, C, D, E, F.](/_images/integrations/builtin/core-nodes/merge/append-diagram.png)
-<figcaption>Append mode inputs and output</figcaption>
-</figure>
-
-### Combine
-
-Combine data from two inputs. Select an option in **Combine By** to determine how you want to merge the input data.

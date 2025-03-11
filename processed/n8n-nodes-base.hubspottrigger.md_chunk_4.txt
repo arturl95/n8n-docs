@@ -1,3 +1,0 @@
-View [example workflows and related content](https://n8n.io/integrations/hubspot-trigger/){:target=_blank .external-link} on n8n's website.
-
-Refer to [HubSpot's documentation](https://developers.hubspot.com/docs/api/overview){:target=_blank .external-link} for details about their API.

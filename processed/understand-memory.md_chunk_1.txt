@@ -1,3 +1,0 @@
-## AI memory in n8n
-
-To add memory to your AI workflow you can use either:

@@ -1,7 +1,0 @@
-#### Cal.com trigger
-
-This release adds a new trigger node for Cal.com. Refer to the [Cal Trigger documentation](/integrations/builtin/trigger-nodes/n8n-nodes-base.caltrigger/){:target=_blank} for more guidance.
-
-</div>
-
-### Node enhancements

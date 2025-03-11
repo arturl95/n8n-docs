@@ -1,7 +1,0 @@
-Refer to the [Method: spreadsheets.create | Google Sheets](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets/create){:target=_blank .external-link} API documentation for more information.
-
-## Delete a spreadsheet
-
-Use this operation to delete an existing spreadsheet.
-
-Enter these parameters:

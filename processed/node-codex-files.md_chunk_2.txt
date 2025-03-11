@@ -1,5 +1,0 @@
-| Parameter | Description |
-| -------- | ----------- |
-| `node`    | Includes the node name. Must start with `n8n-nodes-base.`. For example, `n8n-nodes-base.openweatherapi`. | 
-| `nodeVersion` | The node version. This should have the same value as the `version` parameter in your main node file. For example, `"1.0"`. |
-| `codexVersion` | The codex file version. The current version is `"1.0"`. |

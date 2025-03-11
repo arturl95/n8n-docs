@@ -1,4 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Key**: Refer to [DFIR-IRIS's API documentation](https://docs.dfir-iris.org/operations/api/){:target=_blank .external-link} for instructions on getting your API key.
-- The **Base URL** of your DFIR-IRIS instance.

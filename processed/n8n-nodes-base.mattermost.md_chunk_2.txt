@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Mattermost credentials](/integrations/builtin/credentials/mattermost/) for guidance on setting up authentication. 
-///
-
-## Operations

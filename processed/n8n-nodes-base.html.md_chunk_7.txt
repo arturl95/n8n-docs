@@ -1,7 +1,0 @@
-- **Key**: Enter the key to save the extracted value under.
-- **CSS Selector**: Enter the CSS selector to search for.
-- **Return Value**: Select the type of data to return. Choose from:
-	- **Attribute**: Return an attribute value like `class` from an element.
-		- If you select this option, enter the name of the **Attribute** to return the value of.
-	- **HTML**: Return the HTML that the element contains.
-	- **Text**: Return the text content of the element.

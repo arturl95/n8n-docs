@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to Meta's [Permissions](https://developers.facebook.com/docs/graph-api/webhooks/reference/permissions/){:target=_blank .external-link} Graph API reference for more information.

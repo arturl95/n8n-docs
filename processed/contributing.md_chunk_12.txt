@@ -1,2 +1,0 @@
-- For author credit, provide a second Google Doc with your full name, a short byline, and your image. n8n will use this to create your author page and credit you as the author of the post.
-3. Wait for feedback. We will respond if your draft fits with the blog's strategy and requirements. If you don't hear back within 30 days, it means we won't be moving forward with your blog post.

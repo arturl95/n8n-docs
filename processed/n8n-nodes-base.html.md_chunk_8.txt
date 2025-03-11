@@ -1,3 +1,0 @@
-- If you choose this option, you can also enter a comma-separated list of selectors to skip in the **Skip Selectors**.
-	- **Value**: Return the value of an input, select, or text area.
-- **Return Array**: Choose whether to return multiple extraction values as an array (turned on) or as a single string (turned off).

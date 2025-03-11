@@ -1,3 +1,0 @@
-## Scopes
-
-Google services have one or more possible access scopes. A scope limits what a user can do. Refer to [OAuth 2.0 Scopes for Google APIs](https://developers.google.com/identity/protocols/oauth2/scopes){:target=_blank .external-link} for a list of scopes for all services.

@@ -1,5 +1,0 @@
-- Spotify: Added Library resource
-- Telegram: Added Answer Inline Query operation to the Callback resource
-- uProc: Added Get ASIN code by EAN code, Get EAN code by ASIN code, Get Email by Social Profile, Get Email by Full name and Company's domain, and Get Email by Full name and Company's name operations
-- Bug fixes
-- Clearbit: Fixed an issue with the autocomplete URI

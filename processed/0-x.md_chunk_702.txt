@@ -1,1 +1,0 @@
-* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Fixed an issue with the Get All operation of the Custom Object resource

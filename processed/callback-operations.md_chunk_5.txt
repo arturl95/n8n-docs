@@ -1,6 +1,0 @@
-Refer to the Telegram Bot API [answerCallbackQuery](https://core.telegram.org/bots/api#answercallbackquery){:target=_blank .external-link} documentation for more information.
-
-<!-- vale off -->
-### Answer Query additional fields
-
-Use the **Additional Fields** to further refine the behavior of the node. Select **Add Field** to add any of the following:

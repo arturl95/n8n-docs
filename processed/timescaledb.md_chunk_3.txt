@@ -1,3 +1,0 @@
-- **SSL**: This setting controls the `ssl-mode` connection string for the connection. Options include:
-    - **Allow**: Sets the `ssl-mode` parameter to `allow`. First try a non-SSL connection; if that fails, try an SSL connection.
-    - **Disable**: Sets the `ssl-mode` parameter to `disable`. Only try a non-SSL connection.

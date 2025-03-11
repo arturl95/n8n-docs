@@ -1,6 +1,0 @@
-1. Add the **Customer Datastore (n8n training) node** with the **Get All People** action selected.
-		- Select the option to **Return All**.
-	2. Add a **Date & Time node** connected to the Customer Datastore node. Select the option to **Round a Date**.
-		- Add the `created` date as the **Date** to round.
-		- Select `Round Up` as the **Mode** and `End of Month` as the **To**.
-		- Set the **Output Field Name** as `new-date`.

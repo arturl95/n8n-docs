@@ -1,7 +1,0 @@
-1. Open the left menu.
-2. Select **Executions**.
-3. Browse the workflow executions list to find the one with the data you want to copy.
-4. Select **Open Past Execution** <span class="inline-image">![Open past execution icon](/_images/data/data-pinning/open-execution.png){.off-glb}</span>.
-5. Double click the node whose data you want to copy.
-6. If it's table layout, select **JSON** to switch to JSON view.
-7. There are two ways to copy the JSON:

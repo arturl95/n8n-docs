@@ -1,9 +1,0 @@
-### Core Functionality
-- Implemented the functionality to display the error details in a toast message for trigger nodes
-- Improved error handling by removing circular references from API errors
-
-### Bug fixes
-
-* [Jira:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Fixed an issues with the API version and fixed an issue with fetching the custom fields for the Issue resource
-
-### Contributors

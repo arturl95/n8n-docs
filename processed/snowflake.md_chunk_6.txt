@@ -1,1 +1,0 @@
-Refer to [Session Commands](https://docs.snowflake.com/en/sql-reference/commands-session){:target=_blank .external-link} for more information on these settings.

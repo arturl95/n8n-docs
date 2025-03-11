@@ -1,1 +1,0 @@
-For the n8n credentials to function with this setting enabled, add all the [n8n IP addresses](/choose-n8n/cloud/#cloud-ip-addresses) as whitelisted IPs in MSG91. You can add them in one of two places, depending on your desired security level:

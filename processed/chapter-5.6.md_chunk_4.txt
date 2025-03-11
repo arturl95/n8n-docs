@@ -1,7 +1,0 @@
-- **Connection Type**: Select **Webhook**.
-- **Credential for Discord Webhook**: Select **- Create New Credential -**.
-    - Copy the **Webhook URL** from the email you received when you signed up for this course and paste it into the **Webhook URL** field of the credentials.
-    - Select **Save** and then close the credentials dialog.
-- **Operation**: Select **Send a Message**.
-- **Message**:
-    - Select the **Expression** tab on the right side of the Message field.

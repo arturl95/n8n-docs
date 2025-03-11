@@ -1,8 +1,0 @@
-1. Open the Asana [developer console](https://app.asana.com/0/my-apps){:target=_blank .external-link}.
-2. In the **My apps** section, select **Create new app**.
-3. Enter an **App name** for your application, like `n8n integration`.
-4. Select a purpose for your app.
-5. Check the box to agree to the **Asana API terms**.
-6. Select **Create app**. The page opens to the app's **Basic Information**.
-7. Select **OAuth** from the left menu.
-8. In n8n, copy the **OAuth Redirect URL**.

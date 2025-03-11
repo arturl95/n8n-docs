@@ -1,3 +1,0 @@
-### Enable two-step authentication
-
-To generate an application password, you must first enable Two-Step Authentication in WordPress. If you've already done this, [skip to the next section](#create-an-application-password).

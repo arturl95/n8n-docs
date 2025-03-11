@@ -1,4 +1,0 @@
-- [Append](/integrations/builtin/core-nodes/n8n-nodes-base.merge/#append){:target="_blank"}
-- [Combine](/integrations/builtin/core-nodes/n8n-nodes-base.merge/#combine){:target="_blank"}
-	- [Merge by Fields](/integrations/builtin/core-nodes/n8n-nodes-base.merge/#merge-by-fields){:target="_blank"}: requires input fields to match on
-	- [Merge by Position](/integrations/builtin/core-nodes/n8n-nodes-base.merge/#merge-by-position){:target="_blank"}

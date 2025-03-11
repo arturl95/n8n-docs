@@ -1,9 +1,0 @@
-/// question | Quiz questions
-* What's the name of the employee assigned to customer 1?
-* What's the order status of customer 2?
-* What's the highest order price?
-///
-
-## Part 2: Generating file for regional sales
-
-The second part of the workflow consists of four nodes:

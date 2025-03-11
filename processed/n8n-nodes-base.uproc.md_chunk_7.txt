@@ -1,8 +1,0 @@
-- Clean a phone removing non allowed characters
-- Allows getting country code of a mobile phone number with international format
-- Allows getting a domain from an email
-- Discover an email by company website or domain and prospect's first-name and last-name
-- Check if an email is personal or generic
-- Get emails list found on the internet by domain or URI
-- Get an emails list found on the internet by non-free email
-- Get emails list found inside the website by domain or URI

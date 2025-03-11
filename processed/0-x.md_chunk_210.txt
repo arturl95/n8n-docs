@@ -1,8 +1,0 @@
-* Core: fix linter error.
-* Core: fix partial execution with pinned data on child node run.
-* Core: OAuth2 scopes now save.
-* Enable source-maps on WorkflowRunnerProcess in own mode.
-* Handle error when workflow doesn'texist or is inaccessible.
-* Make nodes.exclude and nodes.include work with lazy-loaded nodes.
-* Code Node: restore `pairedItem` to required n8n item keys.
-* Execute Workflow Node: update Execute Workflow node info notice text.

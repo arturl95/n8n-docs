@@ -1,8 +1,0 @@
-Configure this operation with these parameters:
-
-* **Return All**: Set whether to return all results (turned on) or whether to limit the results to the entered **Limit** (turned on).
-* **Limit**: Set the number of results to return if the **Return All** control is turned off.
-
-### Get many executions filters
-
-You can further configure this operation with these **Filters**:

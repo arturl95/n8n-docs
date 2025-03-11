@@ -1,7 +1,0 @@
-## Related resources
-
-Refer to [LoneScales documentation](https://help-center.lonescale.com/en/articles/6454360-lonescale-public-api){:target=_blank .external-link} for more information about the service.
-
-n8n provides a trigger node for LoneScale. You can find the trigger node docs [here](/integrations/builtin/trigger-nodes/n8n-nodes-base.lonescaletrigger/).
-
---8<-- "_snippets/integrations/builtin/app-nodes/operation-not-supported.md"

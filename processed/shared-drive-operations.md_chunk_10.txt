@@ -1,7 +1,0 @@
-Refer to the [Method: drives.insert | Google Drive](https://developers.google.com/drive/api/reference/rest/v2/drives/insert){:target=_blank .external-link} API documentation for more information.
-
-## Delete a shared drive
-
-Use this operation to delete a shared drive.
-
-Enter these parameters:

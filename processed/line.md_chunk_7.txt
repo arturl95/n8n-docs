@@ -1,1 +1,0 @@
-Refer to the Authentication section of [Line Notify's API documentation](https://notify-bot.line.me/doc/en/){:target=_blank .external-link} for more information.

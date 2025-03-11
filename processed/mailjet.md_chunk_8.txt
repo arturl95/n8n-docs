@@ -1,5 +1,0 @@
-## Using SMS Token
-
-To configure this credential, you'll need:
-
-- An access **Token**: Generate a new token from Mailjet's [SMS Dashboard](https://app.mailjet.com/sms){:target=_blank .external-link}. Refer to the [SMS API Getting Started guide](https://dev.mailjet.com/sms/guides/getting-started/){:target=_blank .external-link} for more detailed instructions.

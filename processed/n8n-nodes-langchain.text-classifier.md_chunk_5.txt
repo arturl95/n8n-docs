@@ -1,3 +1,0 @@
-* **Allow Multiple Classes To Be True**: You can configure the classifier to always output a single class per item (turned off), or allow the model to select multiple classes (turned on).
-* **When No Clear Match**: Define what happens if the model can't find a good match for an item. There are two options:
-	- **Discard Item** (the default): If the node doesn't detect any of the categories, it drops the item.

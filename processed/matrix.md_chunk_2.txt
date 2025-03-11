@@ -1,5 +1,0 @@
-Refer to the documentation for the specific client you're using to access the Matrix server.
-
-## Using API access token
-
-To configure this credential, you'll need:

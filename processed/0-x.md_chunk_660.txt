@@ -1,7 +1,0 @@
-### Bug fixes
-
-* [Clockify Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.clockifytrigger/) Fixed an issue that occurred when the node returned an empty array
-* [Google Cloud Firestore:](/integrations/builtin/app-nodes/n8n-nodes-base.googlecloudfirestore/) Fixed an issue with parsing empty document, and an issue with the detection of date
-* [HubSpot:](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/) Fixed an issue with the Return All option
-
-### Contributors

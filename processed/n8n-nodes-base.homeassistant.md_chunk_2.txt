@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Home Assistant credentials](/integrations/builtin/credentials/homeassistant/) for guidance on setting up authentication. 
-///
-
-## Operations

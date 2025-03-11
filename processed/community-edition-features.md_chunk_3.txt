@@ -1,1 +1,0 @@
-- [Workflow history](/workflows/history/) (You can get one day of workflow history with the community edition by [registering](#registered-community-edition))

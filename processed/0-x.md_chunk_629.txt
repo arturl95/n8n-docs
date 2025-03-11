@@ -1,6 +1,0 @@
-### Core Functionality
-- Templates from the [n8n Workflows](https://n8n.io/workflows) page can now be directly imported by appending `/workflows/templates/<templateId>` to your instance base URL. For example, `localhost:5678/workflows/templates/1142`.
-- Added new Editor UI shortcuts. See [Keyboard Shortcuts](/keyboard-shortcuts/) for details.
-- Fixed an issue causing console errors when deleting a node from the canvas.
-
-### Bug fixes

@@ -1,1 +1,0 @@
-Refer to [Create applications that integrate with Typeform's APIs](https://www.typeform.com/developers/get-started/applications/#1-create-an-application-in-the-typeform-admin-panel){:target=_blank .external-link} for more information.

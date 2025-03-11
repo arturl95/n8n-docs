@@ -1,3 +1,0 @@
-## Using the example
-
---8<-- "_snippets/examples-color-key.md"

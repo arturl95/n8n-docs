@@ -1,6 +1,0 @@
-### 2. Create user credentials
-
-After all relevant credential details have been obtained, you can proceed to create the relevant service credentials in n8n. This can be done using the Editor UI or API call.
-
-
-#### Using the Editor UI

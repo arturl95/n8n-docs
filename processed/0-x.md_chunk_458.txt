@@ -1,2 +1,0 @@
-* [Notion (Beta):](/integrations/builtin/app-nodes/n8n-nodes-base.notion/) Added support for rollup fields to the Simplify Output option. Also added the Parent ID to the Get All operation of the Block resource.
-* [Pipedrive:](/integrations/builtin/app-nodes/n8n-nodes-base.pipedrive/) Added Marketing Status field to the Create operation of the Person resource, also added User ID field to the Create and Update operations of the Person resource.

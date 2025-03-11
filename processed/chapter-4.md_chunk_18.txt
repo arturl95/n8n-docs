@@ -1,2 +1,0 @@
-<figure><img src="/_images/courses/level-two/chapter-four/exercise_errors_stopanderror.png" alt="Stop and Error node with error message" style="width:100%"><figcaption align = "center"><i>Stop and Error node with error message</i></figcaption></figure>
-///

@@ -1,9 +1,0 @@
-## Create a Sticky Note
-
-Sticky Notes are a core node. To add a new Sticky Note:
-
-1. Open the nodes panel.
-2. Search for `note`.
-3. Click the **Sticky Note** node. n8n adds a new Sticky Note to the canvas.
-
-## Edit a Sticky Note

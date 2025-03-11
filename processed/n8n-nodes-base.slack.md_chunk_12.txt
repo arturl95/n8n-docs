@@ -1,3 +1,0 @@
-| Channel | Get | [conversations.info](https://api.slack.com/methods/conversations.info){:target=blank .external-link} |
-| Channel | Get Many | [conversations.list](https://api.slack.com/methods/conversations.list){:target=blank .external-link} |
-| Channel | History | [conversations.history](https://api.slack.com/methods/conversations.history){:target=blank .external-link} |

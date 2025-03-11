@@ -1,7 +1,0 @@
-7. In the left menu, select **OAuth**.
-8. For **Scopes**, select `boards:write` and `boards:read`.
-9. Select **Save Scopes**.
-10. Select the **Redirect URLs** tab.
-11. Copy the **OAuth Redirect URL** from n8n and enter it as the **Redirect URL**.
-12. **Save** your changes in monday.com.
-13. In n8n, select **Connect my account** to finish the setup.

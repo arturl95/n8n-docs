@@ -1,5 +1,0 @@
-- Bug fixes
-- Dropbox: Fixed an issue with the OAuth credentials
-- Google Sheets: Fixed an issue with the parameters getting hidden for other operations
-- Added functionality to copy the data and the path from the output
-- Fixed an issue with the node getting selected after it was duplicated

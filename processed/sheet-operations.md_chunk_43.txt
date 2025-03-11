@@ -1,1 +1,0 @@
-- **When Filter Has Multiple Matches**: Set to **Return All Matches** to get multiple matches. By default only the first result gets returned.

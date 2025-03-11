@@ -1,6 +1,0 @@
-* **User Data**
-	* **UUID**
-	* **Version**
-* **Seed**: If you'd like to generate the data using a specific seed, enter it here. This ensures the data gets generated consistently. If you'd rather use random data generation, leave this field empty.
-* **Number of Items to Generate**: Enter the number of random items you'd like to generate.
-* **Output as Single Array**: Whether to generate the data as a single array (turned on) or multiple items (turned off).

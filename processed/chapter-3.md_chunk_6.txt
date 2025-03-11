@@ -1,2 +1,0 @@
-- [Multiplex](/integrations/builtin/core-nodes/n8n-nodes-base.merge/#multiplex){:target="_blank"}
-- [Choose Branch](/integrations/builtin/core-nodes/n8n-nodes-base.merge/#choose-branch){:target="_blank"}

@@ -1,2 +1,0 @@
-* [Zendesk Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.zendeskTrigger): remove deprecated targets, replace with webhooks.
-* [Zoho node](/integrations/builtin/app-nodes/n8n-nodes-base.zohoCrm): fix pagination issue.

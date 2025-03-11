@@ -1,7 +1,0 @@
---8<-- "_snippets/source-control-environments/multi-instance-one-branch-pros-cons.md"
-
-![Diagram](/_images/source-control-environments/vc-multi-one.png)
-
-## One instance, multiple branches
-
-The instance owner can change which Git branch connects to the instance. The full setup in this case is likely to be a [Multiple instances, multiple branches](#multiple-instances-multiple-branches) pattern, but with one instance switching between branches.

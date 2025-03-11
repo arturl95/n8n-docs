@@ -1,3 +1,0 @@
-* Retrieve a task
-    * Retrieve all tasks
-    * Update a task

@@ -1,9 +1,0 @@
-## All users
-
-* Report security issues and [terms of service](https://n8n.io/legal/#terms){:target=_blank .external-link} violations to security@n8n.io.
-* If more than one person uses your n8n instance, set up [User management](/user-management/) and follow the [Best practices](/user-management/best-practices/).
-* Use OAuth to connect integrations whenever possible.
-
-## Self-hosted users
-
-If you self-host n8n, there are additional steps you can take:

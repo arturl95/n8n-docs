@@ -1,9 +1,0 @@
-#### New node: PGVector Vector Store
-
-This release adds the PGVector Vector Store node. Use this node to interact with the PGVector tables in your PostgreSQL database. You can insert, get, and retrieve documents from a vector table to provide them to a retriever connected to a chain.
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### See active collaborators on workflows

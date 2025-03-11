@@ -1,5 +1,0 @@
-- An **API Token**
-- An **App Name**
-- Your **Domain**, if you're using a custom domain
-
-To set it up, you'll need to create an app:

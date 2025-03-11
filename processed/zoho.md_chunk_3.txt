@@ -1,7 +1,0 @@
-Refer to [Multi DC](https://www.zoho.com/crm/developer/docs/api/v3/multi-dc.html){:target=_blank .external-link} for more information about selecting a data center.
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-If you need to configure OAuth2 from scratch, [register an application](https://www.zoho.com/accounts/protocol/oauth-setup.html){:target=_blank .external-link} with Zoho.
-
-Use these settings for your application:

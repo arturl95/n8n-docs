@@ -1,1 +1,0 @@
-| **Treat As Blocks** | Specify HTML elements to treat as blocks (surround with blank lines) | None |

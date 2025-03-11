@@ -1,8 +1,0 @@
-To configure this credential, you'll need:
-
-- An **Access Token**: Once logged in, visit [Settings > Developer Settings > API](https://app.bitly.com/settings/api/){:target=_blank .external-link} to generate an Access Token.
-
-
-## Using OAuth2
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"

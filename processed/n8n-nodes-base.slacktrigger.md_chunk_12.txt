@@ -1,3 +1,0 @@
-The node requires scopes for the [conversations.list](https://api.slack.com/methods/conversations.list){:target=blank .external-link} and [users.list](https://api.slack.com/methods/users.list){:target=blank .external-link} methods at minimum. Check out the [Scopes | Slack credentials](/integrations/builtin/credentials/slack/#scopes) list for a more complete list of scopes.
-
-## Common issues

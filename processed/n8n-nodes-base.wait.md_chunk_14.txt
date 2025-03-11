@@ -1,2 +1,0 @@
-* **IP(s) Whitelist**: Enter IP addresses here to limit who (or what) can invoke the webhook URL. Enter a comma-separated list of allowed IP addresses. Access from IPs outside the whitelist throws a 403 error. If left blank, all IP addresses can invoke the webhook URL.
-* **No Response Body**: Set whether n8n should send a body in the response (turned off) or prevent n8n from sending a body in the response (turned on).

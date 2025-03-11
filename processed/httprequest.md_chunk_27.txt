@@ -1,2 +1,0 @@
-- Enter the Public Key/CRT as the **Certificate**
-- Enter the **Private Key**/KEY in that field

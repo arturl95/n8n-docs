@@ -1,5 +1,0 @@
-* `actions`: a directory containing sub-directories that represent resources.
-    * Each sub-directory should contain two types of files: 
-      * An index file with resource description (named either `<resourceName>.resource.ts` or `index.ts`) 
-      * Files for operations `<operationName>.operation.ts`. These files should have two exports: `description` of the operation and an `execute` function.
-  * `methods`: an optional directory dynamic parameters' functions.

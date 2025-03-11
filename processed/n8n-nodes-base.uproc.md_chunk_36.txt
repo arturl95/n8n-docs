@@ -1,2 +1,0 @@
-- Get time data by coordinates
-- Get time data by postal address

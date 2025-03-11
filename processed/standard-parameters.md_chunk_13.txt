@@ -1,1 +1,0 @@
-* `noDataExpression`: Boolean. Prevents using an expression for the parameter. Must always be `true` for `resource`.

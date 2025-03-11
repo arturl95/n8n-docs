@@ -1,6 +1,0 @@
-1. Go to **Content Manager > Collection Types > User**.
-2. Select **Add new entry**.
-3. Fill in the user details. The n8n credential requires these fields, though your Strapi project may have more custom required fields:
-    - **Username**: Required for all Strapi users.
-    - **Email**: Enter in Strapi and use as the **Email** in the n8n credential.
-    - **Password**: Enter in Strapi and use as the **Password** in the n8n credential.

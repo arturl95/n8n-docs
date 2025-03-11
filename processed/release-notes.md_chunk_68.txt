@@ -1,7 +1,0 @@
-<div class="n8n-new-features" markdown>
-
-### Enhanced node: Remove Duplicates
-The [Remove Duplicates node](/integrations/builtin/core-nodes/n8n-nodes-base.removeduplicates/) got a major makeover with the addition of two new operations: 
-
-- Remove Items Processed in Previous Executions: Compare items in the current input to items from previous executions and remove duplicates  
-- Clear Deduplication History: Wipe the memory of items from previous executions.

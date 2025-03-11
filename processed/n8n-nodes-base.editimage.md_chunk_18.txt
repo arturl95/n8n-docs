@@ -1,3 +1,0 @@
-Refer to [Node options](#node-options) for optional configuration options.
-
-### Rotate parameters

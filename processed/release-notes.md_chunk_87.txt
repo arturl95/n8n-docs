@@ -1,4 +1,0 @@
-<video src="/_video/release-notes/nodes-as-tools.mp4" controls width="100%"></video>
-<br /><br />
-Additionally, we have added a `$fromAI()` placeholder function to use with tools, allowing you to dynamically pass information from the models to the connected tools. This function works similarly to placeholders used elsewhere in n8n. 
-<br /><br />

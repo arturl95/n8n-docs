@@ -1,8 +1,0 @@
-* Core: Fixes event message confirmations if no subscribers present.
-* Core: Remove threads package, rewrite log writer worker.
-* Core: Throw error in UI on expression referencing missing node but don't fail execution.
-* DB revert command shouldn't run full migrations before each revert.
-* Editor: Disable data pinning on multiple output node types.
-* Editor: Don't overwrite `window.onerror` in production.
-* Editor: Execution page bug fixes.
-* Editor: Fixes event bus test.

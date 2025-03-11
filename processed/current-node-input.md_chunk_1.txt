@@ -1,7 +1,0 @@
-/// note | Python support
-You can use Python in the Code node. It isn't available in expressions.
-///
-=== "JavaScript"
-	| Method | Description | Available in Code node? |
-	| ------ | ----------- | :-------------------------: |
-	| `$binary` | Shorthand for `$input.item.binary`. Incoming binary data from a node | :x: |

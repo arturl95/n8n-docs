@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Token**: Get your API token from **Account Settings >** [**API Token**](https://packagecloud.io/api_token){:target=_blank .external-link} or generate one through the Travis CI [command line client](https://github.com/travis-ci/travis.rb#installation){:target=_blank .external-link} .

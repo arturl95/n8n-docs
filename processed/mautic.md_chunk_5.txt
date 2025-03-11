@@ -1,8 +1,0 @@
-To set it up:
-
-1. In Mautic, go to **Configuration > Settings**.
-2. Select **API Credentials**.
-
-    /// note | No API Credentials menu
-    If you don't see the **API Credentials** option under **Configuration > Settings**, be sure to [Enable the API](#enable-the-api). If you've enabled the API and you still don't see the option, try [manually clearing the cache](https://forum.mautic.org/t/cant-find-api-credentials-menu/10689){:target=_blank .external-link}.
-    ///

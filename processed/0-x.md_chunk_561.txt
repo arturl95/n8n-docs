@@ -1,8 +1,0 @@
-### Core Functionality
-- Fixed overlapping buttons when viewing on mobile.
-- Fixed issue with partial workflow executions when Wait node was last.
-- Fixed issue with broken non-JSON requests.
-- Node errors now only displayed for executing nodes, not disconnected nodes.
-- Automatic save when executing new workflows with Webhook node.
-- Fixed an issue with how arrays were serialized for certain nodes.
-- Fixed an issue where executions could not be cancelled when running in Main mode.

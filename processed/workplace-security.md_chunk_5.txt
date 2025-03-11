@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to Meta's [Security](https://developers.facebook.com/docs/workplace/reference/webhooks/#security){:target=_blank .external-link} Workplace API reference for more information.

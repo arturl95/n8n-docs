@@ -1,2 +1,0 @@
-| 8      | Rihanna       | Pop star          | 2024-10-01T11:50:22.493Z |
-<!-- vale on -->

@@ -1,6 +1,0 @@
-### Enhanced nodes
-
-
-* [Jira Software:](/integrations/builtin/app-nodes/n8n-nodes-base.jira/) Added Components as an additional field.
-
-### Core Functionality

@@ -1,7 +1,0 @@
-This makes it easier to do [Custom operations](/integrations/custom-operations/) with these services, using the [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) node.
-
-</div>
-
-For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
-
-## n8n@1.1.1

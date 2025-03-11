@@ -1,3 +1,0 @@
-* [**Commit**](#commit) files or folders to git. Performs a [git commit](https://git-scm.com/docs/git-commit){:target=_blank .external-link}.
-* [**Fetch**](#fetch) from remote repository. Performs a [git fetch](https://git-scm.com/docs/git-fetch){:target=_blank .external-link}.
-* [**List Config**](#list-config): Return current configuration. Performs a [git config](https://git-scm.com/docs/git-config){:target=_blank .external-link} query.

@@ -1,8 +1,0 @@
-### Bug fixes
-
-
-* [Calendly Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.calendlytrigger/): updated the logo.
-* [Microsoft OneDrive node](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftonedrive/): fixed an issue that was preventing upload of files with special characters in the file name.
-* [QuickBooks node](/integrations/builtin/app-nodes/n8n-nodes-base.quickbooks/): fixed a pagination issue.
-
-### Contributors

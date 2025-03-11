@@ -1,2 +1,0 @@
-- Get XING profile by first name, last name, and company
-- Add a contact email to a person list

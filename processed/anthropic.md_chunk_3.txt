@@ -1,7 +1,0 @@
-Then:
-
-1. In the Anthropic Console, open **Settings >** [**API Keys**](https://console.anthropic.com/settings/keys){:target=_blank .external-link}.
-2. Select **+ Create Key**.
-3. Give your key a **Name**, like `n8n-integration`.
-4. Select **Copy Key** to copy the key.
-5. Enter this as the **API Key** in your n8n credential.

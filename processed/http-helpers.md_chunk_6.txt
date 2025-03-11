@@ -1,6 +1,0 @@
-* To override this behavior, set a `content-type` header.
-- `arrayFormat`: if your query string contains an array of data, such as `const qs = {IDs: [15,17]}`, the value of `arrayFormat` defines how n8n formats it.  
-	* `indices` (default):  `{ a: ['b', 'c'] }` as `a[0]=b&a[1]=c`  
-	* `brackets`: `{ a: ['b', 'c'] }` as `a[]=b&a[]=c`  
-	* `repeat`: `{ a: ['b', 'c'] }` as `a=b&a=c`  
-	* `comma`: `{ a: ['b', 'c'] }` as `a=b,c`

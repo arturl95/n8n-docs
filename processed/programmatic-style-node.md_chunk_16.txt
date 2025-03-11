@@ -1,5 +1,0 @@
-#### Step 3.5: Add operations
-
-The operations object defines what you can do with a resource. It usually relates to REST API verbs (GET, POST, and so on). In this tutorial, there's one operation: create a contact. It has one required field, the email address for the contact the user creates.
-
-Add the following to the `properties` array, after the `resource` object:

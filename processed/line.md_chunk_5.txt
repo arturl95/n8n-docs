@@ -1,5 +1,0 @@
-1. Enter a valid **Email address**. Line will verify this email address before the service is fully registered. Use an email address you have ready access to.
-1. Copy the **OAuth Redirect URL** from your n8n credential and enter it as the **Callback URL** in Line Notify.
-1. Select **Agree and continue** to agree to the terms of service.
-1. Verify the information you entered is correct and select **Add**.
-1. Check your email and open the Line Notify Registration URL to verify your email address.

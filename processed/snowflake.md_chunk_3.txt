@@ -1,2 +1,0 @@
-- An **Account** name: Your account name is the string of characters located between `https://` and `snowflakecomputing.com` in your Snowflake URL. For example, if the URL of your Snowflake account is `https://abc.eu-central-1.snowflakecomputing.com` then the name of your account is `abc.eu-central-1`.
-- A **Database**: Enter the name of the [database](https://docs.snowflake.com/en/sql-reference/sql/use-database){:target=_blank .external-link} the credential should connect to.

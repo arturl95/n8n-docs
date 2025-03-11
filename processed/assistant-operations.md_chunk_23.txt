@@ -1,3 +1,0 @@
-```
-- **Instructions**: Enter the system instructions that the assistant uses. The maximum length is 32,768 characters. Use this to specify the persona used by the model in its replies. 
-  ```

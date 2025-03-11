@@ -1,2 +1,0 @@
-| --separate | Exports one file per workflow (useful for versioning). Must set a directory using --output. |
-| --decrypted | Exports the credentials in a plain text format. |

@@ -1,6 +1,0 @@
-* Is generally free to use and can be distributed by anybody.
-* Has its source code openly available.
-* Can be extended by anybody in public and private communities.
-* Is commercially restricted by its authors.
-
-The Sustainable Use License is a fair-code license. You can read more about it and see other examples of fair-code licenses [here](https://faircode.io/).

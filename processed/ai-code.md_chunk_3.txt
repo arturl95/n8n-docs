@@ -1,7 +1,0 @@
-## Writing good prompts
-
-<!-- vale off -->
-
-Writing good prompts increases the chance of getting useful code back.
-
-Some general tips:

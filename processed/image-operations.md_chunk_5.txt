@@ -1,9 +1,0 @@
-Enter these parameters:
-
-- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
-- **Resource**: Select **Image**.
-- **Operation**: Select **Generate an Image**.
-- **Model**: Select the model you want to use to generate an image. 
-- **Prompt**: Enter the text description of the desired image(s). The maximum length is 1000 characters for `dall-e-2` and 4000 characters for `dall-e-3`.
-
-### Options

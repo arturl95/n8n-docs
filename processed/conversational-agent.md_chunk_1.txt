@@ -1,3 +1,0 @@
-# Conversational AI Agent node
-
-The Conversational Agent has human-like conversations. It can maintain context, understand user intent, and provide relevant answers. This agent is typically used for building chatbots, virtual assistants, and customer support systems.

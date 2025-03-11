@@ -1,5 +1,0 @@
-In the second Code node, enter this prompt:
-
-> The data in "Mock data" represents a list of people. For each person, return a new item containing personal_info.first_name and work_info.job_title.
-
-This is the JavaScript you need:

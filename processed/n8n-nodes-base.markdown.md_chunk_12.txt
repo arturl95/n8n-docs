@@ -1,2 +1,0 @@
-| **Smart Indentation Fix** | Whether to try to smartly fix indentation problems related to ES6 template strings in indented code blocks (enabled) or not (disabled). | Disabled |
-| **Spaces Indented Sublists** | Whether to remove the requirement to indent sublists four spaces (enabled) or not (disabled). | Disabled |

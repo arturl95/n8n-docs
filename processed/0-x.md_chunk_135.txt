@@ -1,3 +1,0 @@
-* ActiveCampaign Node: fix additional fields not being sent when updating account contacts.
-* Linear Node: fix issue with Issue States not loading correctly.
-* MySQL migration parses database contents if necessary (fix for MariaDB).

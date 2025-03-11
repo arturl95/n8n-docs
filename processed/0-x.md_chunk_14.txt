@@ -1,8 +1,0 @@
-/// warning | Unstable version
-This version is (as of 4th July 2023) considered unstable. n8n recommends upgrading directly to 0.234.1.	
-///
-/// warning | Irreversible database migration
-This version contains a database migration that changes credential and workflow IDs to use nanoId strings, This migration may take a while to complete in some environments. This change doesn't break anything using the older numeric IDs.
-
-If you upgrade to 0.234.0, you can't roll back to an earlier version.
-///

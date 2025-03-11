@@ -1,3 +1,0 @@
-The workflow should look like this:
-
-	<figure><img src="/_images/courses/level-two/chapter-two/exercise_datetime.png" alt="Workflow for transforming dates" style="width:100%"><figcaption align = "center"><i>Workflow for transforming dates</i></figcaption></figure>

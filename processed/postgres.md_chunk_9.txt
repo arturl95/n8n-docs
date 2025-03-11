@@ -1,4 +1,0 @@
-8. **SSH Tunnel**: Turn this setting on to connect to the database over SSH. Refer to [SSH tunnel limitations](#ssh-tunnel-limitations) for some guidance around using SSH. Once turned on, you'll need:
-    1. Select **SSH Authenticate with** to set the SSH Tunnel type to build:
-        - Select **Password** if you want to connect to SSH using a password.
-        - Select **Private Key** if you want to connect to SSH using an identity file (private key) and a passphrase.

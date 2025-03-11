@@ -1,8 +1,0 @@
-Then, in your n8n credential:
-
-1. If you aren't using GitHub Enterprise Server, don't change the **GitHub server** URL.
-    - If you're using [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.9/admin/overview/about-github-enterprise-server){:target=_blank .external-link}, update **GitHub server** to match the URL for your server.
-2. Enter your **User** name as it appears in your GitHub profile.
-3. Enter the **Access Token** you generated above.
-
-## Using OAuth2

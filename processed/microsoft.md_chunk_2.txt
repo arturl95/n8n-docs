@@ -1,2 +1,0 @@
-- [Microsoft Teams](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftteams/)
-- [Microsoft To Do](/integrations/builtin/app-nodes/n8n-nodes-base.microsofttodo/)

@@ -1,5 +1,0 @@
-3. In the left navigation, select [**Developer settings**](https://github.com/settings/apps){:target=_blank .external-link}.
-4. In the left navigation, under **Personal access tokens**, select **Tokens (classic)**.
-5. Select **Generate new token > Generate new token (classic)**.
-6. Enter a descriptive name for your token in the **Note** field, like `n8n integration`.
-7. Select the **Expiration** you'd like for the token, or select **No expiration**.

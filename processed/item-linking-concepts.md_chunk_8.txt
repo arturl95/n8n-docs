@@ -1,3 +1,0 @@
-In this example, it's possible for n8n to link an item in one node back several steps, despite the item order changing. This means the node that sorts movies alphabetically can access information about the linked item in the node that gets famous movie actors.
-
-The methods for accessing linked items are different depending on whether you're using the UI, expressions, or the code node. Explore the following resources:

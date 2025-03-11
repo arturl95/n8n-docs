@@ -1,5 +1,0 @@
-These guidelines apply to any node you build. 
-
-### Resources and operations
-
-If your node can perform several operations, call the parameter that sets the operation `Operation`. If your node can do these operations on more than one resource, create a `Resource` parameter. The following code sample shows a basic resource and operations setup:

@@ -1,3 +1,0 @@
-* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Fixed an issue causing the wrong Content-Type header to be set when downloading a file.
-* [ServiceNow:](/integrations/builtin/app-nodes/n8n-nodes-base.servicenow/) Fixed incorrect mapping of incident urgency and impact values.
-* [Start:](/integrations/builtin/core-nodes/n8n-nodes-base.start/) Fixed an issue causing the node to be disabled in a new workflow.

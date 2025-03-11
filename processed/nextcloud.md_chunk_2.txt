@@ -1,9 +1,0 @@
-## Using basic auth
-
-To configure this credential, you'll need a [Nextcloud](https://nextcloud.com/){:target=_blank .external-link} account and:
-
-- Your **Web DAV URL**
-- Your **User** name
-- Your **Password** or an app password
-
-To set it up:

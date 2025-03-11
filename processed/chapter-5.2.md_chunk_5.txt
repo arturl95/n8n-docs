@@ -1,2 +1,0 @@
-2. Use the [**Airtable node**](/integrations/builtin/app-nodes/n8n-nodes-base.airtable/) to list data from the `customers` table (where you updated the fields `region` and `subregion`).
-3. Use the [**Merge node**](/integrations/builtin/core-nodes/n8n-nodes-base.merge/) to merge data from the Airtable and HTTP Request node, based on matching the input fields for `customerID`.

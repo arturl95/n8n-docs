@@ -1,2 +1,0 @@
-1. Log into LinkedIn and select this link to [create a new developer app](https://www.linkedin.com/developers/apps/new){:target=_blank .external-link}.
-2. Enter an **App name** for your app, like `n8n integration`.

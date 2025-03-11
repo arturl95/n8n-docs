@@ -1,7 +1,0 @@
-## Common issues
-
-Here are some common errors and issues with the Facebook Lead Ads Trigger node and steps to resolve or troubleshoot them.
-
-### Workflow only works in testing or production
-
-Facebook Lead Ads only allows you to register a single webhook per app. This means that every time you switch from using the testing URL to the production URL (and vice versa), Facebook Lead Ads overwrites the registered webhook URL.

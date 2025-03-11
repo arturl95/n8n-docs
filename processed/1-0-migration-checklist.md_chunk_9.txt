@@ -1,5 +1,0 @@
-Note that executions start much faster in `main` mode than in `own` mode. However, if a workflow consumes more memory than is available, it might crash the entire n8n application instead of just the worker thread. To mitigate this, make sure to allocate enough system resources or configure [queue mode](/hosting/scaling/queue-mode/) to distribute executions among multiple workers.
-
-[PR #6196](https://github.com/n8n-io/n8n/pull/6196){:target=_blank .external link}
-
-## Breaking changes

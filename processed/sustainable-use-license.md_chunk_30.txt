@@ -1,3 +1,0 @@
-### Is n8n open source?
-
-Although n8n's source code is available under the Sustainable Use License, according to the [Open Source Initiative](https://opensource.org/) (OSI), open source licenses can't include limitations on use, so we do not call ourselves open source. In practice, n8n offers most users many of the same benefits as OSI-approved open source.

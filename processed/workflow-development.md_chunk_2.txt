@@ -1,3 +1,0 @@
-Using a test webhook ensures that you can view the incoming data in the editor UI, which is useful for debugging. Select **Listen for test event** to register the webhook before sending the data to the test webhook. The test webhook stays active for 120 seconds.
-
-When using the Webhook node on localhost on a [self-hosted](/hosting/) n8n instance, run n8n in tunnel mode:

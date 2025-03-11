@@ -1,4 +1,0 @@
-* [QuestDB](/integrations/builtin/app-nodes/n8n-nodes-base.questdb/) executes once for `insert`.
-* [Redis](/integrations/builtin/app-nodes/n8n-nodes-base.redis/):
-	* Info: this operation executes only once, regardless of the number of items in the incoming data.
-* [TimescaleDB](/integrations/builtin/app-nodes/n8n-nodes-base.timescaledb/) executes once for `insert` and `update`.

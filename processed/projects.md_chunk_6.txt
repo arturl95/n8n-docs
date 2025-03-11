@@ -1,3 +1,0 @@
-## Move workflows and credentials between projects or users
-
-Workflow and credential owners can move workflows or credentials (changing ownership) to other users or projects they have access to.

@@ -1,9 +1,0 @@
-Refer to the [Gmail API Method: users.drafts.get](https://developers.google.com/gmail/api/reference/rest/v1/users.drafts/get){:target=_blank .external-link} documentation for more information.
-
-<!-- vale off -->
-## Get Many drafts
-<!-- vale on -->
-
-Use this operation to get two or more drafts.
-
-Enter these parameters:

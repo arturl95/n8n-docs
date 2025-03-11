@@ -1,5 +1,0 @@
-This guide uses [EKS](https://aws.amazon.com/eks/){:target=_blank .external-link} as the hosting option. Using Kubernetes requires some additional complexity and configuration, but is the best method for scaling n8n as demand changes.
-
-## Prerequisites
-
-The steps in this guide use a mix of the AWS UI and [the eksctl CLI tool for EKS](https://eksctl.io){:target=_blank .external-link}.

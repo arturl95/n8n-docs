@@ -1,6 +1,0 @@
-* [Hacker News](/integrations/builtin/app-nodes/n8n-nodes-base.hackernews/)
-* [Jira Software](/integrations/builtin/app-nodes/n8n-nodes-base.jira/)
-* [Microsoft Outlook](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftoutlook/)
-* [Microsoft SQL](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftsql/)
-* [MongoDB](/integrations/builtin/app-nodes/n8n-nodes-base.mongodb/)
-* [MySQL](/integrations/builtin/app-nodes/n8n-nodes-base.mysql/)

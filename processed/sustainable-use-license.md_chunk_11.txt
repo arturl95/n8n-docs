@@ -1,3 +1,0 @@
-<span style="color: #1C9985;">**ALLOWED**</span> under the Sustainable Use License. No user credentials are being collected.
-
-### What if I want to use n8n for something that's not permitted by the license?

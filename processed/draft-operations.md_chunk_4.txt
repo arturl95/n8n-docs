@@ -1,4 +1,0 @@
-* **CC**: Enter one or more email addresses for carbon copy recipients. Separate multiple email addresses with a comma, for example `jay@gatsby.com, jon@smith.com`.
-* **From Alias Name or ID**: Select an alias to send the draft from. This field populates based on the credential you selected in the parameters.
-* **Send Replies To**: Enter an email address to set as the reply to address.
-* **Thread ID**: If you want this draft attached to a thread, enter the ID for that thread.

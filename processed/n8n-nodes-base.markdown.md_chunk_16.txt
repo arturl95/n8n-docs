@@ -1,6 +1,0 @@
-| Option | Description | Default |
-| ------ | ----------- | ------- |
-| **Bullet Marker** | Specify the character to use for unordered lists. | * |
-| **Code Block Fence** | Specify the characters to use for code blocks. | ``` |
-| **Emphasis Delimiter** | Specify the character `<em>`. | _ |
-| **Global Escape Pattern** | Overrides the default character escape settings. You may want to use Text Replacement Pattern instead. | None |

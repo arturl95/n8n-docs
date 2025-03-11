@@ -1,2 +1,0 @@
-4. Reveal and copy the **Project API key** for the `service_role`. Copy that key and enter it as your n8n **Service Role Secret**. Refer to [Understanding API Keys](https://supabase.com/docs/guides/api/api-keys){:target=_blank .external-link} for more information on the `service_role` privileges.
-<!-- vale on -->

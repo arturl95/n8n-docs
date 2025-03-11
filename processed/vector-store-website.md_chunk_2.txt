@@ -1,5 +1,0 @@
-[[ workflowDemo("file:///advanced-ai/examples/populate_a_pinecone_vector_database_from_a_website.json") ]]
-
-## Key features
-
-This workflow uses:

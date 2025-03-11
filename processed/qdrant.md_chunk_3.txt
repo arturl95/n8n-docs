@@ -1,6 +1,0 @@
-1. Go to the [Cloud Dashboard](https://qdrant.to/cloud){:target=_blank .external-link}.
-2. Select **Access Management** to display available API keys (or go to the **API Keys** section of the **Cluster detail** page).
-3. Select **Create**.
-4. Select the cluster you want the key to have access to in the dropdown.
-5. Select **OK**.
-6. Copy the API Key and enter it in your n8n credential.

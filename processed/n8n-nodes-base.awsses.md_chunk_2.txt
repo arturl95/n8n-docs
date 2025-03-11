@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [AWS SES credentials](/integrations/builtin/credentials/aws/) for guidance on setting up authentication. 
-///
-
-## Operations

@@ -1,3 +1,0 @@
-Here, the connection would be: AI agent (tools connector) -> Supabase Vector Store node.
-
-### Use a retriever to fetch documents

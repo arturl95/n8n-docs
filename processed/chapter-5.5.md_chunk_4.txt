@@ -1,1 +1,0 @@
-In n8n, the data that's passed between nodes is an array of objects with the following structure:

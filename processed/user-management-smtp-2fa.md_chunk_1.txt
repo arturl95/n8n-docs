@@ -1,8 +1,0 @@
-Refer to [User management](/hosting/configuration/user-management-self-hosted/) for more information on setting up user management and emails.
-<!-- vale off -->
-| Variable | Type | Default | Description |
-| :------- | :--- | :------ | :---------- |
-| `N8N_EMAIL_MODE` | String | `smtp` | Enable emails. |
-| `N8N_SMTP_HOST` | String | - | _your_SMTP_server_name_ |
-| `N8N_SMTP_PORT` | Number | - | _your_SMTP_server_port_ |
-| `N8N_SMTP_USER` | String | - | _your_SMTP_username_ |

@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to [Webhooks for Pages](https://developers.facebook.com/docs/graph-api/webhooks/getting-started/webhooks-for-pages){:target=_blank .external-link} and Meta's [Page](https://developers.facebook.com/docs/graph-api/webhooks/reference/page/){:target=_blank .external-link} Graph API reference for more information.

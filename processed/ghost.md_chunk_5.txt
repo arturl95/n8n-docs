@@ -1,3 +1,0 @@
-## Using Content API key
-
-To configure this credential, you'll need:

@@ -1,3 +1,0 @@
-### Python support in the Code node
-
-Although JavaScript remains the default language, you can now also select Python as an option in the [Code node](/code/code-node/) and even make use of [many Python modules](https://pyodide.org/en/stable/usage/packages-in-pyodide.html#packages-in-pyodide){:target=_blank .external link}. Note that Python is unavailable in Code nodes added to a workflow before v1.0.

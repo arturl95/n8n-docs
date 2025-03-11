@@ -1,6 +1,0 @@
-- Select **User-managed app** for **Select how the app is managed**.
-- Copy the **OAuth Callback URL** from n8n and enter it as an **OAuth Redirect URL** in Zoom.
-- If your n8n credential displays a **Whitelist URL**, also enter that URL as a an **OAuth Redirect URL**.
-- Enter **Scopes** for the scopes you plan to use. For all functionality in the [Zoom](/integrations/builtin/app-nodes/n8n-nodes-base.zoom/) node, select:
-    - `meeting:read`
-    - `meeting:write`

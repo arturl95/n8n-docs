@@ -1,3 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Project API Key**: To generate an API key, first create a Bannerbear project. Go to **Settings > API Key** to view the API key. Refer to the [Bannerbear API Authentication documentation](https://developers.bannerbear.com/#authentication){:target=_blank .external-link} for more detailed steps.

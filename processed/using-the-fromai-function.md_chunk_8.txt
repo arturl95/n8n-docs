@@ -1,7 +1,0 @@
-To use the `$fromAI()` function, call it with the required `key` parameter:
-
-```javascript
-{{ $fromAI('email') }}
-```
-
-The `key` parameter and other arguments to the `$fromAI()` function aren't references to existing values. Instead, think of these arguments as hints that the AI model will use to populate the right data.

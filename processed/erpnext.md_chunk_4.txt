@@ -1,3 +1,0 @@
-- For **Self-hosted**:
-        - The fully qualified **Domain** where you host ERPNext
-- Choose whether to **Ignore SSL Issues**: When selected, n8n will connect even if SSL certificate validation is unavailable.

@@ -1,7 +1,0 @@
-### External mode
-
-In external mode, an external orchestrator (for example, Kubernetes) launches the task runner instead of n8n. Typically, this means you would configure the task runner to run as a side-car container next to n8n.
-
-![Task runner deployed as a side-car container](/_images/hosting/configuration/task-runner-external-mode.png)
-
-In this mode, the orchestrator monitors and manages the life cycle of the task runner container. The task runner is fully isolated from the n8n instance.

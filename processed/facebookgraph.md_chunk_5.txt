@@ -1,5 +1,0 @@
-3. Select the **Use case** that aligns with how you wish to use the Facebook Graph API. For example, for products in Meta's **Business** suite (like Messenger, Instagram, WhatsApp, Marketing API, App Events, Audience Network, Commerce API, Fundraisers, Jobs, Threat Exchange, and Webhooks), select **Other**, then select **Next**.
-4. Select **Business** and **Next**.
-5. Complete the essential information:
-    * Add an **App name**.
-    * Add an **App contact email**.

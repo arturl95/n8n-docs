@@ -1,5 +1,0 @@
-1. The page displays the **Data API root URL**, for example: `https://n8n-integration.bubbleapps.io/version-test/api/1.1/obj`.
-1. Copy the part of the URL after `https://` and before `.bubbleapps.io` and enter it in n8n as the **App Name**. In the above example, you'd enter `n8n-integration`.
-1. Select **Generate a new API token**.
-8. Enter an **API Token Label**, like `n8n integration`.
-1. Copy the **Private key** and enter it as the **API Token** in your n8n credential.

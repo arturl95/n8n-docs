@@ -1,3 +1,0 @@
-/// note | Make sure you ran the NASA node in the previous section
-		If you didn't follow the step in the previous section to run the NASA node, you won't see any data to work with in this step.
-		///

@@ -1,3 +1,0 @@
-- [Google BigQuery](/integrations/builtin/app-nodes/n8n-nodes-base.googlebigquery/): Added option to return numeric values as integers and not strings 
-- [HTTP Request](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/): Added credential support for Sysdig 
-- [Invoice Ninja](/integrations/builtin/app-nodes/n8n-nodes-base.invoiceninja/): Additional query params for getAll requests

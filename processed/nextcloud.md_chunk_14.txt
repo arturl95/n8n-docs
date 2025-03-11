@@ -1,1 +1,0 @@
-Refer to the Nextcloud [OAuth2 Configuration documentation](https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/oauth2.html){:target=_blank .external-link} for more detailed instructions.

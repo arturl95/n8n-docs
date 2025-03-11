@@ -1,9 +1,0 @@
-### Node enhancements
-
-<div class="n8n-new-features" markdown>
-
-The [Item Lists node](/integrations/builtin/core-nodes/n8n-nodes-base.itemlists/) now supports a Summarize operation. This acts similarly to generating pivot tables in Excel, allowing you to aggregate and compare data.
-
-</div>
-
-### Bug fixes

@@ -1,6 +1,0 @@
-Before continuing, clear the duplication history to get ready for the next example:
-
-7. Open the Remove Duplicates node and set the **Operation** to **Clear Deduplication History**.
-8. Select **Test step** to clear the current duplication history.
-
-## Keep items where the value is a date later than any previous date

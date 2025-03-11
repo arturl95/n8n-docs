@@ -1,1 +1,0 @@
-- An **Access Token**: Refer to the [Carbon Black Create an API key documentation](https://developer.carbonblack.com/reference/carbon-black-cloud/authentication#carbon-black-cloud-manages-identities-and-roles){:target=_blank .external-link} to create an API key. Add the **API Secret Key** as the **Access Token** in n8n.

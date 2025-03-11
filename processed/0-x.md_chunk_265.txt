@@ -1,7 +1,0 @@
-</div>
-
-### Node enhancements
-
-Crypto node: add SHA3 support.
-
-### Bug fixes

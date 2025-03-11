@@ -1,7 +1,0 @@
-If you are having issues, please report them in the [Community Forums](https://community.n8n.io/){:target=_blank .external-link} or on [GitHub](https://github.com/n8n-io/n8n/issues){:target=_blank .external-link}.
-
-## Migration guide to the new helper
-
-The new helper is much more robust, library agnostic, and easier to use.
-
-New nodes should all use the new helper. You should strongly consider migrating existing custom nodes to the new helper. These are the main considerations when migrating:

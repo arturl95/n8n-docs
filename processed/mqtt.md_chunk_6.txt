@@ -1,5 +1,0 @@
-8. If your MQTT broker uses SSL, turn the **SSL** toggle on. Once you turn it on:
-    1. Select whether to use **Passwordless** connection with certificates, which is like the SASL mechanism EXTERNAL. If turned on:
-        1. Select whether to **Reject Unauthorized Certificate**: If turned off, n8n will connect even if the certificate validation fails.
-        2. Add an SSL **Client Certificate**.
-        3. Add an SSL **Client Key** for the Client Certificate.

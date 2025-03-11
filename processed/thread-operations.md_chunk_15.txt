@@ -1,7 +1,0 @@
-Refer to the [Gmail API Method: users.threads.list](https://developers.google.com/gmail/api/reference/rest/v1/users.threads/list){:target=_blank .external-link} documentation for more information.
-
-## Remove label from a thread
-
-Use this operation to remove a label from a thread.
-
-Enter these parameters:

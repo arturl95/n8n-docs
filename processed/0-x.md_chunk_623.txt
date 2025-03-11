@@ -1,8 +1,0 @@
-### Core Functionality
-- Added a workflow testing framework using a new CLI command to execute all desired workflows. Run `n8n executeBatch --help` for details.
-- Added support to display binary video content in Editor UI.
-
-### Bug fixes
-
-* [Google Sheets:](/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/) Fixed an issue with handling 0 value that resulted in empty cells.
-* [SSH:](/integrations/builtin/core-nodes/n8n-nodes-base.ssh/) Fixed an issue with setting passphrases.

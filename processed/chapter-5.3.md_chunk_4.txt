@@ -1,6 +1,0 @@
-/// question | Quiz questions
-* What fields does the **Error Trigger node** return?
-* What information about the execution does the **Error Trigger node** return?
-* What information about the workflow does the **Error Trigger node** return?
-* What's the expression to reference the workflow name?
-///

@@ -1,5 +1,0 @@
-* Core: fixes an issue that was causing parameters to get lost in some edge cases.
-* Core: fixes an issue with combined expressions not resolving if one expression was invalid.
-* Core: fixed an issue that was causing the public API to fail to build on Windows.
-* Editor: ensure errors display correctly.
-* [HTTP Request node](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/){:target=_blank}: better handling for requests that return null.

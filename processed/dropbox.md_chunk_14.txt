@@ -1,3 +1,0 @@
-/// warning | User limits
-On the **Settings** tab, you can add other users to your app. Once your app links 50 Dropbox users, you will have two weeks to apply for and receive production status approval before Dropbox freezes your app from linking more users.
-///

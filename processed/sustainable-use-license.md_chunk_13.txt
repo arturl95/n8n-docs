@@ -1,3 +1,0 @@
-If you are unsure whether the use case you have in mind constitutes an internal business purpose or not, take a look at [the examples](#what-is-and-isnt-allowed-under-the-license-in-the-context-of-n8ns-product), and if you're still unclear, email us at [license@n8n.io](mailto:license@n8n.io).
-
-### Why don't you use an open source license?

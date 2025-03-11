@@ -1,7 +1,0 @@
-#### Response Code
-
-Enter the Response Code the webhook should return. You can use common codes or enter a custom code.
-
-#### Respond
-
-Set when and how to respond to the webhook from these options:

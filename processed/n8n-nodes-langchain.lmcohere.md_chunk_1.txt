@@ -1,7 +1,0 @@
-/// note | Credentials
-You can find authentication information for this node [here](/integrations/builtin/credentials/cohere/).
-///
-
---8<-- "_snippets/integrations/builtin/cluster-nodes/sub-node-expression-resolution.md"
-
-## Node Options

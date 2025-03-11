@@ -1,6 +1,0 @@
-### Core Functionality
-- Implemented the native `fs/promise` library where possible
-- Added the functionality to output logs to the console or a file
-- We have updated the minimum required version for Node.js to v14.15. For more details, check out the entry in the [breaking changes](https://github.com/n8n-io/n8n/blob/master/packages/cli/BREAKING-CHANGES.md#01180) page
-
-### Bug fixes

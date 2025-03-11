@@ -1,3 +1,0 @@
-## Restore or copy previous versions
-
-You can restore a previous workflow version, or make a copy of it:

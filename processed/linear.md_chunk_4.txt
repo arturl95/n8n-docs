@@ -1,4 +1,0 @@
-- A **Client ID**: Generated when you create a new OAuth2 application.
-- A **Client Secret**: Generated when you create a new OAuth2 application.
-- Select the **Actor**: The actor defines how the OAuth2 application should create issues, comments and other changes. Options include:
-    - **User** (Linear's default): The application creates resources as the authorizing user. Use this option if you want each user to do their own authentication.

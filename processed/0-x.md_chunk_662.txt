@@ -1,3 +1,0 @@
-* [AWS Comprehend:](/integrations/builtin/app-nodes/n8n-nodes-base.awscomprehend/) Added the Detect Entities operation
-* [AWS Lambda:](/integrations/builtin/app-nodes/n8n-nodes-base.awslambda/) Added the ability to list functions recursively if the number of functions exceeds 50
-* [Google Analytics:](/integrations/builtin/app-nodes/n8n-nodes-base.googleanalytics/) Added pagination to the Report resource

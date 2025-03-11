@@ -1,6 +1,0 @@
-Enter these parameters:
-- **Credential to connect with**: Create or select an existing [Google Drive credentials](/integrations/builtin/credentials/google/).
-- **Resource**: Select **Folder**.
-- **Operation**: Select **Create**.
-- **Folder Name**: The name to use for the new folder.
-- **Parent Drive**: Select **From list** to choose the drive from the dropdown list, **By URL** to enter the URL of the drive, or **By ID** to enter the `driveId`.

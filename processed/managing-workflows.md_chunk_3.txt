@@ -1,5 +1,0 @@
-### 1. Obtain user credentials
-
-Here you need to capture all credentials for any node/service this user must authenticate with, along with any additional parameters required for the particular workflow. The credentials and any parameters needed will depend on your workflow and what you are trying to do.
-
-### 2. Create user credentials

@@ -1,4 +1,0 @@
-This release contains new features and bug fixes. It includes improvements to the nodes panel and executions list. It also deprecates the Read Binary File node.
-
-
-### New features

@@ -1,6 +1,0 @@
-| Configuration   | Description                                             |
-|-----------------|---------------------------------------------------------|
-| `command`       | `["/usr/local/bin/task-runner-launcher", "javascript"]` |
-| `livenessProbe` | `GET /healthz`, port `5680`                             |
-
-Set the following environment variables for the container, adjusted to fit your needs:

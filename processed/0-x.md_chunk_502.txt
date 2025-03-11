@@ -1,1 +1,0 @@
-* [Raindrop:](/integrations/builtin/app-nodes/n8n-nodes-base.raindrop/) Added Parse Metadata option to Create, Update operations of the Bookmark resource.

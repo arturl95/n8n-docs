@@ -1,1 +1,0 @@
-n8n offers space to discuss LangChain on the [Discord](https://discord.gg/bAt54txhHg){:target=_blank .external-link}. Join to share your projects and discuss ideas with the community.

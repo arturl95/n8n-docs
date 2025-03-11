@@ -1,1 +1,0 @@
-| n8n.log.file.maxcount | N8N_LOG_FILE_COUNT_MAX | The maximum number of log files to keep. The default value is 100. This value should be set when using workers. |

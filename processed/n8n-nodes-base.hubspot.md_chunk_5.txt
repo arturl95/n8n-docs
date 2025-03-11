@@ -1,3 +1,0 @@
-* Get a ticket
-    * Get all tickets
-    * Update a ticket

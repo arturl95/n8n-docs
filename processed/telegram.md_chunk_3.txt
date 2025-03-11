@@ -1,5 +1,0 @@
-1. Start a chat with the [BotFather](https://telegram.me/BotFather){:target=_blank .external-link}.
-2. Enter the `/newbot` command to create a new bot.
-3. The BotFather will ask you for a name and username for your new bot:
-    * The **name** is the bot's name displayed in contact details and elsewhere. You can change the bot name later.
-    * The **username** is a short name used in search, mentions, and t.me links. Use these guidelines when creating your username:

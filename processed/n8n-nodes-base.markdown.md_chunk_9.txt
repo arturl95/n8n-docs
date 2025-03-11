@@ -1,2 +1,0 @@
-| **Mandatory Space Before Header** | Whether to make a space between `#` and heading text required (enabled) or not (disabled). When enabled, n8n renders a heading written as `##Some header text` literally (it doesn't turn it into a heading element) | Disabled |
-| **Middle Word Asterisks** | Whether n8n should treat asterisks in words as Markdown (disabled) or render them as literal asterisks (enabled). | Disabled |

@@ -1,1 +1,0 @@
-- [HighLevel](/builtin/app-nodes/n8n-nodes-base.highlevel/): Added support for calendar items

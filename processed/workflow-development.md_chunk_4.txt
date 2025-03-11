@@ -1,3 +1,0 @@
-When working with a Production webhook, ensure that you have saved and activated the workflow. Data flowing through the webhook isn't visible in the editor UI with the production webhook.
-
-Refer to [Create a workflow](/workflows/create/) for more information on activating workflows.

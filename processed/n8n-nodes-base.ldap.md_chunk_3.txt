@@ -1,9 +1,0 @@
-Configure this operation using these parameters:
-
-* **Credential to connect with**: Select or create an [LDAP credential](/integrations/builtin/credentials/ldap/) to connect with.
-* **DN**: Enter the Distinguished Name (DN) of the entry to create.
-* **Attributes**: Add the **Attribute ID**/**Value** pairs you'd like to create.
-
-## Delete
-
-Configure this operation using these parameters:

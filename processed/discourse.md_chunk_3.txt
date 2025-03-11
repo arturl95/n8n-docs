@@ -1,1 +1,0 @@
-Refer to the Authentication section of the [Discourse API documentation](https://docs.discourse.org/){:target=_blank .external-link} for examples.

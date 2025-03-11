@@ -1,2 +1,0 @@
-* [Stripe Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.stripetrigger/) Fixed an issue preventing the node from being activated when a previously created webhook no longer exists.
-* [Toggl Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.toggltrigger/) Updated the API URL used by the node.

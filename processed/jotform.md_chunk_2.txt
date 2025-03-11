@@ -1,6 +1,0 @@
-1. Go to **Settings >** [**API**](https://www.jotform.com/myaccount/api){:target=_blank .external-link}.
-2. Select **Create New Key**.
-3. Select the **Name** in JotForm to update the API key name to something meaningful, like `n8n integration`.
-4. Copy the **API Key** and enter it in your n8n credential.
-5. In n8n, select the **API Domain** that applies to you based on the forms you're using:
-    - **api.jotform.com**: Use this unless the other form types apply to you.

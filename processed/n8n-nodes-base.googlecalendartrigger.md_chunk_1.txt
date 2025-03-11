@@ -1,7 +1,0 @@
-# Google Calendar Trigger node
-
-[Google Calendar](https://www.google.com/calendar/){:target=_blank .external-link} is a time-management and scheduling calendar service developed by Google.
-
-/// note | Credentials
-You can find authentication information for this node [here](/integrations/builtin/credentials/google/).
-///

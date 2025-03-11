@@ -1,3 +1,0 @@
-To configure this credential, select **Authorization Code** as the **Grant Type**.
-
-Then enter:

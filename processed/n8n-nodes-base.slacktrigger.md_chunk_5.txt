@@ -1,2 +1,0 @@
-* **New User**: The node triggers when a new user is added to Slack.
-* **Reaction Added**: The node triggers when a [reaction](https://slack.com/help/articles/202931348-Use-emoji-and-reactions){:target=_blank .external-link} is added to a message the app is added to.

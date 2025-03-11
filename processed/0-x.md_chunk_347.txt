@@ -1,4 +1,0 @@
-* [HubSpot node](/integrations/builtin/app-nodes/n8n-nodes-base.hubspot/): Fix for search endpoints.
-* [KoboToolbox node](/integrations/builtin/app-nodes/n8n-nodes-base.kobotoolbox/): Improve attachment matching logic and GeoJSON Polygon format.
-* [Odoo node](/integrations/builtin/app-nodes/n8n-nodes-base.odoo/): Prevent possible issues with some custom fields.
-* Sticky note node: Fix an issue that was causing the main header to hide.

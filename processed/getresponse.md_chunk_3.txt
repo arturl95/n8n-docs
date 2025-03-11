@@ -1,7 +1,0 @@
-To configure this credential, you'll need:
-
-- An **API Key**: To view or generate an API key, go to **Integrations and API > API**. Refer to the [GetResponse Help Center](https://www.getresponse.com/help/where-do-i-find-the-api-key.html){:target=_blank .external-link} for more detailed instructions.
-
-## Using OAuth2
-
-To configure this credential, you'll need:

@@ -1,5 +1,0 @@
-| Node type | Inputs | Outputs | Code mode |
-| --------- | ------ | ------- | --------- |
-| App node. Similar to the [Code node](/integrations/builtin/core-nodes/n8n-nodes-base.code/). | Main | Main | Execute |
-| Root node | Main; at least one other type | Main | Execute |
-| Sub-node | - | A type other than main. Must match the input type you want to connect to. | Supply Data |

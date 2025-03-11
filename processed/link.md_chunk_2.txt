@@ -1,7 +1,0 @@
-///  note  | Examples and templates
-For usage examples and templates to help you get started, refer to n8n's [Facebook Trigger integrations](https://n8n.io/integrations/facebook-trigger/){:target=_blank .external-link} page.
-///
-
-## Trigger configuration
-
-To configure the trigger with this Object:

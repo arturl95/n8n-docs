@@ -1,7 +1,0 @@
-* A chat model, to process chat inputs and generate responses.
-* Memory, so that the workflow can remember and use previous sections of the chat.
-
-Use the connectors on the bottom of the AI Agent node to connect the following:
-
-* **Model**: OpenAI Chat Model. 
-	Set up the credentials for this node.

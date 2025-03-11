@@ -1,1 +1,0 @@
-If you're [self-hosting](/hosting/) n8n, you'll need a [Spotify Developer](https://developer.spotify.com/){:target=_blank .external-link} account so you can create a Spotify app:

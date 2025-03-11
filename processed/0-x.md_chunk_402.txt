@@ -1,7 +1,0 @@
-#### Sticky Notes
-
-This release adds Sticky Notes, a new feature that allows you to annotate and comment on your workflows. Refer to the [Sticky Notes](/workflows/sticky-notes/) for more information.
-
-</div>
-
-### Enhancements

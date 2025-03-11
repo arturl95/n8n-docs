@@ -1,9 +1,0 @@
-## Help out the community
-
-You can participate in the [forum](https://community.n8n.io/){:target=_blank class=.external-link} and help the community members out with their questions.
-
-When sharing workflows in the community forum for debugging, use code blocks. Use triple backticks ` ``` ` to wrap the workflow JSON in a code block.
-
-The following video demonstrates the steps of sharing workflows on the community forum:
-
-<div class="video-container">

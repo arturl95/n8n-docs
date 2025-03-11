@@ -1,5 +1,0 @@
-## Using API access token
-
-To configure this credential, you'll need:
-
-- An **Access Token**: Generate an Access Token in **Applications > Personal Access Tokens**. Refer to [Netlify API Authentication](https://docs.netlify.com/api/get-started/#authentication){:target=_blank .external-link} for more detailed instructions.

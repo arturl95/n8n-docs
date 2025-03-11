@@ -1,3 +1,0 @@
-* [**Add**](#add) a file or folder to commit. Performs a [git add](https://git-scm.com/docs/git-add){:target=_blank .external-link}.
-* [**Add Config**](#add-config): Add configuration property. Performs a [git config](https://git-scm.com/docs/git-config){:target=_blank .external-link} set or add.
-* [**Clone**](#clone) a repository: Performs a [git clone](https://git-scm.com/docs/git-clone){:target=_blank .external-link}.

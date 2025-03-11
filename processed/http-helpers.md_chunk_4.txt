@@ -1,3 +1,0 @@
-`url` is required. The other fields are optional. The default method is `GET`.
-
-Some notes about the possible fields:

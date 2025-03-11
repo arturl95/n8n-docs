@@ -1,4 +1,0 @@
-- **Can Edit**: Whether the current user can edit files from this shared drive.
-	- **Can List Children**: Whether the current user can list the children of folders in this shared drive.
-	- **Can Manage Members**: Whether the current user can add, remove, or change the role of members of this shared drive.
-	- **Can Read Revisions**: Whether the current user can read the revisions resource of files in this shared drive.

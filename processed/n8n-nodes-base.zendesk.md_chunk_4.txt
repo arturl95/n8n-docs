@@ -1,6 +1,0 @@
-* Delete an organization
-    * Count organizations
-    * Get an organization
-    * Get all organizations
-    * Get data related to the organization
-    * Update a organization

@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [SecurityScorecard credentials](/integrations/builtin/credentials/securityscorecard/) for guidance on setting up authentication. 
-///
-
-## Operations

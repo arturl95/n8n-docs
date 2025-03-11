@@ -1,7 +1,0 @@
-To avoid losing data:
-
-* Design your source control setup so that workflows flow in one direction. For example, make edits on a development instance, push to Git, then pull to production. Don't make edits on the production instance and push them.
-* Don't push all workflows. Select the ones you need.
-* Be cautious about manually editing files in the Git repository.
-
-### Credentials, variables and workflow tags

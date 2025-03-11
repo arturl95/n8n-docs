@@ -1,2 +1,0 @@
-* For workflows created before version 1.0: n8n executes the first node of each branch, then the second node of each branch, and so on.
-* For workflows created in version 1.0 and above: executes each branch in turn, completing one branch before starting another. n8n orders the branches based on their position on the canvas, from topmost to bottommost. If two branches are at the same height, the leftmost branch executes first.

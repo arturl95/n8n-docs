@@ -1,4 +1,0 @@
-If you need to configure OAuth2 from scratch, [create an integration](https://docs.sentry.io/organization/integrations/integration-platform/#creating-an-integration){:target=_blank .external-link} with these settings:
-
-- Copy the n8n **OAuth Callback URL** and add it as an **Authorized Redirect URI**.
-- Copy the **Client ID** and **Client Secret** and add them to your n8n credential.

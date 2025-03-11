@@ -1,9 +1,0 @@
-- Discover the gender of a person by the email
-- Discover the gender of a person or company by the name
-- Get LinkedIn employee profile URI by business email
-- Get LinkedIn employee profile URI by first name, last name, and company
-- Discover the letter of a DNI card number
-- Get first personal name matching by prefix and gender from INE data source (only for Spain)
-- Get LinkedIn URI by email
-- Get LinkedIn URI by phone
-- Allow normalizing a DNI number by removing non allowed characters

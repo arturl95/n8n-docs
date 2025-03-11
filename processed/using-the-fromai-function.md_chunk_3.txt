@@ -1,1 +1,0 @@
-or [Slack](/integrations/builtin/app-nodes/n8n-nodes-base.slack/)) connected to a tool node.

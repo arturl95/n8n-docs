@@ -1,1 +1,0 @@
-Refer to Intuit's [Set up OAuth 2.0 documentation](https://developer.intuit.com/app/developer/qbo/docs/develop/authentication-and-authorization/oauth-2.0){:target=_blank .external-link} for more information on the entire process.

@@ -1,9 +1,0 @@
-#### Node input and output search filter
-
-Cloud Pro and Enterprise users can now search and filter the input and output data in nodes. Refer to [Data filtering](/data/data-filtering/) for more information.
-
-</div>
-
-For full release details, refer to [Releases](https://github.com/n8n-io/n8n/releases){:target=_blank .external-link} on GitHub.
-
-## n8n@1.17.1

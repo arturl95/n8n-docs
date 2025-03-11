@@ -1,2 +1,0 @@
-1. For the **S3 Endpoint**, enter the service URL for your bucket's region. Start it with `https://`.
-    - Refer to [What are the service URLs for Wasabi's different storage regions?](https://knowledgebase.wasabi.com/hc/en-us/articles/360015106031-What-are-the-service-URLs-for-Wasabi-s-different-storage-regions){:target="_blank" .external-link} to identify the correct URL.

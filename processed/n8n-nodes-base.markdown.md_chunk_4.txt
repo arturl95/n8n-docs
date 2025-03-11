@@ -1,2 +1,0 @@
-| **Backslash Escapes HTML Tags** | Whether to allow backslash escaping of HTML tags (enabled) or not (disabled). When enabled, n8n escapes any `<` or `>` prefaced with `\`. For example, `\<div\>` renders as `&lt;div&gt;`.  | Disabled |
-| **Complete HTML Document** | Whether to output a complete HTML document (enabled) or an HTML fragment (disabled). A complete HTML document includes the `<DOCTYPE HTML>` declaration, `<html>` and `<body>` tags, and the `<head>` element.  | Disabled |

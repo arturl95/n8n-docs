@@ -1,6 +1,0 @@
-### Insert Documents parameters
-
-* **Memory Key**: Enter the key to use to store the vector memory in the workflow data. n8n prefixes the key with the workflow ID to avoid collisions.
-* **Clear Store**: Use this parameter to control whether to wipe the vector store for the given memory key for this workflow before inserting data (turned on).
-
-### Retrieve Documents (As Vector Store for Chain/Tool) parameters

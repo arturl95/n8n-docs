@@ -1,9 +1,0 @@
-## Prerequisites
-
-Create and run an [Ollama](https://ollama.com/){:target=_blank .external-link} instance with one user. Refer to the Ollama [Quick Start](https://github.com/ollama/ollama/blob/main/README.md#quickstart){:target=_blank .external-link} for more information.
-
-## Supported authentication methods
-
-- Instance URL
-
-## Related resources

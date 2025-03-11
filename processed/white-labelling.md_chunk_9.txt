@@ -1,3 +1,0 @@
-![Example Logo Main Sidebar](/_images/embed/white-label/logo-main-sidebar.png)
-
-If your logo assets require different sizing or placement you can customize SCSS styles at the bottom of [MainSidebar.vue](https://github.com/n8n-io/n8n/blob/master/packages/editor-ui/src/components/MainSidebar.vue){:target=_blank .external-link}.

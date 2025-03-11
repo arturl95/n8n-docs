@@ -1,3 +1,0 @@
-## Use an app password
-
---8<-- "_snippets/integrations/builtin/credentials/email/outlook-app-password.md"

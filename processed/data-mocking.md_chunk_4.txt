@@ -1,7 +1,0 @@
-The Edit Fields node is a good choice for small tests. To create more complex datasets, use the Code node.
-
-## Output a sample data set from the Customer Datastore node
-
-The Customer Datastore node provides a fake dataset to work with. Add and execute the node to explore the data.
-
-Use this approach if you need some test data when exploring n8n, and you don't have a real use-case to work with.

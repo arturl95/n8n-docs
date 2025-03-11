@@ -1,8 +1,0 @@
-Enter these parameters:
-
-- **Credential to connect with**: Create or select an existing [Google Drive credentials](/integrations/builtin/credentials/google/).
-- **Resource**: Select **Shared Drive**.
-- **Operation**: Select **Create**.
-- **Name**: The name to use for the new shared drive.
-
-### Options

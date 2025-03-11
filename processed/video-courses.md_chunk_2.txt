@@ -1,5 +1,0 @@
-- [Core workflow concepts](https://youtu.be/kkrA7tGHYNo?si=mLVbuV98ohL5YVnm){:target=_blank .external-link}
-- [Useful nodes](https://youtu.be/Rmi-ckbMOQE?si=H_dF77uf5KJU7RtH){:target=_blank .external-link}
-- [Error handling](https://youtu.be/XEUVl3bbMhI?si=nUyaME5kyxe6daGO){:target=_blank .external-link}
-- [Debugging](https://youtu.be/Gxe_RfCRH-o?si=F-pAviLTIeL3-X13){:target=_blank .external-link}
-- [Collaboration](https://youtu.be/pI0W-0Qcwmo?si=X7sALFXo2e-cY9FQ){:target=_blank .external-link}

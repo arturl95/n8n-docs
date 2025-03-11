@@ -1,5 +1,0 @@
-1. [Create a Meta app](#create-a-meta-app) with the Webhooks product.
-2. [Generate an App Access Token](#generate-an-app-access-token) for that app.
-3. [Configure the Facebook trigger](#configure-the-facebook-trigger).
-4. Optional: [Add an app secret](#optional-add-an-app-secret).
-5. [App Review](#app-review): Only required if your app's users don't have roles on the app itself. If you're creating the app for your own internal purposes, this isn't necessary.

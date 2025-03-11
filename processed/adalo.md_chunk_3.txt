@@ -1,8 +1,0 @@
-1. From the app dropdown in the top navigation, select **CREATE NEW APP**.
-1. Select the App Layout type that makes sense for you and select **Next**.
-    - If you're new to using the product, Adalo recommend using **Mobile Only**.
-1. Select a template to get started with or select **Blank**, then select **Next**.
-1. Enter an **App Name**, like `n8n integration`.
-1. If applicable, select the **Team** for the app.
-1. Select branding colors.
-1. Select **Create**. The app editor opens.

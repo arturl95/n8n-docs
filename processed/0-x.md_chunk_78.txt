@@ -1,5 +1,0 @@
-<div class="n8n-new-features" markdown>
-
-This release introduces improvements to the execution lists. You can now save [Custom execution data](/workflows/executions/custom-executions-data/), and use it to filter both the [All executions](/workflows/executions/all-executions/) and [Single workflow executions](/workflows/executions/single-workflow-executions/) lists.
-
-</div>

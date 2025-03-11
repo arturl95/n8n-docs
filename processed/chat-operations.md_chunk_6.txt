@@ -1,4 +1,0 @@
-* **Credential to connect with**: Create or select an existing [Telegram credential](/integrations/builtin/credentials/telegram/).
-* **Resource**: Select **Chat**.
-* **Operation**: Select **Get Administrators**.
-* **Chat ID**: Enter the Chat ID or username of the target channel in the format `@channelusername`.

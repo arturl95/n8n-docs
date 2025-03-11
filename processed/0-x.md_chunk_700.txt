@@ -1,5 +1,0 @@
-### Core Functionality
-
-- Fixed an issue with the Redis connection to prevent memory leaks
-
-### Bug fixes

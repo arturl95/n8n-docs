@@ -1,7 +1,0 @@
-Create an `n8n-secret.yaml` file. Refer to [Environment variables](/hosting/configuration/environment-variables/) for n8n environment variables details.
-
-## Deployments
-
-The two deployment manifests (`n8n-deployment.yaml` and `postgres-deployment.yaml`) define the n8n and Postgres applications to Kubernetes.
-
-The manifests define the following:

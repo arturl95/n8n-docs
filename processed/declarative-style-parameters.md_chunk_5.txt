@@ -1,7 +1,0 @@
-## `routing`
-
-_Object_ | _Required_
-
-`routing` is an object used within an `options` array in operations and input field objects. It contains the details of an API call.
-
-The code example below comes from the [Declarative-style tutorial](/integrations/creating-nodes/build/declarative-style-node/). It sets up an integration with a NASA API. It shows how to use `requestDefaults` to set up the basic API call details, and `routing` to add information for each operation.

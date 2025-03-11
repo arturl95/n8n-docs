@@ -1,8 +1,0 @@
-## Templates and examples
-
-<!-- see https://www.notion.so/n8n/Pull-in-templates-for-the-integrations-pages-37c716837b804d30a33b47475f6e3780 -->
-[[ templatesWidget(page.title, 'embeddings-azure-openai') ]]
-
-## Related resources
-
-Refer to [LangChains's OpenAI embeddings documentation](https://js.langchain.com/docs/integrations/text_embedding/azure_openai/){:target=_blank .external-link} for more information about the service.

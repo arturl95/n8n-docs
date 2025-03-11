@@ -1,3 +1,0 @@
-By using worker instances and running in queue mode, you can scale n8n up (by adding workers) and down (by removing workers) as needed to handle the workload.
-
-This is the process flow:

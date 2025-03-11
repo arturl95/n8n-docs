@@ -1,5 +1,0 @@
-## Step five: Add logic with the If node
-
-n8n supports complex logic in workflows. In this tutorial, use the [If node](/integrations/builtin/core-nodes/n8n-nodes-base.if) to create two branches that each generate a report from the NASA data. Solar flares have five possible classifications. You'll create logic that sends a report with the lower classifications to one output, and the higher classifications to another. 
-
-Add the If node:

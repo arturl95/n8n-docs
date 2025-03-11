@@ -1,3 +1,0 @@
-* If your workflow relies on an external system to trigger it, such as a webhook call, being able to pin data means you don't need to use the external system every time you test the workflow.
-* If the external resource has data or usage limits, pinning data during tests avoids consuming your resource limits.
-* You can fetch and pin the data you want to test, then have confidence that the data is consistent in all your workflow tests.

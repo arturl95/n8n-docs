@@ -1,5 +1,0 @@
-#### Embeddings
-
-> Embeddings capture the "relatedness" of text, images, video, or other types of information. ([source](https://supabase.com/docs/guides/ai/concepts){:target=_blank .external-link})
-
-Available nodes:

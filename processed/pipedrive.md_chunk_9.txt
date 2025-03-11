@@ -1,4 +1,0 @@
-| **Object** | **Node action** | **UI scope** | **Actual scope** |
-| --- | --- | --- | --- |
-| Activity | Get data of an activity <br> Get data of all activities | **Activities: Read only** or <br> **Activities: Full Access** | `activities:read` or <br> `activities:full` |
-| Activity | Create <br> Delete <br> Update | **Activities: Full Access** | `activities:full` |

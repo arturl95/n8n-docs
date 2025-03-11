@@ -1,3 +1,0 @@
-#### Credential support for SecOps services
-
-This release introduces support for setting up credentials in n8n for the following services:

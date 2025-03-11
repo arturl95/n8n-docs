@@ -1,7 +1,0 @@
-Learn more about [Document loaders in LangChain](https://js.langchain.com/docs/concepts/document_loaders){:target=_blank .external-link}.
-
-#### Language models
-
-LLMs (large language models) are programs that analyze datasets. They're the key element of working with AI.
-
-Available nodes:

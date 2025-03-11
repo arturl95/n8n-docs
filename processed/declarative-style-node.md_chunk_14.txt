@@ -1,3 +1,0 @@
-n8n uses some of the properties set in `description` to render the node in the Editor UI. These properties are `displayName`, `icon`, `description`, and `subtitle`.
-
-#### Step 3.4: Add resources

@@ -1,6 +1,0 @@
-- Parse phone number in multiple fields and verify format and prefix validity
-- Allows getting country prefix number by country code
-- Discover an email by company website or domain and prospect's first-name and last-name
-- This tool parses a social URI address and extracts any available indicators
-- Search all social networks by domain, parses all found URLs, and returns social networks data
-- Discover if a domain or a website has social activity and returns all social network profiles found

@@ -1,9 +1,0 @@
-- Check if an ASIN code exists on the Amazon Marketplace
-- Check if an ASIN code has a valid format
-- Check if an EAN code exists on Amazon Marketplace
-- Check if an EAN barcode has a valid format
-- Check if an EAN barcode of 13 digits has a valid format
-- Check if an EAN barcode of 14 digits has a valid format
-- Check if an EAN barcode of 18 digits has a valid format
-- Check if an EAN barcode of 8 digits has a valid format
-- Check if a GTIN barcode has a valid format

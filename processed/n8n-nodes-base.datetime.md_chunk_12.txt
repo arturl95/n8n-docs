@@ -1,2 +1,0 @@
-* **From Date Format**: If the node isn't recognizing the **Date** format correctly, enter the format for that **Date** here so the node can process it properly. Use Luxon's [special tokens](https://moment.github.io/luxon/#/formatting?id=table-of-tokens){:target=_blank .external-link} to enter the format. Tokens are case-sensitive
-* **Use Workflow Timezone**: Whether to use the input's time zone (turned off) or the workflow's timezone (turned on).

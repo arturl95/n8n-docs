@@ -1,7 +1,0 @@
-### New nodes
-
-
-* [Figma Trigger (Beta)](/integrations/builtin/trigger-nodes/n8n-nodes-base.figmatrigger/)
-* [Workable Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.workabletrigger/)
-
-### Enhanced nodes

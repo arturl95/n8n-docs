@@ -1,8 +1,0 @@
-## Using Auth Token
-
-To configure this credential, you'll need a [Twilio](https://twilio.com/){:target=_blank .external-link} account and:
-
-- Your Twilio **Account SID**
-- Your Twilio **Auth Token**
-
-To set up the credential:

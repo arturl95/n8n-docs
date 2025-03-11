@@ -1,5 +1,0 @@
-<!-- vale off -->
-### Get Many messages filters
-<!-- vale on -->
-
-Use these filters to further refine the node's behavior:

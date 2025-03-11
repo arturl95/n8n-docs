@@ -1,3 +1,0 @@
-* [MQTT:](/integrations/builtin/app-nodes/n8n-nodes-base.mqtt/) Added SSL/TLS support to authentication.
-* [MQTT Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.mqtttrigger/) Added SSL/TLS support to authentication.
-* [Salesforce:](/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) Added File Extension option to the Document resource. Added Type field to Task resource.

@@ -1,3 +1,0 @@
-Refer to [Create an app](https://developer.monday.com/apps/docs/create-an-app){:target=_blank .external-link} for more information on creating apps.
- 
- Refer to [OAuth and permissions](https://developer.monday.com/apps/docs/oauth){:target=_blank .external-link} for more information on the available scopes and setting up the Redirect URL.

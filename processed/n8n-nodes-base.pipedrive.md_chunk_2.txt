@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Pipedrive credentials](/integrations/builtin/credentials/pipedrive/) for guidance on setting up authentication. 
-///
-
-## Operations

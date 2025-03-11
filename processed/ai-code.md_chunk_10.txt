@@ -1,9 +1,0 @@
-### Example prompts
-
-These examples show a range of possible prompts and tasks.
-
-#### Example 1: Find a piece of data inside a second dataset
-
-To try the example yourself, [download the example workflow](/_workflows/ai-code/find-a-piece-of-data.json) and import it into n8n.
-
-In the third Code node, enter this prompt:

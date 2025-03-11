@@ -1,8 +1,0 @@
-* [F5 Big-IP](/integrations/builtin/credentials/f5bigip/)
-* [Fortinet FortiGate](/integrations/builtin/credentials/fortigate/)
-* [Hybrid Analysis](/integrations/builtin/credentials/hybridanalysis/)
-* [Imperva WAF](/integrations/builtin/credentials/impervawaf/)
-* [Kibana](/integrations/builtin/credentials/kibana/)
-* [Microsoft Entra ID](/integrations/builtin/credentials/microsoftentra/)
-* [Mist](/integrations/builtin/credentials/mist/)
-* [Okta](/integrations/builtin/credentials/okta/)

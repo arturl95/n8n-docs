@@ -1,3 +1,0 @@
-### Batch requests
-
-Use the Batching option to send more than one request, reducing the request size, and introducing a pause between requests. This is the equivalent of using Loop Over Items and Wait.

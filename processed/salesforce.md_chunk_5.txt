@@ -1,3 +1,0 @@
-3. From **Setup** in Salesforce, enter `App Manager` in the Quick Find box, then select **App Manager**.
-3. On the App Manager page, select **New Connected App**.
-4. Enter the required **Basic Info** for your connected app, including a **Name** and **Contact Email address**. Refer to Salesforce's [Configure Basic Connected App Settings](https://help.salesforce.com/s/articleView?id=sf.connected_app_create_basics.htm&type=5){:target=_blank .external-link} documentation for more information.

@@ -1,4 +1,0 @@
-## Prerequisites
-
-- Create a Mailchimp [Transactional email account](https://mailchimp.com/features/transactional-email-infrastructure/){:target=_blank .external-link} 
-- Log in to [Mandrill](https://mandrillapp.com/login/){:target=_blank .external-link} with your Mailchimp account.

@@ -1,3 +1,0 @@
-1. Restart n8n.
-
-For information on using LangSmith, refer to [LangSmith's documentation](https://docs.smith.langchain.com/){:target=_blank .external-link}.

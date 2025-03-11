@@ -1,8 +1,0 @@
-</div>
-
-* App integration actions are now displayed in the nodes pane.
-* Add sharing permissions info for workflow sharees.
-* Handle sharing features when the user skips instance owner setup.
-* Update the credential test error message for credential sharees.
-
-### Bug fixes

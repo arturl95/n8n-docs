@@ -1,9 +1,0 @@
-## Example: Single instance performance
-
-This test measures how response time increases as requests per second increase. It looks at the response time when calling the Webhook Trigger node.
-
-Setup:
-
-- Hardware: ECS c5a.large instance (4GB RAM)
-- n8n setup: Single n8n instance (running in main mode, with Postgres database)
-- Workflow: Webhook Trigger node, Edit Fields node

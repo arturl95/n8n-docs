@@ -1,9 +1,0 @@
-- Convert a number to an IP address
-- Get ISP known name of email domain name
-- Convert an IP address to numeric notation
-- Scan a host and returns the most commonly open ports
-- Obtains a list with multiple results from a website
-- Obtains the content of a website
-- Decode URL into multiple fields
-- Generate a PDF file by URL (provided using Chrome browser)
-- Get the root domain of any web address, removing non needed characters

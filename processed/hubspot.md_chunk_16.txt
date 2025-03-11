@@ -1,9 +1,0 @@
-/// warning | HubSpot old accounts
-Some HubSpot accounts don't have access to all the scopes. HubSpot is migrating accounts gradually. If you can't find all the scopes in your current HubSpot developer account, try creating a fresh developer account.
-///
-
-## Using OAuth2
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-If you're [self-hosting](/hosting/) n8n, you'll need to configure OAuth2 from scratch by creating a new public app:

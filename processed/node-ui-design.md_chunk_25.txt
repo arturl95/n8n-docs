@@ -1,4 +1,0 @@
-* By entering an ID.
-* Name the field `<Record name> name or ID`. For example, **Workspace Name or ID**. Add a tooltip saying "Choose a name from the list, or specify an ID using an expression." Link to n8n's [Expressions](/code/expressions/) documentation.
-* Build your node so that it can handle users providing more information than required. For example:
-    * If you need a relative path, handle the user pasting in the absolute path.

@@ -1,6 +1,0 @@
-5. To access the NASA APIs, you need to set up credentials:
-    1. Select the  **Credential for NASA API** dropdown.
-    2. Select **- Create New -**. n8n opens the credentials view.
-    3. Go to [NASA APIs](https://api.nasa.gov/){:target=_blank .external-link} and fill out the form in **Generate API Key**. NASA generates the key and displays it.
-    4. Copy the key, and paste it into **API Key** in n8n.
-    5. Select **Save**.

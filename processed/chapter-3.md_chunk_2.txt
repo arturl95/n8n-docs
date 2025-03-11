@@ -1,2 +1,0 @@
-/// note | One-way vs. two-way sync
-In a one-way sync, data is synchronized in one direction. One system serves as the single source of truth. When information changes in that main system, it automatically changes in the secondary system; but if information changes in the secondary system, the changes aren't reflected in the main system.

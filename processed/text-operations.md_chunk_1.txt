@@ -1,9 +1,0 @@
-# OpenAI Text operations
-
-Use this operation to message a model or classify text for violations in OpenAI. Refer to [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-base.openai/) for more information on the OpenAI node itself.
-
-## Message a Model
-
-Use this operation to send a message or prompt to an OpenAI model and receive a response.
-
-Enter these parameters:

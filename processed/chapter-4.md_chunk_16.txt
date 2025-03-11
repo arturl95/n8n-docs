@@ -1,9 +1,0 @@
-/// note | When to throw errors
-Throwing exceptions with the **Stop and Error node** is useful for verifying the data (or assumptions about the data) from a node and returning custom error messages.
-
-If you are working with data from a third-party service, you may come across problems such as:
-
-- Wrongly formatted JSON output
-- Data with the wrong type (for example, numeric data that has a non-numeric value)
-- Missing values
-- Errors from remote servers

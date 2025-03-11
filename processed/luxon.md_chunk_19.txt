@@ -1,6 +1,0 @@
-For more detailed information and examples, refer to:
-
-* Luxon's [guide to math](https://moment.github.io/luxon/#/math)
-* Their API documentation on [DateTime plus](https://moment.github.io/luxon/api-docs/index.html#datetimeplus) and [DateTime minus](https://moment.github.io/luxon/api-docs/index.html#datetimeminus)
-
-### Create human-readable dates

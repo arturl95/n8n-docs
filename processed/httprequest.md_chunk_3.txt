@@ -1,4 +1,0 @@
-Refer to [HTTP authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication){:target=_blank .external-link} for more information relating to generic credential types.
-
-/// note | Predefined credential types
-n8n recommends using predefined credential types whenever there's a credential type available for the service you want to connect to. It offers an easier way to set up and manage credentials, compared to configuring generic credentials.

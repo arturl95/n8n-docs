@@ -1,3 +1,0 @@
-/// note | Don't see this option?
-    If you don't see this option, your store probably doesn't have custom app development enabled. Refer to [Enable custom app development](#enable-custom-app-development) for more information.
-    ///

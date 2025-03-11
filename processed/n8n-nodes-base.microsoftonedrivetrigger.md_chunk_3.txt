@@ -1,5 +1,0 @@
-## Related resources
-
-n8n provides an app node for Microsoft OneDrive. You can find the node docs [here](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftonedrive/).
-
-View [example workflows and related content](https://n8n.io/integrations/microsoft-onedrive-trigger/){:target=_blank .external-link} on n8n's website.

@@ -1,7 +1,0 @@
-n8n uses projects to group workflows and credentials, and assigns [roles](/user-management/rbac/role-types/) to users in each project. This means that a single user can have different roles in different projects, giving them different levels of access.
-
-## Create a project
-
-Instance owners and instance admins can create projects.
-
-To create a project:

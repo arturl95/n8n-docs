@@ -1,3 +1,0 @@
-1. Set up SAML with your IdP (identity provider). You need the redirect URL and entity ID. You may also need an email address and name for the IdP user.
-1. After completing setup in your IdP, load the metadata XML into n8n. You can use a metadata URL or raw XML:
-	1. **Metadata URL**: Copy the metadata URL from your IdP into the **Identity Provider Settings** field in n8n.

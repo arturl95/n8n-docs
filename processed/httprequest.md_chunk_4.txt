@@ -1,6 +1,0 @@
-You can use [Predefined credential types](/integrations/custom-operations/#predefined-credential-types) to perform custom operations with some APIs where n8n has a node for the platform. For example, n8n has an Asana node, and supports using your Asana credentials in the HTTP Request node. Refer to [Custom operations](/integrations/custom-operations/) for more information.
-///
-
-## Using predefined credential type
-
---8<-- "_snippets/integrations/predefined-credential-type-how-to.md"

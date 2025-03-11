@@ -1,1 +1,0 @@
-For both the **Image** types, select the **Image Details** to control how the model processes the image and generates its textual understanding. Choose from:

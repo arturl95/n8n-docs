@@ -1,4 +1,0 @@
-| Solution | Pros | Cons |
-| -------- | ---- | ---- |
-| Create a workflow for each user | No limitation on how workflow starts (can use any trigger) | Requires managing multiple workflows. |
-| Create a single workflow, and pass it user credentials when executing | Simplified workflow management (only need to change one workflow). | To run the workflow, your product must call it |

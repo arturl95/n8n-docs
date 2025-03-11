@@ -1,6 +1,0 @@
-- Personal Access Token (PAT)
-- OAuth2
-
-/// note | API Key deprecation
-n8n used to offer an API key authentication method with Airtable. Airtable [fully deprecated these keys](https://support.airtable.com/docs/airtable-api-key-deprecation-notice){:target=_blank .external-link} as of February 2024. If you were using an Airtable API credential, replace it with an Airtable Personal Access Token or Airtable OAuth2 credential. n8n recommends using Personal Access Token instead.
-///

@@ -1,1 +1,0 @@
-The resource mapper component can also validate input data against the schema provided in the node, and cast input data into the expected type.

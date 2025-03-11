@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [Nextcloud credentials](/integrations/builtin/credentials/nextcloud/) for guidance on setting up authentication. 
-///
-
-## Operations

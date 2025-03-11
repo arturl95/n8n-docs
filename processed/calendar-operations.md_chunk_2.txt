@@ -1,5 +1,0 @@
-## Availability
-
-Use this operation to check if a time-slot is available in a calendar.
-
-Enter these parameters:

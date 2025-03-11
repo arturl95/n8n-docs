@@ -1,8 +1,0 @@
-### New nodes
-
-* [AWS SQS](/integrations/builtin/app-nodes/n8n-nodes-base.awssqs/)
-* [Copper](/integrations/builtin/app-nodes/n8n-nodes-base.copper/)
-* [ERPNext](/integrations/builtin/app-nodes/n8n-nodes-base.erpnext/)
-* [Oura](/integrations/builtin/app-nodes/n8n-nodes-base.oura/)
-
-### Enhanced nodes

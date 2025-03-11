@@ -1,6 +1,0 @@
-1. Select **Create**. The app editor opens.
-1. In the left menu, select **Settings** (the gear cog icon).
-1. Select **App Access**.
-1. In the **API Key** section, select **Generate Key**.
-    - If you don't have the correct plan level, you'll see a prompt to upgrade instead.
-1. Copy the key and enter it as the **API Key** in your n8n credential.

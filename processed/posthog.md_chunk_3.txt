@@ -1,2 +1,0 @@
-- An **API Key**: The API key you use depends on whether you're accessing public or private endpoints:
-    - For public POST-only endpoints, use a [Project API key](https://app.posthog.com/project/settings) from your project's **General** Settings.

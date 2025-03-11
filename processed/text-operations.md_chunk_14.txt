@@ -1,9 +1,0 @@
-Enter these parameters:
-
-- **Credential to connect with**: Create or select an existing [OpenAI credential](/integrations/builtin/credentials/openai/).
-- **Resource**: Select **Text**.
-- **Operation**: Select **Classify Text for Violations**.
-- **Text Input**: Enter text to classify if it violates the moderation policy. 
-- **Simplify Output**: Turn on to return a simplified version of the response instead of the raw data.
-
-### Options

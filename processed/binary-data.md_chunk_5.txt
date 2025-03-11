@@ -1,6 +1,0 @@
-### Code
-
-You can use the [Code node](/code/code-node/) to manipulate binary data in your workflows. For example, [Get the binary data buffer](/code/cookbook/code-node/get-binary-data-buffer/): get the binary data available in your workflow.
-
-
-## Configure binary data mode when self-hosting

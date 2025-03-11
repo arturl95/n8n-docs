@@ -1,3 +1,0 @@
-- Writes the results to the database.
-	- Posts to Redis, saying that the execution has finished.
-1. Redis notifies the main instance.

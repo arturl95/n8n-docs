@@ -1,9 +1,0 @@
-# Gmail node Label Operations
-
-Use the Label operations to create, delete, or get a label or list labels in Gmail. Refer to the [Gmail node](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) for more information on the Gmail node itself.
-
-## Create a label
-
-Use this operation to create a new label.
-
-Enter these parameters:

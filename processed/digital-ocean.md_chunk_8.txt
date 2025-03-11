@@ -1,3 +1,0 @@
-5. Follow the steps to set up SSH for the new user: [Add Public Key Authentication](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04#step-four-add-public-key-authentication-recommended){:target=_blank .external-link}.
-5. Log out of the droplet.
-6. Log in using SSH as the new user.

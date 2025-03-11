@@ -1,9 +1,0 @@
-## Troubleshooting
-
-### Google hasn't verified this app
-
---8<-- "_snippets/integrations/builtin/credentials/google/unverified-app.md"
-
-### Google Cloud app becoming unauthorized
-
---8<-- "_snippets/integrations/builtin/credentials/google/app-becoming-unauthorized.md"

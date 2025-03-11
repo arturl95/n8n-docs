@@ -1,4 +1,0 @@
-### Options
-
-- **Query**: The query string to use to search for shared drives. See [Search for shared drives | Google Drive](https://developers.google.com/drive/api/guides/search-shareddrives) for more information.
-- **Use Domain Admin Access**: Whether to issue the request as a domain administrator. When enabled, grants the requester access if they're an administrator of the domain to which the shared drive belongs.

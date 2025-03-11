@@ -1,5 +1,0 @@
-You can upgrade community nodes to the latest version from the node list in **Settings** > **community nodes**.
-
-When a new version of a community node is available, n8n displays an **Update** button on the node. Click the button to upgrade to the latest version.
-
-### Upgrade to a specific version

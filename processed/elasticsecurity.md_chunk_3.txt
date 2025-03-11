@@ -1,7 +1,0 @@
-1. In Elasticsearch, select the option to **Manage this deployment**.
-    2. In the **Applications** section, copy the endpoint of the **Elasticsearch** application.
-    3. Add this in n8n as the **Base URL**.
-
-/// note | Custom endpoint aliases
-If you add a [custom endpoint alias](https://www.elastic.co/guide/en/cloud/current/ec-regional-deployment-aliases.html){:target=_blank .external-link} to a deployment, update your n8n credential **Base URL** with the new endpoint.
-///

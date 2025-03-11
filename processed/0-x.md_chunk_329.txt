@@ -1,9 +1,0 @@
-For an example of the new authentication syntax, refer to n8n's [Asana node](https://github.com/n8n-io/n8n/blob/master/packages/nodes-base/credentials/AsanaApi.credentials.ts){:target=_blank .external-link}.
-
-```js
-// in AsanaApi.credentials.ts
-import {
-	IAuthenticateGeneric,
-	ICredentialType,
-	INodeProperties,
-} from 'n8n-workflow';

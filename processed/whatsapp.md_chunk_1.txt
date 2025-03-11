@@ -1,4 +1,0 @@
-- [WhatsApp Business Cloud](/integrations/builtin/app-nodes/n8n-nodes-base.whatsapp/)
-- [WhatsApp Trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.whatsapptrigger/)
-
-## Prerequisites

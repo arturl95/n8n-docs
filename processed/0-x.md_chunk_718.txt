@@ -1,2 +1,0 @@
-- Fixed naming and description for the `N8N_SKIP_WEBHOOK_DEREGISTRATION_SHUTDOWN` environment variable
-- Fixed an issue with auto-refresh of the execution list

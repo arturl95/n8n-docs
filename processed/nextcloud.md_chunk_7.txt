@@ -1,6 +1,0 @@
-- An **Authorization URL** and **Access Token URL**: These depend on the URL you use to access Nextcloud.
-- A **Client ID**: Generated once you add an OAuth2 client application in **Administrator Security Settings**.
-- A **Client Secret**: Generated once you add an OAuth2 client application in **Administrator Security Settings**.
-- A **Web DAV URL**: This depends on the URL you use to access Nextcloud.
-
-To set it up:

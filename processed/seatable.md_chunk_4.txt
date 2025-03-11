@@ -1,1 +1,0 @@
-- A **Timezone**: Select the timezone of your SeaTable server.

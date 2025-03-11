@@ -1,3 +1,0 @@
-- Select **Live** for an app that you've [deployed](https://manual.bubble.io/help-guides/getting-started/navigating-the-bubble-editor/deploying-your-app){:target=_blank .external-link}, accessed at `https://appname.bubbleapps.io` or `https://www.mydomain.com`.
-1. In n8n, select your **Hosting**:
-    - If you haven't set up a custom domain, select **Bubble Hosting**.

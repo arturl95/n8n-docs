@@ -1,4 +1,0 @@
-- **Name**: The name of the workflow
-- **Started At**: The date and time when the workflow started
-- **Status**: The status of the workflow (Waiting, Running, Succeeded, Cancelled, or Failed) and the amount of time it took the workflow to execute
-- **Execution ID**: The ID of this workflow execution

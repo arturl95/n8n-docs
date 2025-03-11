@@ -1,4 +1,0 @@
-- An **Access Token URL**: The URL to hit to begin the OAuth2 flow. Typically this URL ends in `/token`.
-- A **Client ID**: The ID or username to use to log in to the client.
-- A **Client Secret**: The secret or password used to log in to the client.
-- _Optional:_ Enter one or more **Scope**s for the credential. Most services don't support scopes for Client Credentials grant types; only enter scopes here if yours does.

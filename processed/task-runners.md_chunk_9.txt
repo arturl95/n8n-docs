@@ -1,3 +1,0 @@
-The launcher can start the runner on-demand, which means lower memory usage when there's no work needed, but a short delay (few hundred ms) in cold-start. The launcher also monitors the runner and restarts it in case of infinite loops or other issues.
-
-Run a task runner container from the n8n Docker image by setting the following properties:

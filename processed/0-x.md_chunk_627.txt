@@ -1,4 +1,0 @@
-* [AWS S3:](/integrations/builtin/app-nodes/n8n-nodes-base.awsS3/) Added Delete operation to the Bucket Resource.
-* [Google Analytics:](/integrations/builtin/app-nodes/n8n-nodes-base.googleanalytics/) Added Dimension Filters to the available Additional Fields.
-* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Added Split Into Items option.
-* [MQTT:](/integrations/builtin/app-nodes/n8n-nodes-base.mqtt/) Added mqqts protocol for MQTT credentials.

@@ -1,7 +1,0 @@
-Refer to [Generate Keys](https://developer.woocommerce.com/docs/getting-started-with-the-woocommerce-rest-api/#3-generate-keys){:target=_blank .external-link} for more information.
-
-## Resolve "Consumer key is missing" error
-
-When you try to connect your credentials, you may receive an error like this: `Consumer key is missing`.
-
-This occurs when the server can't parse the Authorization header details when authenticating over SSL.

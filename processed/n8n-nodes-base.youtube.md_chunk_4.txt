@@ -1,6 +1,0 @@
-* Retrieve all videos
-    * Rate a video
-    * Update a video
-    * Upload a video
-* Video Category
-    * Retrieve all video categories

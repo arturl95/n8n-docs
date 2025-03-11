@@ -1,7 +1,0 @@
-```javascript
-$fromAI("numItemsInStock", "Number of items in stock", "number", 5)
-```
-
-## Templates
-
-You can see the `$fromAI()` function in action in the following templates:

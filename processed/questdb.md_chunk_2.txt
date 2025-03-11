@@ -1,4 +1,0 @@
-- The **Host**: Enter the host name or IP address for the server.
-- The **Database**: Enter the database name, for example `qdb`.
-- A **User**: Enter the username for the user account as configured in `pg.user` or `pg.readonly.user` property in `server.conf`. Default value is `admin`.
-- A **Password**: Enter the password for the user account as configured in `pg.password` or `pg.readonly.password` property in `server.conf`. Default value is `quest`.

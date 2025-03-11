@@ -1,5 +1,0 @@
-- Returns straight-line distance (kilometers) between two addresses
-- Returns straight-line distance (kilometers) between two GPS coordinates (latitude and longitude)
-- Returns straight-line distance (kilometers) between two IP addresses
-- Returns straight-line distance (kilometers) between two landline phones, using city and province of every phone
-- Returns straight-line distance (kilometers) between two zip codes, using city and province of every zip code

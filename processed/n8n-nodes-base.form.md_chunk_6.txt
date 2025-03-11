@@ -1,4 +1,0 @@
-Here, percent-encoding replaces the at-symbol (`@`) with the string `%40` and the space character (` `) with the string `%20`. This will set the initial value for these fields no matter which page of the form they appear on.
-<!-- vale from-microsoft.Percentages = YES -->
-
-### Defining the form using JSON

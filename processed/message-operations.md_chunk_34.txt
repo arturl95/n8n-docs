@@ -1,3 +1,0 @@
-* **Type of Approval**: Choose **Approve Only** (default) to include only an approval button or **Approve and Disapprove** to also include a disapproval option.
-* **Approve Button Label**: The label to use for the approval button (**Approve** by default).
-* **Approve Button Style**: Whether to style the approval button as a **Primary** (default) or **Secondary** button.

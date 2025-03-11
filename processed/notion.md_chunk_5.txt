@@ -1,4 +1,0 @@
-- `User information without email addresses`
-6. Be sure to **Save changes**.
-7. Select the **Secrets** tab.
-8. Copy the **Internal Integration Token** and add it as your n8n **Internal Integration Secret**.

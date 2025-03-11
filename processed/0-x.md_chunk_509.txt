@@ -1,3 +1,0 @@
-* [Google Contacts:](/integrations/builtin/app-nodes/n8n-nodes-base.googlecontacts/) Added Query option to Get All operation, also prevented the node from failing when no contacts are found.
-* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Added support for query-based authentication.
-* [Home Assistant:](/integrations/builtin/app-nodes/n8n-nodes-base.homeassistant/) Added support for loading possible options in the Domain, Service, and Entity ID fields.

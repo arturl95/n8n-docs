@@ -1,2 +1,0 @@
-* n8n recommends that owners create a member-level account for themselves. Owners can see all workflows, but there is no way to see who created a particular workflow, so there is a risk of overriding other people's work if you build and edit workflows as an owner.
-* Users must be careful not to edit the same workflow simultaneously. It's possible to do it, but the users will overwrite each other's changes.

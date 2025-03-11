@@ -1,5 +1,0 @@
-### GDPR for self-hosted users
-
---8<-- "_snippets/privacy-security/gdpr-self-hosted.md"
-
-<!-- vale on -->

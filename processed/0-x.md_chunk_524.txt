@@ -1,8 +1,0 @@
-### Core Functionality
-
-- Fixed a bug causing connections between nodes to disappear when renaming a newly added node after drawing a connection to its endpoints.
-- Fixed a build issue by adding TypeScript definitions for validator.js to CLI package, also fixed a linting issue by removing an unused import.
-- Improved the waiting state of trigger nodes to explain when an external event is required.
-- Loops are now drawn below their source node.
-
-### Bug fixes

@@ -1,6 +1,0 @@
-2. Select **Create Token**.
-3. Enter a **Token description**, like `n8n integration`.
-4. Select **Save**.
-5. Copy the **Token ID** and enter it as the **Access Token** in your n8n credential.
-6. Enter your Mattermost URL as the **Base URL**.
-7. By default, n8n connects only if SSL certificate validation succeeds. To connect even if SSL certificate validation fails, turn on **Ignore SSL Issues**.

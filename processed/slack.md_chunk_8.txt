@@ -1,6 +1,0 @@
-///  note  | Request URL
-    Slack only allows one request URL per app. If you want to test your workflow, you'll need to do one of the following:
-
-    - Test with your **Test URL** first, then change your Slack app to use the **Production URL** once you've verified everything's working
-    - Use the **Production URL** with execution logging.
-    ///

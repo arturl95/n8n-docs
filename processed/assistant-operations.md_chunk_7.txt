@@ -1,2 +1,0 @@
-- **Knowledge Retrieval**: Turn on to enable knowledge retrieval for the assistant, allowing it to access external sources or a connected knowledge base. Refer to [File Search | OpenAI Platform](https://platform.openai.com/docs/assistants/tools/file-search){:target=_blank .external-link} for more information. 
-  - **Files**: Select a file to upload for your external knowledge source. Use **Upload a File** operation to add more files.

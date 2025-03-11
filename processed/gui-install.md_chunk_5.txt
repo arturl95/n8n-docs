@@ -1,6 +1,0 @@
-/// note | Nodes on the blocklist
-n8n maintains a blocklist of community nodes that it prevents you from installing. Refer to [n8n community node blocklist](/integrations/community-nodes/blocklist/) for more information.
-///
-## Uninstall a community node
-
-To uninstall a community node:

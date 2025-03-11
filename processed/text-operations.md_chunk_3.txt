@@ -1,2 +1,0 @@
-- **Operation**: Select **Message a Model**.
-- **Model**: Select the model you want to use. If you’re not sure which model to use, try `gpt-4o` if you need high intelligence or `gpt-4o-mini` if you need the fastest speed and lowest cost. Refer to [Models overview | OpenAI Platform](https://platform.openai.com/docs/models){:target=_blank .external-link} for more information.

@@ -1,1 +1,0 @@
-Refer to [Registering your application with Zendesk](https://support.zendesk.com/hc/en-us/articles/4408845965210-Using-OAuth-authentication-with-your-application#topic_s21_lfs_qk){:target=_blank .external-link} for more information.

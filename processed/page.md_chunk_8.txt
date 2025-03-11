@@ -1,3 +1,0 @@
-* **Page Upcoming Change**: Notifies you about upcoming changes that will occur on your Facebook Page. Facebook has suggested these changes and they may have a deadline to accept or reject before automatically taking effect.
-    * **Product Review**: Notifies you when a page's product review settings change.
-    * **Ratings**: Notifies you when a page's ratings change, including new ratings or when a user comments on or reacts to a rating.

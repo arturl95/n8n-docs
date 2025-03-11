@@ -1,5 +1,0 @@
-* **core**: allow external OAuth connection. This enhancement adds support for connecting OAuth apps without access to n8n.
-* All AWS nodes now support AWS temporary credentials.
-* [Google Sheets node](/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/): Added upsert support.
-* [Microsoft Teams node](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftteams/): adds several enhancements:
-    * An option to limit groups to "member of", rather than retrieving the whole directory.

@@ -1,5 +1,0 @@
-### Core Functionality
-- Implemented timeout for subworkflows
-- Removed the deregistration webhooks functionality from the webhook process
-
-### Bug fixes

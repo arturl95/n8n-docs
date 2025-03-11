@@ -1,5 +1,0 @@
-#### Text splitters
-
-Text splitters break down data (documents), making it easier for the LLM to process the information and return accurate results.
-
-Available nodes:

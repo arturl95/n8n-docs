@@ -1,9 +1,0 @@
-### New features
-
-* Core, editor: introduce workflow caller policy.
-* Core: block workflow update on interim change.
-* Editor: add a read-only state for nodes.
-* Editor: add execution previews using the new **Executions** tab in the node view.
-* Editor: improvements to node panel search.
-
-### Node enhancements

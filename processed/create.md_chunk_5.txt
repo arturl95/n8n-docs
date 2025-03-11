@@ -1,1 +1,0 @@
-3. Get started by adding a trigger node: select **Add first step...**

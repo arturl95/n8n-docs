@@ -1,3 +1,0 @@
-When pulling, you might get warned that your local copy of a workflow differs from Git, and if you accept, your local copy would be overridden. Be careful not to lose relevant changes when pulling.
-
-When you push, your local workflow will override what's in Git, so make sure that you have the most up to date version or you risk overriding recent changes.

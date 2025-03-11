@@ -1,8 +1,0 @@
-<figure markdown="span">
-![Sample Combine mode inputs and output. Two separate data sources are on the left. The final data source combines these data sources by all possible combinations.](/_images/integrations/builtin/core-nodes/merge/multiplex-diagram.png)
-<figcaption>Combine by All Possible Combinations mode inputs and output</figcaption>
-</figure>
-
-#### Combine mode options
-
-When merging data by **Mode > Combine**, you can set these **Options**:

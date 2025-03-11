@@ -1,9 +1,0 @@
-Refer to the [Asana Quick start guide](https://developers.asana.com/docs/quick-start#setup){:target=_blank .external-link} for more information.
-
-## Using OAuth2
-
-To configure this credential, you'll need an [Asana](https://asana.com/){:target=_blank .external-link} account.
-
---8<-- "_snippets/integrations/builtin/credentials/cloud-oauth-button.md"
-
-If you're [self-hosting](/hosting/) n8n, you'll need to register an application to set up OAuth:

@@ -1,9 +1,0 @@
-- Get multiple cities by zip code prefix (only for Spain)
-- Get a city from IP
-- City search by partial name (only for Spain)
-- Discover the city name by a local phone number (only for Spain)
-- Discover the city name by the zip code (only for Spain)
-- Discover the community name from a zip code (only for Spain)
-- Discover latitude and longitude coordinates of an IP address
-- Discover latitude and longitude coordinates of a postal address
-- Get multiple country names by currency ISO code

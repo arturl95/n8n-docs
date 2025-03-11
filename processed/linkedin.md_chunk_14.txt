@@ -1,4 +1,0 @@
-3. For the **LinkedIn Page**, enter a LinkedIn [Company Page](https://www.linkedin.com/help/linkedin/answer/a543852){:target=_blank .external-link} or use the **Create a new LinkedIn Page** link to create one on-the-fly. Refer to [Associate an App with a LinkedIn Page](https://www.linkedin.com/help/linkedin/answer/a548360){:target=_blank .external-link} for more information. 
-4. Add an **App logo**.
-5. Check the box to agree to the **Legal agreement**.
-6. Select **Create app**.

@@ -1,3 +1,0 @@
-### Respond With
-
-Choose what data to send in the webhook response.

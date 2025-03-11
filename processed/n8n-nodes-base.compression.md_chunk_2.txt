@@ -1,8 +1,0 @@
-### Compress
-
-- **Input Binary Field(s)**: Enter the name of the fields in the input data that contain the binary files you want to compress. To compress more than one file, use a comma-separated list.
-- **Output Format**: Choose whether to format the compressed output as **Zip** or **Gzip**.
-- **File Name**: Enter the name of the zip file the node creates.
-- **Put Output File in Field**: Enter the name of the field in the output data to contain the file.
-
-### Decompress

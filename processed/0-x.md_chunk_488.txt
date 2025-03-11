@@ -1,1 +1,0 @@
-* [Supabase:](/integrations/builtin/app-nodes/n8n-nodes-base.supabase/) Fixed an errorneous documentation link.

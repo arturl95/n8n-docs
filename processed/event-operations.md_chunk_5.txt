@@ -1,6 +1,0 @@
-- **All Day**: Whether the event is all day or not.
-- **Attendees**: Attendees to invite to the event.
-- **Color Name or ID**: The color of the event. Choose from the list or specify the ID using an expression.
-- **Conference Data**: Creates a conference link (Hangouts, Meet, etc.) and attaches it to the event.
-- **Description**: A description for the event.
-- **Guests Can Invite Others**: Whether attendees other than the organizer can invite others to the event.

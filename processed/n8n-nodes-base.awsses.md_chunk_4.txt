@@ -1,5 +1,0 @@
-* Create a template
-    * Delete a template
-    * Get a template
-    * Get all templates
-    * Update a template

@@ -1,3 +1,0 @@
-### How to submit a post
-
-n8n appreciates all contributions. Publishing a tutorial on your own site that supports the community is a great contribution. If you want n8n to highlight your post on the blog, follow these steps:

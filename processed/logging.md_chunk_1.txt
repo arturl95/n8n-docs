@@ -1,1 +1,0 @@
-To set up logging in n8n, you need to set the following environment variables (you can also set the values in the [configuration file](/hosting/configuration/environment-variables/))

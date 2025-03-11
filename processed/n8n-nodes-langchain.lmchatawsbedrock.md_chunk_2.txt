@@ -1,3 +1,0 @@
-Learn more about available models in the [Amazon Bedrock model documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html){:target=_blank .external-link}.
-
-## Node options

@@ -1,3 +1,0 @@
-### What is the Sustainable Use License?
-
-The Sustainable Use License is a fair-code software license created by n8n in 2022. You can read more about why we did this [here](#why-did-you-create-a-license). The license allows you the free right to use, modify, create derivative works, and redistribute, with three limitations:

@@ -1,6 +1,0 @@
-* Editor: fix save modal appearing after duplicating a workflow.
-* Editor: prevent workflow execution list infinite no network error.
-* Extension being too eager and making calls when it shouldn't.
-* Google Drive Node: use the correct MIME type on converted downloads.
-* HelpScout Node: fix tag search not working when getting all conversations.
-* Notion (Beta) Node: fix create database page with multiple relation IDs not working.

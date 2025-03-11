@@ -1,2 +1,0 @@
-* [Webflow Trigger node](/integrations/builtin/trigger-nodes/n8n-nodes-base.webflowtrigger/): Reduce the chance of webhook duplication. Add a credentials test.
-* [WordPress node](/integrations/builtin/app-nodes/n8n-nodes-base.wordpress/): Add a post template option.

@@ -1,5 +1,0 @@
-1. In a separate tab or window, open the [Graph API explorer](https://developers.facebook.com/tools/explorer/){:target=_blank .external-link}.
-2. Select the **Meta App** you just created in the **Access Token** section.
-3. In **User or Page**, select **Get App Token**.
-4. Select **Generate Access Token**.
-5. The page prompts you to log in and grant access. Follow the on-screen prompts.

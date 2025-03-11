@@ -1,3 +1,0 @@
-## Error data
-
---8<-- "_snippets/integrations/builtin/core-nodes/error-trigger/error-data.md"

@@ -1,1 +1,0 @@
-Refer to the [crowd.dev API documentation](https://api.crowd.dev/api-reference){:target=_blank .external-link} for more detailed instructions.

@@ -1,5 +1,0 @@
-### Options
-
-- **Max Attendees**: The maximum number of attendees to include in the response. If there are more than the specified number of attendees, only returns the participant.
-- **Return Next Instance of Recurrent Event**: Whether to return the next instance of a recurring event instead of the event itself.
-- **Timezone**: The timezone used in the response. By default, uses the n8n timezone.

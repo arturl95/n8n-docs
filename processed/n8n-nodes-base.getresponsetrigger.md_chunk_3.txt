@@ -1,7 +1,0 @@
-## Events
-
-- Receive notifications when a customer is subscribed to a list
-- Receive notifications when a customer is unsubscribed from a list
-- Receive notifications when an email is opened
-- Receive notifications when an email is clicked
-- Receive notifications when a survey is submitted

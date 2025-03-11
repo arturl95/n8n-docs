@@ -1,3 +1,0 @@
-## Environment variables
-
-n8n has many [environment variables](/reference/environment-variables/) you can configure. Here are the most relevant environment variables for your hosted solution:

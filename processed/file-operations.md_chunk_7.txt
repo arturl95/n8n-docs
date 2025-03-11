@@ -1,7 +1,0 @@
-### Options
-
-- **Purpose**: Enter the intended purpose of the uploaded file. Use **Assistants** for files associated with Assistants and Message operations. Use **Fine-Tune** for [Fine-tuning](https://platform.openai.com/docs/api-reference/fine-tuning){:target=_blank .external-link}.
-
-Refer to [Upload file | OpenAI](https://platform.openai.com/docs/api-reference/files/create){:target=_blank .external-link} documentation for more information.
-
-## Common issues

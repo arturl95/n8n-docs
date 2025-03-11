@@ -1,5 +1,0 @@
-- Discover reputation by IPv4 or IPv6 address
-- Returns driving routing time, distance, fuel consumption, and cost between two addresses
-- Returns driving routing time, distance, fuel consumption, and cost between two GPS coordinates
-- Returns driving routing time, distance, fuel consumption, and cost between two  IP addresses
-- Returns driving routing time, distance, fuel consumption, and cost between two landline phones, using city and province of every phone (only for Spain)

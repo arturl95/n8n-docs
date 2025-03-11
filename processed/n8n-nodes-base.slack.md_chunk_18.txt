@@ -1,4 +1,0 @@
-| Message | Send and Wait for Approval | [chat.postMessage](https://api.slack.com/methods/chat.postMessage){:target=blank .external-link} |
-| Message | Update | [chat.update](https://api.slack.com/methods/chat.update){:target=blank .external-link} |
-| Reaction | Add | [reactions.add](https://api.slack.com/methods/reactions.add){:target=blank .external-link} |
-| Reaction | Get | [reactions.get](https://api.slack.com/methods/reactions.get){:target=blank .external-link} |

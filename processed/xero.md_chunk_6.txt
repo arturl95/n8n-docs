@@ -1,1 +1,0 @@
-Refer to Xero's [OAuth Custom Connections](https://developer.xero.com/documentation/guides/oauth2/custom-connections){:target=_blank .external-link} documentation for more information.

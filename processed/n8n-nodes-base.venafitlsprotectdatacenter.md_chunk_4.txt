@@ -1,3 +1,0 @@
-<!-- vale on -->
-
---8<-- "_snippets/integrations/builtin/app-nodes/operation-not-supported.md"

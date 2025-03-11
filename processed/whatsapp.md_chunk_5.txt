@@ -1,7 +1,0 @@
-## Related resources
-
-Refer to [WhatsApp's API documentation](https://developers.facebook.com/docs/whatsapp/#platform-apis){:target=_blank .external-link} for more information about the service.
-
-Meta classifies users who create WhatsApp business apps as Tech Providers; refer to Meta's [Get Started for Tech Providers](https://developers.facebook.com/docs/whatsapp/solution-providers/get-started-for-tech-providers){:target=_blank .external-link} for more information.
-
-## Using API key

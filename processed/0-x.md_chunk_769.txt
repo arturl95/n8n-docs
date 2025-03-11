@@ -1,2 +1,0 @@
-- YouTube: Fixed a typo for the Unlisted option
-- Added horizontal scrolling

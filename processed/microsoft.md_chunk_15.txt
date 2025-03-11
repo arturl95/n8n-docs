@@ -1,6 +1,0 @@
-1. On your Microsoft application page, select **Certificates & secrets** in the left navigation.
-1. In **Client secrets**, select **+ New client secret**.
-1. Enter a **Description** for your client secret, such as `n8n credential`.
-1. Select **Add**.
-1. Copy the **Secret** in the **Value** column.
-1. Paste it into n8n as the **Client Secret**.

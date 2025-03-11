@@ -1,3 +1,0 @@
-### Attachments
-
-Enter the name of the binary properties that contain data to add as an attachment. Some tips on using this option:

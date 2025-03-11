@@ -1,3 +1,0 @@
-An [example of the connection flow](https://n8n.io/workflows/1960-ask-questions-about-a-pdf-using-ai/) (the linked example uses Pinecone, but the pattern is the same) would be: Question and Answer Chain (Retriever connector) -> Vector Store Retriever (Vector Store connector) -> In-Memory Vector Store.
-
-### Use the Vector Store Question Answer Tool to answer questions

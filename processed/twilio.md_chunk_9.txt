@@ -1,1 +1,0 @@
-Refer to [Types of API keys](https://www.twilio.com/docs/iam/api-keys#types-of-api-keys){:target=_blank .external-link} for more information on the key types.

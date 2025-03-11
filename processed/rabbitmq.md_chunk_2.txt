@@ -1,3 +1,0 @@
-## Using user connection
-
-To configure this credential, you'll need to have a [RabbitMQ broker](https://www.rabbitmq.com/){:target=_blank .external-link} installed and:

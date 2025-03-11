@@ -1,7 +1,0 @@
-## Node parameters
-
-* **Session Key**: Enter the key to use to store the memory in the workflow data.
-* **Session Time To Live**: Use this parameter to make the session expire after a given number of seconds.
-* **Context Window Length**: Enter the number of previous interactions to consider for context.
-
-## Templates and examples

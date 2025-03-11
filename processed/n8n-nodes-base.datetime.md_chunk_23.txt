@@ -1,3 +1,0 @@
-### Supported date formats
-
-n8n supports all date formats [supported by Luxon](https://moment.github.io/luxon/#/formatting?id=table-of-tokens){:target=_blank .external-link}. Tokens are case-sensitive.

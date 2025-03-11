@@ -1,1 +1,0 @@
-Your credential should successfully connect now, but you'll need to go through the steps to take your Meta app live before you can use it with the [Facebook Lead Ads trigger](/integrations/builtin/trigger-nodes/n8n-nodes-base.facebookleadadstrigger/). Here's a summary of what you'll need to do:

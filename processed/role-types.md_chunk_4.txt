@@ -1,6 +1,0 @@
-| Permission | Admin | Editor | Viewer | 
-| ---------- |------ | ------ | ------ | 
-| View workflows in the project | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| View credentials in the project | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| View executions | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-| Edit credentials and workflows | :white_check_mark: | :white_check_mark: | :x: |

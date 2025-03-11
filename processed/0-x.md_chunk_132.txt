@@ -1,2 +1,0 @@
-* Editor: add autocomplete for objects.
-* Editor: add autocomplete for expressions to the HTML editor component.

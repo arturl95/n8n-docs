@@ -1,7 +1,0 @@
-### Move Base64 String to File
-
-Enter the name of the **Base64 Input Field** that contains the Base64 string to convert to a file. Use dot-notation for deep fields, for example `level1.level2.currentKey`.
-
-#### Move Base64 String to File options
-
-You can also configure this operation with these **Options**:

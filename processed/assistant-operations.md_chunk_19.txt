@@ -1,2 +1,0 @@
-- **Timeout**: Set the maximum amount of time in milliseconds, that the assistant should wait for a response before timing out. Use this option to prevent long waits during operations.
-- **Preserve Original Tools**: Turn off to remove the original tools associated with the assistant. Use this if you want to temporarily remove tools for this specific operation.

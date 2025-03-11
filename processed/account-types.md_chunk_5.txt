@@ -1,2 +1,0 @@
-| Add and remove users | :white_check_mark: | :white_check_mark: | :x: |
-| Access the Cloud dashboard | :white_check_mark: | :x: | :x: |

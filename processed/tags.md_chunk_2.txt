@@ -1,7 +1,0 @@
-1. On the **Workflows** page, select **Filters**.
-2. Select **Tags**.
-3. Select the tag or tags you want to filter by. n8n lists the workflows with that tag.
-
-## Manage tags
-
-You can edit existing tags. Instance owners can delete tags.

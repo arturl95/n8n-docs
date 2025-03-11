@@ -1,9 +1,0 @@
-#### Citrix ADC
-
-Citrix ADC is an application delivery and load balancing solution for monolithic and microservices-based applications. You can find the documentation [here](/integrations/builtin/app-nodes/n8n-nodes-base.citrixadc/).
-
-</div>
-
-<div class="n8n-new-features" markdown>
-
-#### Cloudflare

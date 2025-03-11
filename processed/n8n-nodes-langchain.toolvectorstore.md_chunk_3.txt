@@ -1,9 +1,0 @@
-n8n uses the **Data Name** and **Description of Data** parameters to populate the tool description for AI agents using the following format:
-
-> Useful for when you need to answer questions about [Data Name]. Whenever you need information about [Description of Data], you should ALWAYS use this. Input should be a fully formed question.
-
-### Limit
-
-The maximum number of results to return.
-
-## Related resources

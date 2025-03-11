@@ -1,3 +1,0 @@
-* [Google Calendar:](/integrations/builtin/app-nodes/n8n-nodes-base.googlecalendar/) Added the Continue on Fail functionality
-* [Google Drive:](/integrations/builtin/app-nodes/n8n-nodes-base.googledrive/) Added the functionality to add file name when downloading files
-* [Gmail:](/integrations/builtin/app-nodes/n8n-nodes-base.gmail/) Added functionality to handle multiple binary properties

@@ -1,9 +1,0 @@
-Find the details in the [API reference](/api/api-reference/).
-
-### Contributors
-
-[CodeShakingSheep](https://github.com/CodeShakingSheep){:target=_blank .external-link}  
-[Javier Ferrer González](https://github.com/JavierCane){:target=_blank .external-link}  
-[Mickaël Andrieu](https://github.com/mickaelandrieu){:target=_blank .external-link}  
-[Oz Weiss](https://github.com/thewizarodofoz){:target=_blank .external-link}  
-[Pemontto](https://github.com/pemontto){:target=_blank .external-link}

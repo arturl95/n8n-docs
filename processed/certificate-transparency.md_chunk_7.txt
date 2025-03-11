@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to [Webhooks for Certificate Transparency](https://developers.facebook.com/docs/graph-api/webhooks/getting-started/webhooks-for-certificate-transparency){:target=_blank .external-link} and Meta's [Certificate Transparency](https://developers.facebook.com/docs/graph-api/webhooks/reference/certificate-transparency/){:target=_blank .external-link} Graph API reference for more information.

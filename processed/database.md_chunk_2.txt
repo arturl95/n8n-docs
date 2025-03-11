@@ -1,6 +1,0 @@
-| Variable | Type  | Default  | Description |
-| :------- | :---- | :------- | :---------- |
-| `DB_TYPE`<br>/`_FILE` | Enum string:<br> `sqlite`, `postgresdb` | `sqlite` | The database to use. |
-| `DB_TABLE_PREFIX` | * | - | Prefix to use for table names. |
-
-## PostgreSQL

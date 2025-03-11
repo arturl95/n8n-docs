@@ -1,3 +1,0 @@
-* [HTTP Request:](/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/) Fixed a bug causing custom headers from being ignored.
-* [Mautic:](/integrations/builtin/app-nodes/n8n-nodes-base.mautic/) Fixed a bug preventing all items from being returned in some situations.
-* [Microsoft OneDrive:](/integrations/builtin/app-nodes/n8n-nodes-base.microsoftonedrive/) Fixed a bug preventing more than 200 items from being returned.

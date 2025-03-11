@@ -1,7 +1,0 @@
-/// note | Weeks without large solar flares
-In this tutorial, you are working with live date. If you find there aren't any X class solar flares when you run the workflow, try replacing **X** in **Value 2** with either **A**, **B**, **C**, or **M**. 
-///
-
-5. Once you are happy the node will return some events, you can close the node to return to the canvas.
-
-## Step six: Output data from your workflow

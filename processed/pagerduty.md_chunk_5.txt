@@ -1,4 +1,0 @@
-- Within the **OAuth 2.0** section, select **Add**.
-- Copy the **OAuth Callback URL** from n8n and paste it into the **Redirect URL** field.
-- Copy the **Client ID** and **Client Secret** from PagerDuty and add these to your n8n credentials.
-- Select **Read/Write** from the **Set Permission Scopes** dropdown list.

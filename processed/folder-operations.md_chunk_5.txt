@@ -1,7 +1,0 @@
-Refer to the [Method: files.insert | Google Drive](https://developers.google.com/drive/api/reference/rest/v2/files/insert){:target=_blank .external-link} API documentation for more information.
-
-## Delete a folder
-
-Use this operation to delete a folder from a drive.
-
-Enter these parameters:

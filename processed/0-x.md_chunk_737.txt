@@ -1,5 +1,0 @@
-- Webhook: Added support for request parameters in webhook paths
-- Bug fixes
-- Google Drive: Fixed the default value for the Send Notification Email option
-- Added support for expressions to credentials
-- Removed support for MongoDB as a database for n8n. For more details, check out the entry in the [breaking changes](https://github.com/n8n-io/n8n/blob/master/packages/cli/BREAKING-CHANGES.md#01040) page

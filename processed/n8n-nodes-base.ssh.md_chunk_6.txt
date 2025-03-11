@@ -1,3 +1,0 @@
-- **Credential to connect with**: Select an existing or create a new [SSH credential](/integrations/builtin/credentials/ssh/) to connect with.
-- **Input Binary Field**: Enter the name of the input binary field that contains the file you want to upload.
-- **Target Directory**: The directory to upload the file to. The name of the file is taken from the binary data file name. To enter a different name, use the **File Name** option. Refer to [Node options](#node-options) for more information.

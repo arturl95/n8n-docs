@@ -1,9 +1,0 @@
-* Get organization by slug
-    * Get all organizations
-    * Update an organization
-* Team
-    * Create a new team
-    * Delete a team
-    * Get team by slug
-    * Get all teams
-    * Update a team

@@ -1,5 +1,0 @@
-On this page, you'll find the node parameters for the Summarization Chain node, and links to more resources.
-
-## Node parameters
-
-Choose the type of data you need to summarize in **Data to Summarize**. The data type you choose determines the other node parameters.

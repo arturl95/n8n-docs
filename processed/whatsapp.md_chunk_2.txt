@@ -1,2 +1,0 @@
-- Create a [Meta developer](https://developers.facebook.com/docs/development/register){:target=_blank .external-link} account.
-- Create a Meta [business app](https://developers.facebook.com/docs/development/create-an-app/){:target=_blank .external-link}.

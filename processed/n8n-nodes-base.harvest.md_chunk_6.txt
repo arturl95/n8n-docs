@@ -1,7 +1,0 @@
-* User
-    * Create a user
-    * Delete a user
-    * Get data of a user
-    * Get data of all users
-    * Get data of authenticated user
-    * Update a user

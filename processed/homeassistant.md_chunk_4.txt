@@ -1,4 +1,0 @@
-5. For the **Port**, enter the appropriate port:
-	- If you've made no port changes and access Home Assistant at `http://`, keep the default of `8123`.
-	- If you've made no port changes and access Home Assistant at `https://`, enter `443`.
-	- If you've configured Home Assistant to use a specific port, enter that port.

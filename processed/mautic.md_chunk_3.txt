@@ -1,9 +1,0 @@
-To set it up:
-
-1. In Mautic, go to **Configuration > API Settings**.
-2. If **Enable HTTP basic auth?** is set to **No**, change it to **Yes** and save. Refer to the [API Settings documentation](https://docs.mautic.org/en/5.x/configuration/settings.html#api-settings){:target=_blank .external-link} for more information.
-1. In n8n, enter the Base **URL** of your Mautic instance.
-2. Enter your Mautic **Username**.
-3. Enter your Mautic **Password**.
-
-## Using OAuth2

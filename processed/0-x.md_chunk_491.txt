@@ -1,4 +1,0 @@
-* [Edit Image:](/integrations/builtin/core-nodes/n8n-nodes-base.editimage/) Added Transparent operation.
-* [Kafka:](/integrations/builtin/app-nodes/n8n-nodes-base.kafka/) Added Use Schema Registry option.
-* [Kafka Trigger:](/integrations/builtin/trigger-nodes/n8n-nodes-base.kafkatrigger/) Added Use Schema Registry option.
-* [Redis:](/integrations/builtin/app-nodes/n8n-nodes-base.redis/) Added database field to credentials.

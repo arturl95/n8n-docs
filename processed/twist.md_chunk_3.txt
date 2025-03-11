@@ -1,3 +1,0 @@
-To generate your Client ID and Client Secret, [create a general integration](https://twist.com/app_console/create_app){:target=_blank .external-link}.
-
-Use these settings for your integration's **OAuth Authentication**:

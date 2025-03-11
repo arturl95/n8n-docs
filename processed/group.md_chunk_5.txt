@@ -1,3 +1,0 @@
-## Related resources
-
-Refer to Meta's [Groups](https://developers.facebook.com/docs/workplace/reference/webhooks/#groups){:target=_blank .external-link} Workplace API reference for more information.

@@ -1,6 +1,0 @@
-| `$if()` | The `$if()` function takes three parameters: a condition, the value to return if true, and the value to return if false. | :x: | 
-	| `$max()` | Returns the highest of the provided numbers. | :x: |
-	| `$min()` | Returns the lowest of the provided numbers. | :x: |
-=== "Python"
-	| Method | Description |
-	| ------ | ----------- |

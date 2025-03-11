@@ -1,9 +1,0 @@
-## Parameters
-
-Once you've set the events to trigger on, use the remaining parameters to further define the node's behavior:
-
-* **Watch Whole Workspace**: Whether the node should watch for the selected **Events** in all channels in the workspace (turned on) or not (turned off, default).
-
-    ///warning | Caution
-    This will use one execution for every event in any channel your bot or app is in. Use with caution!
-    ///

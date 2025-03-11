@@ -1,5 +1,0 @@
-/// note | Credentials
-Refer to [One Simple API credentials](/integrations/builtin/credentials/onesimpleapi/) for guidance on setting up authentication. 
-///
-
-## Operations

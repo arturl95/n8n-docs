@@ -1,4 +1,0 @@
-1. Select **Instagram** as the **Object**.
-1. **Field Names or IDs**: By default, the node will trigger on all the available events using the `*` wildcard filter. If you'd like to limit the events, use the `X` to remove the star and use the dropdown or an expression to select the updates you're interested in. Options include:
-    * **Comments**: Notifies you when anyone comments on an IG Media owned by your app's Instagram user.
-    * **Messaging Handover**

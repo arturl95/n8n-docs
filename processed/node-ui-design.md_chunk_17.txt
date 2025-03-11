@@ -1,2 +1,0 @@
-* Node hints: provide help in the input panel, output panel, or node details view. Refer to [UI elements | Hints](/integrations/creating-nodes/build/reference/ui-elements/#hints) for more information.
-* Tooltips: callouts that appear when the user hovers over the tooltip icon !["Screenshot of the tooltip icon. The icon is a ? in a grey circle"](/_images/common-icons/help-tooltip.png). Use tooltips for extra information that the user might need.

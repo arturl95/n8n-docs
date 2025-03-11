@@ -1,1 +1,0 @@
-* [Postgres:](/integrations/builtin/app-nodes/n8n-nodes-base.postgres/) Added support for type casting

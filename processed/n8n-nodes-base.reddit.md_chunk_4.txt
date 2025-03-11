@@ -1,3 +1,0 @@
-* Retrieve information about subreddits from all of Reddit.
-* User
-    * Get

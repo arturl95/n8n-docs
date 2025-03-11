@@ -1,5 +1,0 @@
-- A **Client ID**
-- A list of relevant **Brokers**
-- Username/password authentication details if your Kafka environment uses authentication
-
-To set it up:

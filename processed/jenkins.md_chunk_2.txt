@@ -1,9 +1,0 @@
-- API token
-
-## Related resources
-
-Jenkins doesn't provide public API documentation; API documentation for each page is available from the user interface in the bottom right. Refer to those detailed pages for more information about the service. Refer to [Jenkins Remote Access API](https://www.jenkins.io/doc/book/using/remote-access-api/){:target=_blank .external-link} for information on the API and API wrappers.
-
-## Using API token
-
-To configure this credential, you'll need:

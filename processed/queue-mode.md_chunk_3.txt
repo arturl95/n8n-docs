@@ -1,5 +1,0 @@
-1. The main n8n instance handles timers and webhook calls, generating (but not running) a workflow execution. 
-1. It passes the execution ID to a message broker, [Redis](#start-redis), which maintains the queue of pending executions and allows the next available worker to pick them up.
-1. A worker in the pool picks up message from Redis.
-1. The worker uses the execution ID to get workflow information from the database.
-1. After completing the workflow execution, the worker:

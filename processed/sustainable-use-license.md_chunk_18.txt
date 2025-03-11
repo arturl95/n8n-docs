@@ -1,1 +1,0 @@
-### My company has a policy against using code that restricts commercial use – can I still use n8n?

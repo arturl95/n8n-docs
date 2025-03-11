@@ -1,6 +1,0 @@
-You can programmatically [Manage variables](/source-control-environments/using/manage-variables/) using the n8n API.
-
-/// note | Coming soon: credential support with secret managers
-n8n is working on support for external secret managers to handle credentials. Once this feature is complete, n8n will support linking the secret manager to multiple instances.
-///
-## Merge behaviors and conflicts

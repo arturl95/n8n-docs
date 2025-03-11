@@ -1,3 +1,0 @@
-## Step two: Invite users
-
---8<-- "_snippets/user-management/invite-users.md"

@@ -1,4 +1,0 @@
-| Environment variables                                  | Description                                                |
-|--------------------------------------------------------|------------------------------------------------------------|
-| `N8N_RUNNERS_ENABLED=true`                             | Enables task runners.                                      |
-| `N8N_RUNNERS_MODE=external`                            | Use task runners in external mode.                         |

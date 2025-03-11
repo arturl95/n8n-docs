@@ -1,6 +1,0 @@
-1. Visit the page in your Notion workspace.
-2. Select the triple dot menu at the top right of a page.
-3. In **Connections**, select **Connect to**.
-4. Use the search bar to find and select your integration from the dropdown list.
-
-Once you share at least one page with the integration, you can start making API requests. If the page isn't shared, any API requests made will respond with an error.

@@ -1,3 +1,0 @@
-## Merge data from multiple node executions
-
-Use the Code node to merge data from multiple node executions. This is useful in some [Looping](/flow-logic/looping/) scenarios.

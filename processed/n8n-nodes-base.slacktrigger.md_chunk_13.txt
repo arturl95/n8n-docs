@@ -1,7 +1,0 @@
-## Common issues
-
-Here are some common errors and issues with the Slack Trigger node and steps to resolve or troubleshoot them.
-
-### Workflow only works in testing or production
-
-Slack only allows you to register a single webhook per app. This means that you can't switch from using the testing URL to the production URL (and vice versa) without reconfiguring the registered webhook URL.

@@ -1,3 +1,0 @@
-Use this operation to get a single thread.
-
-Enter these parameters:

@@ -1,7 +1,0 @@
-To configure this credential, you'll need:
-
-- A **Workspace Key**: Generated when you install the **n8n** application to your Twake Cloud environment and select **Configure**. Refer to [How to connect n8n to Twake](https://help.twake.app/en/latest/applications/connectors/index.html#how-to-connect-n8n-to-twake){:target=_blank .external-link} for more detailed instructions.
-
-## Using Server API key
-
-To configure this credential, you'll need:
